@@ -2,9 +2,9 @@
   "name": "betting-script",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/babetmihai/betting-script#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "nightmare": "^3.0.2"
   }
 }
