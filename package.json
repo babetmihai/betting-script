@@ -18,6 +18,8 @@
   "homepage": "https://github.com/babetmihai/betting-script#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-node": "^10.0.0",
     "nightmare": "^3.0.2"
   }
 }
