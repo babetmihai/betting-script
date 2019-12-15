@@ -48,6 +48,7 @@
   "globals": {
     "fetch": true,
     "describe": true,
-    "it": true
+    "it": true,
+    "document": true
   }
 }
