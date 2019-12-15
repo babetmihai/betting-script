@@ -1,14 +1,33 @@
 const Nightmare = require('nightmare')
-const cheerio = require('cheerio')
 const nightmare = Nightmare({ show: true })
 
 module.exports = async () => {
-  const html = await nightmare
+  const lists = await nightmare
     .goto('https://www.bet365.com/#/AC/B1/C1/D13/E108/F16')
-    .wait('.cm-CouponModule')
-    .evaluate(() => document.querySelector('body').innerHTML)
+    .wait('.sl-CouponParticipantWithBookCloses_Name')
+    .evaluate(() => {
+      return  [...document.querySelectorAll('.cm-CouponMarketGroup')]
+        .map((element) => {
+          const labels = [...element.querySelectorAll('.sl-CouponParticipantWithBookCloses_Name')]
+          const odds = [...element.querySelectorAll('.gll-ParticipantOddsOnly_Odds')]
+          return {
+            labels: labels.map((label) => label.innerText),
+            odds: odds.map((odd) => odd.innerText)
+          }
+        })
+    })
     .end()
 
-  const $ = cheerio.load(html)
-  console.log(html)
+  return lists
+    .map((list) => {
+      const { labels, odds } = list
+      const count = odds.length / labels.length
+      return labels.map((label, index) => ({
+        label,
+        odds: [...Array(count)].map((_, column) => {
+          return odds[column * labels.length + index]
+        })
+      }))
+    })
+    .flat()
 }
