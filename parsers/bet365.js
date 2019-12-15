@@ -1,5 +1,5 @@
 const Nightmare = require('nightmare')
-const nightmare = Nightmare({ show: true })
+const nightmare = Nightmare({ show: false })
 
 module.exports = async () => {
   const lists = await nightmare
@@ -9,24 +9,20 @@ module.exports = async () => {
       return  [...document.querySelectorAll('.cm-CouponMarketGroup')]
         .map((element) => {
           const labels = [...element.querySelectorAll('.sl-CouponParticipantWithBookCloses_Name')]
+            .map((label) => label.innerText)
           const odds = [...element.querySelectorAll('.gll-ParticipantOddsOnly_Odds')]
-          return {
-            labels: labels.map((label) => label.innerText),
-            odds: odds.map((odd) => odd.innerText)
-          }
+            .map((odd) => odd.innerText)
+          return { labels, odds }
         })
     })
     .end()
 
   return lists
-    .map((list) => {
-      const { labels, odds } = list
-      const count = odds.length / labels.length
+    .map(({ labels, odds }) => {
       return labels.map((label, index) => ({
         label,
-        odds: [...Array(count)].map((_, column) => {
-          return odds[column * labels.length + index]
-        })
+        odds: [...Array(odds.length / labels.length)]
+          .map((_, column) =>  odds[column * labels.length + index])
       }))
     })
     .flat()
