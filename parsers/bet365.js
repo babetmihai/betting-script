@@ -1,11 +1,11 @@
 const Nightmare = require('nightmare')
 const nightmare = Nightmare({
   show: true,
-  // switches: {
-  //   'proxy-server': 'http://82.77.55.46:8080',
-  //   'ignore-certificate-errors': true
-  // },
-  waitTimeout: 5000
+  switches: {
+    'proxy-server': 'http://82.77.55.46:8080',
+    'ignore-certificate-errors': true
+  },
+  waitTimeout: 25000
 })
 
 module.exports = async () => {
@@ -36,8 +36,7 @@ module.exports = async () => {
     for (const text of items) {
       console.log(text)
       try {
-        const item = await nightmare.goto('https://www.bet365.com/#/AS/B1/')
-          .wait('.sm-SplashMarket')
+        const item = await nightmare
           .wait(1000)
           .evaluate((text) => {
             const buttons = document.querySelector(`
@@ -81,6 +80,7 @@ module.exports = async () => {
           })
 
         values.push(item)
+        nightmare.back()
       } catch (error) {
       // nothing
       }
