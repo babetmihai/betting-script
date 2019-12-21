@@ -21,7 +21,7 @@
     "camelcase": "warn",
     "brace-style": "warn",
     "no-unused-vars": ["warn", { "ignoreRestSiblings": true }],
-    "max-len": ["warn", 120, 2, { "ignoreComments": true }],
+    "max-len": ["warn", 160, 2, { "ignoreComments": true }],
     "space-infix-ops": "warn",
     "no-trailing-spaces": "warn",
     "linebreak-style": ["warn", "unix"],
