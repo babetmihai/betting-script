@@ -35,9 +35,9 @@ module.exports = async () => {
         const groups = []
         for (const element of [...groupContainer.childNodes]) {
           try {
-            const name = element.querySelector('.sm-SplashMarket_Header').innerText.trim()
+            const group = element.querySelector('.sm-SplashMarket_Header').innerText.trim()
             const open = !!element.querySelector('.sm-SplashMarketContainer_Expanded')
-            groups.push({ open, name })
+            groups.push({ open, group })
           } catch (error) {
             // nothing
           }
@@ -46,38 +46,38 @@ module.exports = async () => {
         return groups
       }, { contentQuery })
 
-    for (const { open, name } of groups) {
+    for (const { open, group } of groups) {
       if (!open) {
-        nightmare.evaluate(({ contentQuery, name }) => {
+        nightmare.evaluate(({ contentQuery, group }) => {
           const groupContainer = document.querySelector(contentQuery)
           const button = [...groupContainer.children]
-            .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(name))
+            .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(group))
           button.click()
-        }, { contentQuery, name })
+        }, { contentQuery, group })
       }
 
       await nightmare.wait(1500)
-      const categories = await nightmare.evaluate(({ contentQuery, name }) => {
+      const categories = await nightmare.evaluate(({ contentQuery, group }) => {
         const groupContainer = document.querySelector(contentQuery)
         const listContainer = [...groupContainer.children]
-          .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(name))
+          .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(group))
           .querySelector('.sm-SplashMarketContainer_Expanded')
 
         return [...listContainer.children].map((element) => element.innerText.trim())
-      }, { contentQuery, name })
+      }, { contentQuery, group })
       await nightmare.wait(1500)
 
       for (const category of categories) {
-        await nightmare.evaluate(({ contentQuery, name, category }) => {
+        await nightmare.evaluate(({ contentQuery, group, category }) => {
           const groupContainer = document.querySelector(contentQuery)
           const listContainer = [...groupContainer.children]
-            .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(name))
+            .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(group))
             .querySelector('.sm-SplashMarketContainer_Expanded')
           const button = [...listContainer.children]
             .find((element) => element.innerText.includes(category))
 
           button.click()
-        }, { contentQuery, name, category })
+        }, { contentQuery, group, category })
 
         await nightmare.wait('.gl-MarketGrid.gl-MarketGrid-paddingforlhs')
         await nightmare.wait(1500)
