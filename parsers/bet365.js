@@ -82,6 +82,23 @@ module.exports = async () => {
         await nightmare.wait('.gl-MarketGrid.gl-MarketGrid-paddingforlhs')
         await nightmare.wait(1500)
 
+        const odds = await nightmare.evaluate(() => {
+          return document.querySelector(`
+            body 
+              > div:nth-child(1) 
+              > div 
+              > div.wc-PageView 
+              > div.wc-PageView_Main 
+              > div 
+              > div.wcl-CommonElementStyle_PrematchCenter 
+              > div.cm-CouponModule 
+              > div 
+              > div.gll-MarketGroup.cm-CouponMarketGroup.cm-CouponMarketGroup_DropdownIsAvailable.cm-CouponMarketGroup_Open 
+              > div.gll-MarketGroup_Wrapper
+            `).innerHTML
+        })
+        values.push(odds)
+
         await nightmare.back()
         await nightmare.wait(1000)
       }
