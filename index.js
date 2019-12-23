@@ -1,3 +1,4 @@
-const parseBet365 = require('./parsers/bet365')
+const bet365Parser = require('./parsers/bet365')
 
-parseBet365().then(console.log)
+bet365Parser.init()
+  .then(() => bet365Parser.fetchOdds())

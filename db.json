@@ -1,0 +1,3952 @@
+{
+  "categories": {
+    "4c1d3498b7d13c0cdb6b579aded22f455724f9b7": {
+      "id": "4c1d3498b7d13c0cdb6b579aded22f455724f9b7",
+      "category": "Europa - Elite",
+      "group": "Liste principale",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E108/F16/",
+      "labels": [
+        {
+          "label": "Tottenham v Brighton",
+          "odds": [
+            "1.50",
+            "4.20",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Aston Villa v Norwich",
+          "odds": [
+            "2.05",
+            "3.60",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Bournemouth v Arsenal",
+          "odds": [
+            "3.40",
+            "4.00",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Chelsea v Southampton",
+          "odds": [
+            "1.30",
+            "5.50",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Crystal Palace v West Ham",
+          "odds": [
+            "2.20",
+            "3.40",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Everton v Burnley",
+          "odds": [
+            "1.65",
+            "3.80",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Sheff Utd v Watford",
+          "odds": [
+            "1.85",
+            "3.40",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Man Utd v Newcastle",
+          "odds": [
+            "1.33",
+            "5.25",
+            "8.00"
+          ]
+        },
+        {
+          "label": "Leicester v Liverpool",
+          "odds": [
+            "3.40",
+            "3.75",
+            "2.00"
+          ]
+        },
+        {
+          "label": "Wolverhampton v Man City",
+          "odds": [
+            "8.00",
+            "5.00",
+            "1.33"
+          ]
+        },
+        {
+          "label": "Brighton v Bournemouth",
+          "odds": [
+            "1.85",
+            "3.60",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Newcastle v Everton",
+          "odds": [
+            "3.25",
+            "3.30",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Southampton v Crystal Palace",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Watford v Aston Villa",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Norwich v Tottenham",
+          "odds": [
+            "5.75",
+            "4.20",
+            "1.53"
+          ]
+        },
+        {
+          "label": "West Ham v Leicester",
+          "odds": [
+            "4.50",
+            "4.00",
+            "1.70"
+          ]
+        },
+        {
+          "label": "Burnley v Man Utd",
+          "odds": [
+            "4.00",
+            "3.50",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Arsenal v Chelsea",
+          "odds": [
+            "2.80",
+            "3.75",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Liverpool v Wolverhampton",
+          "odds": [
+            "1.30",
+            "5.25",
+            "9.50"
+          ]
+        },
+        {
+          "label": "Man City v Sheff Utd",
+          "odds": [
+            "1.16",
+            "7.50",
+            "13.00"
+          ]
+        },
+        {
+          "label": "Real Madrid v Athletic Bilbao",
+          "odds": [
+            "1.33",
+            "5.25",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Valladolid v Leganes",
+          "odds": [
+            "2.40",
+            "3.00",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Sevilla v Athletic Bilbao",
+          "odds": [
+            "1.72",
+            "3.60",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Valencia v Eibar",
+          "odds": [
+            "1.66",
+            "3.75",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Getafe v Real Madrid",
+          "odds": [
+            "4.20",
+            "3.75",
+            "1.80"
+          ]
+        },
+        {
+          "label": "Atletico Madrid v Levante",
+          "odds": [
+            "1.33",
+            "5.00",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Espanyol v Barcelona",
+          "odds": [
+            "7.00",
+            "5.25",
+            "1.36"
+          ]
+        },
+        {
+          "label": "Granada v Mallorca",
+          "odds": [
+            "1.85",
+            "3.40",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Real Sociedad v Villarreal",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "CD Alaves v Real Betis",
+          "odds": [
+            "2.60",
+            "3.20",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Celta Vigo v Osasuna",
+          "odds": [
+            "1.95",
+            "3.30",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Valencia v Real Madrid",
+          "odds": [
+            "3.75",
+            "3.60",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Barcelona v Atletico Madrid",
+          "odds": [
+            "1.75",
+            "3.80",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Sassuolo v Napoli",
+          "odds": [
+            "5.25",
+            "4.33",
+            "1.61"
+          ]
+        },
+        {
+          "label": "Brescia v Lazio",
+          "odds": [
+            "5.25",
+            "4.33",
+            "1.55"
+          ]
+        },
+        {
+          "label": "Spal v Verona",
+          "odds": [
+            "2.50",
+            "3.30",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Genoa v Sassuolo",
+          "odds": [
+            "2.25",
+            "3.40",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Roma v Torino",
+          "odds": [
+            "1.44",
+            "4.33",
+            "7.00"
+          ]
+        },
+        {
+          "label": "Bologna v Fiorentina",
+          "odds": [
+            "2.37",
+            "3.40",
+            "2.87"
+          ]
+        },
+        {
+          "label": "AC Milan v Sampdoria",
+          "odds": [
+            "1.53",
+            "3.75",
+            "7.00"
+          ]
+        },
+        {
+          "label": "Atalanta v Parma",
+          "odds": [
+            "1.33",
+            "4.75",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Juventus v Cagliari",
+          "odds": [
+            "1.28",
+            "5.50",
+            "10.00"
+          ]
+        },
+        {
+          "label": "Lecce v Udinese",
+          "odds": [
+            "2.75",
+            "3.30",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Napoli v Inter Milano",
+          "odds": [
+            "2.50",
+            "3.40",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Schalke v Borussia M'gladbach",
+          "odds": [
+            "2.40",
+            "3.50",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Augsburg v Borussia Dortmund",
+          "odds": [
+            "5.00",
+            "4.33",
+            "1.57"
+          ]
+        },
+        {
+          "label": "Fortuna Dusseldorf v Werder Bremen",
+          "odds": [
+            "2.50",
+            "3.50",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Koln v Wolfsburg",
+          "odds": [
+            "2.70",
+            "3.40",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Mainz v SC Freiburg",
+          "odds": [
+            "2.30",
+            "3.30",
+            "3.10"
+          ]
+        },
+        {
+          "label": "TSG Hoffenheim v Eintracht Frankfurt",
+          "odds": [
+            "2.37",
+            "3.60",
+            "2.75"
+          ]
+        },
+        {
+          "label": "RB Leipzig v Union Berlin",
+          "odds": [
+            "1.28",
+            "5.75",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Hertha Berlin v Bayern Munchen",
+          "odds": [
+            "10.00",
+            "6.00",
+            "1.25"
+          ]
+        },
+        {
+          "label": "Paderborn v Bayer Leverkusen",
+          "odds": [
+            "5.25",
+            "4.50",
+            "1.53"
+          ]
+        },
+        {
+          "label": "Rennes v Marseille",
+          "odds": [
+            "2.80",
+            "3.20",
+            "2.55"
+          ]
+        },
+        {
+          "label": "Bordeaux v Lyon",
+          "odds": [
+            "2.80",
+            "3.25",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Amiens v Montpellier",
+          "odds": [
+            "2.80",
+            "3.25",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Angers v Nice",
+          "odds": [
+            "2.10",
+            "3.30",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Metz v Strasbourg",
+          "odds": [
+            "2.87",
+            "3.10",
+            "2.55"
+          ]
+        },
+        {
+          "label": "Nimes v Reims",
+          "odds": [
+            "3.40",
+            "3.20",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Toulouse v Brest",
+          "odds": [
+            "2.20",
+            "3.30",
+            "3.30"
+          ]
+        },
+        {
+          "label": "St Etienne v Nantes",
+          "odds": [
+            "2.40",
+            "3.20",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Dijon v Lille",
+          "odds": [
+            "3.60",
+            "3.30",
+            "2.05"
+          ]
+        }
+      ]
+    },
+    "d6b897fd145a64fbad36ff7cb1c47a00dcbbe9b6": {
+      "id": "d6b897fd145a64fbad36ff7cb1c47a00dcbbe9b6",
+      "category": "Romania",
+      "group": "Liste principale",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E118/F16/"
+    },
+    "c109b1d3ef5bad6027712577896a1970a24a2fbc": {
+      "id": "c109b1d3ef5bad6027712577896a1970a24a2fbc",
+      "category": "Meciuri internationale",
+      "group": "Liste principale",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E112/F16/",
+      "labels": [
+        {
+          "label": "Turcia v Italia",
+          "odds": [
+            "6.50",
+            "3.80",
+            "1.53"
+          ]
+        },
+        {
+          "label": "Tara Galilor v Elvetia",
+          "odds": [
+            "3.10",
+            "3.20",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Danemarca v Finlanda",
+          "odds": [
+            "1.53",
+            "4.00",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Belgia v Rusia",
+          "odds": [
+            "1.83",
+            "3.60",
+            "4.20"
+          ]
+        },
+        {
+          "label": "Anglia v Croatia",
+          "odds": [
+            "1.72",
+            "3.75",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Olanda v Ucraina",
+          "odds": [
+            "1.57",
+            "4.00",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Spania v Suedia",
+          "odds": [
+            "1.36",
+            "4.75",
+            "8.00"
+          ]
+        },
+        {
+          "label": "Franta v Germania",
+          "odds": [
+            "3.10",
+            "3.25",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Argentina v Chile",
+          "odds": [
+            "1.55",
+            "4.00",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Australia v Uruguay",
+          "odds": [
+            "9.00",
+            "5.00",
+            "1.33"
+          ]
+        },
+        {
+          "label": "Brazilia v Venezuela",
+          "odds": [
+            "1.25",
+            "5.75",
+            "11.00"
+          ]
+        },
+        {
+          "label": "Columbia v Ecuador",
+          "odds": [
+            "1.40",
+            "4.50",
+            "7.50"
+          ]
+        },
+        {
+          "label": "Paraguay v Bolivia",
+          "odds": [
+            "1.57",
+            "3.75",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Peru v Qatar",
+          "odds": [
+            "1.75",
+            "3.50",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Georgia v Belarus",
+          "odds": [
+            "2.25",
+            "3.10",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Norvegia v Serbia",
+          "odds": [
+            "2.60",
+            "3.20",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Bosnia-Hertegovina v Irlanda de Nord",
+          "odds": [
+            "1.75",
+            "3.50",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Bulgaria v Ungaria",
+          "odds": [
+            "3.40",
+            "3.30",
+            "2.15"
+          ]
+        },
+        {
+          "label": "Islanda v Romania",
+          "odds": [
+            "2.10",
+            "3.40",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Macedonia de Nord v Kosovo",
+          "odds": [
+            "2.37",
+            "3.10",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Scotia v Israel",
+          "odds": [
+            "1.80",
+            "3.50",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Slovacia v Irlanda",
+          "odds": [
+            "2.15",
+            "3.20",
+            "3.50"
+          ]
+        }
+      ]
+    },
+    "89280dd24472e62f3b1393522a4c29349b64a8d1": {
+      "id": "89280dd24472e62f3b1393522a4c29349b64a8d1",
+      "category": "Amicale intercluburi",
+      "group": "Liste principale",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E104/F16/"
+    },
+    "2da4ac1ef071655b9da3226c8cd8bf50cb9b1c95": {
+      "id": "2da4ac1ef071655b9da3226c8cd8bf50cb9b1c95",
+      "category": "Romania - Liga 1",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42478830/F2/"
+    },
+    "97f6d9f7238628e5b29519f1b57d78024381d395": {
+      "id": "97f6d9f7238628e5b29519f1b57d78024381d395",
+      "category": "Belgia - Divizia 1 А",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42535958/F2/",
+      "labels": [
+        {
+          "label": "Anderlecht v Genk",
+          "odds": [
+            "2.60",
+            "3.40",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Genk v Eupen",
+          "odds": [
+            "1.36",
+            "5.00",
+            "8.00"
+          ]
+        },
+        {
+          "label": "KV Kortrijk v Cercle Brugge",
+          "odds": [
+            "1.72",
+            "4.00",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Royal Excel Mouscron v KV Mechelen",
+          "odds": [
+            "2.45",
+            "3.40",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Waasland-Beveren v Sint-Truidense",
+          "odds": [
+            "2.50",
+            "3.60",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Club Brugge v Zulte-Waregem",
+          "odds": [
+            "1.25",
+            "6.00",
+            "11.00"
+          ]
+        },
+        {
+          "label": "Standard Liege v Gent",
+          "odds": [
+            "2.20",
+            "3.60",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Charleroi v KV Oostende",
+          "odds": [
+            "1.53",
+            "4.33",
+            "5.75"
+          ]
+        },
+        {
+          "label": "Antwerp v Anderlecht",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.80"
+          ]
+        }
+      ]
+    },
+    "d31e1d5a93280a2f35801c9a6c8d3fe403b28cb4": {
+      "id": "d31e1d5a93280a2f35801c9a6c8d3fe403b28cb4",
+      "category": "Grecia - Superliga 1",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43063679/F2/",
+      "labels": [
+        {
+          "label": "PAOK Salonika v Atromitos Athinon",
+          "odds": [
+            "1.22",
+            "6.00",
+            "9.00"
+          ]
+        }
+      ]
+    },
+    "9d915bf34e58190ccd5131293b5e6355115780c9": {
+      "id": "9d915bf34e58190ccd5131293b5e6355115780c9",
+      "category": "Grecia - Superliga 2",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44158289/F2/",
+      "labels": [
+        {
+          "label": "Ergotelis v Chania FC",
+          "odds": [
+            "2.40",
+            "3.20",
+            "2.60"
+          ]
+        }
+      ]
+    },
+    "b2cfeaf794428dc790d1fab6ed00c93ea1a9db21": {
+      "id": "b2cfeaf794428dc790d1fab6ed00c93ea1a9db21",
+      "category": "Israel - Premier League",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43109745/F2/",
+      "labels": [
+        {
+          "label": "Hapoel Kfar Saba v Hapoel Ironi Kiryat Shmona",
+          "odds": [
+            "2.20",
+            "3.20",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Hapoel Hadera v Hapoel Beer Sheva",
+          "odds": [
+            "5.00",
+            "3.80",
+            "1.57"
+          ]
+        },
+        {
+          "label": "Bnei Yehuda Tel Aviv v Maccabi Tel Aviv",
+          "odds": [
+            "7.00",
+            "5.00",
+            "1.33"
+          ]
+        },
+        {
+          "label": "Maccabi Haifa v Hapoel Haifa",
+          "odds": [
+            "1.53",
+            "3.80",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Sektzia Nes Tziona v Maccabi Netanya",
+          "odds": [
+            "2.75",
+            "3.10",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Hapoel Tel-Aviv v MS Ashdod",
+          "odds": [
+            "2.00",
+            "3.25",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Beitar Jerusalem v Hapoel Raanana",
+          "odds": [
+            "1.44",
+            "4.00",
+            "6.50"
+          ]
+        }
+      ]
+    },
+    "7ef16ea64823e18ea8c1940f3fcec88ad841b120": {
+      "id": "7ef16ea64823e18ea8c1940f3fcec88ad841b120",
+      "category": "Israel - Cupa",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E39857438/F2/"
+    },
+    "bdb3500be6994893476720de7fd1f929df74f919": {
+      "id": "bdb3500be6994893476720de7fd1f929df74f919",
+      "category": "Israel - Liga Leumit",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43109751/F2/",
+      "labels": [
+        {
+          "label": "Hapoel Petah Tikva v Hapoel Afula",
+          "odds": [
+            "1.72",
+            "3.20",
+            "4.50"
+          ]
+        }
+      ]
+    },
+    "dad096809762204bf8559056f73f3993214c1ab8": {
+      "id": "dad096809762204bf8559056f73f3993214c1ab8",
+      "category": "Israel - Liga Bet South",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43820190/F2/",
+      "labels": [
+        {
+          "label": "Hapoel Ironi Gedera v Maccabi Kiryat Malakhi",
+          "odds": [
+            "4.75",
+            "4.20",
+            "1.50"
+          ]
+        },
+        {
+          "label": "Maccabi Ironi Sderot v MS Ironi Kuseife",
+          "odds": [
+            "2.30",
+            "4.00",
+            "2.30"
+          ]
+        }
+      ]
+    },
+    "a76da945fd6c42b75a1b165d5f7a4be8e08841d7": {
+      "id": "a76da945fd6c42b75a1b165d5f7a4be8e08841d7",
+      "category": "Olanda - Eerste Divisie",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42536272/F2/",
+      "labels": [
+        {
+          "label": "Cambuur Leeuwarden v FC Volendam",
+          "odds": [
+            "1.60",
+            "4.50",
+            "4.50"
+          ]
+        },
+        {
+          "label": "De Graafschap v FC Utrecht - Rezerve",
+          "odds": [
+            "1.28",
+            "6.00",
+            "8.00"
+          ]
+        },
+        {
+          "label": "FC Dordrecht v Excelsior",
+          "odds": [
+            "3.80",
+            "4.33",
+            "1.75"
+          ]
+        },
+        {
+          "label": "Helmond Sport v NAC",
+          "odds": [
+            "4.00",
+            "4.00",
+            "1.80"
+          ]
+        },
+        {
+          "label": "Telstar v FC Eindhoven",
+          "odds": [
+            "2.10",
+            "3.60",
+            "3.25"
+          ]
+        },
+        {
+          "label": "Roda JC v Maastricht",
+          "odds": [
+            "2.10",
+            "3.60",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Go Ahead Eagles v Almere City FC",
+          "odds": [
+            "1.95",
+            "3.75",
+            "3.50"
+          ]
+        },
+        {
+          "label": "NEC v FC Den Bosch",
+          "odds": [
+            "1.83",
+            "4.00",
+            "3.75"
+          ]
+        },
+        {
+          "label": "AZ - Rezerve v FC Oss",
+          "odds": [
+            "2.00",
+            "3.75",
+            "3.50"
+          ]
+        },
+        {
+          "label": "PSV - Rezerve v Ajax - Rezerve",
+          "odds": [
+            "4.00",
+            "4.75",
+            "1.66"
+          ]
+        }
+      ]
+    },
+    "0da93c13dfac1793e8396de42bdd9547edecfeeb": {
+      "id": "0da93c13dfac1793e8396de42bdd9547edecfeeb",
+      "category": "Portugalia - Primeira Liga",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42549026/F2/",
+      "labels": [
+        {
+          "label": "Boavista v Portimonense",
+          "odds": [
+            "2.10",
+            "3.20",
+            "3.60"
+          ]
+        },
+        {
+          "label": "CD Aves v Santa Clara",
+          "odds": [
+            "2.55",
+            "3.30",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Belenenses v Braga",
+          "odds": [
+            "5.25",
+            "4.20",
+            "1.57"
+          ]
+        },
+        {
+          "label": "Guimaraes v Benfica",
+          "odds": [
+            "4.20",
+            "3.75",
+            "1.80"
+          ]
+        },
+        {
+          "label": "Pacos Ferreira v Moreirense",
+          "odds": [
+            "2.10",
+            "3.20",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Rio Ave v Maritimo",
+          "odds": [
+            "1.61",
+            "3.80",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Tondela v Gil Vicente",
+          "odds": [
+            "2.37",
+            "3.30",
+            "2.90"
+          ]
+        },
+        {
+          "label": "Sporting v FC Porto",
+          "odds": [
+            "3.40",
+            "3.40",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Famalicao v Vitoria Setubal",
+          "odds": [
+            "1.95",
+            "3.50",
+            "3.75"
+          ]
+        }
+      ]
+    },
+    "546612281b3739a9914e1f7002980215a3245220": {
+      "id": "546612281b3739a9914e1f7002980215a3245220",
+      "category": "Portugalia - Cupa Ligii",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45257352/F2/",
+      "labels": [
+        {
+          "label": "Chaves v FC Porto",
+          "odds": [
+            "7.00",
+            "4.50",
+            "1.36"
+          ]
+        }
+      ]
+    },
+    "bac4a5a4723d889bc99ce32ec963fc50acff7539": {
+      "id": "bac4a5a4723d889bc99ce32ec963fc50acff7539",
+      "category": "Portugalia - Campeonato Nacional",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44173797/F2/",
+      "labels": [
+        {
+          "label": "AC Marinhense v UD Leiria",
+          "odds": [
+            "2.15",
+            "3.10",
+            "3.30"
+          ]
+        }
+      ]
+    },
+    "fdaeb4555e58a749a063daafd7eb7dcde4f706c9": {
+      "id": "fdaeb4555e58a749a063daafd7eb7dcde4f706c9",
+      "category": "Turcia - Super Lig",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42940783/F2/",
+      "labels": [
+        {
+          "label": "Denizlispor v Alanyaspor",
+          "odds": [
+            "3.60",
+            "3.30",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Konyaspor v Trabzonspor",
+          "odds": [
+            "2.87",
+            "3.30",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Besiktas v Genclerbirligi",
+          "odds": [
+            "1.45",
+            "4.50",
+            "6.50"
+          ]
+        },
+        {
+          "label": "Ankaragucu v Denizlispor",
+          "odds": [
+            "2.90",
+            "3.25",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Istanbul Basaksehir v Kasimpasa",
+          "odds": [
+            "1.44",
+            "4.50",
+            "6.50"
+          ]
+        },
+        {
+          "label": "Trabzonspor v Kayserispor",
+          "odds": [
+            "1.22",
+            "6.50",
+            "12.00"
+          ]
+        },
+        {
+          "label": "Galatasaray v Antalyaspor",
+          "odds": [
+            "1.50",
+            "4.33",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Sivasspor v Goztepe",
+          "odds": [
+            "1.75",
+            "3.75",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Alanyaspor v Konyaspor",
+          "odds": [
+            "1.75",
+            "3.50",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Gazisehir Gaziantep FK v Yeni Malatyaspor",
+          "odds": [
+            "2.37",
+            "3.60",
+            "2.75"
+          ]
+        }
+      ]
+    },
+    "b46368fc8e649e501fa26a9b3328973839b8fdc3": {
+      "id": "b46368fc8e649e501fa26a9b3328973839b8fdc3",
+      "category": "Turcia - 1 Lig",
+      "group": "Europa",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42943100/F2/",
+      "labels": [
+        {
+          "label": "Giresunspor v Altinordu",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        }
+      ]
+    },
+    "2b069696252f7112a36c624f569c68f56ffdcbd8": {
+      "id": "2b069696252f7112a36c624f569c68f56ffdcbd8",
+      "category": "Anglia - Premier League",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E37628398/F2/",
+      "labels": [
+        {
+          "label": "Tottenham v Brighton",
+          "odds": [
+            "1.50",
+            "4.20",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Aston Villa v Norwich",
+          "odds": [
+            "2.05",
+            "3.60",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Bournemouth v Arsenal",
+          "odds": [
+            "3.40",
+            "4.00",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Chelsea v Southampton",
+          "odds": [
+            "1.30",
+            "5.50",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Crystal Palace v West Ham",
+          "odds": [
+            "2.20",
+            "3.40",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Everton v Burnley",
+          "odds": [
+            "1.65",
+            "3.80",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Sheff Utd v Watford",
+          "odds": [
+            "1.85",
+            "3.40",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Man Utd v Newcastle",
+          "odds": [
+            "1.33",
+            "5.25",
+            "8.00"
+          ]
+        },
+        {
+          "label": "Leicester v Liverpool",
+          "odds": [
+            "3.40",
+            "3.75",
+            "2.00"
+          ]
+        },
+        {
+          "label": "Wolverhampton v Man City",
+          "odds": [
+            "8.00",
+            "5.00",
+            "1.33"
+          ]
+        },
+        {
+          "label": "Brighton v Bournemouth",
+          "odds": [
+            "1.85",
+            "3.60",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Newcastle v Everton",
+          "odds": [
+            "3.25",
+            "3.30",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Southampton v Crystal Palace",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Watford v Aston Villa",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Norwich v Tottenham",
+          "odds": [
+            "5.75",
+            "4.20",
+            "1.53"
+          ]
+        },
+        {
+          "label": "West Ham v Leicester",
+          "odds": [
+            "4.50",
+            "4.00",
+            "1.70"
+          ]
+        },
+        {
+          "label": "Burnley v Man Utd",
+          "odds": [
+            "4.00",
+            "3.50",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Arsenal v Chelsea",
+          "odds": [
+            "2.80",
+            "3.75",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Liverpool v Wolverhampton",
+          "odds": [
+            "1.30",
+            "5.25",
+            "9.50"
+          ]
+        },
+        {
+          "label": "Man City v Sheff Utd",
+          "odds": [
+            "1.16",
+            "7.50",
+            "13.00"
+          ]
+        }
+      ]
+    },
+    "f0a1eac99367a9517b337e17d7daeb92bb8d5dba": {
+      "id": "f0a1eac99367a9517b337e17d7daeb92bb8d5dba",
+      "category": "Anglia - Cupa EFL",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42299802/F2/",
+      "labels": [
+        {
+          "label": "Man Utd v Man City",
+          "odds": [
+            "4.20",
+            "3.75",
+            "1.83"
+          ]
+        },
+        {
+          "label": "Leicester v Aston Villa",
+          "odds": [
+            "1.44",
+            "4.50",
+            "6.50"
+          ]
+        }
+      ]
+    },
+    "2ed7c161be7d7bfaa0f0733f87219540778c4b97": {
+      "id": "2ed7c161be7d7bfaa0f0733f87219540778c4b97",
+      "category": "Anglia - Championship",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42294894/F2/",
+      "labels": [
+        {
+          "label": "Blackburn v Wigan",
+          "odds": [
+            "1.75",
+            "3.50",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Barnsley v West Brom",
+          "odds": [
+            "4.50",
+            "4.00",
+            "1.70"
+          ]
+        },
+        {
+          "label": "Blackburn v Birmingham",
+          "odds": [
+            "2.00",
+            "3.60",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Brentford v Swansea",
+          "odds": [
+            "1.57",
+            "4.00",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Cardiff v Millwall",
+          "odds": [
+            "2.20",
+            "3.25",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Charlton v Bristol City",
+          "odds": [
+            "3.30",
+            "3.25",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Hull v Nottm Forest",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Luton v Fulham",
+          "odds": [
+            "4.20",
+            "3.80",
+            "1.80"
+          ]
+        },
+        {
+          "label": "Middlesbrough v Huddersfield",
+          "odds": [
+            "2.25",
+            "3.20",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Stoke v Sheff Wed",
+          "odds": [
+            "2.50",
+            "3.25",
+            "2.80"
+          ]
+        },
+        {
+          "label": "Wigan v Derby",
+          "odds": [
+            "2.37",
+            "3.20",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Leeds v Preston",
+          "odds": [
+            "1.36",
+            "4.75",
+            "8.00"
+          ]
+        },
+        {
+          "label": "Reading v QPR",
+          "odds": [
+            "2.25",
+            "3.50",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Birmingham v Leeds",
+          "odds": [
+            "5.50",
+            "3.80",
+            "1.61"
+          ]
+        },
+        {
+          "label": "Bristol City v Luton",
+          "odds": [
+            "1.70",
+            "4.00",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Fulham v Stoke",
+          "odds": [
+            "1.72",
+            "3.75",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Huddersfield v Blackburn",
+          "odds": [
+            "2.37",
+            "3.40",
+            "2.90"
+          ]
+        },
+        {
+          "label": "Millwall v Brentford",
+          "odds": [
+            "3.60",
+            "3.20",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Nottm Forest v Wigan",
+          "odds": [
+            "1.72",
+            "3.75",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Preston v Reading",
+          "odds": [
+            "1.83",
+            "3.75",
+            "4.00"
+          ]
+        },
+        {
+          "label": "QPR v Hull",
+          "odds": [
+            "2.15",
+            "3.60",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Sheff Wed v Cardiff",
+          "odds": [
+            "1.66",
+            "3.75",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Swansea v Barnsley",
+          "odds": [
+            "1.75",
+            "3.50",
+            "5.00"
+          ]
+        },
+        {
+          "label": "West Brom v Middlesbrough",
+          "odds": [
+            "1.40",
+            "4.75",
+            "7.00"
+          ]
+        },
+        {
+          "label": "Derby v Charlton",
+          "odds": [
+            "1.72",
+            "3.80",
+            "4.50"
+          ]
+        }
+      ]
+    },
+    "e60074fcc5ecb50a6a74f9dc4cf78364e967d8a4": {
+      "id": "e60074fcc5ecb50a6a74f9dc4cf78364e967d8a4",
+      "category": "Anglia - League 1",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42294958/F2/",
+      "labels": [
+        {
+          "label": "Blackpool v Accrington Stanley",
+          "odds": [
+            "2.05",
+            "3.40",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Bristol Rovers v AFC Wimbledon",
+          "odds": [
+            "1.80",
+            "3.60",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Burton Albion v Tranmere",
+          "odds": [
+            "1.57",
+            "4.00",
+            "5.75"
+          ]
+        },
+        {
+          "label": "Ipswich  v Gillingham",
+          "odds": [
+            "1.72",
+            "3.60",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Oxford Utd v Lincoln City",
+          "odds": [
+            "1.70",
+            "3.75",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Peterborough v Doncaster",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Portsmouth v Wycombe",
+          "odds": [
+            "1.83",
+            "3.60",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Rochdale v Fleetwood Town",
+          "odds": [
+            "3.90",
+            "3.50",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Shrewsbury v Rotherham",
+          "odds": [
+            "2.90",
+            "3.25",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Southend v Milton Keynes Dons",
+          "odds": [
+            "3.30",
+            "3.50",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Sunderland v Bolton",
+          "odds": [
+            "1.50",
+            "4.33",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Gillingham v Rochdale",
+          "odds": [
+            "1.83",
+            "3.75",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Accrington Stanley v Burton Albion",
+          "odds": [
+            "2.45",
+            "3.40",
+            "2.70"
+          ]
+        },
+        {
+          "label": "AFC Wimbledon v Oxford Utd",
+          "odds": [
+            "4.00",
+            "3.75",
+            "1.83"
+          ]
+        },
+        {
+          "label": "Bolton v Shrewsbury",
+          "odds": [
+            "3.20",
+            "3.25",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Doncaster v Sunderland",
+          "odds": [
+            "2.60",
+            "3.40",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Fleetwood Town v Bristol Rovers",
+          "odds": [
+            "1.75",
+            "3.75",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Lincoln City v Ipswich ",
+          "odds": [
+            "2.55",
+            "3.40",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Milton Keynes Dons v Portsmouth",
+          "odds": [
+            "4.00",
+            "3.60",
+            "1.85"
+          ]
+        },
+        {
+          "label": "Rotherham v Peterborough",
+          "odds": [
+            "2.30",
+            "3.50",
+            "2.90"
+          ]
+        },
+        {
+          "label": "Tranmere v Blackpool",
+          "odds": [
+            "3.20",
+            "3.25",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Wycombe v Coventry",
+          "odds": [
+            "2.30",
+            "3.40",
+            "3.00"
+          ]
+        }
+      ]
+    },
+    "fe00e203ade616bb1ee63b94bbc4fce93f564828": {
+      "id": "fe00e203ade616bb1ee63b94bbc4fce93f564828",
+      "category": "Anglia - League 2",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42294995/F2/",
+      "labels": [
+        {
+          "label": "Leyton Orient v Colchester",
+          "odds": [
+            "2.87",
+            "3.30",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Carlisle v Bradford",
+          "odds": [
+            "3.10",
+            "3.50",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Cheltenham v Plymouth",
+          "odds": [
+            "2.50",
+            "3.30",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Crawley Town v Northampton",
+          "odds": [
+            "2.50",
+            "3.50",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Exeter v Newport County",
+          "odds": [
+            "1.85",
+            "3.40",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Mansfield v Port Vale",
+          "odds": [
+            "2.10",
+            "3.40",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Morecambe v Oldham",
+          "odds": [
+            "2.87",
+            "3.40",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Salford City v Crewe",
+          "odds": [
+            "2.90",
+            "3.40",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Scunthorpe v Walsall",
+          "odds": [
+            "2.20",
+            "3.40",
+            "3.25"
+          ]
+        },
+        {
+          "label": "Stevenage v Forest Green",
+          "odds": [
+            "2.80",
+            "3.40",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Swindon v Cambridge Utd",
+          "odds": [
+            "1.75",
+            "3.60",
+            "4.60"
+          ]
+        },
+        {
+          "label": "Bradford v Mansfield",
+          "odds": [
+            "1.95",
+            "3.40",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Cambridge Utd v Morecambe",
+          "odds": [
+            "1.60",
+            "3.90",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Colchester v Exeter",
+          "odds": [
+            "2.37",
+            "3.40",
+            "2.87"
+          ]
+        },
+        {
+          "label": "Crewe v Scunthorpe",
+          "odds": [
+            "1.80",
+            "3.60",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Grimsby v Crawley Town",
+          "odds": [
+            "2.15",
+            "3.40",
+            "3.25"
+          ]
+        },
+        {
+          "label": "Newport County v Leyton Orient",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Northampton v Cheltenham",
+          "odds": [
+            "2.10",
+            "3.40",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Oldham v Salford City",
+          "odds": [
+            "2.40",
+            "3.40",
+            "2.87"
+          ]
+        },
+        {
+          "label": "Plymouth v Stevenage",
+          "odds": [
+            "1.80",
+            "3.60",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Port Vale v Swindon",
+          "odds": [
+            "2.80",
+            "3.40",
+            "2.45"
+          ]
+        },
+        {
+          "label": "Walsall v Carlisle",
+          "odds": [
+            "2.05",
+            "3.40",
+            "3.50"
+          ]
+        }
+      ]
+    },
+    "f1c54d83c1be2484e84117622e060b6cd9ca28c3": {
+      "id": "f1c54d83c1be2484e84117622e060b6cd9ca28c3",
+      "category": "Anglia - National League",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42535350/F2/",
+      "labels": [
+        {
+          "label": "Dag & Red v Ebbsfleet United",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Woking v Sutton Utd",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Barnet v Boreham Wood",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Barrow v AFC Fylde",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Chesterfield v Solihull Moors",
+          "odds": [
+            "3.10",
+            "3.40",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Dover v Bromley",
+          "odds": [
+            "2.60",
+            "3.40",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Eastleigh v Aldershot",
+          "odds": [
+            "1.85",
+            "3.50",
+            "4.20"
+          ]
+        },
+        {
+          "label": "Harrogate Town v Hartlepool",
+          "odds": [
+            "2.10",
+            "3.40",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Notts County v Maidenhead Utd",
+          "odds": [
+            "1.57",
+            "3.75",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Stockport v Halifax",
+          "odds": [
+            "2.45",
+            "3.30",
+            "2.80"
+          ]
+        },
+        {
+          "label": "Wrexham v Chorley",
+          "odds": [
+            "1.80",
+            "3.50",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Yeovil v Torquay",
+          "odds": [
+            "2.00",
+            "3.40",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Sutton Utd v Yeovil",
+          "odds": [
+            "2.87",
+            "3.40",
+            "2.37"
+          ]
+        },
+        {
+          "label": "AFC Fylde v Stockport",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Aldershot v Barnet",
+          "odds": [
+            "2.70",
+            "3.40",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Boreham Wood v Eastleigh",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Bromley v Dag & Red",
+          "odds": [
+            "1.72",
+            "3.80",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Chorley v Harrogate Town",
+          "odds": [
+            "3.00",
+            "3.50",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Ebbsfleet United v Dover",
+          "odds": [
+            "2.70",
+            "3.40",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Halifax v Chesterfield",
+          "odds": [
+            "2.10",
+            "3.50",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Hartlepool v Barrow",
+          "odds": [
+            "2.60",
+            "3.40",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Maidenhead Utd v Wrexham",
+          "odds": [
+            "2.87",
+            "3.60",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Solihull Moors v Notts County",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Torquay v Woking",
+          "odds": [
+            "2.20",
+            "3.50",
+            "3.10"
+          ]
+        }
+      ]
+    },
+    "75a239b9cb8064d08df1ffc16ecfdbc047a723b5": {
+      "id": "75a239b9cb8064d08df1ffc16ecfdbc047a723b5",
+      "category": "Anglia - National League North",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42535433/F2/",
+      "labels": [
+        {
+          "label": "AFC Telford v Alfreton Town",
+          "odds": [
+            "2.37",
+            "3.75",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Bradford P A v York",
+          "odds": [
+            "4.50",
+            "4.20",
+            "1.66"
+          ]
+        },
+        {
+          "label": "Curzon Ashton v Altrincham",
+          "odds": [
+            "2.37",
+            "3.75",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Darlington v Spennymoor Town",
+          "odds": [
+            "2.50",
+            "3.60",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Gateshead v Blyth Spartans",
+          "odds": [
+            "1.53",
+            "4.33",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Guiseley v Farsley Celtic",
+          "odds": [
+            "2.50",
+            "3.75",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Kettering v Brackley",
+          "odds": [
+            "2.75",
+            "3.60",
+            "2.37"
+          ]
+        },
+        {
+          "label": "Kidderminster v Hereford",
+          "odds": [
+            "2.37",
+            "3.25",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Kings Lynn Town v Boston Utd",
+          "odds": [
+            "1.80",
+            "4.00",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Leamington v Gloucester City",
+          "odds": [
+            "2.10",
+            "3.75",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Southport v Chester",
+          "odds": [
+            "2.30",
+            "3.75",
+            "2.75"
+          ]
+        }
+      ]
+    },
+    "5a469f8aca92f7587524d2f80b4175e97703fa43": {
+      "id": "5a469f8aca92f7587524d2f80b4175e97703fa43",
+      "category": "Anglia - National League South",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42535569/F2/",
+      "labels": [
+        {
+          "label": "Concord Rangers v Billericay",
+          "odds": [
+            "2.10",
+            "3.50",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Slough v Wealdstone",
+          "odds": [
+            "2.25",
+            "3.50",
+            "2.75"
+          ]
+        },
+        {
+          "label": "St Albans v Hemel Hempstead",
+          "odds": [
+            "3.00",
+            "3.50",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Tonbridge Angels v Maidstone Utd",
+          "odds": [
+            "2.75",
+            "3.60",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Welling v Dartford",
+          "odds": [
+            "2.20",
+            "3.40",
+            "2.87"
+          ]
+        },
+        {
+          "label": "Bath City v Chippenham Town",
+          "odds": [
+            "1.57",
+            "3.60",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Chelmsford v Braintree Town",
+          "odds": [
+            "2.00",
+            "3.80",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Dorking v Eastbourne Borough",
+          "odds": [
+            "1.80",
+            "3.60",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Dulwich v Hampton & Richmond",
+          "odds": [
+            "2.20",
+            "3.60",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Havant and W v Weymouth",
+          "odds": [
+            "1.72",
+            "3.80",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Oxford City v Hungerford Town",
+          "odds": [
+            "1.80",
+            "3.60",
+            "3.80"
+          ]
+        }
+      ]
+    },
+    "3275695134adbd88d6cb7466d26a25e4f9ad98f5": {
+      "id": "3275695134adbd88d6cb7466d26a25e4f9ad98f5",
+      "category": "Scotia - Premiership",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42308400/F2/",
+      "labels": [
+        {
+          "label": "Hearts v Hibernian",
+          "odds": [
+            "2.50",
+            "3.30",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Aberdeen v Livingston",
+          "odds": [
+            "1.72",
+            "3.60",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Hamilton v St Johnstone",
+          "odds": [
+            "3.00",
+            "3.30",
+            "2.37"
+          ]
+        },
+        {
+          "label": "Rangers v Kilmarnock",
+          "odds": [
+            "1.18",
+            "7.00",
+            "13.00"
+          ]
+        },
+        {
+          "label": "Ross County v Motherwell",
+          "odds": [
+            "3.00",
+            "3.40",
+            "2.30"
+          ]
+        },
+        {
+          "label": "St Mirren v Celtic",
+          "odds": [
+            "13.00",
+            "6.50",
+            "1.20"
+          ]
+        },
+        {
+          "label": "Celtic v Rangers",
+          "odds": [
+            "1.95",
+            "3.50",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Hearts v Aberdeen",
+          "odds": [
+            "3.00",
+            "3.25",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Livingston v Hibernian",
+          "odds": [
+            "2.62",
+            "3.30",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Motherwell v Hamilton",
+          "odds": [
+            "1.55",
+            "4.33",
+            "5.50"
+          ]
+        },
+        {
+          "label": "St Johnstone v Ross County",
+          "odds": [
+            "1.85",
+            "3.50",
+            "4.20"
+          ]
+        },
+        {
+          "label": "St Mirren v Kilmarnock",
+          "odds": [
+            "2.55",
+            "3.20",
+            "2.80"
+          ]
+        }
+      ]
+    },
+    "4da16e07cca692894f6c73fcd20cfaee1e4142bc": {
+      "id": "4da16e07cca692894f6c73fcd20cfaee1e4142bc",
+      "category": "Scotia - Liga 1",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42536203/F2/",
+      "labels": [
+        {
+          "label": "Airdrieonians v Falkirk",
+          "odds": [
+            "3.00",
+            "3.30",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Dumbarton v Stranraer",
+          "odds": [
+            "1.61",
+            "3.60",
+            "5.00"
+          ]
+        },
+        {
+          "label": "East Fife v Raith",
+          "odds": [
+            "2.55",
+            "3.20",
+            "2.45"
+          ]
+        },
+        {
+          "label": "Forfar v Montrose",
+          "odds": [
+            "2.50",
+            "3.80",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Peterhead v Clyde",
+          "odds": [
+            "2.05",
+            "3.40",
+            "3.00"
+          ]
+        }
+      ]
+    },
+    "dca6d1a23ac911a27ab61a1d7c0fc0daaa9aa5e5": {
+      "id": "dca6d1a23ac911a27ab61a1d7c0fc0daaa9aa5e5",
+      "category": "Scotia - Liga 2",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44033273/F2/",
+      "labels": [
+        {
+          "label": "Annan Athletic v Queen's Park",
+          "odds": [
+            "2.15",
+            "3.30",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Brechin v Albion",
+          "odds": [
+            "2.40",
+            "3.25",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Cove Rangers v Elgin",
+          "odds": [
+            "1.33",
+            "5.00",
+            "6.50"
+          ]
+        },
+        {
+          "label": "Edinburgh City v Cowdenbeath",
+          "odds": [
+            "1.60",
+            "3.60",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Stenhousemuir v Stirling",
+          "odds": [
+            "2.45",
+            "3.40",
+            "2.50"
+          ]
+        }
+      ]
+    },
+    "ce38ec124f6b8dc06576f0f5d1acb7e06677544b": {
+      "id": "ce38ec124f6b8dc06576f0f5d1acb7e06677544b",
+      "category": "Irlanda de Nord - NIFL Premiership",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42536127/F2/",
+      "labels": [
+        {
+          "label": "Coleraine v Ballymena Utd",
+          "odds": [
+            "1.61",
+            "3.80",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Crusaders v Cliftonville",
+          "odds": [
+            "2.20",
+            "3.60",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Glenavon v Dungannon Swifts",
+          "odds": [
+            "1.72",
+            "4.00",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Glentoran v Linfield",
+          "odds": [
+            "2.50",
+            "3.60",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Institute v Warrenpoint Town",
+          "odds": [
+            "1.80",
+            "3.80",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Larne v Carrick Rangers",
+          "odds": [
+            "1.28",
+            "5.50",
+            "6.50"
+          ]
+        }
+      ]
+    },
+    "991b26d74907e8f5ef5f7347d5f04a2ff8bc8f40": {
+      "id": "991b26d74907e8f5ef5f7347d5f04a2ff8bc8f40",
+      "category": "Tara Galilor - Premier League",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42943164/F2/",
+      "labels": [
+        {
+          "label": "Barry Town v Cardiff Met Uni",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Carmarthen v Penybont",
+          "odds": [
+            "2.30",
+            "3.40",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Cefn Druids v T.N.S.",
+          "odds": [
+            "6.50",
+            "4.33",
+            "1.36"
+          ]
+        },
+        {
+          "label": "Connah's Quay v Airbus UK",
+          "odds": [
+            "1.16",
+            "6.00",
+            "11.00"
+          ]
+        },
+        {
+          "label": "Newtown v Aberystwyth",
+          "odds": [
+            "1.72",
+            "3.75",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Caernarfon v Bala Town",
+          "odds": [
+            "2.35",
+            "3.50",
+            "2.50"
+          ]
+        }
+      ]
+    },
+    "794c1b693b86f616883d7637efe594895247877b": {
+      "id": "794c1b693b86f616883d7637efe594895247877b",
+      "category": "Anglia - Northern Premier League",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42985679/F2/",
+      "labels": [
+        {
+          "label": "Grantham v Gainsborough",
+          "odds": [
+            "2.10",
+            "3.75",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Hyde v Stalybridge Celtic",
+          "odds": [
+            "2.10",
+            "4.00",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Lancaster City v Bamber Bridge",
+          "odds": [
+            "1.44",
+            "4.50",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Matlock Town v Buxton",
+          "odds": [
+            "2.10",
+            "3.75",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Mickleover Sports v Basford Utd",
+          "odds": [
+            "2.40",
+            "4.00",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Nantwich Town v Stafford Rangers",
+          "odds": [
+            "1.66",
+            "4.00",
+            "3.80"
+          ]
+        },
+        {
+          "label": "Radcliffe FC v Atherton Collieries",
+          "odds": [
+            "1.72",
+            "4.00",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Scarborough v Morpeth Town",
+          "odds": [
+            "2.75",
+            "4.00",
+            "2.00"
+          ]
+        },
+        {
+          "label": "Warrington Town v Witton Albion",
+          "odds": [
+            "1.90",
+            "3.75",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Whitby v South Shields",
+          "odds": [
+            "3.10",
+            "3.75",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Ashton Utd v FC United of Manchester",
+          "odds": [
+            "3.40",
+            "4.20",
+            "1.72"
+          ]
+        }
+      ]
+    },
+    "93fa64cc403289c5f9956a7d69d8a6b84259b7ac": {
+      "id": "93fa64cc403289c5f9956a7d69d8a6b84259b7ac",
+      "category": "Anglia - Isthmian Premier Division",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42835874/F2/",
+      "labels": [
+        {
+          "label": "Folkestone Invicta v Margate",
+          "odds": [
+            "1.72",
+            "4.00",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Cray Wanderers v Leatherhead",
+          "odds": [
+            "1.83",
+            "3.60",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Enfield Town v Haringey Borough",
+          "odds": [
+            "2.10",
+            "3.60",
+            "2.90"
+          ]
+        },
+        {
+          "label": "Lewes v Bognor Regis Town",
+          "odds": [
+            "2.55",
+            "3.75",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Worthing v Horsham",
+          "odds": [
+            "2.25",
+            "3.60",
+            "2.70"
+          ]
+        },
+        {
+          "label": "AFC Hornchurch v Brightlingsea Regent",
+          "odds": [
+            "1.25",
+            "5.50",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Corinthian Casuals v Cheshunt",
+          "odds": [
+            "2.40",
+            "3.50",
+            "2.55"
+          ]
+        },
+        {
+          "label": "Potters Bar Town v Kingstonian",
+          "odds": [
+            "2.40",
+            "3.25",
+            "2.70"
+          ]
+        }
+      ]
+    },
+    "93e6e2c125f6b38a63a4ecb3e7b71833d804aa94": {
+      "id": "93e6e2c125f6b38a63a4ecb3e7b71833d804aa94",
+      "category": "Anglia - Southern Premier League South",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42836242/F2/",
+      "labels": [
+        {
+          "label": "Poole Town v Dorchester",
+          "odds": [
+            "1.53",
+            "4.00",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Blackfield & Langley v Gosport Borough",
+          "odds": [
+            "2.80",
+            "3.60",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Hendon v Harrow Borough",
+          "odds": [
+            "2.20",
+            "3.60",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Truro City v Tiverton Town",
+          "odds": [
+            "2.10",
+            "3.60",
+            "2.80"
+          ]
+        },
+        {
+          "label": "Hartley Wintney v Farnborough",
+          "odds": [
+            "2.40",
+            "3.60",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Merthyr Town v Yate Town",
+          "odds": [
+            "1.83",
+            "3.75",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Salisbury FC v Wimborne Town",
+          "odds": [
+            "1.66",
+            "4.00",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Taunton Town v Weston Super Mare",
+          "odds": [
+            "1.72",
+            "3.75",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Walton Casuals v Chesham",
+          "odds": [
+            "3.00",
+            "3.60",
+            "2.00"
+          ]
+        },
+        {
+          "label": "Hayes & Yeading v Met Police",
+          "odds": [
+            "1.90",
+            "3.75",
+            "3.10"
+          ]
+        }
+      ]
+    },
+    "c6f32cd6c61281697aa54bd12196b957a208d7d0": {
+      "id": "c6f32cd6c61281697aa54bd12196b957a208d7d0",
+      "category": "Anglia - Southern Premier League Central",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42836147/F2/",
+      "labels": [
+        {
+          "label": "Tamworth  v Nuneaton",
+          "odds": [
+            "1.66",
+            "4.00",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Biggleswade Town v Hitchin",
+          "odds": [
+            "1.85",
+            "3.75",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Coalville Town v Barwell",
+          "odds": [
+            "2.00",
+            "3.60",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Kings Langley v Royston Town",
+          "odds": [
+            "2.40",
+            "3.60",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Lowestoft Town v Leiston",
+          "odds": [
+            "1.66",
+            "4.00",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Needham Market v St Ives Town",
+          "odds": [
+            "1.80",
+            "3.75",
+            "3.40"
+          ]
+        },
+        {
+          "label": "AFC Rushden & Diamonds v Peterborough Sports",
+          "odds": [
+            "2.50",
+            "3.75",
+            "2.25"
+          ]
+        },
+        {
+          "label": "Alvechurch v Bromsgrove",
+          "odds": [
+            "4.33",
+            "4.00",
+            "1.57"
+          ]
+        },
+        {
+          "label": "Banbury v Stratford Town",
+          "odds": [
+            "1.40",
+            "4.75",
+            "5.25"
+          ]
+        },
+        {
+          "label": "Rushall Olympic v Hednesford",
+          "odds": [
+            "2.40",
+            "3.60",
+            "2.40"
+          ]
+        },
+        {
+          "label": "Stourbridge v Redditch",
+          "odds": [
+            "1.25",
+            "5.50",
+            "7.50"
+          ]
+        }
+      ]
+    },
+    "7698bf2a1f58f0c4d6d7d2d792fd162316542ac8": {
+      "id": "7698bf2a1f58f0c4d6d7d2d792fd162316542ac8",
+      "category": "Anglia - Development League U23",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42964496/F2/",
+      "labels": [
+        {
+          "label": "Bristol City U23 v QPR U23",
+          "odds": [
+            "2.10",
+            "4.00",
+            "2.60"
+          ]
+        }
+      ]
+    },
+    "13f51e554040c3432df1082937a2555e2eb63e1d": {
+      "id": "13f51e554040c3432df1082937a2555e2eb63e1d",
+      "category": "Scotia - Liga de Rezerve",
+      "group": "Regatul Unit",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44212308/F2/",
+      "labels": [
+        {
+          "label": "St Mirren - Rezerve v Motherwell - Rezerve",
+          "odds": [
+            "3.40",
+            "5.00",
+            "1.61"
+          ]
+        },
+        {
+          "label": "Livingston - Rezerve v East Stirlingshire - Rezerve",
+          "odds": [
+            "1.28",
+            "6.50",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Albion - Rezerve v Queens Park - Rezerve",
+          "odds": [
+            "1.72",
+            "5.75",
+            "2.80"
+          ]
+        }
+      ]
+    },
+    "ea3404ba9dea81e72121ee409cf3c725ac6342bd": {
+      "id": "ea3404ba9dea81e72121ee409cf3c725ac6342bd",
+      "category": "Euro 2020",
+      "group": "Euro 2020",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44890765/F2/",
+      "labels": [
+        {
+          "label": "Turcia v Italia",
+          "odds": [
+            "6.50",
+            "3.80",
+            "1.53"
+          ]
+        },
+        {
+          "label": "Tara Galilor v Elvetia",
+          "odds": [
+            "3.10",
+            "3.20",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Danemarca v Finlanda",
+          "odds": [
+            "1.53",
+            "4.00",
+            "6.00"
+          ]
+        },
+        {
+          "label": "Belgia v Rusia",
+          "odds": [
+            "1.83",
+            "3.60",
+            "4.20"
+          ]
+        },
+        {
+          "label": "Anglia v Croatia",
+          "odds": [
+            "1.72",
+            "3.75",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Olanda v Ucraina",
+          "odds": [
+            "1.57",
+            "4.00",
+            "5.50"
+          ]
+        },
+        {
+          "label": "Spania v Suedia",
+          "odds": [
+            "1.36",
+            "4.75",
+            "8.00"
+          ]
+        },
+        {
+          "label": "Franta v Germania",
+          "odds": [
+            "3.10",
+            "3.25",
+            "2.30"
+          ]
+        }
+      ]
+    },
+    "63cd0a4d91ef83f6b0a7a7b7541e14304dbde9b4": {
+      "id": "63cd0a4d91ef83f6b0a7a7b7541e14304dbde9b4",
+      "category": "Calificari Euro 2020",
+      "group": "Euro 2020",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44263040/F2/",
+      "labels": [
+        {
+          "label": "Georgia v Belarus",
+          "odds": [
+            "2.25",
+            "3.10",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Norvegia v Serbia",
+          "odds": [
+            "2.60",
+            "3.20",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Bosnia-Hertegovina v Irlanda de Nord",
+          "odds": [
+            "1.75",
+            "3.50",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Bulgaria v Ungaria",
+          "odds": [
+            "3.40",
+            "3.30",
+            "2.15"
+          ]
+        },
+        {
+          "label": "Islanda v Romania",
+          "odds": [
+            "2.10",
+            "3.40",
+            "3.40"
+          ]
+        },
+        {
+          "label": "Macedonia de Nord v Kosovo",
+          "odds": [
+            "2.37",
+            "3.10",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Scotia v Israel",
+          "odds": [
+            "1.80",
+            "3.50",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Slovacia v Irlanda",
+          "odds": [
+            "2.15",
+            "3.20",
+            "3.50"
+          ]
+        }
+      ]
+    },
+    "09d89ec2d5806f23d4cbe98e2d176283727f35d6": {
+      "id": "09d89ec2d5806f23d4cbe98e2d176283727f35d6",
+      "category": "Liga Campionilor UEFA",
+      "group": "Competitii UEFA",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43316955/F2/",
+      "labels": [
+        {
+          "label": "Atletico Madrid v Liverpool",
+          "odds": [
+            "2.75",
+            "3.30",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Borussia Dortmund v PSG",
+          "odds": [
+            "3.20",
+            "3.60",
+            "2.10"
+          ]
+        },
+        {
+          "label": "Atalanta v Valencia",
+          "odds": [
+            "2.05",
+            "3.30",
+            "3.60"
+          ]
+        },
+        {
+          "label": "Tottenham v RB Leipzig",
+          "odds": [
+            "2.00",
+            "3.60",
+            "3.50"
+          ]
+        },
+        {
+          "label": "Chelsea v Bayern Munchen",
+          "odds": [
+            "3.60",
+            "3.60",
+            "1.95"
+          ]
+        },
+        {
+          "label": "Napoli v Barcelona",
+          "odds": [
+            "3.50",
+            "3.75",
+            "1.95"
+          ]
+        },
+        {
+          "label": "Lyon v Juventus",
+          "odds": [
+            "4.60",
+            "3.60",
+            "1.75"
+          ]
+        },
+        {
+          "label": "Real Madrid v Man City",
+          "odds": [
+            "2.70",
+            "3.50",
+            "2.45"
+          ]
+        }
+      ]
+    },
+    "bf20d98868bbe084693309d7a79c2737170260de": {
+      "id": "bf20d98868bbe084693309d7a79c2737170260de",
+      "category": "UEFA - Liga Europa",
+      "group": "Competitii UEFA",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43330565/F2/",
+      "labels": [
+        {
+          "label": "CFR Cluj v Sevilla",
+          "odds": [
+            "4.33",
+            "3.50",
+            "1.83"
+          ]
+        },
+        {
+          "label": "Club Brugge v Man Utd",
+          "odds": [
+            "3.00",
+            "3.40",
+            "2.30"
+          ]
+        },
+        {
+          "label": "Eintracht Frankfurt v FC Salzburg",
+          "odds": [
+            "2.37",
+            "3.60",
+            "2.75"
+          ]
+        },
+        {
+          "label": "FC Copenhaga v Celtic",
+          "odds": [
+            "2.75",
+            "3.25",
+            "2.55"
+          ]
+        },
+        {
+          "label": "Getafe v Ajax",
+          "odds": [
+            "2.60",
+            "3.40",
+            "2.60"
+          ]
+        },
+        {
+          "label": "Ludogorets Razgrad v Inter Milano",
+          "odds": [
+            "4.50",
+            "3.80",
+            "1.72"
+          ]
+        },
+        {
+          "label": "Sahtior Donetk v Benfica",
+          "odds": [
+            "2.25",
+            "3.30",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Sporting v Istanbul Basaksehir",
+          "odds": [
+            "1.75",
+            "3.75",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Apoel Nicosia v Basel",
+          "odds": [
+            "2.87",
+            "3.25",
+            "2.45"
+          ]
+        },
+        {
+          "label": "AZ v LASK Linz",
+          "odds": [
+            "1.90",
+            "3.60",
+            "3.75"
+          ]
+        },
+        {
+          "label": "Bayer Leverkusen v FC Porto",
+          "odds": [
+            "1.90",
+            "3.40",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Olympiakos v Arsenal",
+          "odds": [
+            "3.20",
+            "3.40",
+            "2.20"
+          ]
+        },
+        {
+          "label": "Rangers v Braga",
+          "odds": [
+            "1.90",
+            "3.50",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Roma v Gent",
+          "odds": [
+            "1.44",
+            "4.33",
+            "7.50"
+          ]
+        },
+        {
+          "label": "Wolfsburg v Malmo FF",
+          "odds": [
+            "1.53",
+            "4.20",
+            "5.75"
+          ]
+        },
+        {
+          "label": "Wolverhampton v Espanyol",
+          "odds": [
+            "1.75",
+            "3.60",
+            "4.75"
+          ]
+        }
+      ]
+    },
+    "605f2f7dc83038ef1c749f5ece357328c9209e62": {
+      "id": "605f2f7dc83038ef1c749f5ece357328c9209e62",
+      "category": "Italia - Serie A",
+      "group": "Italia",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42856517/F2/",
+      "labels": [
+        {
+          "label": "Sassuolo v Napoli",
+          "odds": [
+            "5.25",
+            "4.33",
+            "1.61"
+          ]
+        },
+        {
+          "label": "Brescia v Lazio",
+          "odds": [
+            "5.25",
+            "4.33",
+            "1.55"
+          ]
+        },
+        {
+          "label": "Spal v Verona",
+          "odds": [
+            "2.50",
+            "3.30",
+            "2.75"
+          ]
+        },
+        {
+          "label": "Genoa v Sassuolo",
+          "odds": [
+            "2.25",
+            "3.40",
+            "3.10"
+          ]
+        },
+        {
+          "label": "Roma v Torino",
+          "odds": [
+            "1.44",
+            "4.33",
+            "7.00"
+          ]
+        },
+        {
+          "label": "Bologna v Fiorentina",
+          "odds": [
+            "2.37",
+            "3.40",
+            "2.87"
+          ]
+        },
+        {
+          "label": "AC Milan v Sampdoria",
+          "odds": [
+            "1.53",
+            "3.75",
+            "7.00"
+          ]
+        },
+        {
+          "label": "Atalanta v Parma",
+          "odds": [
+            "1.33",
+            "4.75",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Juventus v Cagliari",
+          "odds": [
+            "1.28",
+            "5.50",
+            "10.00"
+          ]
+        },
+        {
+          "label": "Lecce v Udinese",
+          "odds": [
+            "2.75",
+            "3.30",
+            "2.50"
+          ]
+        },
+        {
+          "label": "Napoli v Inter Milano",
+          "odds": [
+            "2.50",
+            "3.40",
+            "2.70"
+          ]
+        }
+      ]
+    },
+    "b18ed1cec2c3a74593cfaae05de2d7e8a7a92e5d": {
+      "id": "b18ed1cec2c3a74593cfaae05de2d7e8a7a92e5d",
+      "category": "Italia - Serie B",
+      "group": "Italia",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43062117/F2/",
+      "labels": [
+        {
+          "label": "Pordenone v Ascoli",
+          "odds": [
+            "1.95",
+            "3.40",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Cosenza v Empoli",
+          "odds": [
+            "2.40",
+            "3.20",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Chievo v Benevento",
+          "odds": [
+            "2.87",
+            "3.10",
+            "2.55"
+          ]
+        },
+        {
+          "label": "Cremonese v Juve Stabia",
+          "odds": [
+            "1.85",
+            "3.30",
+            "4.50"
+          ]
+        },
+        {
+          "label": "Frosinone v Crotone",
+          "odds": [
+            "1.95",
+            "3.30",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Livorno v Pescara",
+          "odds": [
+            "2.25",
+            "3.30",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Salernitana v Pordenone",
+          "odds": [
+            "2.37",
+            "3.20",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Trapani v Perugia",
+          "odds": [
+            "2.37",
+            "3.25",
+            "3.00"
+          ]
+        },
+        {
+          "label": "Venezia v Cittadella",
+          "odds": [
+            "2.87",
+            "3.00",
+            "2.62"
+          ]
+        },
+        {
+          "label": "Ascoli v Pisa",
+          "odds": [
+            "1.90",
+            "3.40",
+            "4.00"
+          ]
+        },
+        {
+          "label": "Virtus Entella v Spezia",
+          "odds": [
+            "2.40",
+            "3.25",
+            "2.90"
+          ]
+        }
+      ]
+    },
+    "76c3c1a888c7a0e9eac9bf4fe0b7821bff071fdf": {
+      "id": "76c3c1a888c7a0e9eac9bf4fe0b7821bff071fdf",
+      "category": "Spania - Primera Liga",
+      "group": "Spania",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42493286/F2/",
+      "labels": [
+        {
+          "label": "Real Madrid v Athletic Bilbao",
+          "odds": [
+            "1.33",
+            "5.25",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Valladolid v Leganes",
+          "odds": [
+            "2.40",
+            "3.00",
+            "3.20"
+          ]
+        },
+        {
+          "label": "Sevilla v Athletic Bilbao",
+          "odds": [
+            "1.72",
+            "3.60",
+            "4.75"
+          ]
+        },
+        {
+          "label": "Valencia v Eibar",
+          "odds": [
+            "1.66",
+            "3.75",
+            "5.00"
+          ]
+        },
+        {
+          "label": "Getafe v Real Madrid",
+          "odds": [
+            "4.20",
+            "3.75",
+            "1.80"
+          ]
+        },
+        {
+          "label": "Atletico Madrid v Levante",
+          "odds": [
+            "1.33",
+            "5.00",
+            "9.00"
+          ]
+        },
+        {
+          "label": "Espanyol v Barcelona",
+          "odds": [
+            "7.00",
+            "5.25",
+            "1.36"
+          ]
+        },
+        {
+          "label": "Granada v Mallorca",
+          "odds": [
+            "1.85",
+            "3.40",
+            "4.33"
+          ]
+        },
+        {
+          "label": "Real Sociedad v Villarreal",
+          "odds": [
+            "2.00",
+            "3.50",
+            "3.60"
+          ]
+        },
+        {
+          "label": "CD Alaves v Real Betis",
+          "odds": [
+            "2.60",
+            "3.20",
+            "2.70"
+          ]
+        },
+        {
+          "label": "Celta Vigo v Osasuna",
+          "odds": [
+            "1.95",
+            "3.30",
+            "3.80"
+          ]
+        }
+      ]
+    },
+    "fe6410d27dc57f775185c8ab9f22275dae41b5cc": {
+      "id": "fe6410d27dc57f775185c8ab9f22275dae41b5cc",
+      "category": "Spania - Supercupa",
+      "group": "Spania",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44534846/F2/",
+      "labels": [
+        {
+          "label": "Valencia v Real Madrid",
+          "odds": [
+            "3.75",
+            "3.60",
+            "1.90"
+          ]
+        },
+        {
+          "label": "Barcelona v Atletico Madrid",
+          "odds": [
+            "1.75",
+            "3.80",
+            "4.50"
+          ]
+        }
+      ]
+    },
+    "f08bcd6e27dda51c0ade7cc3b4c83152e336ae31": {
+      "id": "f08bcd6e27dda51c0ade7cc3b4c83152e336ae31",
+      "category": "Spania - Primera - Feminin",
+      "group": "Spania",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44504378/F2/"
+    },
+    "a3c96a05918a7b4bf7d1286464fa46ccef73ebdc": {
+      "id": "a3c96a05918a7b4bf7d1286464fa46ccef73ebdc",
+      "category": "Germania - Bundesliga I",
+      "group": "Germania",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42422049/F2/"
+    },
+    "c38f129389a704df72cb111e02111a83a5aac4c2": {
+      "id": "c38f129389a704df72cb111e02111a83a5aac4c2",
+      "category": "Franta - Ligue 1",
+      "group": "Franta",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42481795/F2/"
+    },
+    "1badb2b720ea9e01835cbb8ed0728de2ecccbf0b": {
+      "id": "1badb2b720ea9e01835cbb8ed0728de2ecccbf0b",
+      "category": "Copa America",
+      "group": "Internationale",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44973732/F2/"
+    },
+    "4ede48ec56bea89e9a29f875a9bcde52c8242ce1": {
+      "id": "4ede48ec56bea89e9a29f875a9bcde52c8242ce1",
+      "category": "Australia - A League",
+      "group": "Australia",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43171095/F2/"
+    },
+    "ce691e015a79b65cd5dacf1a88eac83294e7080e": {
+      "id": "ce691e015a79b65cd5dacf1a88eac83294e7080e",
+      "category": "Arabia Saudita - Cupa",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45315171/F2/"
+    },
+    "6ca258c7ca06499d8d6d89cc98b814591ae3d744": {
+      "id": "6ca258c7ca06499d8d6d89cc98b814591ae3d744",
+      "category": "Bahrain - Premier League",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44355976/F2/"
+    },
+    "3c379354707d6a56237fc66e692bc6f39f80deb2": {
+      "id": "3c379354707d6a56237fc66e692bc6f39f80deb2",
+      "category": "Coasta de Fildes - Premier Division",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44188102/F2/"
+    },
+    "c2c002251fbdc9278006f5a6a6bc3d5544e98732": {
+      "id": "c2c002251fbdc9278006f5a6a6bc3d5544e98732",
+      "category": "Egipt - Divizia 1",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43607949/F2/"
+    },
+    "de4591c2deb7f447ad8148403dd174897b3bfbf5": {
+      "id": "de4591c2deb7f447ad8148403dd174897b3bfbf5",
+      "category": "Egipt - Divizia 2",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E39906160/F2/"
+    },
+    "f20829776ca6e4b635a6fd5c6d02de807a254cec": {
+      "id": "f20829776ca6e4b635a6fd5c6d02de807a254cec",
+      "category": "India - Bangalore - Super Division",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44283334/F2/"
+    },
+    "102ed25db22ea501e3c72c9c2eeb33dfaae0f293": {
+      "id": "102ed25db22ea501e3c72c9c2eeb33dfaae0f293",
+      "category": "Indonezia - Liga 3",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42537431/F2/"
+    },
+    "3836509db7e30bd634887deca39f38a1253db711": {
+      "id": "3836509db7e30bd634887deca39f38a1253db711",
+      "category": "Iran - Cupa",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45313333/F2/"
+    },
+    "bebb42bcb9d1dd3de261a01166498fc5ef7e8c93": {
+      "id": "bebb42bcb9d1dd3de261a01166498fc5ef7e8c93",
+      "category": "Japonia - Cupa",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44790555/F2/"
+    },
+    "68713f5ef2ef8d179d23762fce8ff37831f5e731": {
+      "id": "68713f5ef2ef8d179d23762fce8ff37831f5e731",
+      "category": "Maroc - GNF 1",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E26537564/F2/"
+    },
+    "1a17830c7cd0df7ac24c95c20c103ed4dec0eee3": {
+      "id": "1a17830c7cd0df7ac24c95c20c103ed4dec0eee3",
+      "category": "Mauritania - Divizia 1",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44050723/F2/"
+    },
+    "975c82f64ec9a99e48e3d74e0377e5ea7f6aa83c": {
+      "id": "975c82f64ec9a99e48e3d74e0377e5ea7f6aa83c",
+      "category": "Nepal - Divizia 1",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45185042/F2/"
+    },
+    "e20f742a55e698283b03685e226baf298d3a7e78": {
+      "id": "e20f742a55e698283b03685e226baf298d3a7e78",
+      "category": "Palestina - Gaza Strip Premier League",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45207328/F2/"
+    },
+    "bce18b2b016a61c519e2fc88195a169ea7cecde6": {
+      "id": "bce18b2b016a61c519e2fc88195a169ea7cecde6",
+      "category": "Qatar - Stars League",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42970448/F2/"
+    },
+    "8f4754717ac64705a459c8564f38a791cd004408": {
+      "id": "8f4754717ac64705a459c8564f38a791cd004408",
+      "category": "Senegal - Ligue 2",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45009913/F2/"
+    },
+    "fb1cf23b8ea39514b377fdf0708851c461d6398b": {
+      "id": "fb1cf23b8ea39514b377fdf0708851c461d6398b",
+      "category": "Meciuri internationale amicale",
+      "group": "Restul lumii",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E41304299/F2/"
+    },
+    "a81928c552b4ee138c55f08eca352016c8933ca2": {
+      "id": "a81928c552b4ee138c55f08eca352016c8933ca2",
+      "category": "Antigua si Barbuda - Premier Division",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44191141/F2/"
+    },
+    "00b8f43e6eeceeaba6f3d5d2d9da9e5fbaedc042": {
+      "id": "00b8f43e6eeceeaba6f3d5d2d9da9e5fbaedc042",
+      "category": "Bolivia - Clausura",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42493582/F2/"
+    },
+    "81398a0c5ae6c1e8a7f6f50507a740328697f06e": {
+      "id": "81398a0c5ae6c1e8a7f6f50507a740328697f06e",
+      "category": "Bolivia - Nacional B",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42775305/F2/"
+    },
+    "98dbbdde890b9e9cb561b377708f3fea1281115a": {
+      "id": "98dbbdde890b9e9cb561b377708f3fea1281115a",
+      "category": "Brazilia - Campeonato Carioca",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E45115411/F2/"
+    },
+    "8d3160549fddb846a8931e5f25533ec6022069e5": {
+      "id": "8d3160549fddb846a8931e5f25533ec6022069e5",
+      "category": "Ecuador - Segunda Division",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44932947/F2/"
+    },
+    "628c5a34c74f9325fd5516e3fde4601b4097e381": {
+      "id": "628c5a34c74f9325fd5516e3fde4601b4097e381",
+      "category": "El Salvador - Apertura",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42780107/F2/"
+    },
+    "2c4c3ee5ca9bf26a7f510964487c57b30f66c14c": {
+      "id": "2c4c3ee5ca9bf26a7f510964487c57b30f66c14c",
+      "category": "Guatemala - Liga de Rezerve",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E44818833/F2/"
+    },
+    "eb3579593d298629b02dfa55dfc518c2cd9fd01d": {
+      "id": "eb3579593d298629b02dfa55dfc518c2cd9fd01d",
+      "category": "Jamaica - Premier League",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E43216652/F2/"
+    },
+    "c80576d508a370232b5154c08278a035662aa8cc": {
+      "id": "c80576d508a370232b5154c08278a035662aa8cc",
+      "category": "Mexic - Apertura",
+      "group": "Americile",
+      "url": "https://www.bet365.com/#/AC/B1/C1/D13/E42499277/F2/"
+    }
+  }
+}

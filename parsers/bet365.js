@@ -1,11 +1,19 @@
 const Nightmare = require('nightmare')
+const low = require('lowdb')
+const FileSync = require('lowdb/adapters/FileSync')
+const crypto = require('crypto')
+const adapter = new FileSync('db.json')
+const db = low(adapter)
+
+db.defaults({ categories: {} }).write()
+
 const nightmare = Nightmare({
   show: true,
   // switches: {
   //   'proxy-server': 'http://82.77.55.46:8080',
   //   'ignore-certificate-errors': true
   // },
-  waitTimeout: 5000
+  waitTimeout: 30000
 })
 
 const contentQuery = `
@@ -23,9 +31,10 @@ const contentQuery = `
   > div.gl-MarketGroupContainer
 `
 
-module.exports = async () => {
+const init = async () => {
   try {
-    const values = []
+    if (db.get('categories').size() > 0) return
+
     const groups = await nightmare.goto('https://www.bet365.com/#/AS/B1/')
       .wait('.sm-SplashMarket')
       .wait(1000)
@@ -79,33 +88,68 @@ module.exports = async () => {
           button.click()
         }, { contentQuery, group, category })
 
-        await nightmare.wait('.gl-MarketGrid.gl-MarketGrid-paddingforlhs')
-        await nightmare.wait(1500)
+        const url = await nightmare.url()
+        await nightmare.wait(1000)
 
-        const odds = await nightmare.evaluate(() => {
-          return document.querySelector(`
-            body 
-              > div:nth-child(1) 
-              > div 
-              > div.wc-PageView 
-              > div.wc-PageView_Main 
-              > div 
-              > div.wcl-CommonElementStyle_PrematchCenter 
-              > div.cm-CouponModule 
-              > div 
-              > div.gll-MarketGroup.cm-CouponMarketGroup.cm-CouponMarketGroup_DropdownIsAvailable.cm-CouponMarketGroup_Open 
-              > div.gll-MarketGroup_Wrapper
-            `).innerHTML
-        })
-        values.push(odds)
+        const id = crypto.createHash('sha1').update(category).digest('hex')
+        db.set(`categories.${id}`, { id, category, group, url })
+          .write()
 
         await nightmare.back()
+        await nightmare.wait(1000)
+        if (!open) {
+          nightmare.evaluate(({ contentQuery, group }) => {
+            const groupContainer = document.querySelector(contentQuery)
+            const button = [...groupContainer.children]
+              .find((element) => element.querySelector('.sm-SplashMarket_Header').innerText.includes(group))
+            button.click()
+          }, { contentQuery, group })
+        }
         await nightmare.wait(1000)
       }
     }
     await nightmare.end()
-    return values
   } catch (error) {
-    // nothing
+    console.log(error)
   }
+}
+
+const fetchOdds = async () => {
+  const categoryList = Object.values(db.get('categories').value())
+  for (const category of categoryList) {
+    try {
+      const lists = await nightmare
+        .goto(category.url)
+        .wait('.sl-CouponParticipantWithBookCloses_Name')
+        .evaluate(() => {
+          return  [...document.querySelectorAll('.cm-CouponMarketGroup')]
+            .map((element) => {
+              const labels = [...element.querySelectorAll('.sl-CouponParticipantWithBookCloses_Name')]
+                .map((label) => label.innerText)
+              const odds = [...element.querySelectorAll('.gll-ParticipantOddsOnly_Odds')]
+                .map((odd) => odd.innerText)
+              return { labels, odds }
+            })
+        })
+      db.set(`categories.${category.id}.labels`,  lists
+        .map(({ labels, odds }) => {
+          return labels.map((label, index) => ({
+            label,
+            odds: [...Array(odds.length / labels.length)]
+              .map((_, column) =>  odds[column * labels.length + index])
+          }))
+        })
+        .flat())
+        .write()
+
+    } catch (error) {
+      console.log(error.message)
+    }
+
+  }
+}
+
+module.exports = {
+  fetchOdds,
+  init
 }
