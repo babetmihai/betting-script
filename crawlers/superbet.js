@@ -7,7 +7,7 @@ module.exports  = async () => {
       .goto('https://www.superbet.ro/pariuri-sportive/astazi')
       .wait()
       .evaluate(() => {})
-    db.set('quotes.superbet.quotes',  quotes)
+    db.set('quotes.superbet.quotes', quotes)
       .write()
 
   } catch (error) {
