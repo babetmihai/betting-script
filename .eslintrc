@@ -31,7 +31,6 @@
     "quotes": ["warn", "single"],
     "no-extra-semi": "warn",
     "no-extra-boolean-cast": "warn",
-    "no-console": "warn",
     "key-spacing": ["warn", {"beforeColon": false, "afterColon": true}],
     "comma-spacing": ["warn", {"before": false, "after": true}],
     "semi-spacing": ["warn", {"before": false, "after": true }],
