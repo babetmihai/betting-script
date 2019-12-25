@@ -1,4 +1,5 @@
-const bet365Parser = require('./parsers/bet365')
+const superbetCrawler = require('./crawlers/superbet')
 
-bet365Parser.init()
-  .then(() => bet365Parser.fetchOdds())
+Promise.resolve().then(async () => {
+  await superbetCrawler()
+})

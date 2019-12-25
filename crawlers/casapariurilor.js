@@ -1,14 +1,6 @@
-const Nightmare = require('nightmare')
-const db = require('../db')
 
-const nightmare = Nightmare({
-  show: true,
-  // switches: {
-  //   'proxy-server': 'http://82.77.55.46:8080',
-  //   'ignore-certificate-errors': true
-  // },
-  waitTimeout: 30000
-})
+const db = require('../core/lowdb')
+const nightmare = require('../core/nightmare')
 
 module.exports  = async () => {
   try {
