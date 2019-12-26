@@ -19,8 +19,12 @@ module.exports  = async () => {
           const team1 = match.querySelector('.event-summary__competitors-team1').innerText
           const team2 = match.querySelector('.event-summary__competitors-team2').innerText
           const odds = [...match.querySelectorAll('.pick__click-buffer')]
-            .filter((element) => ['X', '1', '2'].includes(element.querySelector('.market.actionable').innerText))
-            .map((element) => element.querySelector('.value.new.actionable').innerText)
+            .reduce((acc, element) => {
+              const id = element.querySelector('.market.actionable').innerText
+              const value = element.querySelector('.value.new.actionable').innerText
+              acc[id] = value
+              return acc
+            }, {})
           acc.push({ teams: `${team1} - ${team2}`, odds })
           lastMatch = match
         }
