@@ -4,6 +4,6 @@ const nightmare = require('./crawler')
 
 Promise.resolve().then(async () => {
   await casapariurilorCrawler()
-  // await superbetCrawler()
+  await superbetCrawler()
   await nightmare.end()
 })

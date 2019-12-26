@@ -40,7 +40,7 @@ module.exports  = async () => {
 
     db.set('casapariurilor', dataAcc.reduce((acc, { teams, odds }) => {
       const match = { id: getId(teams), teams, odds }
-      acc[match.id] = match
+      if (_.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())) acc[match.id] = match
       return acc
     }, {})).write()
   } catch (error) {

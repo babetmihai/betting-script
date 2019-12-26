@@ -3,6 +3,7 @@ const nightmare = require('../crawler')
 const { getId } = require('../utils')
 const _ = require('lodash')
 
+const ODD_TYPES = ['1', 'X', '2']
 module.exports  = async () => {
   try {
     await nightmare
@@ -11,7 +12,7 @@ module.exports  = async () => {
       .wait(1000)
     const dataAcc = []
     while (true) {
-      const newData = await nightmare.evaluate(() => {
+      const newData = await nightmare.evaluate((ODD_TYPES) => {
         let lastMatch
         const newDataAcc = []
         const matches = document.querySelectorAll('.event-row-container')
@@ -22,7 +23,7 @@ module.exports  = async () => {
             .reduce((oddAcc, element) => {
               const id = element.querySelector('.market.actionable').innerText
               const value = element.querySelector('.value.new.actionable').innerText
-              oddAcc[id] = value
+              if (ODD_TYPES.includes(id)) oddAcc[id] = value
               return oddAcc
             }, {})
           newDataAcc.push({ teams: `${team1} - ${team2}`, odds })
@@ -30,7 +31,7 @@ module.exports  = async () => {
         }
         lastMatch.scrollIntoView()
         return newDataAcc
-      })
+      }, ODD_TYPES)
 
       if (_.isEqual(_.last(dataAcc), _.last(newData))) break
       dataAcc.push(...newData)
@@ -39,7 +40,7 @@ module.exports  = async () => {
 
     db.set('superbet', dataAcc.reduce((acc, { teams, odds }) => {
       const match = { id: getId(teams), teams, odds }
-      acc[match.id] = match
+      if (_.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())) acc[match.id] = match
       return acc
     }, {})).write()
   } catch (error) {
