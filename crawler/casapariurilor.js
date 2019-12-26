@@ -1,6 +1,6 @@
 
-const db = require('../core/lowdb')
-const nightmare = require('../core/nightmare')
+const db = require('../db')
+const nightmare = require('../crawler')
 
 module.exports  = async () => {
   try {

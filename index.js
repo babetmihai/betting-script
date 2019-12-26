@@ -1,5 +1,5 @@
-const superbetCrawler = require('./crawlers/superbet')
-const nightmare = require('./core/nightmare')
+const superbetCrawler = require('./crawler/superbet')
+const nightmare = require('./crawler')
 
 Promise.resolve().then(async () => {
   await superbetCrawler()

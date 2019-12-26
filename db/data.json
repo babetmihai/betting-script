@@ -1,0 +1,7058 @@
+{
+  "superbet": [
+    {
+      "odds": [],
+      "teams": "Panathinaikos - Real Madrid"
+    },
+    {
+      "odds": [],
+      "teams": "Leicester - Liverpool"
+    },
+    {
+      "odds": [],
+      "teams": "Tottenham - Brighton"
+    },
+    {
+      "odds": [],
+      "teams": "Genk - Eupen"
+    },
+    {
+      "odds": [],
+      "teams": "Kortrijk - Cercle Brugge"
+    },
+    {
+      "odds": [],
+      "teams": "Cehia U20 - Rusia U20"
+    },
+    {
+      "odds": [],
+      "teams": "Cefn Druids - TNS"
+    },
+    {
+      "odds": [],
+      "teams": "Connah's Q. - Airbus"
+    },
+    {
+      "odds": [],
+      "teams": "Sheffield Utd - Watford"
+    },
+    {
+      "odds": [],
+      "teams": "Everton - Burnley"
+    },
+    {
+      "odds": [],
+      "teams": "Chelsea - Southampton"
+    },
+    {
+      "odds": [],
+      "teams": "Bournemouth - Arsenal"
+    },
+    {
+      "odds": [],
+      "teams": "St.Mirren - Celtic"
+    },
+    {
+      "odds": [],
+      "teams": "Rangers - Kilmarnock"
+    },
+    {
+      "odds": [],
+      "teams": "Larne - Carrick R."
+    },
+    {
+      "odds": [],
+      "teams": "Luton - Fulham"
+    },
+    {
+      "odds": [],
+      "teams": "Brentford - Swansea"
+    },
+    {
+      "odds": [],
+      "teams": "Sunderland - Bolton"
+    },
+    {
+      "odds": [],
+      "teams": "Burton A. - Tranmere R."
+    },
+    {
+      "odds": [],
+      "teams": "Swindon - Cambridge Utd"
+    },
+    {
+      "odds": [],
+      "teams": "Notts County - Maidenhead Utd"
+    },
+    {
+      "odds": [],
+      "teams": "Club Brugge - Zulte Waregem"
+    },
+    {
+      "odds": [],
+      "teams": "Ascoli - Pisa"
+    },
+    {
+      "odds": [],
+      "teams": "CSKA M. - Milano"
+    },
+    {
+      "odds": [],
+      "teams": "Goppingen - Kiel"
+    },
+    {
+      "odds": [],
+      "teams": "Leeds - Preston"
+    },
+    {
+      "odds": [],
+      "teams": "Manchester Utd - Newcastle"
+    },
+    {
+      "odds": [],
+      "teams": "Efes - Maccabi T.A."
+    },
+    {
+      "odds": [],
+      "teams": "D.R.Collins - Y.Wickmayer"
+    },
+    {
+      "odds": [],
+      "teams": "Panathinaikos - Real Madrid"
+    },
+    {
+      "odds": [],
+      "teams": "Leicester - Liverpool"
+    },
+    {
+      "odds": [],
+      "teams": "Tottenham - Brighton"
+    },
+    {
+      "odds": [],
+      "teams": "Genk - Eupen"
+    },
+    {
+      "odds": [],
+      "teams": "Kortrijk - Cercle Brugge"
+    },
+    {
+      "odds": [],
+      "teams": "Cehia U20 - Rusia U20"
+    },
+    {
+      "odds": [],
+      "teams": "Cefn Druids - TNS"
+    },
+    {
+      "odds": [],
+      "teams": "Connah's Q. - Airbus"
+    },
+    {
+      "odds": [],
+      "teams": "Sheffield Utd - Watford"
+    },
+    {
+      "odds": [],
+      "teams": "Everton - Burnley"
+    },
+    {
+      "odds": [],
+      "teams": "Chelsea - Southampton"
+    },
+    {
+      "odds": [],
+      "teams": "Bournemouth - Arsenal"
+    },
+    {
+      "odds": [],
+      "teams": "St.Mirren - Celtic"
+    },
+    {
+      "odds": [],
+      "teams": "Rangers - Kilmarnock"
+    },
+    {
+      "odds": [],
+      "teams": "Larne - Carrick R."
+    },
+    {
+      "odds": [],
+      "teams": "Luton - Fulham"
+    },
+    {
+      "odds": [],
+      "teams": "Brentford - Swansea"
+    },
+    {
+      "odds": [],
+      "teams": "Sunderland - Bolton"
+    },
+    {
+      "odds": [],
+      "teams": "Burton A. - Tranmere R."
+    },
+    {
+      "odds": [],
+      "teams": "Swindon - Cambridge Utd"
+    },
+    {
+      "odds": [],
+      "teams": "Notts County - Maidenhead Utd"
+    },
+    {
+      "odds": [],
+      "teams": "Club Brugge - Zulte Waregem"
+    },
+    {
+      "odds": [],
+      "teams": "Ascoli - Pisa"
+    },
+    {
+      "odds": [],
+      "teams": "CSKA M. - Milano"
+    },
+    {
+      "odds": [],
+      "teams": "Goppingen - Kiel"
+    },
+    {
+      "odds": [],
+      "teams": "Leeds - Preston"
+    },
+    {
+      "odds": [],
+      "teams": "Manchester Utd - Newcastle"
+    },
+    {
+      "odds": [],
+      "teams": "Efes - Maccabi T.A."
+    },
+    {
+      "odds": [],
+      "teams": "D.R.Collins - Y.Wickmayer"
+    },
+    {
+      "odds": [
+        "1.58",
+        "4.35",
+        "5.60"
+      ],
+      "teams": "Tottenham - Brighton"
+    },
+    {
+      "odds": [
+        "1.45",
+        "4.55",
+        "7.00"
+      ],
+      "teams": "Genk - Eupen"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.60",
+        "4.80"
+      ],
+      "teams": "Sheffield Utd - Watford"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.70",
+        "5.00"
+      ],
+      "teams": "Everton - Burnley"
+    },
+    {
+      "odds": [
+        "2.40",
+        "3.30",
+        "3.10"
+      ],
+      "teams": "Crystal Palace - West Ham"
+    },
+    {
+      "odds": [
+        "1.40",
+        "5.00",
+        "7.85"
+      ],
+      "teams": "Chelsea - Southampton"
+    },
+    {
+      "odds": [
+        "4.00",
+        "3.90",
+        "1.87"
+      ],
+      "teams": "Bournemouth - Arsenal"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.70",
+        "3.20"
+      ],
+      "teams": "Aston Villa - Norwich"
+    },
+    {
+      "odds": [
+        "1.38",
+        "5.00",
+        "8.55"
+      ],
+      "teams": "Manchester Utd - Newcastle"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.55",
+        "2.20"
+      ],
+      "teams": "Leicester - Liverpool"
+    },
+    {
+      "odds": [
+        "1.58",
+        "4.35",
+        "5.60"
+      ],
+      "teams": "Tottenham - Brighton"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.60",
+        "4.80"
+      ],
+      "teams": "Sheffield Utd - Watford"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.70",
+        "5.00"
+      ],
+      "teams": "Everton - Burnley"
+    },
+    {
+      "odds": [
+        "2.40",
+        "3.30",
+        "3.10"
+      ],
+      "teams": "Crystal Palace - West Ham"
+    },
+    {
+      "odds": [
+        "1.40",
+        "5.00",
+        "7.85"
+      ],
+      "teams": "Chelsea - Southampton"
+    },
+    {
+      "odds": [
+        "4.00",
+        "3.90",
+        "1.87"
+      ],
+      "teams": "Bournemouth - Arsenal"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.70",
+        "3.20"
+      ],
+      "teams": "Aston Villa - Norwich"
+    },
+    {
+      "odds": [
+        "1.38",
+        "5.00",
+        "8.55"
+      ],
+      "teams": "Manchester Utd - Newcastle"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.55",
+        "2.20"
+      ],
+      "teams": "Leicester - Liverpool"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.20",
+        "3.05"
+      ],
+      "teams": "Wigan - Derby"
+    },
+    {
+      "odds": [
+        "2.80",
+        "3.05",
+        "2.75"
+      ],
+      "teams": "Stoke - Sheffield Wed."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.25"
+      ],
+      "teams": "Middlesbrough - Huddersfield"
+    },
+    {
+      "odds": [
+        "4.30",
+        "4.05",
+        "1.75"
+      ],
+      "teams": "Luton - Fulham"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.45",
+        "3.50"
+      ],
+      "teams": "Hull - Nott.Forest"
+    },
+    {
+      "odds": [
+        "2.95",
+        "3.30",
+        "2.45"
+      ],
+      "teams": "Charlton - Bristol City"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.10",
+        "3.30"
+      ],
+      "teams": "Cardiff - Millwall"
+    },
+    {
+      "odds": [
+        "1.62",
+        "4.10",
+        "5.25"
+      ],
+      "teams": "Brentford - Swansea"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.20",
+        "3.50"
+      ],
+      "teams": "Blackburn - Birmingham"
+    },
+    {
+      "odds": [
+        "3.85",
+        "3.75",
+        "1.90"
+      ],
+      "teams": "Barnsley - WBA"
+    },
+    {
+      "odds": [
+        "1.45",
+        "4.40",
+        "7.40"
+      ],
+      "teams": "Leeds - Preston"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.45",
+        "2.95"
+      ],
+      "teams": "Reading - QPR"
+    },
+    {
+      "odds": [
+        "1.58",
+        "4.35",
+        "5.60"
+      ],
+      "teams": "Tottenham - Brighton"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.60",
+        "4.80"
+      ],
+      "teams": "Sheffield Utd - Watford"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.70",
+        "5.00"
+      ],
+      "teams": "Everton - Burnley"
+    },
+    {
+      "odds": [
+        "2.40",
+        "3.30",
+        "3.10"
+      ],
+      "teams": "Crystal Palace - West Ham"
+    },
+    {
+      "odds": [
+        "1.40",
+        "5.00",
+        "7.85"
+      ],
+      "teams": "Chelsea - Southampton"
+    },
+    {
+      "odds": [
+        "4.00",
+        "3.90",
+        "1.87"
+      ],
+      "teams": "Bournemouth - Arsenal"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.70",
+        "3.20"
+      ],
+      "teams": "Aston Villa - Norwich"
+    },
+    {
+      "odds": [
+        "1.38",
+        "5.00",
+        "8.55"
+      ],
+      "teams": "Manchester Utd - Newcastle"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.55",
+        "2.20"
+      ],
+      "teams": "Leicester - Liverpool"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.20",
+        "3.05"
+      ],
+      "teams": "Wigan - Derby"
+    },
+    {
+      "odds": [
+        "2.80",
+        "3.05",
+        "2.75"
+      ],
+      "teams": "Stoke - Sheffield Wed."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.25"
+      ],
+      "teams": "Middlesbrough - Huddersfield"
+    },
+    {
+      "odds": [
+        "4.30",
+        "4.05",
+        "1.75"
+      ],
+      "teams": "Luton - Fulham"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.45",
+        "3.50"
+      ],
+      "teams": "Hull - Nott.Forest"
+    },
+    {
+      "odds": [
+        "2.95",
+        "3.30",
+        "2.45"
+      ],
+      "teams": "Charlton - Bristol City"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.10",
+        "3.30"
+      ],
+      "teams": "Cardiff - Millwall"
+    },
+    {
+      "odds": [
+        "1.62",
+        "4.10",
+        "5.25"
+      ],
+      "teams": "Brentford - Swansea"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.20",
+        "3.50"
+      ],
+      "teams": "Blackburn - Birmingham"
+    },
+    {
+      "odds": [
+        "3.85",
+        "3.75",
+        "1.90"
+      ],
+      "teams": "Barnsley - WBA"
+    },
+    {
+      "odds": [
+        "1.45",
+        "4.40",
+        "7.40"
+      ],
+      "teams": "Leeds - Preston"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.45",
+        "2.95"
+      ],
+      "teams": "Reading - QPR"
+    },
+    {
+      "odds": [
+        "1.48",
+        "4.40",
+        "6.15"
+      ],
+      "teams": "Sunderland - Bolton"
+    },
+    {
+      "odds": [
+        "3.20",
+        "3.35",
+        "2.20"
+      ],
+      "teams": "Southend - MK Dons"
+    },
+    {
+      "odds": [
+        "2.75",
+        "3.20",
+        "2.60"
+      ],
+      "teams": "Shrewsbury - Rotherham"
+    },
+    {
+      "odds": [
+        "4.35",
+        "3.50",
+        "1.82"
+      ],
+      "teams": "Rochdale - Fleetwood"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.40",
+        "4.35"
+      ],
+      "teams": "Portsmouth - Wycombe"
+    },
+    {
+      "odds": [
+        "1.88",
+        "3.70",
+        "3.80"
+      ],
+      "teams": "Peterborough - Doncaster"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.35",
+        "4.75"
+      ],
+      "teams": "Oxford Utd - Lincoln City"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.20",
+        "3.80"
+      ],
+      "teams": "Ipswich - Gillingham"
+    },
+    {
+      "odds": [
+        "1.55",
+        "4.05",
+        "5.75"
+      ],
+      "teams": "Burton A. - Tranmere R."
+    },
+    {
+      "odds": [
+        "1.67",
+        "3.80",
+        "4.90"
+      ],
+      "teams": "Bristol R. - Wimbledon"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.30",
+        "3.15"
+      ],
+      "teams": "Blackpool - Accrington"
+    },
+    {
+      "odds": [
+        "2.70",
+        "3.25",
+        "2.60"
+      ],
+      "teams": "Leyton O. - Colchester"
+    },
+    {
+      "odds": [
+        "2.85",
+        "3.20",
+        "2.50"
+      ],
+      "teams": "Macclesfield - Grimsby"
+    },
+    {
+      "odds": [
+        "1.70",
+        "3.65",
+        "4.90"
+      ],
+      "teams": "Swindon - Cambridge Utd"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.20",
+        "2.35"
+      ],
+      "teams": "Stevenage - Forest Green"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.35",
+        "3.35"
+      ],
+      "teams": "Scunthorpe - Walsall"
+    },
+    {
+      "odds": [
+        "3.35",
+        "3.40",
+        "2.12"
+      ],
+      "teams": "Salford C. - Crewe"
+    },
+    {
+      "odds": [
+        "2.80",
+        "3.25",
+        "2.50"
+      ],
+      "teams": "Morecambe - Oldham"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.30",
+        "3.35"
+      ],
+      "teams": "Mansfield - Port Vale"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.40",
+        "4.35"
+      ],
+      "teams": "Exeter - Newport"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.35",
+        "2.60"
+      ],
+      "teams": "Crawley - Northampton"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.30",
+        "2.75"
+      ],
+      "teams": "Cheltenham - Plymouth"
+    },
+    {
+      "odds": [
+        "3.25",
+        "3.30",
+        "2.20"
+      ],
+      "teams": "Carlisle - Bradford C."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.00"
+      ],
+      "teams": "Woking - Sutton Utd"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.00"
+      ],
+      "teams": "Dag & Red - Ebbsfleet"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.30",
+        "3.00"
+      ],
+      "teams": "Barnet - Boreham W."
+    },
+    {
+      "odds": [
+        "3.35",
+        "3.30",
+        "2.10"
+      ],
+      "teams": "Chesterfield - Solihull Moors"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.45",
+        "3.20"
+      ],
+      "teams": "Barrow - AFC Fylde"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.50",
+        "4.20"
+      ],
+      "teams": "Wrexham - Chorley"
+    },
+    {
+      "odds": [
+        "1.52",
+        "4.20",
+        "5.40"
+      ],
+      "teams": "Notts County - Maidenhead Utd"
+    },
+    {
+      "odds": [
+        "2.70",
+        "3.35",
+        "2.45"
+      ],
+      "teams": "Dover - Bromley"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.65",
+        "2.85"
+      ],
+      "teams": "Harrogate - Hartlepool"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.75",
+        "3.90"
+      ],
+      "teams": "Yeovil - Torquay"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.25",
+        "2.90"
+      ],
+      "teams": "Stockport - Halifax"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.55",
+        "3.90"
+      ],
+      "teams": "Eastleigh - Aldershot"
+    },
+    {
+      "odds": [
+        "1.48",
+        "4.40",
+        "6.15"
+      ],
+      "teams": "Sunderland - Bolton"
+    },
+    {
+      "odds": [
+        "3.20",
+        "3.35",
+        "2.20"
+      ],
+      "teams": "Southend - MK Dons"
+    },
+    {
+      "odds": [
+        "2.75",
+        "3.20",
+        "2.60"
+      ],
+      "teams": "Shrewsbury - Rotherham"
+    },
+    {
+      "odds": [
+        "4.35",
+        "3.50",
+        "1.82"
+      ],
+      "teams": "Rochdale - Fleetwood"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.40",
+        "4.35"
+      ],
+      "teams": "Portsmouth - Wycombe"
+    },
+    {
+      "odds": [
+        "1.88",
+        "3.70",
+        "3.80"
+      ],
+      "teams": "Peterborough - Doncaster"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.35",
+        "4.75"
+      ],
+      "teams": "Oxford Utd - Lincoln City"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.20",
+        "3.80"
+      ],
+      "teams": "Ipswich - Gillingham"
+    },
+    {
+      "odds": [
+        "1.55",
+        "4.05",
+        "5.75"
+      ],
+      "teams": "Burton A. - Tranmere R."
+    },
+    {
+      "odds": [
+        "1.67",
+        "3.80",
+        "4.90"
+      ],
+      "teams": "Bristol R. - Wimbledon"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.30",
+        "3.15"
+      ],
+      "teams": "Blackpool - Accrington"
+    },
+    {
+      "odds": [
+        "2.70",
+        "3.25",
+        "2.60"
+      ],
+      "teams": "Leyton O. - Colchester"
+    },
+    {
+      "odds": [
+        "2.85",
+        "3.20",
+        "2.50"
+      ],
+      "teams": "Macclesfield - Grimsby"
+    },
+    {
+      "odds": [
+        "1.70",
+        "3.65",
+        "4.90"
+      ],
+      "teams": "Swindon - Cambridge Utd"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.20",
+        "2.35"
+      ],
+      "teams": "Stevenage - Forest Green"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.35",
+        "3.35"
+      ],
+      "teams": "Scunthorpe - Walsall"
+    },
+    {
+      "odds": [
+        "3.35",
+        "3.40",
+        "2.12"
+      ],
+      "teams": "Salford C. - Crewe"
+    },
+    {
+      "odds": [
+        "2.80",
+        "3.25",
+        "2.50"
+      ],
+      "teams": "Morecambe - Oldham"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.30",
+        "3.35"
+      ],
+      "teams": "Mansfield - Port Vale"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.40",
+        "4.35"
+      ],
+      "teams": "Exeter - Newport"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.35",
+        "2.60"
+      ],
+      "teams": "Crawley - Northampton"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.30",
+        "2.75"
+      ],
+      "teams": "Cheltenham - Plymouth"
+    },
+    {
+      "odds": [
+        "3.25",
+        "3.30",
+        "2.20"
+      ],
+      "teams": "Carlisle - Bradford C."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.00"
+      ],
+      "teams": "Woking - Sutton Utd"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.00"
+      ],
+      "teams": "Dag & Red - Ebbsfleet"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.30",
+        "3.00"
+      ],
+      "teams": "Barnet - Boreham W."
+    },
+    {
+      "odds": [
+        "3.35",
+        "3.30",
+        "2.10"
+      ],
+      "teams": "Chesterfield - Solihull Moors"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.45",
+        "3.20"
+      ],
+      "teams": "Barrow - AFC Fylde"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.50",
+        "4.20"
+      ],
+      "teams": "Wrexham - Chorley"
+    },
+    {
+      "odds": [
+        "1.52",
+        "4.20",
+        "5.40"
+      ],
+      "teams": "Notts County - Maidenhead Utd"
+    },
+    {
+      "odds": [
+        "2.70",
+        "3.35",
+        "2.45"
+      ],
+      "teams": "Dover - Bromley"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.65",
+        "2.85"
+      ],
+      "teams": "Harrogate - Hartlepool"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.75",
+        "3.90"
+      ],
+      "teams": "Yeovil - Torquay"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.25",
+        "2.90"
+      ],
+      "teams": "Stockport - Halifax"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.55",
+        "3.90"
+      ],
+      "teams": "Eastleigh - Aldershot"
+    },
+    {
+      "odds": [
+        "1.20",
+        "5.50",
+        "12.00"
+      ],
+      "teams": "ASO Chlef - Beni Douala"
+    },
+    {
+      "odds": [
+        "10.50",
+        "5.50",
+        "1.22"
+      ],
+      "teams": "AS Marsa - ES EL Ghozlane"
+    },
+    {
+      "odds": [
+        "1.08",
+        "8.50",
+        "18.50"
+      ],
+      "teams": "Paradou AC - FCB EL Arch"
+    },
+    {
+      "odds": [
+        "1.17",
+        "6.20",
+        "12.50"
+      ],
+      "teams": "WA Boufarik - USM Oran"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.10",
+        "3.65"
+      ],
+      "teams": "El Bayadh - IRB Lakhdaria"
+    },
+    {
+      "odds": [
+        "1.20",
+        "6.00",
+        "10.00"
+      ],
+      "teams": "ARB Ghriss - Mouloudia Oued Ch."
+    },
+    {
+      "odds": [
+        "3.50",
+        "3.25",
+        "2.00"
+      ],
+      "teams": "IR Boumedfaa - NT Souf"
+    },
+    {
+      "odds": [
+        "1.30",
+        "4.65",
+        "9.00"
+      ],
+      "teams": "AS Khroub - JS Bordj Menaiel"
+    },
+    {
+      "odds": [
+        "28.00",
+        "11.00",
+        "1.03"
+      ],
+      "teams": "AB Sabath - Hussein Dey"
+    },
+    {
+      "odds": [
+        "1.01",
+        "16.00",
+        "25.00"
+      ],
+      "teams": "MC Oran - MJ Arzew"
+    },
+    {
+      "odds": [
+        "4.55",
+        "3.25",
+        "1.75"
+      ],
+      "teams": "JSM Bejaia - ES Setif"
+    },
+    {
+      "odds": [
+        "1.47",
+        "4.30",
+        "5.80"
+      ],
+      "teams": "Gateshead - Blyth S."
+    },
+    {
+      "odds": [
+        "1.65",
+        "3.80",
+        "4.60"
+      ],
+      "teams": "Leamington - Gloucester"
+    },
+    {
+      "odds": [
+        "5.00",
+        "4.00",
+        "1.57"
+      ],
+      "teams": "Bradford PA - York"
+    },
+    {
+      "odds": [
+        "3.50",
+        "3.50",
+        "1.95"
+      ],
+      "teams": "Kettering T. - Brackley"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.40",
+        "2.55"
+      ],
+      "teams": "Darlington - Spennymoor T."
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.60",
+        "3.15"
+      ],
+      "teams": "Kings Lynn - Boston Utd"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.40",
+        "3.00"
+      ],
+      "teams": "AFC Telford - Alfreton T."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.35",
+        "2.75"
+      ],
+      "teams": "Guiseley - Farsley C."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.30",
+        "2.70"
+      ],
+      "teams": "Southport - Chester"
+    },
+    {
+      "odds": [
+        "2.85",
+        "3.20",
+        "2.37"
+      ],
+      "teams": "Curzon A. - Altrincham"
+    },
+    {
+      "odds": [
+        "2.30",
+        "3.30",
+        "2.90"
+      ],
+      "teams": "Kidderminster - Hereford"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.40",
+        "2.50"
+      ],
+      "teams": "Tonbridge - Maidstone Utd"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.35",
+        "2.55"
+      ],
+      "teams": "St Albans - Hemel H."
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.40",
+        "2.90"
+      ],
+      "teams": "Welling Utd - Dartford"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "3.00"
+      ],
+      "teams": "Concord R. - Billericay T."
+    },
+    {
+      "odds": [
+        "1.97",
+        "3.50",
+        "3.45"
+      ],
+      "teams": "Slough T. - Wealdstone"
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.80",
+        "3.65"
+      ],
+      "teams": "Oxford City - Hungerford T."
+    },
+    {
+      "odds": [
+        "1.67",
+        "3.80",
+        "4.45"
+      ],
+      "teams": "Dorking W. - Eastbourne B."
+    },
+    {
+      "odds": [
+        "1.55",
+        "3.85",
+        "5.50"
+      ],
+      "teams": "Bath City - Chippenham T."
+    },
+    {
+      "odds": [
+        "1.62",
+        "4.00",
+        "4.55"
+      ],
+      "teams": "Havant&Water - Weymouth"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.40",
+        "2.45"
+      ],
+      "teams": "Dulwich Hamlet - Hampton&Rich."
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.00",
+        "4.35"
+      ],
+      "teams": "Chelmsford - Braintree T."
+    },
+    {
+      "odds": [
+        "1.20",
+        "5.50",
+        "12.00"
+      ],
+      "teams": "ASO Chlef - Beni Douala"
+    },
+    {
+      "odds": [
+        "10.50",
+        "5.50",
+        "1.22"
+      ],
+      "teams": "AS Marsa - ES EL Ghozlane"
+    },
+    {
+      "odds": [
+        "1.08",
+        "8.50",
+        "18.50"
+      ],
+      "teams": "Paradou AC - FCB EL Arch"
+    },
+    {
+      "odds": [
+        "1.17",
+        "6.20",
+        "12.50"
+      ],
+      "teams": "WA Boufarik - USM Oran"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.10",
+        "3.65"
+      ],
+      "teams": "El Bayadh - IRB Lakhdaria"
+    },
+    {
+      "odds": [
+        "1.20",
+        "6.00",
+        "10.00"
+      ],
+      "teams": "ARB Ghriss - Mouloudia Oued Ch."
+    },
+    {
+      "odds": [
+        "3.50",
+        "3.25",
+        "2.00"
+      ],
+      "teams": "IR Boumedfaa - NT Souf"
+    },
+    {
+      "odds": [
+        "1.30",
+        "4.65",
+        "9.00"
+      ],
+      "teams": "AS Khroub - JS Bordj Menaiel"
+    },
+    {
+      "odds": [
+        "28.00",
+        "11.00",
+        "1.03"
+      ],
+      "teams": "AB Sabath - Hussein Dey"
+    },
+    {
+      "odds": [
+        "1.01",
+        "16.00",
+        "25.00"
+      ],
+      "teams": "MC Oran - MJ Arzew"
+    },
+    {
+      "odds": [
+        "4.55",
+        "3.25",
+        "1.75"
+      ],
+      "teams": "JSM Bejaia - ES Setif"
+    },
+    {
+      "odds": [
+        "1.47",
+        "4.30",
+        "5.80"
+      ],
+      "teams": "Gateshead - Blyth S."
+    },
+    {
+      "odds": [
+        "1.65",
+        "3.80",
+        "4.60"
+      ],
+      "teams": "Leamington - Gloucester"
+    },
+    {
+      "odds": [
+        "5.00",
+        "4.00",
+        "1.57"
+      ],
+      "teams": "Bradford PA - York"
+    },
+    {
+      "odds": [
+        "3.50",
+        "3.50",
+        "1.95"
+      ],
+      "teams": "Kettering T. - Brackley"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.40",
+        "2.55"
+      ],
+      "teams": "Darlington - Spennymoor T."
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.60",
+        "3.15"
+      ],
+      "teams": "Kings Lynn - Boston Utd"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.40",
+        "3.00"
+      ],
+      "teams": "AFC Telford - Alfreton T."
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.35",
+        "2.75"
+      ],
+      "teams": "Guiseley - Farsley C."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.30",
+        "2.70"
+      ],
+      "teams": "Southport - Chester"
+    },
+    {
+      "odds": [
+        "2.85",
+        "3.20",
+        "2.37"
+      ],
+      "teams": "Curzon A. - Altrincham"
+    },
+    {
+      "odds": [
+        "2.30",
+        "3.30",
+        "2.90"
+      ],
+      "teams": "Kidderminster - Hereford"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.40",
+        "2.50"
+      ],
+      "teams": "Tonbridge - Maidstone Utd"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.35",
+        "2.55"
+      ],
+      "teams": "St Albans - Hemel H."
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.40",
+        "2.90"
+      ],
+      "teams": "Welling Utd - Dartford"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "3.00"
+      ],
+      "teams": "Concord R. - Billericay T."
+    },
+    {
+      "odds": [
+        "1.97",
+        "3.50",
+        "3.45"
+      ],
+      "teams": "Slough T. - Wealdstone"
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.80",
+        "3.65"
+      ],
+      "teams": "Oxford City - Hungerford T."
+    },
+    {
+      "odds": [
+        "1.67",
+        "3.80",
+        "4.45"
+      ],
+      "teams": "Dorking W. - Eastbourne B."
+    },
+    {
+      "odds": [
+        "1.55",
+        "3.85",
+        "5.50"
+      ],
+      "teams": "Bath City - Chippenham T."
+    },
+    {
+      "odds": [
+        "1.62",
+        "4.00",
+        "4.55"
+      ],
+      "teams": "Havant&Water - Weymouth"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.40",
+        "2.45"
+      ],
+      "teams": "Dulwich Hamlet - Hampton&Rich."
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.00",
+        "4.35"
+      ],
+      "teams": "Chelmsford - Braintree T."
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.75",
+        "3.85"
+      ],
+      "teams": "Folkestone Inv. - Margate"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.55",
+        "3.60"
+      ],
+      "teams": "Cray W. - Leatherhead"
+    },
+    {
+      "odds": [
+        "2.30",
+        "3.45",
+        "2.70"
+      ],
+      "teams": "Worthing - Horsham"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.55",
+        "3.05"
+      ],
+      "teams": "Enfield T. - Haringey Bor."
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.40",
+        "2.40"
+      ],
+      "teams": "Lewes - Bognor Regis"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.65",
+        "1.95"
+      ],
+      "teams": "Whitby T. - South Shields"
+    },
+    {
+      "odds": [
+        "1.95",
+        "3.65",
+        "3.25"
+      ],
+      "teams": "Warrington T. - Witton Albion"
+    },
+    {
+      "odds": [
+        "3.00",
+        "3.65",
+        "2.05"
+      ],
+      "teams": "Scarborough Ath. - Morpeth T."
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.75",
+        "3.65"
+      ],
+      "teams": "Radcliffe - Ath.Collieries"
+    },
+    {
+      "odds": [
+        "1.70",
+        "3.80",
+        "4.10"
+      ],
+      "teams": "Nantwich T. - Stafford R."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.60",
+        "2.40"
+      ],
+      "teams": "Mickleover - Basford Utd"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.60",
+        "2.80"
+      ],
+      "teams": "Matlock T. - Buxton"
+    },
+    {
+      "odds": [
+        "1.55",
+        "4.00",
+        "4.90"
+      ],
+      "teams": "Lancaster C. - Bamber Bridge"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.80",
+        "2.75"
+      ],
+      "teams": "Hyde Utd - Stalybridge C."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.70",
+        "2.75"
+      ],
+      "teams": "Grantham T. - Gainsborough Tr."
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.80",
+        "3.78"
+      ],
+      "teams": "Tamworth - Nuneaton Bor."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.45"
+      ],
+      "teams": "Kings Langley - Royston T."
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.70",
+        "3.55"
+      ],
+      "teams": "Needham M. - St Ives T."
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.60",
+        "3.15"
+      ],
+      "teams": "Coalville Town - Barwell"
+    },
+    {
+      "odds": [
+        "1.68",
+        "4.05",
+        "3.90"
+      ],
+      "teams": "Lowestoft T. - Leiston"
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.70",
+        "3.55"
+      ],
+      "teams": "Biggleswade T. - Hitchin T."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.45"
+      ],
+      "teams": "Rushall Ol. - Hednesford T."
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.60",
+        "2.35"
+      ],
+      "teams": "Rushden&Diam. - Peterborough Sp."
+    },
+    {
+      "odds": [
+        "1.40",
+        "4.65",
+        "5.90"
+      ],
+      "teams": "Banbury Utd - Stratford T."
+    },
+    {
+      "odds": [
+        "1.23",
+        "5.85",
+        "8.70"
+      ],
+      "teams": "Stourbridge - Redditch Utd"
+    },
+    {
+      "odds": [
+        "4.30",
+        "4.15",
+        "1.60"
+      ],
+      "teams": "Alvechurch - Bromsgrove Sp."
+    },
+    {
+      "odds": [
+        "5.25",
+        "4.15",
+        "1.50"
+      ],
+      "teams": "Dorchester T. - Poole T."
+    },
+    {
+      "odds": [
+        "1.95",
+        "3.75",
+        "3.15"
+      ],
+      "teams": "Hendon - Harrow Bor."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "2.90"
+      ],
+      "teams": "Truro C. - Tiverton T."
+    },
+    {
+      "odds": [
+        "2.90",
+        "3.50",
+        "2.15"
+      ],
+      "teams": "Blackfield & Lang. - Gosport Bor."
+    },
+    {
+      "odds": [
+        "1.68",
+        "3.95",
+        "4.00"
+      ],
+      "teams": "Salisbury - Wimborne T."
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.85",
+        "3.75"
+      ],
+      "teams": "Taunton T. - Weston S.Mare"
+    },
+    {
+      "odds": [
+        "1.87",
+        "3.60",
+        "3.50"
+      ],
+      "teams": "Merthyr T. - Yate T."
+    },
+    {
+      "odds": [
+        "3.60",
+        "3.65",
+        "1.83"
+      ],
+      "teams": "Walton C. - Chesham Utd"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.45",
+        "2.45"
+      ],
+      "teams": "Hartley Wintney - Farnborough"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.75",
+        "3.85"
+      ],
+      "teams": "Folkestone Inv. - Margate"
+    },
+    {
+      "odds": [
+        "1.85",
+        "3.55",
+        "3.60"
+      ],
+      "teams": "Cray W. - Leatherhead"
+    },
+    {
+      "odds": [
+        "2.30",
+        "3.45",
+        "2.70"
+      ],
+      "teams": "Worthing - Horsham"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.55",
+        "3.05"
+      ],
+      "teams": "Enfield T. - Haringey Bor."
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.40",
+        "2.40"
+      ],
+      "teams": "Lewes - Bognor Regis"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.65",
+        "1.95"
+      ],
+      "teams": "Whitby T. - South Shields"
+    },
+    {
+      "odds": [
+        "1.95",
+        "3.65",
+        "3.25"
+      ],
+      "teams": "Warrington T. - Witton Albion"
+    },
+    {
+      "odds": [
+        "3.00",
+        "3.65",
+        "2.05"
+      ],
+      "teams": "Scarborough Ath. - Morpeth T."
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.75",
+        "3.65"
+      ],
+      "teams": "Radcliffe - Ath.Collieries"
+    },
+    {
+      "odds": [
+        "1.70",
+        "3.80",
+        "4.10"
+      ],
+      "teams": "Nantwich T. - Stafford R."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.60",
+        "2.40"
+      ],
+      "teams": "Mickleover - Basford Utd"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.60",
+        "2.80"
+      ],
+      "teams": "Matlock T. - Buxton"
+    },
+    {
+      "odds": [
+        "1.55",
+        "4.00",
+        "4.90"
+      ],
+      "teams": "Lancaster C. - Bamber Bridge"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.80",
+        "2.75"
+      ],
+      "teams": "Hyde Utd - Stalybridge C."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.70",
+        "2.75"
+      ],
+      "teams": "Grantham T. - Gainsborough Tr."
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.80",
+        "3.78"
+      ],
+      "teams": "Tamworth - Nuneaton Bor."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.45"
+      ],
+      "teams": "Kings Langley - Royston T."
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.70",
+        "3.55"
+      ],
+      "teams": "Needham M. - St Ives T."
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.60",
+        "3.15"
+      ],
+      "teams": "Coalville Town - Barwell"
+    },
+    {
+      "odds": [
+        "1.68",
+        "4.05",
+        "3.90"
+      ],
+      "teams": "Lowestoft T. - Leiston"
+    },
+    {
+      "odds": [
+        "1.83",
+        "3.70",
+        "3.55"
+      ],
+      "teams": "Biggleswade T. - Hitchin T."
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.45"
+      ],
+      "teams": "Rushall Ol. - Hednesford T."
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.60",
+        "2.35"
+      ],
+      "teams": "Rushden&Diam. - Peterborough Sp."
+    },
+    {
+      "odds": [
+        "1.40",
+        "4.65",
+        "5.90"
+      ],
+      "teams": "Banbury Utd - Stratford T."
+    },
+    {
+      "odds": [
+        "1.23",
+        "5.85",
+        "8.70"
+      ],
+      "teams": "Stourbridge - Redditch Utd"
+    },
+    {
+      "odds": [
+        "4.30",
+        "4.15",
+        "1.60"
+      ],
+      "teams": "Alvechurch - Bromsgrove Sp."
+    },
+    {
+      "odds": [
+        "5.25",
+        "4.15",
+        "1.50"
+      ],
+      "teams": "Dorchester T. - Poole T."
+    },
+    {
+      "odds": [
+        "1.95",
+        "3.75",
+        "3.15"
+      ],
+      "teams": "Hendon - Harrow Bor."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "2.90"
+      ],
+      "teams": "Truro C. - Tiverton T."
+    },
+    {
+      "odds": [
+        "2.90",
+        "3.50",
+        "2.15"
+      ],
+      "teams": "Blackfield & Lang. - Gosport Bor."
+    },
+    {
+      "odds": [
+        "1.68",
+        "3.95",
+        "4.00"
+      ],
+      "teams": "Salisbury - Wimborne T."
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.85",
+        "3.75"
+      ],
+      "teams": "Taunton T. - Weston S.Mare"
+    },
+    {
+      "odds": [
+        "1.87",
+        "3.60",
+        "3.50"
+      ],
+      "teams": "Merthyr T. - Yate T."
+    },
+    {
+      "odds": [
+        "3.60",
+        "3.65",
+        "1.83"
+      ],
+      "teams": "Walton C. - Chesham Utd"
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.45",
+        "2.45"
+      ],
+      "teams": "Hartley Wintney - Farnborough"
+    },
+    {
+      "odds": [
+        "1.52",
+        "4.15",
+        "5.00"
+      ],
+      "teams": "Al Raed - Al Adalh"
+    },
+    {
+      "odds": [
+        "5.25",
+        "4.40",
+        "1.47"
+      ],
+      "teams": "Al Hazem - Al Hilal R."
+    },
+    {
+      "odds": [
+        "1.45",
+        "4.55",
+        "7.00"
+      ],
+      "teams": "Genk - Eupen"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.55",
+        "3.05"
+      ],
+      "teams": "Waasland - St.Truiden"
+    },
+    {
+      "odds": [
+        "2.70",
+        "3.30",
+        "2.65"
+      ],
+      "teams": "Mouscron - KV Mechelen"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.90",
+        "4.20"
+      ],
+      "teams": "Kortrijk - Cercle Brugge"
+    },
+    {
+      "odds": [
+        "1.22",
+        "6.50",
+        "13.00"
+      ],
+      "teams": "Club Brugge - Zulte Waregem"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.50",
+        "2.70"
+      ],
+      "teams": "Standard - Gent"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.15",
+        "3.35"
+      ],
+      "teams": "Antigua - Municipal"
+    },
+    {
+      "odds": [
+        "3.55",
+        "3.55",
+        "1.87"
+      ],
+      "teams": "Chennai - FC Goa"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.35",
+        "4.45"
+      ],
+      "teams": "Glenavon - Dungannon"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.85",
+        "3.75"
+      ],
+      "teams": "Institute - Warrenpoint"
+    },
+    {
+      "odds": [
+        "1.92",
+        "3.60",
+        "3.55"
+      ],
+      "teams": "Crusaders - Cliftonville"
+    },
+    {
+      "odds": [
+        "3.15",
+        "3.80",
+        "2.00"
+      ],
+      "teams": "Glentoran - Linfield"
+    },
+    {
+      "odds": [
+        "1.48",
+        "4.45",
+        "5.55"
+      ],
+      "teams": "Coleraine - Ballymena"
+    },
+    {
+      "odds": [
+        "1.35",
+        "5.00",
+        "7.15"
+      ],
+      "teams": "Larne - Carrick R."
+    },
+    {
+      "odds": [
+        "3.65",
+        "4.35",
+        "1.70"
+      ],
+      "teams": "Knockbreda - Ards"
+    },
+    {
+      "odds": [
+        "3.25",
+        "4.05",
+        "1.85"
+      ],
+      "teams": "Loughgall - Portadown"
+    },
+    {
+      "odds": [
+        "1.25",
+        "6.00",
+        "7.65"
+      ],
+      "teams": "Ballinamallard - Dergview"
+    },
+    {
+      "odds": [
+        "2.90",
+        "3.80",
+        "2.05"
+      ],
+      "teams": "Ballyclare - Newry City"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.10",
+        "3.35"
+      ],
+      "teams": "Cosenza - Empoli"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.25",
+        "3.20"
+      ],
+      "teams": "Livorno - Pescara"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.05",
+        "2.45"
+      ],
+      "teams": "Chievo - Benevento"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.10",
+        "2.85"
+      ],
+      "teams": "Trapani - Perugia"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.30",
+        "3.80"
+      ],
+      "teams": "Frosinone - Crotone"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.10"
+      ],
+      "teams": "Salernitana - Pordenone"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.30",
+        "5.25"
+      ],
+      "teams": "Cremonese - Juve Stabia"
+    },
+    {
+      "odds": [
+        "2.75",
+        "3.00",
+        "2.70"
+      ],
+      "teams": "Venezia - Cittadella"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.50",
+        "4.45"
+      ],
+      "teams": "Ascoli - Pisa"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.10",
+        "3.00"
+      ],
+      "teams": "V.Entella - Spezia"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.15",
+        "3.35"
+      ],
+      "teams": "Antigua - Municipal"
+    },
+    {
+      "odds": [
+        "3.55",
+        "3.55",
+        "1.87"
+      ],
+      "teams": "Chennai - FC Goa"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.35",
+        "4.45"
+      ],
+      "teams": "Glenavon - Dungannon"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.85",
+        "3.75"
+      ],
+      "teams": "Institute - Warrenpoint"
+    },
+    {
+      "odds": [
+        "1.92",
+        "3.60",
+        "3.55"
+      ],
+      "teams": "Crusaders - Cliftonville"
+    },
+    {
+      "odds": [
+        "3.15",
+        "3.80",
+        "2.00"
+      ],
+      "teams": "Glentoran - Linfield"
+    },
+    {
+      "odds": [
+        "1.48",
+        "4.45",
+        "5.55"
+      ],
+      "teams": "Coleraine - Ballymena"
+    },
+    {
+      "odds": [
+        "1.35",
+        "5.00",
+        "7.15"
+      ],
+      "teams": "Larne - Carrick R."
+    },
+    {
+      "odds": [
+        "3.65",
+        "4.35",
+        "1.70"
+      ],
+      "teams": "Knockbreda - Ards"
+    },
+    {
+      "odds": [
+        "3.25",
+        "4.05",
+        "1.85"
+      ],
+      "teams": "Loughgall - Portadown"
+    },
+    {
+      "odds": [
+        "1.25",
+        "6.00",
+        "7.65"
+      ],
+      "teams": "Ballinamallard - Dergview"
+    },
+    {
+      "odds": [
+        "2.90",
+        "3.80",
+        "2.05"
+      ],
+      "teams": "Ballyclare - Newry City"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.10",
+        "3.35"
+      ],
+      "teams": "Cosenza - Empoli"
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.25",
+        "3.20"
+      ],
+      "teams": "Livorno - Pescara"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.05",
+        "2.45"
+      ],
+      "teams": "Chievo - Benevento"
+    },
+    {
+      "odds": [
+        "2.55",
+        "3.10",
+        "2.85"
+      ],
+      "teams": "Trapani - Perugia"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.30",
+        "3.80"
+      ],
+      "teams": "Frosinone - Crotone"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.15",
+        "3.10"
+      ],
+      "teams": "Salernitana - Pordenone"
+    },
+    {
+      "odds": [
+        "1.75",
+        "3.30",
+        "5.25"
+      ],
+      "teams": "Cremonese - Juve Stabia"
+    },
+    {
+      "odds": [
+        "2.75",
+        "3.00",
+        "2.70"
+      ],
+      "teams": "Venezia - Cittadella"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.50",
+        "4.45"
+      ],
+      "teams": "Ascoli - Pisa"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.10",
+        "3.00"
+      ],
+      "teams": "V.Entella - Spezia"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.40",
+        "2.75"
+      ],
+      "teams": "Al Jahra - Al Salibikhaet"
+    },
+    {
+      "odds": [
+        "4.60",
+        "4.55",
+        "1.55"
+      ],
+      "teams": "Burgan SC - Kazma SC"
+    },
+    {
+      "odds": [
+        "1.50",
+        "4.40",
+        "5.20"
+      ],
+      "teams": "Al Qadsia - Al Arabi"
+    },
+    {
+      "odds": [
+        "2.40",
+        "3.50",
+        "2.60"
+      ],
+      "teams": "Al Shabab K. - Al Nasr Dubai"
+    },
+    {
+      "odds": [
+        "1.55",
+        "4.40",
+        "4.20"
+      ],
+      "teams": "Maziya SRC - TC Sports club"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.30",
+        "3.45"
+      ],
+      "teams": "Monterrey - Club America"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.25",
+        "2.70"
+      ],
+      "teams": "Hearts - Hibernian"
+    },
+    {
+      "odds": [
+        "14.50",
+        "6.70",
+        "1.18"
+      ],
+      "teams": "St.Mirren - Celtic"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.40",
+        "2.15"
+      ],
+      "teams": "Ross County - Motherwell"
+    },
+    {
+      "odds": [
+        "1.13",
+        "7.70",
+        "19.50"
+      ],
+      "teams": "Rangers - Kilmarnock"
+    },
+    {
+      "odds": [
+        "3.25",
+        "3.20",
+        "2.25"
+      ],
+      "teams": "Hamilton - St.Johnstone"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.25",
+        "3.90"
+      ],
+      "teams": "Aberdeen - Livingston"
+    },
+    {
+      "odds": [
+        "5.80",
+        "4.00",
+        "1.45"
+      ],
+      "teams": "Jableh SC - Al Wahda"
+    },
+    {
+      "odds": [
+        "3.60",
+        "3.00",
+        "2.00"
+      ],
+      "teams": "Al Taliya - Al Jaish SYR"
+    },
+    {
+      "odds": [
+        "3.25",
+        "2.90",
+        "2.25"
+      ],
+      "teams": "Coastal Union - Azam"
+    },
+    {
+      "odds": [
+        "6.10",
+        "4.80",
+        "1.40"
+      ],
+      "teams": "Cefn Druids - TNS"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.30",
+        "3.05"
+      ],
+      "teams": "Barry T. - Cardiff MU"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.70",
+        "3.85"
+      ],
+      "teams": "Newtown - Aberystwyth T."
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.60",
+        "2.75"
+      ],
+      "teams": "Carmarthen T. - Penybont"
+    },
+    {
+      "odds": [
+        "1.18",
+        "6.50",
+        "12.00"
+      ],
+      "teams": "Connah's Q. - Airbus"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.55"
+      ],
+      "teams": "Caernarfon T. - Bala T."
+    },
+    {
+      "odds": [
+        "2.95",
+        "1.35"
+      ],
+      "teams": "C.Harrison - J.Thompson"
+    },
+    {
+      "odds": [
+        "1.40",
+        "2.75"
+      ],
+      "teams": "D.R.Collins - Y.Wickmayer"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.30",
+        "3.45"
+      ],
+      "teams": "Monterrey - Club America"
+    },
+    {
+      "odds": [
+        "2.60",
+        "3.25",
+        "2.70"
+      ],
+      "teams": "Hearts - Hibernian"
+    },
+    {
+      "odds": [
+        "14.50",
+        "6.70",
+        "1.18"
+      ],
+      "teams": "St.Mirren - Celtic"
+    },
+    {
+      "odds": [
+        "3.30",
+        "3.40",
+        "2.15"
+      ],
+      "teams": "Ross County - Motherwell"
+    },
+    {
+      "odds": [
+        "1.13",
+        "7.70",
+        "19.50"
+      ],
+      "teams": "Rangers - Kilmarnock"
+    },
+    {
+      "odds": [
+        "3.25",
+        "3.20",
+        "2.25"
+      ],
+      "teams": "Hamilton - St.Johnstone"
+    },
+    {
+      "odds": [
+        "2.00",
+        "3.25",
+        "3.90"
+      ],
+      "teams": "Aberdeen - Livingston"
+    },
+    {
+      "odds": [
+        "5.80",
+        "4.00",
+        "1.45"
+      ],
+      "teams": "Jableh SC - Al Wahda"
+    },
+    {
+      "odds": [
+        "3.60",
+        "3.00",
+        "2.00"
+      ],
+      "teams": "Al Taliya - Al Jaish SYR"
+    },
+    {
+      "odds": [
+        "3.25",
+        "2.90",
+        "2.25"
+      ],
+      "teams": "Coastal Union - Azam"
+    },
+    {
+      "odds": [
+        "6.10",
+        "4.80",
+        "1.40"
+      ],
+      "teams": "Cefn Druids - TNS"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.30",
+        "3.05"
+      ],
+      "teams": "Barry T. - Cardiff MU"
+    },
+    {
+      "odds": [
+        "1.80",
+        "3.70",
+        "3.85"
+      ],
+      "teams": "Newtown - Aberystwyth T."
+    },
+    {
+      "odds": [
+        "2.25",
+        "3.60",
+        "2.75"
+      ],
+      "teams": "Carmarthen T. - Penybont"
+    },
+    {
+      "odds": [
+        "1.18",
+        "6.50",
+        "12.00"
+      ],
+      "teams": "Connah's Q. - Airbus"
+    },
+    {
+      "odds": [
+        "2.45",
+        "3.55",
+        "2.55"
+      ],
+      "teams": "Caernarfon T. - Bala T."
+    },
+    {
+      "odds": [
+        "2.95",
+        "1.35"
+      ],
+      "teams": "C.Harrison - J.Thompson"
+    },
+    {
+      "odds": [
+        "1.40",
+        "2.75"
+      ],
+      "teams": "D.R.Collins - Y.Wickmayer"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Detroit - Washington"
+    },
+    {
+      "odds": [
+        "1.38",
+        "16.00",
+        "3.60"
+      ],
+      "teams": "Brooklyn - New York"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.35"
+      ],
+      "teams": "Dallas - San Antonio"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.35"
+      ],
+      "teams": "Oklahoma - Memphis"
+    },
+    {
+      "odds": [
+        "1.65",
+        "15.00",
+        "2.55"
+      ],
+      "teams": "Sacramento - Minnesota"
+    },
+    {
+      "odds": [
+        "1.50",
+        "16.00",
+        "2.95"
+      ],
+      "teams": "Utah - Portland"
+    },
+    {
+      "odds": [
+        "1.35",
+        "17.00",
+        "3.75"
+      ],
+      "teams": "CSKA M. - Milano"
+    },
+    {
+      "odds": [
+        "1.37",
+        "16.00",
+        "3.65"
+      ],
+      "teams": "Efes - Maccabi T.A."
+    },
+    {
+      "odds": [
+        "1.90",
+        "15.00",
+        "2.10"
+      ],
+      "teams": "Alba Berlin - Baskonia"
+    },
+    {
+      "odds": [
+        "1.95",
+        "15.00",
+        "2.05"
+      ],
+      "teams": "Panathinaikos - Real Madrid"
+    },
+    {
+      "odds": [
+        "2.45",
+        "15.00",
+        "1.70"
+      ],
+      "teams": "Asvel - Khimki M."
+    },
+    {
+      "odds": [
+        "2.25",
+        "15.00",
+        "1.80"
+      ],
+      "teams": "Strasbourg - Dijon"
+    },
+    {
+      "odds": [
+        "1.12",
+        "20.00",
+        "8.10"
+      ],
+      "teams": "Bonn - Hamburg"
+    },
+    {
+      "odds": [
+        "1.35",
+        "18.00",
+        "3.70"
+      ],
+      "teams": "Bayreuth - Gottingen"
+    },
+    {
+      "odds": [
+        "2.85",
+        "16.00",
+        "1.53"
+      ],
+      "teams": "Mitteldeutscher - Oldenburg"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Detroit - Washington"
+    },
+    {
+      "odds": [
+        "1.38",
+        "16.00",
+        "3.60"
+      ],
+      "teams": "Brooklyn - New York"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.35"
+      ],
+      "teams": "Dallas - San Antonio"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.35"
+      ],
+      "teams": "Oklahoma - Memphis"
+    },
+    {
+      "odds": [
+        "1.65",
+        "15.00",
+        "2.55"
+      ],
+      "teams": "Sacramento - Minnesota"
+    },
+    {
+      "odds": [
+        "1.50",
+        "16.00",
+        "2.95"
+      ],
+      "teams": "Utah - Portland"
+    },
+    {
+      "odds": [
+        "1.35",
+        "17.00",
+        "3.75"
+      ],
+      "teams": "CSKA M. - Milano"
+    },
+    {
+      "odds": [
+        "1.37",
+        "16.00",
+        "3.65"
+      ],
+      "teams": "Efes - Maccabi T.A."
+    },
+    {
+      "odds": [
+        "1.90",
+        "15.00",
+        "2.10"
+      ],
+      "teams": "Alba Berlin - Baskonia"
+    },
+    {
+      "odds": [
+        "1.95",
+        "15.00",
+        "2.05"
+      ],
+      "teams": "Panathinaikos - Real Madrid"
+    },
+    {
+      "odds": [
+        "2.45",
+        "15.00",
+        "1.70"
+      ],
+      "teams": "Asvel - Khimki M."
+    },
+    {
+      "odds": [
+        "2.25",
+        "15.00",
+        "1.80"
+      ],
+      "teams": "Strasbourg - Dijon"
+    },
+    {
+      "odds": [
+        "1.12",
+        "20.00",
+        "8.10"
+      ],
+      "teams": "Bonn - Hamburg"
+    },
+    {
+      "odds": [
+        "1.35",
+        "18.00",
+        "3.70"
+      ],
+      "teams": "Bayreuth - Gottingen"
+    },
+    {
+      "odds": [
+        "2.85",
+        "16.00",
+        "1.53"
+      ],
+      "teams": "Mitteldeutscher - Oldenburg"
+    },
+    {
+      "odds": [
+        "2.80",
+        "16.00",
+        "1.55"
+      ],
+      "teams": "Pesaro - Cantu"
+    },
+    {
+      "odds": [
+        "1.27",
+        "17.00",
+        "4.55"
+      ],
+      "teams": "Varese - Pistoia"
+    },
+    {
+      "odds": [
+        "1.15",
+        "19.00",
+        "7.00"
+      ],
+      "teams": "Venezia - Virtus Roma"
+    },
+    {
+      "odds": [
+        "1.40",
+        "16.00",
+        "3.45"
+      ],
+      "teams": "Brescia - Cremona"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Brindisi - R.Emilia"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Trento - Trieste"
+    },
+    {
+      "odds": [
+        "7.55",
+        "22.00",
+        "1.10"
+      ],
+      "teams": "A.Traiskirchen - Kapfenberg"
+    },
+    {
+      "odds": [
+        "1.40",
+        "16.00",
+        "3.25"
+      ],
+      "teams": "St.Polten - Wels"
+    },
+    {
+      "odds": [
+        "1.03",
+        "24.00",
+        "13.40"
+      ],
+      "teams": "Oberwart - Vienna DC"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.15"
+      ],
+      "teams": "Klosterneuburg - S.Gmunden"
+    },
+    {
+      "odds": [
+        "6.05",
+        "19.00",
+        "1.15"
+      ],
+      "teams": "Liege - Aalstar"
+    },
+    {
+      "odds": [
+        "1.10",
+        "20.00",
+        "7.85"
+      ],
+      "teams": "Oostende - Leuven"
+    },
+    {
+      "odds": [
+        "1.85",
+        "14.00",
+        "2.10"
+      ],
+      "teams": "Brussels - Limburg"
+    },
+    {
+      "odds": [
+        "2.30",
+        "15.00",
+        "1.72"
+      ],
+      "teams": "Mechelen - Antwerp"
+    },
+    {
+      "odds": [
+        "8.50",
+        "23.00",
+        "1.08"
+      ],
+      "teams": "Bayi - Shanxi"
+    },
+    {
+      "odds": [
+        "3.00",
+        "16.00",
+        "1.45"
+      ],
+      "teams": "Nanjing - Beijing R.F."
+    },
+    {
+      "odds": [
+        "1.05",
+        "23.00",
+        "11.00"
+      ],
+      "teams": "Guandong - Shanghai"
+    },
+    {
+      "odds": [
+        "1.12",
+        "20.00",
+        "8.10"
+      ],
+      "teams": "Bonn - Hamburg"
+    },
+    {
+      "odds": [
+        "1.35",
+        "18.00",
+        "3.70"
+      ],
+      "teams": "Bayreuth - Gottingen"
+    },
+    {
+      "odds": [
+        "2.85",
+        "16.00",
+        "1.53"
+      ],
+      "teams": "Mitteldeutscher - Oldenburg"
+    },
+    {
+      "odds": [
+        "2.80",
+        "16.00",
+        "1.55"
+      ],
+      "teams": "Pesaro - Cantu"
+    },
+    {
+      "odds": [
+        "1.27",
+        "17.00",
+        "4.55"
+      ],
+      "teams": "Varese - Pistoia"
+    },
+    {
+      "odds": [
+        "1.15",
+        "19.00",
+        "7.00"
+      ],
+      "teams": "Venezia - Virtus Roma"
+    },
+    {
+      "odds": [
+        "1.40",
+        "16.00",
+        "3.45"
+      ],
+      "teams": "Brescia - Cremona"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Brindisi - R.Emilia"
+    },
+    {
+      "odds": [
+        "1.45",
+        "16.00",
+        "3.20"
+      ],
+      "teams": "Trento - Trieste"
+    },
+    {
+      "odds": [
+        "7.55",
+        "22.00",
+        "1.10"
+      ],
+      "teams": "A.Traiskirchen - Kapfenberg"
+    },
+    {
+      "odds": [
+        "1.40",
+        "16.00",
+        "3.25"
+      ],
+      "teams": "St.Polten - Wels"
+    },
+    {
+      "odds": [
+        "1.03",
+        "24.00",
+        "13.40"
+      ],
+      "teams": "Oberwart - Vienna DC"
+    },
+    {
+      "odds": [
+        "1.42",
+        "16.00",
+        "3.15"
+      ],
+      "teams": "Klosterneuburg - S.Gmunden"
+    },
+    {
+      "odds": [
+        "6.05",
+        "19.00",
+        "1.15"
+      ],
+      "teams": "Liege - Aalstar"
+    },
+    {
+      "odds": [
+        "1.10",
+        "20.00",
+        "7.85"
+      ],
+      "teams": "Oostende - Leuven"
+    },
+    {
+      "odds": [
+        "1.85",
+        "14.00",
+        "2.10"
+      ],
+      "teams": "Brussels - Limburg"
+    },
+    {
+      "odds": [
+        "2.30",
+        "15.00",
+        "1.72"
+      ],
+      "teams": "Mechelen - Antwerp"
+    },
+    {
+      "odds": [
+        "8.50",
+        "23.00",
+        "1.08"
+      ],
+      "teams": "Bayi - Shanxi"
+    },
+    {
+      "odds": [
+        "3.00",
+        "16.00",
+        "1.45"
+      ],
+      "teams": "Nanjing - Beijing R.F."
+    },
+    {
+      "odds": [
+        "1.05",
+        "23.00",
+        "11.00"
+      ],
+      "teams": "Guandong - Shanghai"
+    },
+    {
+      "odds": [
+        "1.25",
+        "18.00",
+        "4.45"
+      ],
+      "teams": "Anwil W. - A.Gdynia"
+    },
+    {
+      "odds": [
+        "1.70",
+        "8.00",
+        "2.85"
+      ],
+      "teams": "Lemgo - Erlangen"
+    },
+    {
+      "odds": [
+        "1.20",
+        "14.00",
+        "6.20"
+      ],
+      "teams": "Melsungen - Balingen"
+    },
+    {
+      "odds": [
+        "1.20",
+        "13.00",
+        "6.50"
+      ],
+      "teams": "Burgdorf - Stuttgart"
+    },
+    {
+      "odds": [
+        "1.08",
+        "18.00",
+        "12.00"
+      ],
+      "teams": "Flensburg - Minden"
+    },
+    {
+      "odds": [
+        "3.15",
+        "9.00",
+        "1.57"
+      ],
+      "teams": "Bergischer - Rhein Lowen"
+    },
+    {
+      "odds": [
+        "6.15",
+        "12.00",
+        "1.22"
+      ],
+      "teams": "Goppingen - Kiel"
+    },
+    {
+      "odds": [
+        "10.20",
+        "17.00",
+        "1.10"
+      ],
+      "teams": "Nordhorn - Magdeburg"
+    },
+    {
+      "odds": [
+        "1.32",
+        "11.00",
+        "4.60"
+      ],
+      "teams": "Fuchse B. - Leipzig"
+    },
+    {
+      "odds": [
+        "1.20",
+        "13.00",
+        "6.50"
+      ],
+      "teams": "Wetzlar - Ludwigshafen"
+    },
+    {
+      "odds": [
+        "1.25",
+        "12.00",
+        "5.00"
+      ],
+      "teams": "Macedonia de N. - Kuweit"
+    },
+    {
+      "odds": [
+        "2.00",
+        "7.50",
+        "2.10"
+      ],
+      "teams": "Essen - Gummersbach"
+    },
+    {
+      "odds": [
+        "1.65",
+        "8.50",
+        "2.60"
+      ],
+      "teams": "Rimpar - Lubbecke"
+    },
+    {
+      "odds": [
+        "1.30",
+        "9.50",
+        "4.25"
+      ],
+      "teams": "ASV Hamm - Bietigheim"
+    },
+    {
+      "odds": [
+        "1.37",
+        "9.00",
+        "3.70"
+      ],
+      "teams": "Hamburg - Ferndorf"
+    },
+    {
+      "odds": [
+        "1.05",
+        "18.00",
+        "10.00"
+      ],
+      "teams": "Bad Schwartau - Krefeld"
+    },
+    {
+      "odds": [
+        "1.50",
+        "8.50",
+        "3.05"
+      ],
+      "teams": "Konstanz - Huttenberg"
+    },
+    {
+      "odds": [
+        "4.35",
+        "10.00",
+        "1.28"
+      ],
+      "teams": "Emsdetten - Coburg"
+    },
+    {
+      "odds": [
+        "1.28",
+        "10.00",
+        "4.35"
+      ],
+      "teams": "Eisenach - Elbflorenz"
+    },
+    {
+      "odds": [
+        "8.50",
+        "23.00",
+        "1.08"
+      ],
+      "teams": "Bayi - Shanxi"
+    },
+    {
+      "odds": [
+        "3.00",
+        "16.00",
+        "1.45"
+      ],
+      "teams": "Nanjing - Beijing R.F."
+    },
+    {
+      "odds": [
+        "1.05",
+        "23.00",
+        "11.00"
+      ],
+      "teams": "Guandong - Shanghai"
+    },
+    {
+      "odds": [
+        "1.25",
+        "18.00",
+        "4.45"
+      ],
+      "teams": "Anwil W. - A.Gdynia"
+    },
+    {
+      "odds": [
+        "1.70",
+        "8.00",
+        "2.85"
+      ],
+      "teams": "Lemgo - Erlangen"
+    },
+    {
+      "odds": [
+        "1.20",
+        "14.00",
+        "6.20"
+      ],
+      "teams": "Melsungen - Balingen"
+    },
+    {
+      "odds": [
+        "1.20",
+        "13.00",
+        "6.50"
+      ],
+      "teams": "Burgdorf - Stuttgart"
+    },
+    {
+      "odds": [
+        "1.08",
+        "18.00",
+        "12.00"
+      ],
+      "teams": "Flensburg - Minden"
+    },
+    {
+      "odds": [
+        "3.15",
+        "9.00",
+        "1.57"
+      ],
+      "teams": "Bergischer - Rhein Lowen"
+    },
+    {
+      "odds": [
+        "6.15",
+        "12.00",
+        "1.22"
+      ],
+      "teams": "Goppingen - Kiel"
+    },
+    {
+      "odds": [
+        "10.20",
+        "17.00",
+        "1.10"
+      ],
+      "teams": "Nordhorn - Magdeburg"
+    },
+    {
+      "odds": [
+        "1.32",
+        "11.00",
+        "4.60"
+      ],
+      "teams": "Fuchse B. - Leipzig"
+    },
+    {
+      "odds": [
+        "1.20",
+        "13.00",
+        "6.50"
+      ],
+      "teams": "Wetzlar - Ludwigshafen"
+    },
+    {
+      "odds": [
+        "1.25",
+        "12.00",
+        "5.00"
+      ],
+      "teams": "Macedonia de N. - Kuweit"
+    },
+    {
+      "odds": [
+        "2.00",
+        "7.50",
+        "2.10"
+      ],
+      "teams": "Essen - Gummersbach"
+    },
+    {
+      "odds": [
+        "1.65",
+        "8.50",
+        "2.60"
+      ],
+      "teams": "Rimpar - Lubbecke"
+    },
+    {
+      "odds": [
+        "1.30",
+        "9.50",
+        "4.25"
+      ],
+      "teams": "ASV Hamm - Bietigheim"
+    },
+    {
+      "odds": [
+        "1.37",
+        "9.00",
+        "3.70"
+      ],
+      "teams": "Hamburg - Ferndorf"
+    },
+    {
+      "odds": [
+        "1.05",
+        "18.00",
+        "10.00"
+      ],
+      "teams": "Bad Schwartau - Krefeld"
+    },
+    {
+      "odds": [
+        "1.50",
+        "8.50",
+        "3.05"
+      ],
+      "teams": "Konstanz - Huttenberg"
+    },
+    {
+      "odds": [
+        "4.35",
+        "10.00",
+        "1.28"
+      ],
+      "teams": "Emsdetten - Coburg"
+    },
+    {
+      "odds": [
+        "1.28",
+        "10.00",
+        "4.35"
+      ],
+      "teams": "Eisenach - Elbflorenz"
+    },
+    {
+      "odds": [
+        "1.07",
+        "17.00",
+        "8.50"
+      ],
+      "teams": "Bietigheim (F) - Buxtehuder (F)"
+    },
+    {
+      "odds": [
+        "25.00",
+        "12.50"
+      ],
+      "teams": "Metzingen (F) - FSV Mainz 05 (F)"
+    },
+    {
+      "odds": [
+        "3.05",
+        "8.50",
+        "1.57"
+      ],
+      "teams": "Redbergslids - Alingsas"
+    },
+    {
+      "odds": [
+        "7.70",
+        "15.00",
+        "1.13"
+      ],
+      "teams": "Helsingborg - Kristianstad"
+    },
+    {
+      "odds": [
+        "1.40",
+        "9.00",
+        "3.90"
+      ],
+      "teams": "Malmo - Skovde"
+    },
+    {
+      "odds": [
+        "1.12",
+        "13.00",
+        "7.10"
+      ],
+      "teams": "Aranas - Karra HF"
+    },
+    {
+      "odds": [
+        "1.12",
+        "12.00",
+        "7.50"
+      ],
+      "teams": "Hammarby - Torslanda"
+    },
+    {
+      "odds": [
+        "1.12",
+        "13.00",
+        "7.10"
+      ],
+      "teams": "Savehof (F) - Lugi (F)"
+    },
+    {
+      "odds": [
+        "18.00",
+        "15.00"
+      ],
+      "teams": "H65 Hoor (F) - Skara (F)"
+    },
+    {
+      "odds": [
+        "1.20",
+        "12.00",
+        "5.15"
+      ],
+      "teams": "Onnereds (F) - Gt Soder (F)"
+    },
+    {
+      "odds": [
+        "1.25",
+        "12.00",
+        "5.00"
+      ],
+      "teams": "Macedonia de N. - Kuweit"
+    },
+    {
+      "odds": [
+        "2.00",
+        "7.50",
+        "2.10"
+      ],
+      "teams": "Essen - Gummersbach"
+    },
+    {
+      "odds": [
+        "1.65",
+        "8.50",
+        "2.60"
+      ],
+      "teams": "Rimpar - Lubbecke"
+    },
+    {
+      "odds": [
+        "1.30",
+        "9.50",
+        "4.25"
+      ],
+      "teams": "ASV Hamm - Bietigheim"
+    },
+    {
+      "odds": [
+        "1.37",
+        "9.00",
+        "3.70"
+      ],
+      "teams": "Hamburg - Ferndorf"
+    },
+    {
+      "odds": [
+        "1.05",
+        "18.00",
+        "10.00"
+      ],
+      "teams": "Bad Schwartau - Krefeld"
+    },
+    {
+      "odds": [
+        "1.50",
+        "8.50",
+        "3.05"
+      ],
+      "teams": "Konstanz - Huttenberg"
+    },
+    {
+      "odds": [
+        "4.35",
+        "10.00",
+        "1.28"
+      ],
+      "teams": "Emsdetten - Coburg"
+    },
+    {
+      "odds": [
+        "1.28",
+        "10.00",
+        "4.35"
+      ],
+      "teams": "Eisenach - Elbflorenz"
+    },
+    {
+      "odds": [
+        "1.07",
+        "17.00",
+        "8.50"
+      ],
+      "teams": "Bietigheim (F) - Buxtehuder (F)"
+    },
+    {
+      "odds": [
+        "25.00",
+        "12.50"
+      ],
+      "teams": "Metzingen (F) - FSV Mainz 05 (F)"
+    },
+    {
+      "odds": [
+        "3.05",
+        "8.50",
+        "1.57"
+      ],
+      "teams": "Redbergslids - Alingsas"
+    },
+    {
+      "odds": [
+        "7.70",
+        "15.00",
+        "1.13"
+      ],
+      "teams": "Helsingborg - Kristianstad"
+    },
+    {
+      "odds": [
+        "1.40",
+        "9.00",
+        "3.90"
+      ],
+      "teams": "Malmo - Skovde"
+    },
+    {
+      "odds": [
+        "1.12",
+        "13.00",
+        "7.10"
+      ],
+      "teams": "Aranas - Karra HF"
+    },
+    {
+      "odds": [
+        "1.12",
+        "12.00",
+        "7.50"
+      ],
+      "teams": "Hammarby - Torslanda"
+    },
+    {
+      "odds": [
+        "1.12",
+        "13.00",
+        "7.10"
+      ],
+      "teams": "Savehof (F) - Lugi (F)"
+    },
+    {
+      "odds": [
+        "18.00",
+        "15.00"
+      ],
+      "teams": "H65 Hoor (F) - Skara (F)"
+    },
+    {
+      "odds": [
+        "1.20",
+        "12.00",
+        "5.15"
+      ],
+      "teams": "Onnereds (F) - Gt Soder (F)"
+    },
+    {
+      "odds": [
+        "4.70",
+        "4.30",
+        "1.65"
+      ],
+      "teams": "Dinamo Riga - Metallurg Mg"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.90",
+        "2.70"
+      ],
+      "teams": "Lokomotiv Y. - Jokerit"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.30",
+        "2.50"
+      ],
+      "teams": "Rogle - Farjestads"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.80",
+        "4.55"
+      ],
+      "teams": "HV 71 - Leksands"
+    },
+    {
+      "odds": [
+        "2.45",
+        "4.00",
+        "2.55"
+      ],
+      "teams": "Linkopings - Malmo"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.80",
+        "3.00"
+      ],
+      "teams": "Lulea - Frolunda"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.65"
+      ],
+      "teams": "Vaxjo - Djurgardens"
+    },
+    {
+      "odds": [
+        "2.20",
+        "4.20",
+        "2.80"
+      ],
+      "teams": "Skelleftea - Orebro"
+    },
+    {
+      "odds": [
+        "1.57",
+        "4.80",
+        "4.85"
+      ],
+      "teams": "Brynas - Oskarshamn"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.70",
+        "4.30"
+      ],
+      "teams": "Liberec - M.Boleslav"
+    },
+    {
+      "odds": [
+        "1.52",
+        "5.30",
+        "4.85"
+      ],
+      "teams": "Plzen - Zlin"
+    },
+    {
+      "odds": [
+        "2.75",
+        "4.10",
+        "2.25"
+      ],
+      "teams": "Pardubice - Mountfield"
+    },
+    {
+      "odds": [
+        "2.60",
+        "4.00",
+        "2.40"
+      ],
+      "teams": "Olomouc - Karlovy Vary"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.20",
+        "2.60"
+      ],
+      "teams": "Brno - Sparta Praga"
+    },
+    {
+      "odds": [
+        "2.20",
+        "4.10",
+        "2.80"
+      ],
+      "teams": "Kladno - Vitkovice"
+    },
+    {
+      "odds": [
+        "4.70",
+        "4.30",
+        "1.65"
+      ],
+      "teams": "Dinamo Riga - Metallurg Mg"
+    },
+    {
+      "odds": [
+        "2.35",
+        "3.90",
+        "2.70"
+      ],
+      "teams": "Lokomotiv Y. - Jokerit"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.30",
+        "2.50"
+      ],
+      "teams": "Rogle - Farjestads"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.80",
+        "4.55"
+      ],
+      "teams": "HV 71 - Leksands"
+    },
+    {
+      "odds": [
+        "2.45",
+        "4.00",
+        "2.55"
+      ],
+      "teams": "Linkopings - Malmo"
+    },
+    {
+      "odds": [
+        "2.20",
+        "3.80",
+        "3.00"
+      ],
+      "teams": "Lulea - Frolunda"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.65"
+      ],
+      "teams": "Vaxjo - Djurgardens"
+    },
+    {
+      "odds": [
+        "2.20",
+        "4.20",
+        "2.80"
+      ],
+      "teams": "Skelleftea - Orebro"
+    },
+    {
+      "odds": [
+        "1.57",
+        "4.80",
+        "4.85"
+      ],
+      "teams": "Brynas - Oskarshamn"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.70",
+        "4.30"
+      ],
+      "teams": "Liberec - M.Boleslav"
+    },
+    {
+      "odds": [
+        "1.52",
+        "5.30",
+        "4.85"
+      ],
+      "teams": "Plzen - Zlin"
+    },
+    {
+      "odds": [
+        "2.75",
+        "4.10",
+        "2.25"
+      ],
+      "teams": "Pardubice - Mountfield"
+    },
+    {
+      "odds": [
+        "2.60",
+        "4.00",
+        "2.40"
+      ],
+      "teams": "Olomouc - Karlovy Vary"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.20",
+        "2.60"
+      ],
+      "teams": "Brno - Sparta Praga"
+    },
+    {
+      "odds": [
+        "2.20",
+        "4.10",
+        "2.80"
+      ],
+      "teams": "Kladno - Vitkovice"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.65"
+      ],
+      "teams": "Jukurit - Kalpa"
+    },
+    {
+      "odds": [
+        "3.10",
+        "4.10",
+        "2.05"
+      ],
+      "teams": "SaiPa - Kookoo"
+    },
+    {
+      "odds": [
+        "2.85",
+        "4.10",
+        "2.20"
+      ],
+      "teams": "Lukko R. - Tappara T."
+    },
+    {
+      "odds": [
+        "1.27",
+        "7.00",
+        "8.20"
+      ],
+      "teams": "HIFK Helsinki - Lahti"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.00",
+        "2.60"
+      ],
+      "teams": "Jyvaskyla - Karpat Oulu"
+    },
+    {
+      "odds": [
+        "2.10",
+        "4.00",
+        "3.05"
+      ],
+      "teams": "Vaasan - Assat P."
+    },
+    {
+      "odds": [
+        "2.00",
+        "4.20",
+        "3.20"
+      ],
+      "teams": "Ilves T. - Hameenlinna"
+    },
+    {
+      "odds": [
+        "1.70",
+        "5.10",
+        "3.75"
+      ],
+      "teams": "Bremerhaven - Krefeld"
+    },
+    {
+      "odds": [
+        "1.95",
+        "5.00",
+        "2.95"
+      ],
+      "teams": "Straubing - Eisbaren"
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.40",
+        "2.80"
+      ],
+      "teams": "Wolfsburg - Koln"
+    },
+    {
+      "odds": [
+        "5.25",
+        "5.50",
+        "1.47"
+      ],
+      "teams": "Schwenninger - Mannheim"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.50",
+        "3.15"
+      ],
+      "teams": "Augsburg - Nurnberg"
+    },
+    {
+      "odds": [
+        "1.50",
+        "5.40",
+        "5.00"
+      ],
+      "teams": "Munchen - Ingolstadt"
+    },
+    {
+      "odds": [
+        "2.90",
+        "4.10",
+        "2.15"
+      ],
+      "teams": "Iserlohn - Dusseldorf"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.80",
+        "2.75"
+      ],
+      "teams": "Nottingham - Coventry B."
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.00",
+        "2.25"
+      ],
+      "teams": "Guildford F. - Cardiff"
+    },
+    {
+      "odds": [
+        "1.27",
+        "6.30",
+        "6.10"
+      ],
+      "teams": "Sheffield S. - Manchester S."
+    },
+    {
+      "odds": [
+        "2.45",
+        "4.10",
+        "2.20"
+      ],
+      "teams": "Dundee S. - Fife"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.70",
+        "4.30"
+      ],
+      "teams": "Liberec - M.Boleslav"
+    },
+    {
+      "odds": [
+        "1.52",
+        "5.30",
+        "4.85"
+      ],
+      "teams": "Plzen - Zlin"
+    },
+    {
+      "odds": [
+        "2.75",
+        "4.10",
+        "2.25"
+      ],
+      "teams": "Pardubice - Mountfield"
+    },
+    {
+      "odds": [
+        "2.60",
+        "4.00",
+        "2.40"
+      ],
+      "teams": "Olomouc - Karlovy Vary"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.20",
+        "2.60"
+      ],
+      "teams": "Brno - Sparta Praga"
+    },
+    {
+      "odds": [
+        "2.20",
+        "4.10",
+        "2.80"
+      ],
+      "teams": "Kladno - Vitkovice"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.65"
+      ],
+      "teams": "Jukurit - Kalpa"
+    },
+    {
+      "odds": [
+        "3.10",
+        "4.10",
+        "2.05"
+      ],
+      "teams": "SaiPa - Kookoo"
+    },
+    {
+      "odds": [
+        "2.85",
+        "4.10",
+        "2.20"
+      ],
+      "teams": "Lukko R. - Tappara T."
+    },
+    {
+      "odds": [
+        "1.27",
+        "7.00",
+        "8.20"
+      ],
+      "teams": "HIFK Helsinki - Lahti"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.00",
+        "2.60"
+      ],
+      "teams": "Jyvaskyla - Karpat Oulu"
+    },
+    {
+      "odds": [
+        "2.10",
+        "4.00",
+        "3.05"
+      ],
+      "teams": "Vaasan - Assat P."
+    },
+    {
+      "odds": [
+        "2.00",
+        "4.20",
+        "3.20"
+      ],
+      "teams": "Ilves T. - Hameenlinna"
+    },
+    {
+      "odds": [
+        "1.70",
+        "5.10",
+        "3.75"
+      ],
+      "teams": "Bremerhaven - Krefeld"
+    },
+    {
+      "odds": [
+        "1.95",
+        "5.00",
+        "2.95"
+      ],
+      "teams": "Straubing - Eisbaren"
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.40",
+        "2.80"
+      ],
+      "teams": "Wolfsburg - Koln"
+    },
+    {
+      "odds": [
+        "5.25",
+        "5.50",
+        "1.47"
+      ],
+      "teams": "Schwenninger - Mannheim"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.50",
+        "3.15"
+      ],
+      "teams": "Augsburg - Nurnberg"
+    },
+    {
+      "odds": [
+        "1.50",
+        "5.40",
+        "5.00"
+      ],
+      "teams": "Munchen - Ingolstadt"
+    },
+    {
+      "odds": [
+        "2.90",
+        "4.10",
+        "2.15"
+      ],
+      "teams": "Iserlohn - Dusseldorf"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.80",
+        "2.75"
+      ],
+      "teams": "Nottingham - Coventry B."
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.00",
+        "2.25"
+      ],
+      "teams": "Guildford F. - Cardiff"
+    },
+    {
+      "odds": [
+        "1.27",
+        "6.30",
+        "6.10"
+      ],
+      "teams": "Sheffield S. - Manchester S."
+    },
+    {
+      "odds": [
+        "2.45",
+        "4.10",
+        "2.20"
+      ],
+      "teams": "Dundee S. - Fife"
+    },
+    {
+      "odds": [
+        "1.62",
+        "5.00",
+        "4.00"
+      ],
+      "teams": "Salzburg - Bolzano"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "3.05"
+      ],
+      "teams": "Graz - Villach"
+    },
+    {
+      "odds": [
+        "2.05",
+        "4.60",
+        "2.75"
+      ],
+      "teams": "Linz - Znojmo"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "3.05"
+      ],
+      "teams": "Innsbruck - Dornbirn"
+    },
+    {
+      "odds": [
+        "2.75",
+        "4.20",
+        "2.15"
+      ],
+      "teams": "Fehervar - Viena C."
+    },
+    {
+      "odds": [
+        "3.85",
+        "3.80",
+        "1.70"
+      ],
+      "teams": "Met.Zhlobin - Soligorsk"
+    },
+    {
+      "odds": [
+        "1.70",
+        "4.10",
+        "3.60"
+      ],
+      "teams": "Yunost M. - Neman G."
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.00",
+        "3.15"
+      ],
+      "teams": "Din.Molodechno - Gomel"
+    },
+    {
+      "odds": [
+        "1.18",
+        "7.00",
+        "8.45"
+      ],
+      "teams": "Baranovichi - Vitebsk"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "2.90"
+      ],
+      "teams": "Bobruisk - Belarus U18"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.80",
+        "3.75"
+      ],
+      "teams": "Poruba - Slavia Praga"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "3.10"
+      ],
+      "teams": "Prerov - Litomerice"
+    },
+    {
+      "odds": [
+        "1.35",
+        "5.40",
+        "6.45"
+      ],
+      "teams": "C.Budejovice - Chomutov"
+    },
+    {
+      "odds": [
+        "2.65",
+        "3.80",
+        "2.25"
+      ],
+      "teams": "Havirov - Vsetin"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.80",
+        "2.75"
+      ],
+      "teams": "Nottingham - Coventry B."
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.00",
+        "2.25"
+      ],
+      "teams": "Guildford F. - Cardiff"
+    },
+    {
+      "odds": [
+        "1.27",
+        "6.30",
+        "6.10"
+      ],
+      "teams": "Sheffield S. - Manchester S."
+    },
+    {
+      "odds": [
+        "2.45",
+        "4.10",
+        "2.20"
+      ],
+      "teams": "Dundee S. - Fife"
+    },
+    {
+      "odds": [
+        "1.62",
+        "5.00",
+        "4.00"
+      ],
+      "teams": "Salzburg - Bolzano"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "3.05"
+      ],
+      "teams": "Graz - Villach"
+    },
+    {
+      "odds": [
+        "2.05",
+        "4.60",
+        "2.75"
+      ],
+      "teams": "Linz - Znojmo"
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "3.05"
+      ],
+      "teams": "Innsbruck - Dornbirn"
+    },
+    {
+      "odds": [
+        "2.75",
+        "4.20",
+        "2.15"
+      ],
+      "teams": "Fehervar - Viena C."
+    },
+    {
+      "odds": [
+        "3.85",
+        "3.80",
+        "1.70"
+      ],
+      "teams": "Met.Zhlobin - Soligorsk"
+    },
+    {
+      "odds": [
+        "1.70",
+        "4.10",
+        "3.60"
+      ],
+      "teams": "Yunost M. - Neman G."
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.00",
+        "3.15"
+      ],
+      "teams": "Din.Molodechno - Gomel"
+    },
+    {
+      "odds": [
+        "1.18",
+        "7.00",
+        "8.45"
+      ],
+      "teams": "Baranovichi - Vitebsk"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "2.90"
+      ],
+      "teams": "Bobruisk - Belarus U18"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.80",
+        "3.75"
+      ],
+      "teams": "Poruba - Slavia Praga"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "3.10"
+      ],
+      "teams": "Prerov - Litomerice"
+    },
+    {
+      "odds": [
+        "1.35",
+        "5.40",
+        "6.45"
+      ],
+      "teams": "C.Budejovice - Chomutov"
+    },
+    {
+      "odds": [
+        "2.65",
+        "3.80",
+        "2.25"
+      ],
+      "teams": "Havirov - Vsetin"
+    },
+    {
+      "odds": [
+        "1.80",
+        "4.60",
+        "3.00"
+      ],
+      "teams": "Prostejov - Frydek Mistek"
+    },
+    {
+      "odds": [
+        "2.90",
+        "4.50",
+        "1.85"
+      ],
+      "teams": "Kadan - Slovan Usti NL"
+    },
+    {
+      "odds": [
+        "1.75",
+        "5.20",
+        "3.15"
+      ],
+      "teams": "Bietigheim - Dresdner E."
+    },
+    {
+      "odds": [
+        "1.50",
+        "5.40",
+        "4.35"
+      ],
+      "teams": "Heilbronner - Bayreuth"
+    },
+    {
+      "odds": [
+        "1.55",
+        "5.00",
+        "4.25"
+      ],
+      "teams": "Ravensburg - Lausitzer"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.31",
+        "2.30"
+      ],
+      "teams": "Bad Nauheim - Kassel H."
+    },
+    {
+      "odds": [
+        "1.52",
+        "5.40",
+        "4.20"
+      ],
+      "teams": "Lowen F. - Landshut C."
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "2.90"
+      ],
+      "teams": "Kaufbeuren - Freiburg"
+    },
+    {
+      "odds": [
+        "2.30",
+        "4.60",
+        "2.35"
+      ],
+      "teams": "Crimmitschau - Tolzer Lowen"
+    },
+    {
+      "odds": [
+        "1.12",
+        "10.00",
+        "11.00"
+      ],
+      "teams": "Elvetia U20 - Kazahstan U20"
+    },
+    {
+      "odds": [
+        "1.80",
+        "4.60",
+        "3.25"
+      ],
+      "teams": "Suedia U20 - Finlanda U20"
+    },
+    {
+      "odds": [
+        "4.20",
+        "5.10",
+        "1.55"
+      ],
+      "teams": "Cehia U20 - Rusia U20"
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.60",
+        "2.50"
+      ],
+      "teams": "Canada U20 - SUA U20"
+    },
+    {
+      "odds": [
+        "4.55",
+        "5.00",
+        "1.45"
+      ],
+      "teams": "Trinec - Canada"
+    },
+    {
+      "odds": [
+        "3.60",
+        "4.80",
+        "1.60"
+      ],
+      "teams": "Ambri - Salavat Ufa"
+    },
+    {
+      "odds": [
+        "1.80",
+        "4.60",
+        "3.00"
+      ],
+      "teams": "Prostejov - Frydek Mistek"
+    },
+    {
+      "odds": [
+        "2.90",
+        "4.50",
+        "1.85"
+      ],
+      "teams": "Kadan - Slovan Usti NL"
+    },
+    {
+      "odds": [
+        "1.75",
+        "5.20",
+        "3.15"
+      ],
+      "teams": "Bietigheim - Dresdner E."
+    },
+    {
+      "odds": [
+        "1.50",
+        "5.40",
+        "4.35"
+      ],
+      "teams": "Heilbronner - Bayreuth"
+    },
+    {
+      "odds": [
+        "1.55",
+        "5.00",
+        "4.25"
+      ],
+      "teams": "Ravensburg - Lausitzer"
+    },
+    {
+      "odds": [
+        "2.40",
+        "4.31",
+        "2.30"
+      ],
+      "teams": "Bad Nauheim - Kassel H."
+    },
+    {
+      "odds": [
+        "1.52",
+        "5.40",
+        "4.20"
+      ],
+      "teams": "Lowen F. - Landshut C."
+    },
+    {
+      "odds": [
+        "1.95",
+        "4.40",
+        "2.90"
+      ],
+      "teams": "Kaufbeuren - Freiburg"
+    },
+    {
+      "odds": [
+        "2.30",
+        "4.60",
+        "2.35"
+      ],
+      "teams": "Crimmitschau - Tolzer Lowen"
+    },
+    {
+      "odds": [
+        "1.12",
+        "10.00",
+        "11.00"
+      ],
+      "teams": "Elvetia U20 - Kazahstan U20"
+    },
+    {
+      "odds": [
+        "1.80",
+        "4.60",
+        "3.25"
+      ],
+      "teams": "Suedia U20 - Finlanda U20"
+    },
+    {
+      "odds": [
+        "4.20",
+        "5.10",
+        "1.55"
+      ],
+      "teams": "Cehia U20 - Rusia U20"
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.60",
+        "2.50"
+      ],
+      "teams": "Canada U20 - SUA U20"
+    },
+    {
+      "odds": [
+        "4.55",
+        "5.00",
+        "1.45"
+      ],
+      "teams": "Trinec - Canada"
+    },
+    {
+      "odds": [
+        "3.60",
+        "4.80",
+        "1.60"
+      ],
+      "teams": "Ambri - Salavat Ufa"
+    },
+    {
+      "odds": [
+        "1.75",
+        "4.50",
+        "3.15"
+      ],
+      "teams": "Csikszereda - Brasov"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.60",
+        "3.75"
+      ],
+      "teams": "DAB Docler - Ujpest B."
+    },
+    {
+      "odds": [
+        "1.37",
+        "5.30",
+        "5.20"
+      ],
+      "teams": "Debreceni - Fehervari T."
+    },
+    {
+      "odds": [
+        "1.70",
+        "4.50",
+        "3.35"
+      ],
+      "teams": "Jesenice - Kitzbuhel"
+    },
+    {
+      "odds": [
+        "1.47",
+        "5.00",
+        "4.35"
+      ],
+      "teams": "Ritten - Fassa"
+    },
+    {
+      "odds": [
+        "1.40",
+        "5.30",
+        "4.80"
+      ],
+      "teams": "Feldkirch - Klagenfurt II"
+    },
+    {
+      "odds": [
+        "3.00",
+        "4.60",
+        "1.80"
+      ],
+      "teams": "Bregenzerwald - Salzburg 2"
+    },
+    {
+      "odds": [
+        "2.30",
+        "4.20",
+        "2.30"
+      ],
+      "teams": "Lustenau - Val Pusteria"
+    },
+    {
+      "odds": [
+        "1.03",
+        "15.00",
+        "13.50"
+      ],
+      "teams": "Zeller Eisbaren - Steelwings Linz"
+    },
+    {
+      "odds": [
+        "1.42",
+        "5.20",
+        "4.65"
+      ],
+      "teams": "Vipiteno - Viena Capitals II"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "2.90"
+      ],
+      "teams": "Asiago - Gherdeina"
+    },
+    {
+      "odds": [
+        "2.65",
+        "4.55",
+        "1.95"
+      ],
+      "teams": "Cortina - Olimpija L."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.60"
+      ],
+      "teams": "Pavlodar - Altai-Torpedo"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.80",
+        "2.05"
+      ],
+      "teams": "Toros N. - Khimik V."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "3.05"
+      ],
+      "teams": "HC Yugra - Tyumen"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.10",
+        "4.35"
+      ],
+      "teams": "Neftyanik A. - Humo T."
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.30",
+        "2.60"
+      ],
+      "teams": "KRS Peking - Tsen Tou"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.80"
+      ],
+      "teams": "Nomad N. - CSK VVS"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.50",
+        "3.25"
+      ],
+      "teams": "Chelmet C. - Dynamo Tver"
+    },
+    {
+      "odds": [
+        "3.60",
+        "4.80",
+        "1.60"
+      ],
+      "teams": "Ambri - Salavat Ufa"
+    },
+    {
+      "odds": [
+        "1.75",
+        "4.50",
+        "3.15"
+      ],
+      "teams": "Csikszereda - Brasov"
+    },
+    {
+      "odds": [
+        "1.60",
+        "4.60",
+        "3.75"
+      ],
+      "teams": "DAB Docler - Ujpest B."
+    },
+    {
+      "odds": [
+        "1.37",
+        "5.30",
+        "5.20"
+      ],
+      "teams": "Debreceni - Fehervari T."
+    },
+    {
+      "odds": [
+        "1.70",
+        "4.50",
+        "3.35"
+      ],
+      "teams": "Jesenice - Kitzbuhel"
+    },
+    {
+      "odds": [
+        "1.47",
+        "5.00",
+        "4.35"
+      ],
+      "teams": "Ritten - Fassa"
+    },
+    {
+      "odds": [
+        "1.40",
+        "5.30",
+        "4.80"
+      ],
+      "teams": "Feldkirch - Klagenfurt II"
+    },
+    {
+      "odds": [
+        "3.00",
+        "4.60",
+        "1.80"
+      ],
+      "teams": "Bregenzerwald - Salzburg 2"
+    },
+    {
+      "odds": [
+        "2.30",
+        "4.20",
+        "2.30"
+      ],
+      "teams": "Lustenau - Val Pusteria"
+    },
+    {
+      "odds": [
+        "1.03",
+        "15.00",
+        "13.50"
+      ],
+      "teams": "Zeller Eisbaren - Steelwings Linz"
+    },
+    {
+      "odds": [
+        "1.42",
+        "5.20",
+        "4.65"
+      ],
+      "teams": "Vipiteno - Viena Capitals II"
+    },
+    {
+      "odds": [
+        "1.85",
+        "4.50",
+        "2.90"
+      ],
+      "teams": "Asiago - Gherdeina"
+    },
+    {
+      "odds": [
+        "2.65",
+        "4.55",
+        "1.95"
+      ],
+      "teams": "Cortina - Olimpija L."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.60"
+      ],
+      "teams": "Pavlodar - Altai-Torpedo"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.80",
+        "2.05"
+      ],
+      "teams": "Toros N. - Khimik V."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "3.05"
+      ],
+      "teams": "HC Yugra - Tyumen"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.10",
+        "4.35"
+      ],
+      "teams": "Neftyanik A. - Humo T."
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.30",
+        "2.60"
+      ],
+      "teams": "KRS Peking - Tsen Tou"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.80"
+      ],
+      "teams": "Nomad N. - CSK VVS"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.50",
+        "3.25"
+      ],
+      "teams": "Chelmet C. - Dynamo Tver"
+    },
+    {
+      "odds": [
+        "1.07",
+        "12.00",
+        "16.00"
+      ],
+      "teams": "Tolpar - Tyumensky L."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.80",
+        "2.40"
+      ],
+      "teams": "Almaz C. - Din.St.Peters."
+    },
+    {
+      "odds": [
+        "2.00",
+        "4.80",
+        "2.70"
+      ],
+      "teams": "Toronto M. - Belleville S."
+    },
+    {
+      "odds": [
+        "2.95",
+        "4.10",
+        "2.00"
+      ],
+      "teams": "Nove Zamky - Zvolen"
+    },
+    {
+      "odds": [
+        "3.70",
+        "4.50",
+        "1.70"
+      ],
+      "teams": "L.Mikulas - Trencin"
+    },
+    {
+      "odds": [
+        "3.30",
+        "4.50",
+        "1.80"
+      ],
+      "teams": "MAC Ujbuda - B.Bystrica"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.45"
+      ],
+      "teams": "DVTK - Poprad"
+    },
+    {
+      "odds": [
+        "1.32",
+        "5.80",
+        "6.60"
+      ],
+      "teams": "Nitra - Detva"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.90",
+        "2.85"
+      ],
+      "teams": "Kosice - Slovan B."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.90",
+        "2.35"
+      ],
+      "teams": "AIK - Sodertalje"
+    },
+    {
+      "odds": [
+        "4.55",
+        "1.20"
+      ],
+      "teams": "Sora - Verona"
+    },
+    {
+      "odds": [
+        "7.00",
+        "1.10"
+      ],
+      "teams": "Padova - Modena"
+    },
+    {
+      "odds": [
+        "7.90",
+        "1.08"
+      ],
+      "teams": "Piacenza - Lube Civit."
+    },
+    {
+      "odds": [
+        "1.03",
+        "12.20"
+      ],
+      "teams": "Perugia - Latina"
+    },
+    {
+      "odds": [
+        "1.22",
+        "4.30"
+      ],
+      "teams": "Milano - Monza"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.60"
+      ],
+      "teams": "Pavlodar - Altai-Torpedo"
+    },
+    {
+      "odds": [
+        "3.05",
+        "3.80",
+        "2.05"
+      ],
+      "teams": "Toros N. - Khimik V."
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.50",
+        "3.05"
+      ],
+      "teams": "HC Yugra - Tyumen"
+    },
+    {
+      "odds": [
+        "1.65",
+        "4.10",
+        "4.35"
+      ],
+      "teams": "Neftyanik A. - Humo T."
+    },
+    {
+      "odds": [
+        "2.15",
+        "4.30",
+        "2.60"
+      ],
+      "teams": "KRS Peking - Tsen Tou"
+    },
+    {
+      "odds": [
+        "2.15",
+        "3.80",
+        "2.80"
+      ],
+      "teams": "Nomad N. - CSK VVS"
+    },
+    {
+      "odds": [
+        "2.05",
+        "3.50",
+        "3.25"
+      ],
+      "teams": "Chelmet C. - Dynamo Tver"
+    },
+    {
+      "odds": [
+        "1.07",
+        "12.00",
+        "16.00"
+      ],
+      "teams": "Tolpar - Tyumensky L."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.80",
+        "2.40"
+      ],
+      "teams": "Almaz C. - Din.St.Peters."
+    },
+    {
+      "odds": [
+        "2.00",
+        "4.80",
+        "2.70"
+      ],
+      "teams": "Toronto M. - Belleville S."
+    },
+    {
+      "odds": [
+        "2.95",
+        "4.10",
+        "2.00"
+      ],
+      "teams": "Nove Zamky - Zvolen"
+    },
+    {
+      "odds": [
+        "3.70",
+        "4.50",
+        "1.70"
+      ],
+      "teams": "L.Mikulas - Trencin"
+    },
+    {
+      "odds": [
+        "3.30",
+        "4.50",
+        "1.80"
+      ],
+      "teams": "MAC Ujbuda - B.Bystrica"
+    },
+    {
+      "odds": [
+        "2.35",
+        "4.00",
+        "2.45"
+      ],
+      "teams": "DVTK - Poprad"
+    },
+    {
+      "odds": [
+        "1.32",
+        "5.80",
+        "6.60"
+      ],
+      "teams": "Nitra - Detva"
+    },
+    {
+      "odds": [
+        "2.10",
+        "3.90",
+        "2.85"
+      ],
+      "teams": "Kosice - Slovan B."
+    },
+    {
+      "odds": [
+        "2.50",
+        "3.90",
+        "2.35"
+      ],
+      "teams": "AIK - Sodertalje"
+    },
+    {
+      "odds": [
+        "4.55",
+        "1.20"
+      ],
+      "teams": "Sora - Verona"
+    },
+    {
+      "odds": [
+        "7.00",
+        "1.10"
+      ],
+      "teams": "Padova - Modena"
+    },
+    {
+      "odds": [
+        "7.90",
+        "1.08"
+      ],
+      "teams": "Piacenza - Lube Civit."
+    },
+    {
+      "odds": [
+        "1.03",
+        "12.20"
+      ],
+      "teams": "Perugia - Latina"
+    },
+    {
+      "odds": [
+        "1.22",
+        "4.30"
+      ],
+      "teams": "Milano - Monza"
+    },
+    {
+      "odds": [
+        "1.02",
+        "11.00"
+      ],
+      "teams": "Casalmagg. (F) - V.Caserta 2.0 (F)"
+    },
+    {
+      "odds": [
+        "1.65",
+        "2.15"
+      ],
+      "teams": "Brescia (F) - Chieri (F)"
+    },
+    {
+      "odds": [
+        "1.30",
+        "3.35"
+      ],
+      "teams": "Monza (F) - Firenze (F)"
+    },
+    {
+      "odds": [
+        "1.35",
+        "3.05"
+      ],
+      "teams": "UBSB Cuneo (F) - Perugia (F)"
+    },
+    {
+      "odds": [
+        "3.75",
+        "1.25"
+      ],
+      "teams": "Bergamo (F) - Novara (F)"
+    },
+    {
+      "odds": [
+        "1.07",
+        "7.60"
+      ],
+      "teams": "Conegliano (F) - Busto (F)"
+    },
+    {
+      "odds": [
+        "5.50",
+        "1.13"
+      ],
+      "teams": "Filottrano (F) - Scandicci (F)"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "Santa Croce - Calci"
+    },
+    {
+      "odds": [
+        "1.40",
+        "2.75"
+      ],
+      "teams": "Cantu - Mondovi"
+    },
+    {
+      "odds": [
+        "1.05",
+        "7.80"
+      ],
+      "teams": "Siena - Reggio Emilia"
+    },
+    {
+      "odds": [
+        "1.17",
+        "4.40"
+      ],
+      "teams": "Ortona - Lagonegro"
+    },
+    {
+      "odds": [
+        "2.95",
+        "1.35"
+      ],
+      "teams": "M.Castellana Gr. - BCC Castell.G."
+    },
+    {
+      "odds": [
+        "4.55",
+        "1.20"
+      ],
+      "teams": "Sora - Verona"
+    },
+    {
+      "odds": [
+        "7.00",
+        "1.10"
+      ],
+      "teams": "Padova - Modena"
+    },
+    {
+      "odds": [
+        "7.90",
+        "1.08"
+      ],
+      "teams": "Piacenza - Lube Civit."
+    },
+    {
+      "odds": [
+        "1.03",
+        "12.20"
+      ],
+      "teams": "Perugia - Latina"
+    },
+    {
+      "odds": [
+        "1.22",
+        "4.30"
+      ],
+      "teams": "Milano - Monza"
+    },
+    {
+      "odds": [
+        "1.02",
+        "11.00"
+      ],
+      "teams": "Casalmagg. (F) - V.Caserta 2.0 (F)"
+    },
+    {
+      "odds": [
+        "1.65",
+        "2.15"
+      ],
+      "teams": "Brescia (F) - Chieri (F)"
+    },
+    {
+      "odds": [
+        "1.30",
+        "3.35"
+      ],
+      "teams": "Monza (F) - Firenze (F)"
+    },
+    {
+      "odds": [
+        "1.35",
+        "3.05"
+      ],
+      "teams": "UBSB Cuneo (F) - Perugia (F)"
+    },
+    {
+      "odds": [
+        "3.75",
+        "1.25"
+      ],
+      "teams": "Bergamo (F) - Novara (F)"
+    },
+    {
+      "odds": [
+        "1.07",
+        "7.60"
+      ],
+      "teams": "Conegliano (F) - Busto (F)"
+    },
+    {
+      "odds": [
+        "5.50",
+        "1.13"
+      ],
+      "teams": "Filottrano (F) - Scandicci (F)"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "Santa Croce - Calci"
+    },
+    {
+      "odds": [
+        "1.40",
+        "2.75"
+      ],
+      "teams": "Cantu - Mondovi"
+    },
+    {
+      "odds": [
+        "1.05",
+        "7.80"
+      ],
+      "teams": "Siena - Reggio Emilia"
+    },
+    {
+      "odds": [
+        "1.17",
+        "4.40"
+      ],
+      "teams": "Ortona - Lagonegro"
+    },
+    {
+      "odds": [
+        "2.95",
+        "1.35"
+      ],
+      "teams": "M.Castellana Gr. - BCC Castell.G."
+    },
+    {
+      "odds": [
+        "2.65",
+        "1.42"
+      ],
+      "teams": "Olbia (F) - Pinerolo (F)"
+    },
+    {
+      "odds": [
+        "1.45",
+        "2.55"
+      ],
+      "teams": "Sassuolo (F) - Exacer Montale (F)"
+    },
+    {
+      "odds": [
+        "1.05",
+        "7.80"
+      ],
+      "teams": "Marignano (F) - Club Italia (F)"
+    },
+    {
+      "odds": [
+        "1.37",
+        "2.85"
+      ],
+      "teams": "Martignacco (F) - Talmassons (F)"
+    },
+    {
+      "odds": [
+        "1.17",
+        "4.40"
+      ],
+      "teams": "Soverato (F) - Cutrofiano (F)"
+    },
+    {
+      "odds": [
+        "2.85",
+        "1.37"
+      ],
+      "teams": "S.Ramonda (F) - DI Trentino (F)"
+    },
+    {
+      "odds": [
+        "1.20",
+        "4.00"
+      ],
+      "teams": "Barricalla (F) - Marsala (F)"
+    },
+    {
+      "odds": [
+        "1.27",
+        "3.40"
+      ],
+      "teams": "Ravenna (F) - HR Macerata (F)"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "G.Baronissi (F) - V.G.Roma (F)"
+    },
+    {
+      "odds": [
+        "1.27",
+        "3.40"
+      ],
+      "teams": "B.Mondovi (F) - G.Busto A. (F)"
+    },
+    {
+      "odds": [
+        "1.32",
+        "3.40"
+      ],
+      "teams": "Slepsk Suwalki - Bedzin"
+    },
+    {
+      "odds": [
+        "1.05",
+        "15.00",
+        "10.90"
+      ],
+      "teams": "5-1 MFK Tyumen - Uhta"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "I.Mihaylov - D.Sebekin"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "K.Nalbandyan - V.Nemashkalo"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "A.Serebrennikov - A.Titov"
+    },
+    {
+      "odds": [
+        "2.40",
+        "1.50"
+      ],
+      "teams": "S.Kuzmin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "D.Sebekin - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "V.Nemashkalo - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Titov - K.Nalbandyan"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "I.Abelmasov - I.Mihaylov"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "I.Mihaylov - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Nalbandyan - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "D.Sebekin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.65",
+        "2.10"
+      ],
+      "teams": "V.Nemashkalo - A.Titov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Radchenko - A.Uvarov"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "A.Lytko - Y.Troyanov"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "E.Glazun - A.Afanasev"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Golovin - S.Myagkov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Uvarov - K.Golovin"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "Y.Troyanov - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Afanasev - A.Lytko"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "S.Myagkov - A.Radchenko"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Radchenko - K.Golovin"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "A.Lytko - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Uvarov - S.Myagkov"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "Y.Troyanov - A.Afanasev"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "I.Mihaylov - D.Sebekin"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "K.Nalbandyan - V.Nemashkalo"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "A.Serebrennikov - A.Titov"
+    },
+    {
+      "odds": [
+        "2.40",
+        "1.50"
+      ],
+      "teams": "S.Kuzmin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "D.Sebekin - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "V.Nemashkalo - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Titov - K.Nalbandyan"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "I.Abelmasov - I.Mihaylov"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "I.Mihaylov - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Nalbandyan - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "D.Sebekin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.65",
+        "2.10"
+      ],
+      "teams": "V.Nemashkalo - A.Titov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Radchenko - A.Uvarov"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "A.Lytko - Y.Troyanov"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "E.Glazun - A.Afanasev"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Golovin - S.Myagkov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Uvarov - K.Golovin"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "Y.Troyanov - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Afanasev - A.Lytko"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "S.Myagkov - A.Radchenko"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Radchenko - K.Golovin"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "A.Lytko - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Uvarov - S.Myagkov"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "Y.Troyanov - A.Afanasev"
+    },
+    {
+      "odds": [
+        "1.15",
+        "30.00",
+        "5.60"
+      ],
+      "teams": "Cardiff B. - Newport D."
+    },
+    {
+      "odds": [
+        "1.15",
+        "25.00",
+        "5.80"
+      ],
+      "teams": "Scarlets - Ospreys"
+    },
+    {
+      "odds": [
+        "1.40",
+        "18.00",
+        "3.20"
+      ],
+      "teams": "Bedford B. - Ampthill"
+    },
+    {
+      "odds": [
+        "1.10",
+        "30.00",
+        "7.20"
+      ],
+      "teams": "Aberavon - Bridgend"
+    },
+    {
+      "odds": [
+        "1.30",
+        "8.00",
+        "4.70"
+      ],
+      "teams": "Veitera - Kampparit"
+    },
+    {
+      "odds": [
+        "2.10",
+        "6.50",
+        "2.10"
+      ],
+      "teams": "OLS - LRK Tornio"
+    },
+    {
+      "odds": [
+        "1.30",
+        "8.00",
+        "4.70"
+      ],
+      "teams": "Hifk - Botnia"
+    },
+    {
+      "odds": [
+        "1.40",
+        "7.50",
+        "3.80"
+      ],
+      "teams": "Akilles - Narukera"
+    },
+    {
+      "odds": [
+        "4.90",
+        "8.00",
+        "1.28"
+      ],
+      "teams": "Wp-35 - JPS"
+    },
+    {
+      "odds": [
+        "1.32",
+        "8.50",
+        "4.50"
+      ],
+      "teams": "Sarpsborg - Hovik"
+    },
+    {
+      "odds": [
+        "3.20",
+        "7.30",
+        "1.55"
+      ],
+      "teams": "Ullern - Stabaek"
+    },
+    {
+      "odds": [
+        "2.20",
+        "6.50",
+        "2.10"
+      ],
+      "teams": "Mjondalen - Solberg"
+    },
+    {
+      "odds": [
+        "1.12",
+        "11.00",
+        "9.50"
+      ],
+      "teams": "Ready - Ulleval"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "I.Mihaylov - D.Sebekin"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "K.Nalbandyan - V.Nemashkalo"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "A.Serebrennikov - A.Titov"
+    },
+    {
+      "odds": [
+        "2.40",
+        "1.50"
+      ],
+      "teams": "S.Kuzmin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.52",
+        "2.35"
+      ],
+      "teams": "D.Sebekin - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "V.Nemashkalo - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Titov - K.Nalbandyan"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "I.Abelmasov - I.Mihaylov"
+    },
+    {
+      "odds": [
+        "1.57",
+        "2.25"
+      ],
+      "teams": "I.Mihaylov - S.Kuzmin"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Nalbandyan - A.Serebrennikov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "D.Sebekin - I.Abelmasov"
+    },
+    {
+      "odds": [
+        "1.65",
+        "2.10"
+      ],
+      "teams": "V.Nemashkalo - A.Titov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Radchenko - A.Uvarov"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "A.Lytko - Y.Troyanov"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "E.Glazun - A.Afanasev"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "K.Golovin - S.Myagkov"
+    },
+    {
+      "odds": [
+        "2.00",
+        "1.72"
+      ],
+      "teams": "A.Uvarov - K.Golovin"
+    },
+    {
+      "odds": [
+        "1.72",
+        "2.00"
+      ],
+      "teams": "Y.Troyanov - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Afanasev - A.Lytko"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "S.Myagkov - A.Radchenko"
+    },
+    {
+      "odds": [
+        "2.10",
+        "1.65"
+      ],
+      "teams": "A.Radchenko - K.Golovin"
+    },
+    {
+      "odds": [
+        "2.20",
+        "1.60"
+      ],
+      "teams": "A.Lytko - E.Glazun"
+    },
+    {
+      "odds": [
+        "2.25",
+        "1.57"
+      ],
+      "teams": "A.Uvarov - S.Myagkov"
+    },
+    {
+      "odds": [
+        "1.50",
+        "2.40"
+      ],
+      "teams": "Y.Troyanov - A.Afanasev"
+    },
+    {
+      "odds": [
+        "1.15",
+        "30.00",
+        "5.60"
+      ],
+      "teams": "Cardiff B. - Newport D."
+    },
+    {
+      "odds": [
+        "1.15",
+        "25.00",
+        "5.80"
+      ],
+      "teams": "Scarlets - Ospreys"
+    },
+    {
+      "odds": [
+        "1.40",
+        "18.00",
+        "3.20"
+      ],
+      "teams": "Bedford B. - Ampthill"
+    },
+    {
+      "odds": [
+        "1.10",
+        "30.00",
+        "7.20"
+      ],
+      "teams": "Aberavon - Bridgend"
+    },
+    {
+      "odds": [
+        "1.30",
+        "8.00",
+        "4.70"
+      ],
+      "teams": "Veitera - Kampparit"
+    },
+    {
+      "odds": [
+        "2.10",
+        "6.50",
+        "2.10"
+      ],
+      "teams": "OLS - LRK Tornio"
+    },
+    {
+      "odds": [
+        "1.30",
+        "8.00",
+        "4.70"
+      ],
+      "teams": "Hifk - Botnia"
+    },
+    {
+      "odds": [
+        "1.40",
+        "7.50",
+        "3.80"
+      ],
+      "teams": "Akilles - Narukera"
+    },
+    {
+      "odds": [
+        "4.90",
+        "8.00",
+        "1.28"
+      ],
+      "teams": "Wp-35 - JPS"
+    },
+    {
+      "odds": [
+        "1.32",
+        "8.50",
+        "4.50"
+      ],
+      "teams": "Sarpsborg - Hovik"
+    },
+    {
+      "odds": [
+        "3.20",
+        "7.30",
+        "1.55"
+      ],
+      "teams": "Ullern - Stabaek"
+    },
+    {
+      "odds": [
+        "2.20",
+        "6.50",
+        "2.10"
+      ],
+      "teams": "Mjondalen - Solberg"
+    },
+    {
+      "odds": [
+        "1.12",
+        "11.00",
+        "9.50"
+      ],
+      "teams": "Ready - Ulleval"
+    },
+    {
+      "odds": [
+        "2.20",
+        "5.70",
+        "2.10"
+      ],
+      "teams": "Lidkopings - Boltic"
+    },
+    {
+      "odds": [
+        "1.15",
+        "9.50",
+        "7.80"
+      ],
+      "teams": "Unik BK - Skutskars"
+    },
+    {
+      "odds": [
+        "2.30",
+        "5.70",
+        "2.00"
+      ],
+      "teams": "Nassjo - Katrineholm"
+    },
+    {
+      "odds": [
+        "2.40",
+        "5.50",
+        "1.95"
+      ],
+      "teams": "Rattvik - Ljusdals"
+    },
+    {
+      "odds": [
+        "2.85",
+        "5.25",
+        "1.75"
+      ],
+      "teams": "Kungalv - Gripen"
+    },
+    {
+      "odds": [
+        "3.30",
+        "5.80",
+        "1.57"
+      ],
+      "teams": "Vasteras - Orebro"
+    },
+    {
+      "odds": [
+        "3.55",
+        "5.80",
+        "1.52"
+      ],
+      "teams": "Kalix - Tellus"
+    },
+    {
+      "odds": [
+        "11.00",
+        "11.00",
+        "1.10"
+      ],
+      "teams": "Tjureda - Vetlanda"
+    },
+    {
+      "odds": [
+        "1.42",
+        "7.00",
+        "3.80"
+      ],
+      "teams": "Sandvikens - Broberg/Soderhamn"
+    },
+    {
+      "odds": [
+        "4.80",
+        "7.50",
+        "1.30"
+      ],
+      "teams": "Frillesas - Vanersborg"
+    },
+    {
+      "odds": [
+        "1.50",
+        "6.70",
+        "3.40"
+      ],
+      "teams": "Hammarby - Sirius"
+    },
+    {
+      "odds": [
+        "2.35",
+        "5.30",
+        "2.00"
+      ],
+      "teams": "Motala - Vasteras"
+    },
+    {
+      "odds": [
+        "1.55",
+        "6.00",
+        "3.35"
+      ],
+      "teams": "Edsbyns - Bollnas"
+    },
+    {
+      "odds": [
+        "1.10",
+        "11.00",
+        "11.00"
+      ],
+      "teams": "Lidkoping - AIK"
+    },
+    {
+      "odds": [
+        "1.32",
+        "8.50",
+        "4.50"
+      ],
+      "teams": "Sarpsborg - Hovik"
+    },
+    {
+      "odds": [
+        "3.20",
+        "7.30",
+        "1.55"
+      ],
+      "teams": "Ullern - Stabaek"
+    },
+    {
+      "odds": [
+        "2.20",
+        "6.50",
+        "2.10"
+      ],
+      "teams": "Mjondalen - Solberg"
+    },
+    {
+      "odds": [
+        "1.12",
+        "11.00",
+        "9.50"
+      ],
+      "teams": "Ready - Ulleval"
+    },
+    {
+      "odds": [
+        "2.20",
+        "5.70",
+        "2.10"
+      ],
+      "teams": "Lidkopings - Boltic"
+    },
+    {
+      "odds": [
+        "1.15",
+        "9.50",
+        "7.80"
+      ],
+      "teams": "Unik BK - Skutskars"
+    },
+    {
+      "odds": [
+        "2.30",
+        "5.70",
+        "2.00"
+      ],
+      "teams": "Nassjo - Katrineholm"
+    },
+    {
+      "odds": [
+        "2.40",
+        "5.50",
+        "1.95"
+      ],
+      "teams": "Rattvik - Ljusdals"
+    },
+    {
+      "odds": [
+        "2.85",
+        "5.25",
+        "1.75"
+      ],
+      "teams": "Kungalv - Gripen"
+    },
+    {
+      "odds": [
+        "3.30",
+        "5.80",
+        "1.57"
+      ],
+      "teams": "Vasteras - Orebro"
+    },
+    {
+      "odds": [
+        "3.55",
+        "5.80",
+        "1.52"
+      ],
+      "teams": "Kalix - Tellus"
+    },
+    {
+      "odds": [
+        "11.00",
+        "11.00",
+        "1.10"
+      ],
+      "teams": "Tjureda - Vetlanda"
+    },
+    {
+      "odds": [
+        "1.42",
+        "7.00",
+        "3.80"
+      ],
+      "teams": "Sandvikens - Broberg/Soderhamn"
+    },
+    {
+      "odds": [
+        "4.80",
+        "7.50",
+        "1.30"
+      ],
+      "teams": "Frillesas - Vanersborg"
+    },
+    {
+      "odds": [
+        "1.50",
+        "6.70",
+        "3.40"
+      ],
+      "teams": "Hammarby - Sirius"
+    },
+    {
+      "odds": [
+        "2.35",
+        "5.30",
+        "2.00"
+      ],
+      "teams": "Motala - Vasteras"
+    },
+    {
+      "odds": [
+        "1.55",
+        "6.00",
+        "3.35"
+      ],
+      "teams": "Edsbyns - Bollnas"
+    },
+    {
+      "odds": [
+        "1.10",
+        "11.00",
+        "11.00"
+      ],
+      "teams": "Lidkoping - AIK"
+    }
+  ]
+}

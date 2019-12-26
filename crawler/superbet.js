@@ -1,6 +1,5 @@
-const db = require('../core/lowdb')
-const nightmare = require('../core/nightmare')
-const { toId } = require('../utils')
+const db = require('../db')
+const nightmare = require('../crawler')
 
 module.exports  = async () => {
   try {
@@ -8,7 +7,7 @@ module.exports  = async () => {
       .goto('https://www.superbet.ro/pariuri-sportive/astazi')
       .wait('.event-row-container')
       .wait(1000)
-
+    const data = []
     while (true) {
       const quotes = await nightmare.evaluate(() => {
         const data = []
@@ -21,22 +20,25 @@ module.exports  = async () => {
             .filter((element) => ['X', '1', '2'].includes(element.querySelector('.market.actionable').innerText))
             .map((element) => element.querySelector('.value.new.actionable').innerText)
 
-          data.push({ team1, team2, odds })
+          data.push({ teams: `${team1} - ${team2}`, odds })
           lastEvent = event
         }
         lastEvent.scrollIntoView()
-
         return data
 
       })
-
-      db.set('superbet', quotes)
-        .write()
-
-      break
-
+      console.log(data[data.length - 1], quotes[quotes.length - 1])
+      if (data[data.length - 1] && data[data.length - 1].teams === quotes[quotes.length - 1].teams) {
+        data.push(...quotes)
+        break
+      } else {
+        data.push(...quotes)
+      }
+      await nightmare.wait(1000)
     }
 
+    db.set('superbet', data)
+      .write()
   } catch (error) {
     console.log(error.message)
   }
