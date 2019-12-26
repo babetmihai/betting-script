@@ -45,6 +45,7 @@
     "no-template-curly-in-string": "warn",
     "node/no-unsupported-features": 0,
     "node/no-unpublished-require": "warn",
+    "no-constant-condition": 0,
     "no-process-exit": "off"
   },
   "globals": {

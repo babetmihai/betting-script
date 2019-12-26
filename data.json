@@ -1,1 +1,203 @@
-{}
+{
+  "superbet": [
+    {
+      "odds": [],
+      "team1": "Panathinaikos",
+      "team2": "Real Madrid"
+    },
+    {
+      "odds": [],
+      "team1": "Leicester",
+      "team2": "Liverpool"
+    },
+    {
+      "odds": [
+        "1.67"
+      ],
+      "team1": "Tottenham",
+      "team2": "Brighton"
+    },
+    {
+      "odds": [
+        "1.53"
+      ],
+      "team1": "Genk",
+      "team2": "Eupen"
+    },
+    {
+      "odds": [
+        "1.90"
+      ],
+      "team1": "Kortrijk",
+      "team2": "Cercle Brugge"
+    },
+    {
+      "odds": [
+        "4.80"
+      ],
+      "team1": "Cehia U20",
+      "team2": "Rusia U20"
+    },
+    {
+      "odds": [
+        "7.00"
+      ],
+      "team1": "Cefn Druids",
+      "team2": "TNS"
+    },
+    {
+      "odds": [
+        "1.25"
+      ],
+      "team1": "Connah's Q.",
+      "team2": "Airbus"
+    },
+    {
+      "odds": [
+        "1.90"
+      ],
+      "team1": "Sheffield Utd",
+      "team2": "Watford"
+    },
+    {
+      "odds": [
+        "1.85"
+      ],
+      "team1": "Everton",
+      "team2": "Burnley"
+    },
+    {
+      "odds": [
+        "1.47"
+      ],
+      "team1": "Chelsea",
+      "team2": "Southampton"
+    },
+    {
+      "odds": [
+        "4.25"
+      ],
+      "team1": "Bournemouth",
+      "team2": "Arsenal"
+    },
+    {
+      "odds": [
+        "15.50"
+      ],
+      "team1": "St.Mirren",
+      "team2": "Celtic"
+    },
+    {
+      "odds": [
+        "1.20"
+      ],
+      "team1": "Rangers",
+      "team2": "Kilmarnock"
+    },
+    {
+      "odds": [
+        "1.45"
+      ],
+      "team1": "Larne",
+      "team2": "Carrick R."
+    },
+    {
+      "odds": [
+        "4.50"
+      ],
+      "team1": "Luton",
+      "team2": "Fulham"
+    },
+    {
+      "odds": [
+        "1.72"
+      ],
+      "team1": "Brentford",
+      "team2": "Swansea"
+    },
+    {
+      "odds": [
+        "1.57"
+      ],
+      "team1": "Sunderland",
+      "team2": "Bolton"
+    },
+    {
+      "odds": [
+        "1.65"
+      ],
+      "team1": "Burton A.",
+      "team2": "Tranmere R."
+    },
+    {
+      "odds": [
+        "1.80"
+      ],
+      "team1": "Swindon",
+      "team2": "Cambridge Utd"
+    },
+    {
+      "odds": [
+        "1.62"
+      ],
+      "team1": "Notts County",
+      "team2": "Maidenhead Utd"
+    },
+    {
+      "odds": [
+        "1.28"
+      ],
+      "team1": "Club Brugge",
+      "team2": "Zulte Waregem"
+    },
+    {
+      "odds": [
+        "1.90"
+      ],
+      "team1": "Ascoli",
+      "team2": "Pisa"
+    },
+    {
+      "odds": [
+        "1.42"
+      ],
+      "team1": "CSKA M.",
+      "team2": "Milano"
+    },
+    {
+      "odds": [
+        "6.40"
+      ],
+      "team1": "Goppingen",
+      "team2": "Kiel"
+    },
+    {
+      "odds": [
+        "1.53"
+      ],
+      "team1": "Leeds",
+      "team2": "Preston"
+    },
+    {
+      "odds": [
+        "1.45"
+      ],
+      "team1": "Manchester Utd",
+      "team2": "Newcastle"
+    },
+    {
+      "odds": [
+        "1.45"
+      ],
+      "team1": "Efes",
+      "team2": "Maccabi T.A."
+    },
+    {
+      "odds": [
+        "1.47"
+      ],
+      "team1": "D.R.Collins",
+      "team2": "Y.Wickmayer"
+    }
+  ]
+}
