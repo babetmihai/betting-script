@@ -41,8 +41,7 @@ module.exports  = async () => {
       const match = { id: getId(teams), teams, odds }
       acc[match.id] = match
       return acc
-    }, {}))
-      .write()
+    }, {})).write()
   } catch (error) {
     console.log(error.message)
   }

@@ -1923,5 +1923,471 @@
         "X2": "5.80"
       }
     }
+  },
+  "casapariurilor": {
+    "a5737c50d2e7cdefda9576fdf507fe618f587789": {
+      "id": "a5737c50d2e7cdefda9576fdf507fe618f587789",
+      "teams": "undefined - undefined",
+      "odds": {}
+    },
+    "7c93df8e63b2e0b82c64694c76a56be265660ad5": {
+      "id": "7c93df8e63b2e0b82c64694c76a56be265660ad5",
+      "teams": "Brooklyn Nets - New York Knicks",
+      "odds": {
+        "1": "1,38",
+        "2": "3,70",
+        "X": "15,00"
+      }
+    },
+    "5a4c1731798af8d7d2bace4a83724dd787a6ba9b": {
+      "id": "5a4c1731798af8d7d2bace4a83724dd787a6ba9b",
+      "teams": "Dallas Mavericks - San Antonio Spurs",
+      "odds": {
+        "1": "1,40",
+        "2": "3,50",
+        "X": "16,00"
+      }
+    },
+    "18ed487d623b99514434664b8c3fef6c1d8e4378": {
+      "id": "18ed487d623b99514434664b8c3fef6c1d8e4378",
+      "teams": "Oklahoma City Thunder - Memphis Grizzlies",
+      "odds": {
+        "1": "1,42",
+        "2": "3,45",
+        "X": "15,00"
+      }
+    },
+    "62f243594fdac35e7d597d0f06fa75c032367447": {
+      "id": "62f243594fdac35e7d597d0f06fa75c032367447",
+      "teams": "Leicester - Liverpool",
+      "odds": {
+        "1": "3,20",
+        "2": "2,17",
+        "X": "3,70"
+      }
+    },
+    "3c867ebc01f91d67632ebddf37e9463daee290c1": {
+      "id": "3c867ebc01f91d67632ebddf37e9463daee290c1",
+      "teams": "Reading - Queens Park Rangers",
+      "odds": {
+        "1": "2,40",
+        "2": "2,85",
+        "X": "3,50"
+      }
+    },
+    "f6020c1c77655d23b18e334fc2beec3a4aeb0588": {
+      "id": "f6020c1c77655d23b18e334fc2beec3a4aeb0588",
+      "teams": "V.Entella - Spezia",
+      "odds": {
+        "1": "2,45",
+        "2": "2,95",
+        "X": "3,15"
+      }
+    },
+    "98d64549b6d43f0582c865f12e34f7b5e56a0b56": {
+      "id": "98d64549b6d43f0582c865f12e34f7b5e56a0b56",
+      "teams": "Standard L. - KAA Gent",
+      "odds": {
+        "1": "2,50",
+        "2": "2,65",
+        "X": "3,55"
+      }
+    },
+    "971b6d72728daaedbb681bad66d0cba6853217b6": {
+      "id": "971b6d72728daaedbb681bad66d0cba6853217b6",
+      "teams": "Antigua GFC - CSD Municipal",
+      "odds": {
+        "1": "2,10",
+        "2": "3,25",
+        "X": "3,00"
+      }
+    },
+    "b55614faa2b4ddae1a2cf81b8fc5e09a34ee25c2": {
+      "id": "b55614faa2b4ddae1a2cf81b8fc5e09a34ee25c2",
+      "teams": "Monterrey - América",
+      "odds": {
+        "1": "2,05",
+        "2": "3,50",
+        "X": "3,35"
+      }
+    },
+    "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094": {
+      "id": "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094",
+      "teams": "Crimmitschau - Tolzer Lowen",
+      "odds": {
+        "1": "2,25",
+        "2": "2,35",
+        "X": "4,80"
+      }
+    },
+    "0fb01053909645a8243b69a6dc6cc3d2f37c0b58": {
+      "id": "0fb01053909645a8243b69a6dc6cc3d2f37c0b58",
+      "teams": "Toronto - Belleville",
+      "odds": {
+        "1": "2,25",
+        "2": "2,35",
+        "X": "4,60"
+      }
+    },
+    "43562b9290efa00830cb8e0e9c66c5d02094c99e": {
+      "id": "43562b9290efa00830cb8e0e9c66c5d02094c99e",
+      "teams": "Trinec - Canada",
+      "odds": {
+        "1": "5,20",
+        "2": "1,45",
+        "X": "5,00"
+      }
+    },
+    "380c582f9670cec5ae1addcbc582b79e271837bc": {
+      "id": "380c582f9670cec5ae1addcbc582b79e271837bc",
+      "teams": "Detroit Pistons - Washington Wizards",
+      "odds": {
+        "1": "1,45",
+        "2": "3,30",
+        "X": "15,00"
+      }
+    },
+    "b728f5807237ee9915794d8a93970dc0b7f6ad1c": {
+      "id": "b728f5807237ee9915794d8a93970dc0b7f6ad1c",
+      "teams": "Sacramento Kings - Minnesota",
+      "odds": {
+        "1": "1,60",
+        "2": "2,70",
+        "X": "15,00"
+      }
+    },
+    "f798a9b39c6d06df80d3bd23d18055df71c63e8e": {
+      "id": "f798a9b39c6d06df80d3bd23d18055df71c63e8e",
+      "teams": "Utah Jazz - Portland Trail Blazers",
+      "odds": {
+        "1": "1,45",
+        "2": "3,20",
+        "X": "15,00"
+      }
+    },
+    "f3bca8989aba25e65fa94a12142500ed371dc6aa": {
+      "id": "f3bca8989aba25e65fa94a12142500ed371dc6aa",
+      "teams": "Alba Berlin - Baskonia Vitoria",
+      "odds": {
+        "1": "1,92",
+        "2": "2,05",
+        "X": "15,00"
+      }
+    },
+    "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a": {
+      "id": "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a",
+      "teams": "Panathinaikos - Real Madrid",
+      "odds": {
+        "1": "1,95",
+        "2": "2,05",
+        "X": "15,00"
+      }
+    },
+    "54c864357ed82a3c1f3db12b2975398f8e3058fc": {
+      "id": "54c864357ed82a3c1f3db12b2975398f8e3058fc",
+      "teams": "Asvel - Bc Khimki Moscow",
+      "odds": {
+        "1": "2,45",
+        "2": "1,70",
+        "X": "15,00"
+      }
+    },
+    "6d3647a397e380e6c1bf3b04341363722a5b755c": {
+      "id": "6d3647a397e380e6c1bf3b04341363722a5b755c",
+      "teams": "Brescia Leonessa - Cremona",
+      "odds": {
+        "1": "1,40",
+        "2": "3,45",
+        "X": "16,00"
+      }
+    },
+    "e364c4721ac079c895114058d326c7d6ae2e9f17": {
+      "id": "e364c4721ac079c895114058d326c7d6ae2e9f17",
+      "teams": "Brindisi - Reggio Emilia",
+      "odds": {
+        "1": "1,42",
+        "2": "3,30",
+        "X": "16,00"
+      }
+    },
+    "726278adaa54517d2889c809d0ca236a7725f2b0": {
+      "id": "726278adaa54517d2889c809d0ca236a7725f2b0",
+      "teams": "Trentino - Trieste",
+      "odds": {
+        "1": "1,40",
+        "2": "3,40",
+        "X": "16,00"
+      }
+    },
+    "3afbbdd23b44e8f2dc82b5a3cb1d10e1e1cdfd37": {
+      "id": "3afbbdd23b44e8f2dc82b5a3cb1d10e1e1cdfd37",
+      "teams": "Oostende - Stella Artois Leuven Bears",
+      "odds": {
+        "1": "1,12",
+        "2": "7,00",
+        "X": "18,00"
+      }
+    },
+    "9fc3164001d8e5752e5ab9066732db5d0fdd7255": {
+      "id": "9fc3164001d8e5752e5ab9066732db5d0fdd7255",
+      "teams": "Brussels B. - Limburg",
+      "odds": {
+        "1": "1,80",
+        "2": "2,15",
+        "X": "14,00"
+      }
+    },
+    "1bb23de83b209278f8c639af1d570d09f49b382e": {
+      "id": "1bb23de83b209278f8c639af1d570d09f49b382e",
+      "teams": "Kangoeroes - Antwerp",
+      "odds": {
+        "1": "2,70",
+        "2": "1,55",
+        "X": "15,00"
+      }
+    },
+    "3fde8c5323ab83e8a6c73d07d4ac521329097102": {
+      "id": "3fde8c5323ab83e8a6c73d07d4ac521329097102",
+      "teams": "Liege - Aalstar",
+      "odds": {
+        "1": "7,50",
+        "2": "1,10",
+        "X": "20,00"
+      }
+    },
+    "bea7ae8c6b8d3a999f10cc125cea186d2de34ed8": {
+      "id": "bea7ae8c6b8d3a999f10cc125cea186d2de34ed8",
+      "teams": "L.A. Clippers - undefined",
+      "odds": {
+        "1": "4,50"
+      }
+    },
+    "0fd500e15761c2e18b323c77632923d3bd432ae9": {
+      "id": "0fd500e15761c2e18b323c77632923d3bd432ae9",
+      "teams": "L.A. Lakers - undefined",
+      "odds": {
+        "1": "4,50"
+      }
+    },
+    "c54b4f738db87ccd13506056398a1beb73d13fd9": {
+      "id": "c54b4f738db87ccd13506056398a1beb73d13fd9",
+      "teams": "Milwaukee Bucks - undefined",
+      "odds": {
+        "1": "4,50"
+      }
+    },
+    "50e6aeb6353a239bc48547eb9e4c930395afe801": {
+      "id": "50e6aeb6353a239bc48547eb9e4c930395afe801",
+      "teams": "Philadelphia 76Ers - undefined",
+      "odds": {
+        "1": "8,50"
+      }
+    },
+    "c048904361187d6f540d085d53804ad0b4326ed8": {
+      "id": "c048904361187d6f540d085d53804ad0b4326ed8",
+      "teams": "Houston Rockets - undefined",
+      "odds": {
+        "1": "10,00"
+      }
+    },
+    "fb005de21842a5d670eb1058ccff15c707591f42": {
+      "id": "fb005de21842a5d670eb1058ccff15c707591f42",
+      "teams": "Denver Nuggets - undefined",
+      "odds": {
+        "1": "15,00"
+      }
+    },
+    "0b36829a58a15c4650673f1ff27d4cb147570737": {
+      "id": "0b36829a58a15c4650673f1ff27d4cb147570737",
+      "teams": "Utah Jazz - undefined",
+      "odds": {
+        "1": "20,00"
+      }
+    },
+    "4d7455c80cb7ebb6d403f66cb4e23e7dcf659323": {
+      "id": "4d7455c80cb7ebb6d403f66cb4e23e7dcf659323",
+      "teams": "Boston Celtics - undefined",
+      "odds": {
+        "1": "20,00"
+      }
+    },
+    "6bd715fbc4748586c0fad10dbbcf38e43eed99a7": {
+      "id": "6bd715fbc4748586c0fad10dbbcf38e43eed99a7",
+      "teams": "Dallas Mavericks - undefined",
+      "odds": {
+        "1": "30,00"
+      }
+    },
+    "3108b81fb79f334e54b6a84cdfa2d47b172847ac": {
+      "id": "3108b81fb79f334e54b6a84cdfa2d47b172847ac",
+      "teams": "Miami Heat - undefined",
+      "odds": {
+        "1": "30,00"
+      }
+    },
+    "676f2548ec48735faac422d1e3c392ea7a159844": {
+      "id": "676f2548ec48735faac422d1e3c392ea7a159844",
+      "teams": "Indiana Pacers - undefined",
+      "odds": {
+        "1": "35,00"
+      }
+    },
+    "d3053fb14d0cc8a744803ae64b12314c54bd21bb": {
+      "id": "d3053fb14d0cc8a744803ae64b12314c54bd21bb",
+      "teams": "Toronto Raptors - undefined",
+      "odds": {
+        "1": "40,00"
+      }
+    },
+    "6fb75d12c51f86d2f66efdd2572b19923cdaa01f": {
+      "id": "6fb75d12c51f86d2f66efdd2572b19923cdaa01f",
+      "teams": "Brooklyn - undefined",
+      "odds": {
+        "1": "55,00"
+      }
+    },
+    "525397e223ff34f7da6f4923447d5b9ecf9bd0ac": {
+      "id": "525397e223ff34f7da6f4923447d5b9ecf9bd0ac",
+      "teams": "Portland - undefined",
+      "odds": {
+        "1": "60,00"
+      }
+    },
+    "288709eebd2fadf77b9c1de7fa4ac98b32682b47": {
+      "id": "288709eebd2fadf77b9c1de7fa4ac98b32682b47",
+      "teams": "San Antonio Spurs - undefined",
+      "odds": {
+        "1": "70,00"
+      }
+    },
+    "6debb3eed0134a30b6858e26ae1b87c2a1d6ef9e": {
+      "id": "6debb3eed0134a30b6858e26ae1b87c2a1d6ef9e",
+      "teams": "Oklahoma - undefined",
+      "odds": {
+        "1": "150,00"
+      }
+    },
+    "6d5c8d1872f3ac9be47827f738732e1f09ee8613": {
+      "id": "6d5c8d1872f3ac9be47827f738732e1f09ee8613",
+      "teams": "Orlando Magic - undefined",
+      "odds": {
+        "1": "150,00"
+      }
+    },
+    "0f43094de7ffad8fd6e2b0d9c36567ad1bfb2f4c": {
+      "id": "0f43094de7ffad8fd6e2b0d9c36567ad1bfb2f4c",
+      "teams": "Sacramento Kings - undefined",
+      "odds": {
+        "1": "150,00"
+      }
+    },
+    "d8f79358b16428dbc48877d45d0f9d7d42484865": {
+      "id": "d8f79358b16428dbc48877d45d0f9d7d42484865",
+      "teams": "Phoenix Suns - undefined",
+      "odds": {
+        "1": "150,00"
+      }
+    },
+    "8bddad4ba9e163886bbda3c0a9c1f19468d6d704": {
+      "id": "8bddad4ba9e163886bbda3c0a9c1f19468d6d704",
+      "teams": "Charlotte - undefined",
+      "odds": {
+        "1": "150,00"
+      }
+    },
+    "c517c6432b6b98fd24b2c59f5208ccbbab63cfc7": {
+      "id": "c517c6432b6b98fd24b2c59f5208ccbbab63cfc7",
+      "teams": "New Orleans - undefined",
+      "odds": {
+        "1": "200,00"
+      }
+    },
+    "b6ba2104ea5f1a16129eda6835ec136a197d804d": {
+      "id": "b6ba2104ea5f1a16129eda6835ec136a197d804d",
+      "teams": "Minnesota Timberwolves - undefined",
+      "odds": {
+        "1": "200,00"
+      }
+    },
+    "d322e755b531e4dd3c6bf724ec87e34529f47d1a": {
+      "id": "d322e755b531e4dd3c6bf724ec87e34529f47d1a",
+      "teams": "Detroit Pistons - undefined",
+      "odds": {
+        "1": "250,00"
+      }
+    },
+    "fe29661625b40fea231a07f1d771a5b979de0f27": {
+      "id": "fe29661625b40fea231a07f1d771a5b979de0f27",
+      "teams": "Golden State Warriors - undefined",
+      "odds": {
+        "1": "300,00"
+      }
+    },
+    "5c00e67f28507007c84735ae160dafb9c3cb2a4b": {
+      "id": "5c00e67f28507007c84735ae160dafb9c3cb2a4b",
+      "teams": "Washington Wizards - undefined",
+      "odds": {
+        "1": "300,00"
+      }
+    },
+    "7e8ff9bcf941ca394aa86e23d0c187c843a99eb9": {
+      "id": "7e8ff9bcf941ca394aa86e23d0c187c843a99eb9",
+      "teams": "Chicago Bulls - undefined",
+      "odds": {
+        "1": "500,00"
+      }
+    },
+    "f856294fdd89bccdd44951bad806f122caa2e09d": {
+      "id": "f856294fdd89bccdd44951bad806f122caa2e09d",
+      "teams": "Memphis Grizzlies - undefined",
+      "odds": {
+        "1": "500,00"
+      }
+    },
+    "fc9fb7ef42eca288c34bea769b63fb52ed10e629": {
+      "id": "fc9fb7ef42eca288c34bea769b63fb52ed10e629",
+      "teams": "New York Knicks - undefined",
+      "odds": {
+        "1": "750,00"
+      }
+    },
+    "627249adbaf317391fa4499b6a8724dbc7cdcd91": {
+      "id": "627249adbaf317391fa4499b6a8724dbc7cdcd91",
+      "teams": "Atlanta Hawks - undefined",
+      "odds": {
+        "1": "750,00"
+      }
+    },
+    "4645a9e118b06eeda274963e5ad0b801e36d87fd": {
+      "id": "4645a9e118b06eeda274963e5ad0b801e36d87fd",
+      "teams": "Cleveland Cavaliers - undefined",
+      "odds": {
+        "1": "999,00"
+      }
+    },
+    "9061b86014803775d36e9c26d7e894d78aae2f10": {
+      "id": "9061b86014803775d36e9c26d7e894d78aae2f10",
+      "teams": "Harrison, Christian - J.Thompson",
+      "odds": {
+        "1": "3,00",
+        "X": "1,35"
+      }
+    },
+    "f2fcb22aa7b2296438029e463c6cd0d14106cb73": {
+      "id": "f2fcb22aa7b2296438029e463c6cd0d14106cb73",
+      "teams": "D.R.Collins - Y.Wickmayer",
+      "odds": {
+        "1": "1,40",
+        "X": "2,80"
+      }
+    },
+    "0a5483f43f8d93a7e572862581e8c27e2bfc98be": {
+      "id": "0a5483f43f8d93a7e572862581e8c27e2bfc98be",
+      "teams": "Jd Gaaming - Bililbili Gaming",
+      "odds": {
+        "1": "1,85",
+        "X": "1,85"
+      }
+    }
   }
 }
