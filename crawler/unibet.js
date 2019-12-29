@@ -1,6 +1,7 @@
 const db = require('../db')
 const nightmare = require('../crawler')
-const { normalizeData, ODD_TYPES } = require('../utils')
+const { normalizeData } = require('../utils')
+const { ODD_TYPES } = require('../settings')
 const _ = require('lodash')
 
 module.exports  = async () => {

@@ -40,7 +40,7 @@
       "anonymous": "never"
       }],
     "space-before-blocks": ["warn"],
-    "no-multiple-empty-lines": ["warn", {"max": 1, "maxEOF": 1, "maxBOF": 1}],
+    "no-multiple-empty-lines": ["warn", {"max": 2, "maxEOF": 1, "maxBOF": 1}],
     "spaced-comment": ["warn", "always"],
     "no-template-curly-in-string": "warn",
     "node/no-unsupported-features": 0,
