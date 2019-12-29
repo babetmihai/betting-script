@@ -1,22 +1,12 @@
 {
   "casapariurilor": {
-    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
-      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
-      "teams": "Arsenal - Chelsea",
-      "odds": {
-        "1": "3,00",
-        "2": "2,42",
-        "X": "3,80"
-      },
-      "category": "fotbal"
-    },
     "968de6dad0ab2f21cea3ada925a10dd02b4b7580": {
       "id": "968de6dad0ab2f21cea3ada925a10dd02b4b7580",
       "teams": "Liverpool - Wolverhampton",
       "odds": {
-        "1": "1,35",
-        "2": "8,70",
-        "X": "5,30"
+        "1": "1,27",
+        "2": "6,00",
+        "X": "11,00"
       },
       "category": "fotbal"
     },
@@ -25,188 +15,8 @@
       "teams": "Manchester City - Sheffield Utd.",
       "odds": {
         "1": "1,28",
-        "2": "10,50",
-        "X": "6,15"
-      },
-      "category": "fotbal"
-    },
-    "c9cbd4e7f4bb0d6bc9cb0b83640b03807bf7d5a1": {
-      "id": "c9cbd4e7f4bb0d6bc9cb0b83640b03807bf7d5a1",
-      "teams": "West Bromwich - Middlesbrough",
-      "odds": {
-        "1": "1,58",
-        "2": "5,80",
-        "X": "4,00"
-      },
-      "category": "fotbal"
-    },
-    "24962e2b60e66841a7e90b1bbe48ff766767eab3": {
-      "id": "24962e2b60e66841a7e90b1bbe48ff766767eab3",
-      "teams": "Bristol C. - Luton",
-      "odds": {
-        "1": "1,73",
-        "2": "4,50",
-        "X": "3,90"
-      },
-      "category": "fotbal"
-    },
-    "a0b74f11393edc25eb93e896155c34f1219743a7": {
-      "id": "a0b74f11393edc25eb93e896155c34f1219743a7",
-      "teams": "Sheffield Wed. - Cardiff",
-      "odds": {
-        "1": "1,75",
-        "2": "4,75",
-        "X": "3,65"
-      },
-      "category": "fotbal"
-    },
-    "eeae44ecd65bee9b312918658f3c83a952cae6cb": {
-      "id": "eeae44ecd65bee9b312918658f3c83a952cae6cb",
-      "teams": "Nottingham F. - Wigan",
-      "odds": {
-        "1": "1,82",
-        "2": "4,70",
-        "X": "3,35"
-      },
-      "category": "fotbal"
-    },
-    "2ade5235b3654eaf4a19819f69e768ae92fa7d49": {
-      "id": "2ade5235b3654eaf4a19819f69e768ae92fa7d49",
-      "teams": "Preston NE - Reading",
-      "odds": {
-        "1": "1,90",
-        "2": "4,10",
-        "X": "3,50"
-      },
-      "category": "fotbal"
-    },
-    "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85": {
-      "id": "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85",
-      "teams": "Swansea - Barnsley",
-      "odds": {
-        "1": "1,90",
-        "2": "3,85",
-        "X": "3,65"
-      },
-      "category": "fotbal"
-    },
-    "2d9c6f1885a6e32058360320813bf9e7d1f95e95": {
-      "id": "2d9c6f1885a6e32058360320813bf9e7d1f95e95",
-      "teams": "Fulham - Stoke",
-      "odds": {
-        "1": "2,00",
-        "2": "3,85",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "3d8c374b863ee5aa474b6265270dfea8fc97fab4": {
-      "id": "3d8c374b863ee5aa474b6265270dfea8fc97fab4",
-      "teams": "Queens Park Rangers - Hull",
-      "odds": {
-        "1": "2,40",
-        "2": "2,80",
-        "X": "3,55"
-      },
-      "category": "fotbal"
-    },
-    "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa": {
-      "id": "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa",
-      "teams": "Huddersfield - Blackburn",
-      "odds": {
-        "1": "2,55",
-        "2": "2,80",
-        "X": "3,20"
-      },
-      "category": "fotbal"
-    },
-    "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
-      "id": "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380",
-      "teams": "Millwall - Brentford",
-      "odds": {
-        "1": "3,60",
-        "2": "2,10",
-        "X": "3,25"
-      },
-      "category": "fotbal"
-    },
-    "df2a1efa44d2d4bd6593627203091168230a2d26": {
-      "id": "df2a1efa44d2d4bd6593627203091168230a2d26",
-      "teams": "Birmingham - Leeds",
-      "odds": {
-        "1": "5,10",
-        "2": "1,65",
-        "X": "3,80"
-      },
-      "category": "fotbal"
-    },
-    "0199bcb8133c6167dd2017c7d1e177ba8e12e36c": {
-      "id": "0199bcb8133c6167dd2017c7d1e177ba8e12e36c",
-      "teams": "Crotone - Trapani",
-      "odds": {
-        "1": "1,43",
-        "2": "7,75",
-        "X": "4,30"
-      },
-      "category": "fotbal"
-    },
-    "032244787687df057ab636cfae5d3fee37ca072d": {
-      "id": "032244787687df057ab636cfae5d3fee37ca072d",
-      "teams": "Cittadella - V.Entella",
-      "odds": {
-        "1": "1,80",
-        "2": "4,65",
-        "X": "3,40"
-      },
-      "category": "fotbal"
-    },
-    "2e3212ed030c6869836c531be77a8faac6d0009e": {
-      "id": "2e3212ed030c6869836c531be77a8faac6d0009e",
-      "teams": "Perugia - Venezia",
-      "odds": {
-        "1": "2,00",
-        "2": "4,20",
-        "X": "3,10"
-      },
-      "category": "fotbal"
-    },
-    "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81": {
-      "id": "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81",
-      "teams": "Spezia - Salernitana",
-      "odds": {
-        "1": "2,00",
-        "2": "4,15",
-        "X": "3,10"
-      },
-      "category": "fotbal"
-    },
-    "1e617fb04ca6fff01e5d25d5fd1010245753471d": {
-      "id": "1e617fb04ca6fff01e5d25d5fd1010245753471d",
-      "teams": "Pordenone - Cremonese",
-      "odds": {
-        "1": "2,25",
-        "2": "3,45",
-        "X": "3,10"
-      },
-      "category": "fotbal"
-    },
-    "9b975f988b22a6090db20d245b4ee8bab0d7dcdf": {
-      "id": "9b975f988b22a6090db20d245b4ee8bab0d7dcdf",
-      "teams": "Juve Stabia - Cosenza",
-      "odds": {
-        "1": "2,75",
-        "2": "2,75",
-        "X": "2,95"
-      },
-      "category": "fotbal"
-    },
-    "8fdec5ba44b142b82838ec2045971bff38d13d8c": {
-      "id": "8fdec5ba44b142b82838ec2045971bff38d13d8c",
-      "teams": "Pisa - Frosinone",
-      "odds": {
-        "1": "3,60",
-        "2": "2,15",
-        "X": "3,10"
+        "2": "6,15",
+        "X": "10,50"
       },
       "category": "fotbal"
     },
@@ -214,9 +24,9 @@
       "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
       "teams": "Benevento - Ascoli",
       "odds": {
-        "1": "1,50",
-        "2": "7,20",
-        "X": "3,90"
+        "1": "1,47",
+        "2": "4,00",
+        "X": "7,40"
       },
       "category": "fotbal"
     },
@@ -225,98 +35,8 @@
       "teams": "Empoli - Livorno",
       "odds": {
         "1": "1,77",
-        "2": "4,60",
-        "X": "3,60"
-      },
-      "category": "fotbal"
-    },
-    "839266c59c18a04f7540552312bcc5186e84fae2": {
-      "id": "839266c59c18a04f7540552312bcc5186e84fae2",
-      "teams": "Crotone - Wba",
-      "odds": {
-        "1": "2,30",
-        "2": "2,30",
-        "X": "4,20"
-      },
-      "category": "fotbal"
-    },
-    "28debdf9917a8f86b9702d040612aab7d8828312": {
-      "id": "28debdf9917a8f86b9702d040612aab7d8828312",
-      "teams": "Fulham - Preston",
-      "odds": {
-        "1": "2,30",
-        "2": "2,30",
-        "X": "4,20"
-      },
-      "category": "fotbal"
-    },
-    "9f1e302d264c52fb2b5a4bb7515a524b104cce30": {
-      "id": "9f1e302d264c52fb2b5a4bb7515a524b104cce30",
-      "teams": "Hearts - Aberdeen",
-      "odds": {
-        "1": "2,75",
-        "2": "2,65",
-        "X": "3,20"
-      },
-      "category": "fotbal"
-    },
-    "bbcdb1a63280e96f28360cc0eb297dff3559e910": {
-      "id": "bbcdb1a63280e96f28360cc0eb297dff3559e910",
-      "teams": "Motherwell - Hamilton",
-      "odds": {
-        "1": "1,53",
-        "2": "6,10",
-        "X": "4,20"
-      },
-      "category": "fotbal"
-    },
-    "b72ca82a7e673298f6a1fce758f733397e9d20ac": {
-      "id": "b72ca82a7e673298f6a1fce758f733397e9d20ac",
-      "teams": "St.Johnstone - Ross C.",
-      "odds": {
-        "1": "1,75",
-        "2": "4,60",
-        "X": "3,70"
-      },
-      "category": "fotbal"
-    },
-    "e5297f57a42cefacc1d0c811ce1803e23163224c": {
-      "id": "e5297f57a42cefacc1d0c811ce1803e23163224c",
-      "teams": "Livingston - Hibernian FC",
-      "odds": {
-        "1": "2,25",
-        "2": "3,15",
-        "X": "3,40"
-      },
-      "category": "fotbal"
-    },
-    "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8": {
-      "id": "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8",
-      "teams": "St.Mirren - Kilmarnock",
-      "odds": {
-        "1": "2,40",
-        "2": "3,10",
-        "X": "3,15"
-      },
-      "category": "fotbal"
-    },
-    "7ed3e817690c5fda1078427728521b270c0a7d4b": {
-      "id": "7ed3e817690c5fda1078427728521b270c0a7d4b",
-      "teams": "Alanya - Konyaspor",
-      "odds": {
-        "1": "1,47",
-        "2": "7,35",
-        "X": "4,15"
-      },
-      "category": "fotbal"
-    },
-    "afaefd83b72d95e86e158247b3f2880a6c71955c": {
-      "id": "afaefd83b72d95e86e158247b3f2880a6c71955c",
-      "teams": "Gazisehir Gaziantep - Malatya Bld",
-      "odds": {
-        "1": "2,80",
-        "2": "2,40",
-        "X": "3,40"
+        "2": "3,60",
+        "X": "4,60"
       },
       "category": "fotbal"
     },
@@ -324,249 +44,9 @@
       "id": "1ce320d227feab5febfc0f567b1fb9abd8dade4a",
       "teams": "C.Rize - Fenerbahce",
       "odds": {
-        "1": "4,40",
-        "2": "1,77",
-        "X": "3,75"
-      },
-      "category": "fotbal"
-    },
-    "c17d0796685841f30f2ca1b699b547463932e67f": {
-      "id": "c17d0796685841f30f2ca1b699b547463932e67f",
-      "teams": "Gillingham - Rochdale",
-      "odds": {
-        "1": "1,60",
-        "2": "5,50",
-        "X": "3,95"
-      },
-      "category": "fotbal"
-    },
-    "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44": {
-      "id": "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44",
-      "teams": "Fleetwood - Bristol R.",
-      "odds": {
-        "1": "1,60",
-        "2": "5,70",
-        "X": "3,90"
-      },
-      "category": "fotbal"
-    },
-    "d927df4e7a7a31c9d29048886020e139c4a4eca0": {
-      "id": "d927df4e7a7a31c9d29048886020e139c4a4eca0",
-      "teams": "Rotherham - Peterborough",
-      "odds": {
-        "1": "2,20",
-        "2": "3,10",
-        "X": "3,50"
-      },
-      "category": "fotbal"
-    },
-    "e587ae6f41c765b031694b386527e3a463cd2a2d": {
-      "id": "e587ae6f41c765b031694b386527e3a463cd2a2d",
-      "teams": "Accrington - Burton",
-      "odds": {
-        "1": "2,55",
-        "2": "2,70",
-        "X": "3,35"
-      },
-      "category": "fotbal"
-    },
-    "5c05c25b3fbada910a8513bebfd8d77b776f532a": {
-      "id": "5c05c25b3fbada910a8513bebfd8d77b776f532a",
-      "teams": "Doncaster - Sunderland",
-      "odds": {
-        "1": "2,55",
-        "2": "2,70",
-        "X": "3,35"
-      },
-      "category": "fotbal"
-    },
-    "b8bd0010d69296ec79216ef6628a2ee8f757b909": {
-      "id": "b8bd0010d69296ec79216ef6628a2ee8f757b909",
-      "teams": "Lincoln City - Ipswich",
-      "odds": {
-        "1": "2,60",
-        "2": "2,90",
-        "X": "3,00"
-      },
-      "category": "fotbal"
-    },
-    "49dfe8b3da280549b128fc0c497faf3c3ad9d469": {
-      "id": "49dfe8b3da280549b128fc0c497faf3c3ad9d469",
-      "teams": "Wycombe - Coventry",
-      "odds": {
-        "1": "2,70",
-        "2": "2,60",
-        "X": "3,25"
-      },
-      "category": "fotbal"
-    },
-    "9e0776a6fc5eb1b1e2b20d1e805f93f05f9f1537": {
-      "id": "9e0776a6fc5eb1b1e2b20d1e805f93f05f9f1537",
-      "teams": "Tranmere - Blackpool",
-      "odds": {
-        "1": "3,10",
-        "2": "2,30",
-        "X": "3,35"
-      },
-      "category": "fotbal"
-    },
-    "07ac2f339119e208cd5997f0f989c4f3eaa80599": {
-      "id": "07ac2f339119e208cd5997f0f989c4f3eaa80599",
-      "teams": "Bolton - Shrewsbury",
-      "odds": {
-        "1": "3,30",
-        "2": "2,30",
-        "X": "3,10"
-      },
-      "category": "fotbal"
-    },
-    "0c722ff5c7421797775e8e1c4e382bf501940b65": {
-      "id": "0c722ff5c7421797775e8e1c4e382bf501940b65",
-      "teams": "MK Dons - Portsmouth",
-      "odds": {
-        "1": "3,65",
-        "2": "1,95",
-        "X": "3,65"
-      },
-      "category": "fotbal"
-    },
-    "907d1e109125eeb386e193652ca85ad6140d7f10": {
-      "id": "907d1e109125eeb386e193652ca85ad6140d7f10",
-      "teams": "AFC Wimbledon - Oxford Utd.",
-      "odds": {
-        "1": "4,50",
-        "2": "1,75",
-        "X": "3,80"
-      },
-      "category": "fotbal"
-    },
-    "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3": {
-      "id": "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3",
-      "teams": "Forest Green - Macclesfield",
-      "odds": {
-        "1": "1,57",
-        "2": "6,20",
-        "X": "3,80"
-      },
-      "category": "fotbal"
-    },
-    "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f": {
-      "id": "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f",
-      "teams": "Plymouth - Stevenage",
-      "odds": {
-        "1": "1,63",
-        "2": "5,30",
-        "X": "3,80"
-      },
-      "category": "fotbal"
-    },
-    "d7e46db8672770f6dbd01568f2a30588f49a8bf8": {
-      "id": "d7e46db8672770f6dbd01568f2a30588f49a8bf8",
-      "teams": "Crewe - Scunthorpe",
-      "odds": {
-        "1": "1,80",
-        "2": "4,20",
-        "X": "3,70"
-      },
-      "category": "fotbal"
-    },
-    "1fe76deb58f790cdd9ba08c8c9f5c375001e9a94": {
-      "id": "1fe76deb58f790cdd9ba08c8c9f5c375001e9a94",
-      "teams": "Cambridge Utd. - Morecambe",
-      "odds": {
-        "1": "1,80",
-        "2": "4,40",
-        "X": "3,55"
-      },
-      "category": "fotbal"
-    },
-    "6e2cf05b9dbc6fa88ecf31464747a5aed1ac0e7a": {
-      "id": "6e2cf05b9dbc6fa88ecf31464747a5aed1ac0e7a",
-      "teams": "Bradford - Mansfield",
-      "odds": {
-        "1": "2,00",
-        "2": "3,65",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "7cfceca4f290f94a2414bc4f217aadf58b675852": {
-      "id": "7cfceca4f290f94a2414bc4f217aadf58b675852",
-      "teams": "Newport - Leyton",
-      "odds": {
-        "1": "2,05",
-        "2": "3,60",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "a903ed83367495bb7deccd9434f4a69fc4e9abec": {
-      "id": "a903ed83367495bb7deccd9434f4a69fc4e9abec",
-      "teams": "Walsall - Carlisle",
-      "odds": {
-        "1": "2,10",
-        "2": "3,40",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "51405eb207a29f3948747641e91b2a5faf6a4bac": {
-      "id": "51405eb207a29f3948747641e91b2a5faf6a4bac",
-      "teams": "Oldham - Salford City",
-      "odds": {
-        "1": "2,40",
-        "2": "2,90",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "f48e5079326f507e4d097f78aa490076692be893": {
-      "id": "f48e5079326f507e4d097f78aa490076692be893",
-      "teams": "Northampton - Cheltenham",
-      "odds": {
-        "1": "2,40",
-        "2": "2,95",
-        "X": "3,20"
-      },
-      "category": "fotbal"
-    },
-    "6fca8dfb9e8c8e833446cb72462e4c46273f22fc": {
-      "id": "6fca8dfb9e8c8e833446cb72462e4c46273f22fc",
-      "teams": "Grimsby - Crawley",
-      "odds": {
-        "1": "2,40",
-        "2": "2,90",
-        "X": "3,20"
-      },
-      "category": "fotbal"
-    },
-    "075a8257c529c5a63b7b05c245c65812e7a46e30": {
-      "id": "075a8257c529c5a63b7b05c245c65812e7a46e30",
-      "teams": "Colchester - Exeter",
-      "odds": {
-        "1": "2,45",
-        "2": "2,85",
-        "X": "3,20"
-      },
-      "category": "fotbal"
-    },
-    "88ea5539c678bfd9eca440d77b1301cc63fc283c": {
-      "id": "88ea5539c678bfd9eca440d77b1301cc63fc283c",
-      "teams": "Port Vale - Swindon Town",
-      "odds": {
-        "1": "3,25",
-        "2": "2,15",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "051645c163b697a635e25085307b40eee08b8baf": {
-      "id": "051645c163b697a635e25085307b40eee08b8baf",
-      "teams": "Nsr El Fedjoudj - Us Biskra",
-      "odds": {
-        "1": "3,75",
-        "2": "1,77",
-        "X": "3,80"
+        "1": "4,45",
+        "2": "3,95",
+        "X": "1,73"
       },
       "category": "fotbal"
     },
@@ -575,8 +55,8 @@
       "teams": "Friburguense RJ - Portuguesa RJ",
       "odds": {
         "1": "3,35",
-        "2": "2,10",
-        "X": "3,00"
+        "2": "3,00",
+        "X": "2,10"
       },
       "category": "fotbal"
     },
@@ -585,8 +65,8 @@
       "teams": "Macae RJ - Nova Iguacu RJ",
       "odds": {
         "1": "3,55",
-        "2": "2,05",
-        "X": "3,00"
+        "2": "3,00",
+        "X": "2,05"
       },
       "category": "fotbal"
     },
@@ -594,19 +74,9 @@
       "id": "038bc2922550afc08a585de96196c6aaaf74deae",
       "teams": "CSD Municipal - Antigua GFC",
       "odds": {
-        "1": "1,57",
-        "2": "5,00",
-        "X": "3,70"
-      },
-      "category": "fotbal"
-    },
-    "add2ce0fb4970f2ef2f051f9e7ff7205c3adeef5": {
-      "id": "add2ce0fb4970f2ef2f051f9e7ff7205c3adeef5",
-      "teams": "Mumbai City - Hyderabad Fc",
-      "odds": {
-        "1": "1,65",
-        "2": "4,00",
-        "X": "3,95"
+        "1": "1,55",
+        "2": "3,60",
+        "X": "5,35"
       },
       "category": "fotbal"
     },
@@ -615,8 +85,8 @@
       "teams": "Mac.Netanya - Bnei Yehuda TA",
       "odds": {
         "1": "2,35",
-        "2": "3,00",
-        "X": "3,05"
+        "2": "3,05",
+        "X": "3,00"
       },
       "category": "fotbal"
     },
@@ -625,8 +95,8 @@
       "teams": "Sectzya Nes Ziona - Hap.Tel Aviv",
       "odds": {
         "1": "3,35",
-        "2": "2,15",
-        "X": "3,10"
+        "2": "3,10",
+        "X": "2,15"
       },
       "category": "fotbal"
     },
@@ -635,8 +105,8 @@
       "teams": "Jamalco FC - Tivoli Gardens",
       "odds": {
         "1": "2,80",
-        "2": "2,40",
-        "X": "3,00"
+        "2": "3,00",
+        "X": "2,40"
       },
       "category": "fotbal"
     },
@@ -645,8 +115,8 @@
       "teams": "Molynes - Dunbeholden Fc",
       "odds": {
         "1": "3,00",
-        "2": "2,20",
-        "X": "3,10"
+        "2": "3,10",
+        "X": "2,20"
       },
       "category": "fotbal"
     },
@@ -655,8 +125,8 @@
       "teams": "Humble Lions - Arnett Gardens",
       "odds": {
         "1": "2,30",
-        "2": "3,00",
-        "X": "2,90"
+        "2": "2,90",
+        "X": "3,00"
       },
       "category": "fotbal"
     },
@@ -665,8 +135,8 @@
       "teams": "Harbour View FC - Portmore Utd",
       "odds": {
         "1": "3,50",
-        "2": "2,00",
-        "X": "3,10"
+        "2": "3,10",
+        "X": "2,00"
       },
       "category": "fotbal"
     },
@@ -675,18 +145,8 @@
       "teams": "Cavaliers FC - Waterhouse",
       "odds": {
         "1": "3,65",
-        "2": "1,90",
-        "X": "3,25"
-      },
-      "category": "fotbal"
-    },
-    "252c878922d63d815e88ac81ddc70cad70c677c2": {
-      "id": "252c878922d63d815e88ac81ddc70cad70c677c2",
-      "teams": "Khouribga - Far Forces",
-      "odds": {
-        "1": "2,50",
-        "2": "2,75",
-        "X": "2,95"
+        "2": "3,25",
+        "X": "1,90"
       },
       "category": "fotbal"
     },
@@ -695,8 +155,8 @@
       "teams": "Cayb Ca Youssoufia B. - Rapide Oued Zem",
       "odds": {
         "1": "1,70",
-        "2": "4,60",
-        "X": "3,25"
+        "2": "3,25",
+        "X": "4,60"
       },
       "category": "fotbal"
     },
@@ -705,28 +165,8 @@
       "teams": "América - Monterrey",
       "odds": {
         "1": "2,15",
-        "2": "3,20",
-        "X": "3,45"
-      },
-      "category": "fotbal"
-    },
-    "7ef734086d1904bf3f6f99ece7241a08fb9dfc19": {
-      "id": "7ef734086d1904bf3f6f99ece7241a08fb9dfc19",
-      "teams": "Feirense - Casa Pia Atletico",
-      "odds": {
-        "1": "1,45",
-        "2": "7,50",
-        "X": "4,00"
-      },
-      "category": "fotbal"
-    },
-    "047115860ed94b59b5b161d3f29d611286bcaada": {
-      "id": "047115860ed94b59b5b161d3f29d611286bcaada",
-      "teams": "Mafra - Viseu",
-      "odds": {
-        "1": "1,95",
-        "2": "3,85",
-        "X": "3,30"
+        "2": "3,45",
+        "X": "3,20"
       },
       "category": "fotbal"
     },
@@ -735,18 +175,8 @@
       "teams": "Gd Chaves - Vilafranquense",
       "odds": {
         "1": "1,53",
-        "2": "5,85",
-        "X": "4,00"
-      },
-      "category": "fotbal"
-    },
-    "57ee5ad8f49d2f1be915e8ece0e45f517a8495ad": {
-      "id": "57ee5ad8f49d2f1be915e8ece0e45f517a8495ad",
-      "teams": "Istanbulspor AS - Adana Demir",
-      "odds": {
-        "1": "2,15",
-        "2": "3,00",
-        "X": "3,35"
+        "2": "4,00",
+        "X": "5,85"
       },
       "category": "fotbal"
     },
@@ -755,48 +185,8 @@
       "teams": "Altay Izmir - Giresun",
       "odds": {
         "1": "2,00",
-        "2": "3,40",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "58e15c537cb4ab49330678e1da5527e8badffd6f": {
-      "id": "58e15c537cb4ab49330678e1da5527e8badffd6f",
-      "teams": "CS Sfaxien - Cs Chebba",
-      "odds": {
-        "1": "1,43",
-        "2": "6,70",
-        "X": "4,10"
-      },
-      "category": "fotbal"
-    },
-    "42950a50389c73f89de25f490ee2340628a9678b": {
-      "id": "42950a50389c73f89de25f490ee2340628a9678b",
-      "teams": "As Slimane - ES Metlaoui",
-      "odds": {
-        "1": "2,10",
         "2": "3,30",
-        "X": "3,00"
-      },
-      "category": "fotbal"
-    },
-    "26213ad6b4b506db83a394645611f532a6a914f3": {
-      "id": "26213ad6b4b506db83a394645611f532a6a914f3",
-      "teams": "Fc San Pedro - Husa Hassania",
-      "odds": {
-        "1": "2,20",
-        "2": "2,75",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "d4426d7e9286f7c8b6172e94494cb74db03757c4": {
-      "id": "d4426d7e9286f7c8b6172e94494cb74db03757c4",
-      "teams": "Esae Fc - Zanaco",
-      "odds": {
-        "1": "4,30",
-        "2": "1,75",
-        "X": "3,35"
+        "X": "3,40"
       },
       "category": "fotbal"
     },
@@ -805,8 +195,8 @@
       "teams": "Bidvest W. - Al-Nasr SC Benghazi",
       "odds": {
         "1": "1,35",
-        "2": "8,10",
-        "X": "4,20"
+        "2": "4,20",
+        "X": "8,10"
       },
       "category": "fotbal"
     },
@@ -814,9 +204,9 @@
       "id": "cb41f7676e884653a5c06856f7ff7131cd7bd541",
       "teams": "Horoya Ac - Djoliba AC",
       "odds": {
-        "1": "1,50",
-        "2": "6,20",
-        "X": "3,55"
+        "1": "1,40",
+        "2": "3,75",
+        "X": "8,00"
       },
       "category": "fotbal"
     },
@@ -824,9 +214,9 @@
       "id": "0ab9cb27581cbc5c76c13e983eeab4c1f62a31d3",
       "teams": "Al Masry - Pyramids FC",
       "odds": {
-        "1": "2,90",
-        "2": "2,40",
-        "X": "2,90"
+        "1": "3,25",
+        "2": "2,90",
+        "X": "2,20"
       },
       "category": "fotbal"
     },
@@ -835,8 +225,8 @@
       "teams": "Paradou Ac - Enyimba",
       "odds": {
         "1": "1,30",
-        "2": "8,00",
-        "X": "4,75"
+        "2": "4,75",
+        "X": "8,00"
       },
       "category": "fotbal"
     },
@@ -844,209 +234,9 @@
       "id": "a53de33e57aedefa83f90da08f773794c86f082a",
       "teams": "Fc Nouadhibou - Enugu Rangers International FC",
       "odds": {
-        "1": "2,25",
-        "2": "2,75",
-        "X": "3,30"
-      },
-      "category": "fotbal"
-    },
-    "0dcb092bdf9890ee4f7e7185b4727640b6cec55e": {
-      "id": "0dcb092bdf9890ee4f7e7185b4727640b6cec55e",
-      "teams": "Liverpool - undefined",
-      "odds": {
-        "1": "1,05",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "77462893ce11395582d3ec58b132df9dd8862fab": {
-      "id": "77462893ce11395582d3ec58b132df9dd8862fab",
-      "teams": "Manchester City - undefined",
-      "odds": {
-        "1": "15,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "b923e2d350f44c579c4e3d84e875ddea722a7e58": {
-      "id": "b923e2d350f44c579c4e3d84e875ddea722a7e58",
-      "teams": "Leicester - undefined",
-      "odds": {
-        "1": "100,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "3aac6d2a3344c0c3b3fa367fed79ff87c60a2393": {
-      "id": "3aac6d2a3344c0c3b3fa367fed79ff87c60a2393",
-      "teams": "Chelsea - undefined",
-      "odds": {
-        "1": "500,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "abc1c25184738cdd6696672b77304bf6d48bf75f": {
-      "id": "abc1c25184738cdd6696672b77304bf6d48bf75f",
-      "teams": "Tottenham - undefined",
-      "odds": {
-        "1": "750,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "d8ce484bda18034c0154e771212684f6bd79db86": {
-      "id": "d8ce484bda18034c0154e771212684f6bd79db86",
-      "teams": "Manchester Utd. - undefined",
-      "odds": {
-        "1": "750,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "86bf7812deee51a6bf60bc4caf0a4b729ac3c489": {
-      "id": "86bf7812deee51a6bf60bc4caf0a4b729ac3c489",
-      "teams": "Arsenal - undefined",
-      "odds": {
-        "1": "900,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "061ddf1b7bfa3fd98249f783fef0bd0a148f9133": {
-      "id": "061ddf1b7bfa3fd98249f783fef0bd0a148f9133",
-      "teams": "Wolverhampton - undefined",
-      "odds": {
-        "1": "900,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "329b8e614c0b03e07cb71054e5e47f22150d930d": {
-      "id": "329b8e614c0b03e07cb71054e5e47f22150d930d",
-      "teams": "Everton - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "c183651cd57e7cab28abbb0be2710f324e7f9b07": {
-      "id": "c183651cd57e7cab28abbb0be2710f324e7f9b07",
-      "teams": "West Ham - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "30711360bb7ffc85b9871091fe83234e15a2fed3": {
-      "id": "30711360bb7ffc85b9871091fe83234e15a2fed3",
-      "teams": "Newcastle - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "19abca119cee5ccf7ca2093c5e854cc0233ebf18": {
-      "id": "19abca119cee5ccf7ca2093c5e854cc0233ebf18",
-      "teams": "Watford - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "b187bce07b775f8690574f9b8e16b18d265bd4b1": {
-      "id": "b187bce07b775f8690574f9b8e16b18d265bd4b1",
-      "teams": "Crystal P. - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "59fb9ffef9a756f9d0df5bc8366fac15267a2d81": {
-      "id": "59fb9ffef9a756f9d0df5bc8366fac15267a2d81",
-      "teams": "Southampton - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "8ac372425162a75f845e0fa8760e1abc1c15c7cf": {
-      "id": "8ac372425162a75f845e0fa8760e1abc1c15c7cf",
-      "teams": "Aston Villa - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "9cbc6663233c32ecfbe35a4d6f08511a5b70ca0b": {
-      "id": "9cbc6663233c32ecfbe35a4d6f08511a5b70ca0b",
-      "teams": "Bournemouth - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "804815192088175ff64ecbb39bfc4f63434fb13f": {
-      "id": "804815192088175ff64ecbb39bfc4f63434fb13f",
-      "teams": "Brighton - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "15a3c6adca1fc2955e0b35f4524366950c656198": {
-      "id": "15a3c6adca1fc2955e0b35f4524366950c656198",
-      "teams": "Burnley - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "ba47e512a532f02f42bf325b414931368fdfd1cf": {
-      "id": "ba47e512a532f02f42bf325b414931368fdfd1cf",
-      "teams": "Norwich - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
-      },
-      "category": "fotbal"
-    },
-    "5522652e7d4166714647c8e270ddb3f2ece766cb": {
-      "id": "5522652e7d4166714647c8e270ddb3f2ece766cb",
-      "teams": "Sheffield Utd. - undefined",
-      "odds": {
-        "1": "999,00",
-        "2": "-",
-        "X": "-"
+        "1": "2,10",
+        "2": "3,35",
+        "X": "3,00"
       },
       "category": "fotbal"
     },
@@ -1054,39 +244,9 @@
       "id": "c020b63d2952621c074ab73efa732012c5977bc1",
       "teams": "F/CS Magura Cisnadiei - F/CSM Bistrita",
       "odds": {
-        "1": "1,65",
-        "2": "2,80",
-        "X": "8,00"
-      },
-      "category": "handbal"
-    },
-    "1f175df8741ec3bc7c3b95f6d6083743b23caf20": {
-      "id": "1f175df8741ec3bc7c3b95f6d6083743b23caf20",
-      "teams": "F/CJF Fleury Les Aubrais - F/Bourg De Peage",
-      "odds": {
-        "1": "1,15",
-        "2": "7,20",
-        "X": "12,00"
-      },
-      "category": "handbal"
-    },
-    "4fca9bc9bfd83ae868fd31a3c768335bf35b4bd4": {
-      "id": "4fca9bc9bfd83ae868fd31a3c768335bf35b4bd4",
-      "teams": "F/Issy Paris - F/Brest Bretagne",
-      "odds": {
-        "1": "5,30",
-        "2": "1,25",
-        "X": "10,00"
-      },
-      "category": "handbal"
-    },
-    "c0904d74220c3c78c3445937297385e67adf5b7a": {
-      "id": "c0904d74220c3c78c3445937297385e67adf5b7a",
-      "teams": "F/Merignac - F/Ogc Nice Cote D'azur",
-      "odds": {
-        "1": "7,20",
-        "2": "1,15",
-        "X": "12,00"
+        "1": "1,55",
+        "2": "9,00",
+        "X": "2,85"
       },
       "category": "handbal"
     },
@@ -1095,8 +255,8 @@
       "teams": "F/Metz - F/Nantes Loire",
       "odds": {
         "1": "1,05",
-        "2": "10,00",
-        "X": "18,00"
+        "2": "18,00",
+        "X": "10,00"
       },
       "category": "handbal"
     },
@@ -1105,8 +265,8 @@
       "teams": "F/ESBF Besancon - F/Chambray Touraine",
       "odds": {
         "1": "1,18",
-        "2": "6,00",
-        "X": "12,00"
+        "2": "12,00",
+        "X": "6,00"
       },
       "category": "handbal"
     },
@@ -1115,98 +275,8 @@
       "teams": "F/Toulon Saint Cyr Var Handball - F/Cercle Dijon Bourgogne",
       "odds": {
         "1": "1,35",
-        "2": "4,00",
-        "X": "9,00"
-      },
-      "category": "handbal"
-    },
-    "04fcc93e684700b37a535776eab20dcc01210f5f": {
-      "id": "04fcc93e684700b37a535776eab20dcc01210f5f",
-      "teams": "THW Kiel - TVV Lemgo",
-      "odds": {
-        "1": "1,12",
-        "2": "9,50",
-        "X": "16,00"
-      },
-      "category": "handbal"
-    },
-    "9c0f8f9389b5b172de4c578b8333ef87e015f23e": {
-      "id": "9c0f8f9389b5b172de4c578b8333ef87e015f23e",
-      "teams": "Bergischer - Nordhorn",
-      "odds": {
-        "1": "1,13",
-        "2": "8,50",
-        "X": "14,00"
-      },
-      "category": "handbal"
-    },
-    "0312c30a8fc24a306e42133ebf396bb69a920756": {
-      "id": "0312c30a8fc24a306e42133ebf396bb69a920756",
-      "teams": "Balingen - SC Leipzig",
-      "odds": {
-        "1": "2,30",
-        "2": "2,00",
-        "X": "7,50"
-      },
-      "category": "handbal"
-    },
-    "bc29eccb63c803c5c5360f68597d2e476a538c47": {
-      "id": "bc29eccb63c803c5c5360f68597d2e476a538c47",
-      "teams": "Minden - TSV Hannover Burgdorf",
-      "odds": {
-        "1": "3,00",
-        "2": "1,62",
-        "X": "8,80"
-      },
-      "category": "handbal"
-    },
-    "4d52f26e310f83353280fdc1b458504120bd4f24": {
-      "id": "4d52f26e310f83353280fdc1b458504120bd4f24",
-      "teams": "F/Thuringer HC - F/Auerbach",
-      "odds": {
-        "1": "-",
-        "2": "15,00",
-        "X": "20,00"
-      },
-      "category": "handbal"
-    },
-    "8e1a1653678568498828413e6329a95a78763022": {
-      "id": "8e1a1653678568498828413e6329a95a78763022",
-      "teams": "F/Buxtehuder SV - F/Blomberg-Lippe",
-      "odds": {
-        "1": "5,00",
-        "2": "1,28",
-        "X": "11,00"
-      },
-      "category": "handbal"
-    },
-    "72cc2fce40bc68413767058c2d429762ab66f5ab": {
-      "id": "72cc2fce40bc68413767058c2d429762ab66f5ab",
-      "teams": "F/TSV Bayer 04 Leverkusen - F/HSG Bad Wildungen",
-      "odds": {
-        "1": "1,12",
-        "2": "8,50",
-        "X": "15,00"
-      },
-      "category": "handbal"
-    },
-    "d98943893ac0d49997e26613e4474d77d253d957": {
-      "id": "d98943893ac0d49997e26613e4474d77d253d957",
-      "teams": "1. Fsv Mainz 05 Women - F/FA Goppingen",
-      "odds": {
-        "1": "5,00",
-        "2": "1,27",
-        "X": "10,00"
-      },
-      "category": "handbal"
-    },
-    "cc8250924a54a12b0d75b53c052ed62f459fecae": {
-      "id": "cc8250924a54a12b0d75b53c052ed62f459fecae",
-      "teams": "F/VFL Oldenburg - F/TuS Metzingen",
-      "odds": {
-        "1": "7,25",
-        "2": "1,17",
-        "X": "13,00"
+        "2": "9,00",
+        "X": "4,00"
       },
       "category": "handbal"
     },
@@ -1215,8 +285,8 @@
       "teams": "F/Neckarsulmer SU - F/Kurpfalz Baren Ketsch",
       "odds": {
         "1": "1,35",
-        "2": "4,25",
-        "X": "10,00"
+        "2": "10,00",
+        "X": "4,25"
       },
       "category": "handbal"
     },
@@ -1225,8 +295,8 @@
       "teams": "F/BVB Dortmund - F/SG BBM Bietigheim",
       "odds": {
         "1": "2,15",
-        "2": "2,05",
-        "X": "8,50"
+        "2": "8,50",
+        "X": "2,05"
       },
       "category": "handbal"
     },
@@ -1235,8 +305,8 @@
       "teams": "F/Skara - F/Hoors H65",
       "odds": {
         "1": "10,00",
-        "2": "1,07",
-        "X": "16,00"
+        "2": "16,00",
+        "X": "1,07"
       },
       "category": "handbal"
     },
@@ -1245,18 +315,8 @@
       "teams": "F/Lugi - F/Savehof",
       "odds": {
         "1": "3,80",
-        "2": "1,40",
-        "X": "10,00"
-      },
-      "category": "handbal"
-    },
-    "ea863e6a6e69331d9b27ddee0f2ac41698b351f7": {
-      "id": "ea863e6a6e69331d9b27ddee0f2ac41698b351f7",
-      "teams": "F/Erd - F/Fehervar",
-      "odds": {
-        "1": "1,05",
         "2": "10,00",
-        "X": "17,00"
+        "X": "1,40"
       },
       "category": "handbal"
     },
@@ -1265,8 +325,8 @@
       "teams": "Mtk-Budapest - F/Siofok Kc-Galerius Furdo",
       "odds": {
         "1": "10,00",
-        "2": "1,05",
-        "X": "17,00"
+        "2": "17,00",
+        "X": "1,05"
       },
       "category": "handbal"
     },
@@ -1275,8 +335,8 @@
       "teams": "F/Dunaujvarosi Akad. - F/Szent Istvan",
       "odds": {
         "1": "1,03",
-        "2": "14,00",
-        "X": "15,00"
+        "2": "15,00",
+        "X": "14,00"
       },
       "category": "handbal"
     },
@@ -1285,8 +345,8 @@
       "teams": "F/Debreceni VSC - F/Szombathelyi Kka",
       "odds": {
         "1": "1,07",
-        "2": "9,75",
-        "X": "16,00"
+        "2": "16,00",
+        "X": "9,75"
       },
       "category": "handbal"
     },
@@ -1295,8 +355,8 @@
       "teams": "F/Mosonmagyarovari - F/Kisvarda",
       "odds": {
         "1": "2,15",
-        "2": "2,00",
-        "X": "7,50"
+        "2": "7,50",
+        "X": "2,00"
       },
       "category": "handbal"
     },
@@ -1305,8 +365,8 @@
       "teams": "F/Ftc - F/Gyori ETO KC",
       "odds": {
         "1": "5,00",
-        "2": "1,25",
-        "X": "10,00"
+        "2": "10,00",
+        "X": "1,25"
       },
       "category": "handbal"
     },
@@ -1315,8 +375,8 @@
       "teams": "Bekescsabai Enkse - F/Vaci Nkse",
       "odds": {
         "1": "5,70",
-        "2": "1,20",
-        "X": "10,00"
+        "2": "10,00",
+        "X": "1,20"
       },
       "category": "handbal"
     },
@@ -1325,8 +385,8 @@
       "teams": "Serbia - Croatia",
       "odds": {
         "1": "1,80",
-        "2": "2,40",
-        "X": "7,00"
+        "2": "7,00",
+        "X": "2,40"
       },
       "category": "polo"
     },
@@ -1335,140 +395,20 @@
       "teams": "Cr Candoso - Sporting CP",
       "odds": {
         "1": "21,00",
-        "2": "1,03",
-        "X": "12,00"
+        "2": "12,00",
+        "X": "1,03"
       },
       "category": "fotbal in sala"
-    },
-    "20158b669063e7aa5601a3196203b8cd75b9b521": {
-      "id": "20158b669063e7aa5601a3196203b8cd75b9b521",
-      "teams": "La Rochelle - Agen",
-      "odds": {
-        "1": "1,10",
-        "2": "8,00",
-        "X": "35,00"
-      },
-      "category": "rugby"
-    },
-    "28dc6906cb8a22524e04857673301d486f6b6a9c": {
-      "id": "28dc6906cb8a22524e04857673301d486f6b6a9c",
-      "teams": "Section Paloise - Bordeaux B.",
-      "odds": {
-        "1": "2,05",
-        "2": "1,80",
-        "X": "20,00"
-      },
-      "category": "rugby"
-    },
-    "c237f055c2fbe3f23f7b043f20f4c053e213840d": {
-      "id": "c237f055c2fbe3f23f7b043f20f4c053e213840d",
-      "teams": "Clermont A. - Castres",
-      "odds": {
-        "1": "1,10",
-        "2": "7,50",
-        "X": "35,00"
-      },
-      "category": "rugby"
-    },
-    "aaaa2ee09b30ed5423f50765c3b3c40914e822d9": {
-      "id": "aaaa2ee09b30ed5423f50765c3b3c40914e822d9",
-      "teams": "Toulouse - RC Toulonnais",
-      "odds": {
-        "1": "1,18",
-        "2": "5,00",
-        "X": "28,00"
-      },
-      "category": "rugby"
-    },
-    "4264fa2418cf151f897a071609d2bd95754c9380": {
-      "id": "4264fa2418cf151f897a071609d2bd95754c9380",
-      "teams": "Exeter - Saracens",
-      "odds": {
-        "1": "2,10",
-        "2": "1,80",
-        "X": "20,00"
-      },
-      "category": "rugby"
     }
   },
   "superbet": {
-    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
-      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
-      "teams": "Arsenal - Chelsea",
+    "716ae160ce7028d2ff9a46884279d9d68824a1e0": {
+      "id": "716ae160ce7028d2ff9a46884279d9d68824a1e0",
+      "teams": "C.Rizespor - Fenerbahce",
       "odds": {
-        "1": "2.85",
-        "2": "2.38",
-        "X": "3.75"
-      },
-      "category": "fotbal"
-    },
-    "5fa7d864d02d04c6d5a8ac284d3e90ff269236bd": {
-      "id": "5fa7d864d02d04c6d5a8ac284d3e90ff269236bd",
-      "teams": "WBA - Middlesbrough",
-      "odds": {
-        "1": "1.57",
-        "2": "5.75",
+        "1": "4.30",
+        "2": "1.75",
         "X": "4.15"
-      },
-      "category": "fotbal"
-    },
-    "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85": {
-      "id": "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85",
-      "teams": "Swansea - Barnsley",
-      "odds": {
-        "1": "1.92",
-        "2": "3.90",
-        "X": "3.70"
-      },
-      "category": "fotbal"
-    },
-    "a0b74f11393edc25eb93e896155c34f1219743a7": {
-      "id": "a0b74f11393edc25eb93e896155c34f1219743a7",
-      "teams": "Sheffield Wed. - Cardiff",
-      "odds": {
-        "1": "1.75",
-        "2": "4.85",
-        "X": "3.65"
-      },
-      "category": "fotbal"
-    },
-    "37567169f49a087609ebd118cd3011f133762b0a": {
-      "id": "37567169f49a087609ebd118cd3011f133762b0a",
-      "teams": "QPR - Hull",
-      "odds": {
-        "1": "2.40",
-        "2": "2.85",
-        "X": "3.60"
-      },
-      "category": "fotbal"
-    },
-    "34225f8193ccaba3dc434d9c5083723d045c0057": {
-      "id": "34225f8193ccaba3dc434d9c5083723d045c0057",
-      "teams": "Nott.Forest - Wigan",
-      "odds": {
-        "1": "1.82",
-        "2": "4.80",
-        "X": "3.40"
-      },
-      "category": "fotbal"
-    },
-    "2d9c6f1885a6e32058360320813bf9e7d1f95e95": {
-      "id": "2d9c6f1885a6e32058360320813bf9e7d1f95e95",
-      "teams": "Fulham - Stoke",
-      "odds": {
-        "1": "2.05",
-        "2": "3.75",
-        "X": "3.35"
-      },
-      "category": "fotbal"
-    },
-    "df2a1efa44d2d4bd6593627203091168230a2d26": {
-      "id": "df2a1efa44d2d4bd6593627203091168230a2d26",
-      "teams": "Birmingham - Leeds",
-      "odds": {
-        "1": "5.25",
-        "2": "1.68",
-        "X": "3.75"
       },
       "category": "fotbal"
     },
@@ -1476,11 +416,51 @@
       "id": "968de6dad0ab2f21cea3ada925a10dd02b4b7580",
       "teams": "Liverpool - Wolverhampton",
       "odds": {
-        "1": "1.35",
-        "2": "9.00",
-        "X": "5.30"
+        "1": "1.28",
+        "2": "10.00",
+        "X": "6.20"
       },
       "category": "fotbal"
+    },
+    "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5": {
+      "id": "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5",
+      "teams": "Mac.Netanya - Bnei Yehuda TA",
+      "odds": {
+        "1": "2.40",
+        "2": "3.00",
+        "X": "3.05"
+      },
+      "category": "fotbal"
+    },
+    "d00db5f8bebda4600fe3b58c0244dc2913c8f328": {
+      "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
+      "teams": "Benevento - Ascoli",
+      "odds": {
+        "1": "1.47",
+        "2": "7.20",
+        "X": "4.05"
+      },
+      "category": "fotbal"
+    },
+    "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78": {
+      "id": "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78",
+      "teams": "Chaves - Vilafranquense",
+      "odds": {
+        "1": "1.50",
+        "2": "6.20",
+        "X": "3.95"
+      },
+      "category": "fotbal"
+    },
+    "b51d0089eebfe2785ceb8b80b30f0b84ee243a34": {
+      "id": "b51d0089eebfe2785ceb8b80b30f0b84ee243a34",
+      "teams": "Barcelona - Real Madrid",
+      "odds": {
+        "1": "1.60",
+        "2": "2.65",
+        "X": "15.00"
+      },
+      "category": "fotbal - turcia - superliga"
     },
     "1c56f574cbbfb4cfb0a7e29d36f0efa177338f12": {
       "id": "1c56f574cbbfb4cfb0a7e29d36f0efa177338f12",
@@ -1492,283 +472,33 @@
       },
       "category": "fotbal"
     },
-    "c4cc90858123b100fc0963fe403c6787aa856d2e": {
-      "id": "c4cc90858123b100fc0963fe403c6787aa856d2e",
-      "teams": "Preston - Reading",
+    "19a52ea4a695d6a821b95945c92430c24a9c04a6": {
+      "id": "19a52ea4a695d6a821b95945c92430c24a9c04a6",
+      "teams": "Sektzia Nes T. - Hap.Tel Aviv",
       "odds": {
-        "1": "1.90",
-        "2": "4.20",
-        "X": "3.50"
-      },
-      "category": "fotbal"
-    },
-    "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
-      "id": "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380",
-      "teams": "Millwall - Brentford",
-      "odds": {
-        "1": "3.75",
-        "2": "2.07",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa": {
-      "id": "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa",
-      "teams": "Huddersfield - Blackburn",
-      "odds": {
-        "1": "2.55",
-        "2": "2.95",
-        "X": "3.10"
-      },
-      "category": "fotbal"
-    },
-    "468908c9a89769cbe883821549a57e03b2fd9b5d": {
-      "id": "468908c9a89769cbe883821549a57e03b2fd9b5d",
-      "teams": "Bristol City - Luton",
-      "odds": {
-        "1": "1.73",
-        "2": "4.55",
-        "X": "3.95"
-      },
-      "category": "fotbal"
-    },
-    "c17d0796685841f30f2ca1b699b547463932e67f": {
-      "id": "c17d0796685841f30f2ca1b699b547463932e67f",
-      "teams": "Gillingham - Rochdale",
-      "odds": {
-        "1": "1.62",
-        "2": "5.20",
-        "X": "3.90"
-      },
-      "category": "fotbal"
-    },
-    "49dfe8b3da280549b128fc0c497faf3c3ad9d469": {
-      "id": "49dfe8b3da280549b128fc0c497faf3c3ad9d469",
-      "teams": "Wycombe - Coventry",
-      "odds": {
-        "1": "2.70",
-        "2": "2.60",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "9f4edfcde74fdc35600c1ddfd75e1bdd7417e8d8": {
-      "id": "9f4edfcde74fdc35600c1ddfd75e1bdd7417e8d8",
-      "teams": "Tranmere R. - Blackpool",
-      "odds": {
-        "1": "3.05",
-        "2": "2.30",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "d927df4e7a7a31c9d29048886020e139c4a4eca0": {
-      "id": "d927df4e7a7a31c9d29048886020e139c4a4eca0",
-      "teams": "Rotherham - Peterborough",
-      "odds": {
-        "1": "2.25",
-        "2": "3.05",
-        "X": "3.40"
-      },
-      "category": "fotbal"
-    },
-    "0c722ff5c7421797775e8e1c4e382bf501940b65": {
-      "id": "0c722ff5c7421797775e8e1c4e382bf501940b65",
-      "teams": "MK Dons - Portsmouth",
-      "odds": {
-        "1": "3.70",
-        "2": "1.95",
-        "X": "3.55"
-      },
-      "category": "fotbal"
-    },
-    "b8bd0010d69296ec79216ef6628a2ee8f757b909": {
-      "id": "b8bd0010d69296ec79216ef6628a2ee8f757b909",
-      "teams": "Lincoln City - Ipswich",
-      "odds": {
-        "1": "2.60",
-        "2": "2.90",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44": {
-      "id": "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44",
-      "teams": "Fleetwood - Bristol R.",
-      "odds": {
-        "1": "1.57",
-        "2": "5.85",
-        "X": "3.90"
-      },
-      "category": "fotbal"
-    },
-    "5c05c25b3fbada910a8513bebfd8d77b776f532a": {
-      "id": "5c05c25b3fbada910a8513bebfd8d77b776f532a",
-      "teams": "Doncaster - Sunderland",
-      "odds": {
-        "1": "2.50",
-        "2": "2.80",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "07ac2f339119e208cd5997f0f989c4f3eaa80599": {
-      "id": "07ac2f339119e208cd5997f0f989c4f3eaa80599",
-      "teams": "Bolton - Shrewsbury",
-      "odds": {
-        "1": "3.30",
-        "2": "2.30",
+        "1": "3.45",
+        "2": "2.17",
         "X": "3.05"
       },
       "category": "fotbal"
     },
-    "ebb74e855e24459d98c794c6237a441886e8074d": {
-      "id": "ebb74e855e24459d98c794c6237a441886e8074d",
-      "teams": "Accrington - Burton A.",
-      "odds": {
-        "1": "2.60",
-        "2": "2.70",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "cba7c9e3498b21ca8b3a5d1d2ba727af7d662d39": {
-      "id": "cba7c9e3498b21ca8b3a5d1d2ba727af7d662d39",
-      "teams": "Wimbledon - Oxford Utd",
-      "odds": {
-        "1": "4.60",
-        "2": "1.70",
-        "X": "3.85"
-      },
-      "category": "fotbal"
-    },
-    "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3": {
-      "id": "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3",
-      "teams": "Forest Green - Macclesfield",
-      "odds": {
-        "1": "1.57",
-        "2": "6.15",
-        "X": "3.75"
-      },
-      "category": "fotbal"
-    },
-    "a903ed83367495bb7deccd9434f4a69fc4e9abec": {
-      "id": "a903ed83367495bb7deccd9434f4a69fc4e9abec",
-      "teams": "Walsall - Carlisle",
-      "odds": {
-        "1": "2.10",
-        "2": "3.50",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "e6feb9915915ffbffdd251438ff9e18ab79a9e71": {
-      "id": "e6feb9915915ffbffdd251438ff9e18ab79a9e71",
-      "teams": "Port Vale - Swindon",
-      "odds": {
-        "1": "3.35",
-        "2": "2.15",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f": {
-      "id": "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f",
-      "teams": "Plymouth - Stevenage",
-      "odds": {
-        "1": "1.68",
-        "2": "5.10",
-        "X": "3.65"
-      },
-      "category": "fotbal"
-    },
-    "659ace39a1a8d2add8543c608326e2f996b184e2": {
-      "id": "659ace39a1a8d2add8543c608326e2f996b184e2",
-      "teams": "Oldham - Salford C.",
-      "odds": {
-        "1": "2.40",
-        "2": "2.90",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "f48e5079326f507e4d097f78aa490076692be893": {
-      "id": "f48e5079326f507e4d097f78aa490076692be893",
-      "teams": "Northampton - Cheltenham",
-      "odds": {
-        "1": "2.45",
-        "2": "2.90",
-        "X": "3.20"
-      },
-      "category": "fotbal"
-    },
-    "8bcd7369f904b274033bd602954840b5a9a48b15": {
-      "id": "8bcd7369f904b274033bd602954840b5a9a48b15",
-      "teams": "Newport - Leyton O.",
-      "odds": {
-        "1": "2.07",
-        "2": "3.60",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
-    "6fca8dfb9e8c8e833446cb72462e4c46273f22fc": {
-      "id": "6fca8dfb9e8c8e833446cb72462e4c46273f22fc",
-      "teams": "Grimsby - Crawley",
-      "odds": {
-        "1": "2.40",
-        "2": "2.95",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "d7e46db8672770f6dbd01568f2a30588f49a8bf8": {
-      "id": "d7e46db8672770f6dbd01568f2a30588f49a8bf8",
-      "teams": "Crewe - Scunthorpe",
+    "92982d4a99ca406f847a8c353655b64333b01744": {
+      "id": "92982d4a99ca406f847a8c353655b64333b01744",
+      "teams": "Empoli - Livorno",
       "odds": {
         "1": "1.75",
-        "2": "4.30",
-        "X": "3.85"
+        "2": "4.70",
+        "X": "3.55"
       },
       "category": "fotbal"
     },
-    "075a8257c529c5a63b7b05c245c65812e7a46e30": {
-      "id": "075a8257c529c5a63b7b05c245c65812e7a46e30",
-      "teams": "Colchester - Exeter",
+    "74ad679babffe5968cee5ac3eb991f58063fa6df": {
+      "id": "74ad679babffe5968cee5ac3eb991f58063fa6df",
+      "teams": "1 Club America - 2 Monterrey",
       "odds": {
-        "1": "2.40",
-        "2": "3.00",
-        "X": "3.20"
-      },
-      "category": "fotbal"
-    },
-    "6895e1bd409c33e3c8e7dfd7f5e5e8bacc93692f": {
-      "id": "6895e1bd409c33e3c8e7dfd7f5e5e8bacc93692f",
-      "teams": "Cambridge Utd - Morecambe",
-      "odds": {
-        "1": "1.80",
-        "2": "4.30",
-        "X": "3.60"
-      },
-      "category": "fotbal"
-    },
-    "fcd4133d9dc45f3f69f66e5d39649dc0caa1fc06": {
-      "id": "fcd4133d9dc45f3f69f66e5d39649dc0caa1fc06",
-      "teams": "Bradford C. - Mansfield",
-      "odds": {
-        "1": "2.05",
-        "2": "3.55",
-        "X": "3.40"
-      },
-      "category": "fotbal"
-    },
-    "d1bfa8b1db97d304de81f0aff437de17ba0b65e8": {
-      "id": "d1bfa8b1db97d304de81f0aff437de17ba0b65e8",
-      "teams": "NSR EL Fedjoudj - US Biskra",
-      "odds": {
-        "1": "3.75",
-        "2": "1.77",
-        "X": "3.85"
+        "1": "2.15",
+        "2": "3.10",
+        "X": "3.45"
       },
       "category": "fotbal"
     },
@@ -1786,79 +516,9 @@
       "id": "612e125ef3803130557de786b6d49f6c7442e5df",
       "teams": "Macae RJ - Nova Iguacu RJ",
       "odds": {
-        "1": "3.15",
-        "2": "2.25",
-        "X": "3.05"
-      },
-      "category": "fotbal"
-    },
-    "af0a8580bd75942926f57255e8a172b24a00eeef": {
-      "id": "af0a8580bd75942926f57255e8a172b24a00eeef",
-      "teams": "Bouake - AS Tanda",
-      "odds": {
-        "1": "2.30",
-        "2": "3.10",
-        "X": "2.85"
-      },
-      "category": "fotbal"
-    },
-    "cc4969f6f8f8a01959dff17c0fbe1c9c02119381": {
-      "id": "cc4969f6f8f8a01959dff17c0fbe1c9c02119381",
-      "teams": "Ebusua Dwarfs - Medeama",
-      "odds": {
-        "1": "2.95",
-        "2": "2.40",
-        "X": "2.80"
-      },
-      "category": "fotbal"
-    },
-    "9a45b6a4b0af4c7d0255f31f2c45481a1f3a1658": {
-      "id": "9a45b6a4b0af4c7d0255f31f2c45481a1f3a1658",
-      "teams": "Ashanti Gold - Great Olympics",
-      "odds": {
-        "1": "1.30",
-        "2": "9.15",
-        "X": "4.30"
-      },
-      "category": "fotbal"
-    },
-    "43ff1f314ec4d4db81af77095242c4b6bbe51915": {
-      "id": "43ff1f314ec4d4db81af77095242c4b6bbe51915",
-      "teams": "Liberty - ALL Stars",
-      "odds": {
-        "1": "1.23",
-        "2": "11.70",
-        "X": "4.70"
-      },
-      "category": "fotbal"
-    },
-    "7c6b5cd2b3aecb593719a2031662797807275bde": {
-      "id": "7c6b5cd2b3aecb593719a2031662797807275bde",
-      "teams": "Hearts of Oak - Berekum C.",
-      "odds": {
-        "1": "1.32",
-        "2": "8.45",
-        "X": "4.25"
-      },
-      "category": "fotbal"
-    },
-    "93eb747244f6985b6673ff91673e6ed9b73d8583": {
-      "id": "93eb747244f6985b6673ff91673e6ed9b73d8583",
-      "teams": "Asante Kotoko - Eleven Wonders",
-      "odds": {
-        "1": "1.30",
-        "2": "9.15",
-        "X": "4.30"
-      },
-      "category": "fotbal"
-    },
-    "7a2eb6c0dc6203981f6f651afadd46233c6c10b9": {
-      "id": "7a2eb6c0dc6203981f6f651afadd46233c6c10b9",
-      "teams": "Karela - Sogakope W.",
-      "odds": {
-        "1": "1.30",
-        "2": "8.75",
-        "X": "4.40"
+        "1": "3.40",
+        "2": "2.10",
+        "X": "3.10"
       },
       "category": "fotbal"
     },
@@ -1866,19 +526,9 @@
       "id": "2ca066fe5d0d4c0424efbe9388c20fddfb117fc3",
       "teams": "1 Municipal - 0 Antigua",
       "odds": {
-        "1": "1.82",
-        "2": "4.25",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "a084ccea0cce01596dab86791bb9a0e9c9ab6734": {
-      "id": "a084ccea0cce01596dab86791bb9a0e9c9ab6734",
-      "teams": "Mumbai City - Hyderabad",
-      "odds": {
-        "1": "1.68",
-        "2": "4.20",
-        "X": "3.80"
+        "1": "1.57",
+        "2": "5.75",
+        "X": "3.55"
       },
       "category": "fotbal"
     },
@@ -1896,19 +546,9 @@
       "id": "29d5c7beddac54c8526757e327da89c5e70c5128",
       "teams": "Nouadhibou - Enugu Rangers",
       "odds": {
-        "1": "2.25",
-        "2": "2.90",
+        "1": "2.10",
+        "2": "3.20",
         "X": "3.40"
-      },
-      "category": "fotbal"
-    },
-    "8a07df02ea657d060eb15aa7092e32e4f4c785dc": {
-      "id": "8a07df02ea657d060eb15aa7092e32e4f4c785dc",
-      "teams": "Esae FC - Zanaco",
-      "odds": {
-        "1": "4.40",
-        "2": "1.73",
-        "X": "3.55"
       },
       "category": "fotbal"
     },
@@ -1942,16 +582,6 @@
       },
       "category": "fotbal"
     },
-    "f8090c7cde84080d7692a545fdd43747c192ce58": {
-      "id": "f8090c7cde84080d7692a545fdd43747c192ce58",
-      "teams": "FC San Pedro - Hassania Agadir",
-      "odds": {
-        "1": "2.30",
-        "2": "2.85",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
     "73f88441962ce79262a7a97122081da9fd17ccb4": {
       "id": "73f88441962ce79262a7a97122081da9fd17ccb4",
       "teams": "Paradou AC - Enyimba",
@@ -1979,116 +609,6 @@
         "1": "1.80",
         "2": "3.60",
         "X": "3.80"
-      },
-      "category": "fotbal"
-    },
-    "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5": {
-      "id": "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5",
-      "teams": "Mac.Netanya - Bnei Yehuda TA",
-      "odds": {
-        "1": "2.40",
-        "2": "3.00",
-        "X": "3.05"
-      },
-      "category": "fotbal"
-    },
-    "19a52ea4a695d6a821b95945c92430c24a9c04a6": {
-      "id": "19a52ea4a695d6a821b95945c92430c24a9c04a6",
-      "teams": "Sektzia Nes T. - Hap.Tel Aviv",
-      "odds": {
-        "1": "3.45",
-        "2": "2.17",
-        "X": "3.05"
-      },
-      "category": "fotbal"
-    },
-    "0199bcb8133c6167dd2017c7d1e177ba8e12e36c": {
-      "id": "0199bcb8133c6167dd2017c7d1e177ba8e12e36c",
-      "teams": "Crotone - Trapani",
-      "odds": {
-        "1": "1.42",
-        "2": "7.50",
-        "X": "4.40"
-      },
-      "category": "fotbal"
-    },
-    "1e617fb04ca6fff01e5d25d5fd1010245753471d": {
-      "id": "1e617fb04ca6fff01e5d25d5fd1010245753471d",
-      "teams": "Pordenone - Cremonese",
-      "odds": {
-        "1": "2.25",
-        "2": "3.50",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "9b975f988b22a6090db20d245b4ee8bab0d7dcdf": {
-      "id": "9b975f988b22a6090db20d245b4ee8bab0d7dcdf",
-      "teams": "Juve Stabia - Cosenza",
-      "odds": {
-        "1": "2.65",
-        "2": "2.90",
-        "X": "2.95"
-      },
-      "category": "fotbal"
-    },
-    "032244787687df057ab636cfae5d3fee37ca072d": {
-      "id": "032244787687df057ab636cfae5d3fee37ca072d",
-      "teams": "Cittadella - V.Entella",
-      "odds": {
-        "1": "1.80",
-        "2": "4.55",
-        "X": "3.45"
-      },
-      "category": "fotbal"
-    },
-    "8fdec5ba44b142b82838ec2045971bff38d13d8c": {
-      "id": "8fdec5ba44b142b82838ec2045971bff38d13d8c",
-      "teams": "Pisa - Frosinone",
-      "odds": {
-        "1": "3.75",
-        "2": "2.15",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81": {
-      "id": "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81",
-      "teams": "Spezia - Salernitana",
-      "odds": {
-        "1": "2.05",
-        "2": "4.00",
-        "X": "3.05"
-      },
-      "category": "fotbal"
-    },
-    "2e3212ed030c6869836c531be77a8faac6d0009e": {
-      "id": "2e3212ed030c6869836c531be77a8faac6d0009e",
-      "teams": "Perugia - Venezia",
-      "odds": {
-        "1": "2.00",
-        "2": "4.10",
-        "X": "3.10"
-      },
-      "category": "fotbal"
-    },
-    "d00db5f8bebda4600fe3b58c0244dc2913c8f328": {
-      "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
-      "teams": "Benevento - Ascoli",
-      "odds": {
-        "1": "1.50",
-        "2": "6.85",
-        "X": "3.95"
-      },
-      "category": "fotbal"
-    },
-    "92982d4a99ca406f847a8c353655b64333b01744": {
-      "id": "92982d4a99ca406f847a8c353655b64333b01744",
-      "teams": "Empoli - Livorno",
-      "odds": {
-        "1": "1.75",
-        "2": "4.70",
-        "X": "3.55"
       },
       "category": "fotbal"
     },
@@ -2126,9 +646,9 @@
       "id": "696ed8b30ea09357007e48d7a031add8c12b40c4",
       "teams": "Harbour V. - Portmore Utd",
       "odds": {
-        "1": "3.40",
+        "1": "3.50",
         "2": "2.00",
-        "X": "3.15"
+        "X": "3.10"
       },
       "category": "fotbal"
     },
@@ -2142,16 +662,6 @@
       },
       "category": "fotbal"
     },
-    "a7fbd17347ba779424f1f06255c9acfb58600237": {
-      "id": "a7fbd17347ba779424f1f06255c9acfb58600237",
-      "teams": "Al Fehaheel - Khaitan SC",
-      "odds": {
-        "1": "2.15",
-        "2": "3.00",
-        "X": "3.35"
-      },
-      "category": "fotbal"
-    },
     "5623b2047f65e7976a55b1f1da4761d4ab51e98b": {
       "id": "5623b2047f65e7976a55b1f1da4761d4ab51e98b",
       "teams": "AL Kuwait SC - Yarmouk",
@@ -2162,16 +672,6 @@
       },
       "category": "fotbal"
     },
-    "b02aa7ad2c6e395054ccf6d0b8179519772bd734": {
-      "id": "b02aa7ad2c6e395054ccf6d0b8179519772bd734",
-      "teams": "Khouribga - FAR Rabat",
-      "odds": {
-        "1": "2.65",
-        "2": "2.65",
-        "X": "2.95"
-      },
-      "category": "fotbal"
-    },
     "24382e2575d4aab3af7e4983f5eb01e17300610f": {
       "id": "24382e2575d4aab3af7e4983f5eb01e17300610f",
       "teams": "Y.Berrechid - Rapide OZ",
@@ -2179,146 +679,6 @@
         "1": "1.80",
         "2": "4.45",
         "X": "3.15"
-      },
-      "category": "fotbal"
-    },
-    "74ad679babffe5968cee5ac3eb991f58063fa6df": {
-      "id": "74ad679babffe5968cee5ac3eb991f58063fa6df",
-      "teams": "1 Club America - 2 Monterrey",
-      "odds": {
-        "1": "2.15",
-        "2": "3.10",
-        "X": "3.45"
-      },
-      "category": "fotbal"
-    },
-    "14b850e9d719c8d9b1021e9e711a9a79175ad33d": {
-      "id": "14b850e9d719c8d9b1021e9e711a9a79175ad33d",
-      "teams": "Akwa Utd - Lobi Stars",
-      "odds": {
-        "1": "2.00",
-        "2": "4.05",
-        "X": "2.85"
-      },
-      "category": "fotbal"
-    },
-    "7ab56a6f0b232614d289cee3e4dab6fc08db8179": {
-      "id": "7ab56a6f0b232614d289cee3e4dab6fc08db8179",
-      "teams": "Abia Warriors - Plateau Utd",
-      "odds": {
-        "1": "1.80",
-        "2": "4.75",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "b9b799e4243f335dda09bdbce1fc9170f9f19586": {
-      "id": "b9b799e4243f335dda09bdbce1fc9170f9f19586",
-      "teams": "Ifeanyi Ubah - Heartland Ow.",
-      "odds": {
-        "1": "1.67",
-        "2": "5.55",
-        "X": "3.20"
-      },
-      "category": "fotbal"
-    },
-    "f9872eca4005ca4e1381c82427d9d0cac437748c": {
-      "id": "f9872eca4005ca4e1381c82427d9d0cac437748c",
-      "teams": "Muscat - Oman FC",
-      "odds": {
-        "1": "2.30",
-        "2": "2.85",
-        "X": "3.20"
-      },
-      "category": "fotbal"
-    },
-    "b1e8a01f94605a45b010280241e503596c9c1231": {
-      "id": "b1e8a01f94605a45b010280241e503596c9c1231",
-      "teams": "Al Nasr S. - Dhofar",
-      "odds": {
-        "1": "4.10",
-        "2": "1.87",
-        "X": "3.15"
-      },
-      "category": "fotbal"
-    },
-    "1b0d452c58ca1a9af8fcb60acf2d95c770b057de": {
-      "id": "1b0d452c58ca1a9af8fcb60acf2d95c770b057de",
-      "teams": "Feirense - Casa Pia",
-      "odds": {
-        "1": "1.43",
-        "2": "7.25",
-        "X": "4.10"
-      },
-      "category": "fotbal"
-    },
-    "a093799bc23784a9720516c8833579d0ccb8ce12": {
-      "id": "a093799bc23784a9720516c8833579d0ccb8ce12",
-      "teams": "Mafra - Acad.Viseu",
-      "odds": {
-        "1": "2.00",
-        "2": "3.70",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
-    "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78": {
-      "id": "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78",
-      "teams": "Chaves - Vilafranquense",
-      "odds": {
-        "1": "1.53",
-        "2": "5.85",
-        "X": "3.90"
-      },
-      "category": "fotbal"
-    },
-    "9f1e302d264c52fb2b5a4bb7515a524b104cce30": {
-      "id": "9f1e302d264c52fb2b5a4bb7515a524b104cce30",
-      "teams": "Hearts - Aberdeen",
-      "odds": {
-        "1": "2.60",
-        "2": "2.75",
-        "X": "3.15"
-      },
-      "category": "fotbal"
-    },
-    "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8": {
-      "id": "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8",
-      "teams": "St.Mirren - Kilmarnock",
-      "odds": {
-        "1": "2.45",
-        "2": "3.05",
-        "X": "3.05"
-      },
-      "category": "fotbal"
-    },
-    "9bccd00e03ceaf6539f9be3862f85cdf9f6e0101": {
-      "id": "9bccd00e03ceaf6539f9be3862f85cdf9f6e0101",
-      "teams": "St.Johnstone - Ross County",
-      "odds": {
-        "1": "1.73",
-        "2": "4.80",
-        "X": "3.60"
-      },
-      "category": "fotbal"
-    },
-    "bbcdb1a63280e96f28360cc0eb297dff3559e910": {
-      "id": "bbcdb1a63280e96f28360cc0eb297dff3559e910",
-      "teams": "Motherwell - Hamilton",
-      "odds": {
-        "1": "1.53",
-        "2": "5.95",
-        "X": "4.10"
-      },
-      "category": "fotbal"
-    },
-    "869ccee97c3a93b5ab7582fa272d524f34c64746": {
-      "id": "869ccee97c3a93b5ab7582fa272d524f34c64746",
-      "teams": "Livingston - Hibernian",
-      "odds": {
-        "1": "2.25",
-        "2": "3.10",
-        "X": "3.35"
       },
       "category": "fotbal"
     },
@@ -2352,16 +712,6 @@
       },
       "category": "fotbal"
     },
-    "57d85892182f4bdc1782e9353134656bc6080d75": {
-      "id": "57d85892182f4bdc1782e9353134656bc6080d75",
-      "teams": "CD Becerril - Real Burgos",
-      "odds": {
-        "1": "3.00",
-        "2": "2.20",
-        "X": "3.10"
-      },
-      "category": "fotbal"
-    },
     "9d9dedc15025e62e9917840a13118ea478bd7510": {
       "id": "9d9dedc15025e62e9917840a13118ea478bd7510",
       "teams": "R.Avila CF - Gim.Segoviana",
@@ -2369,146 +719,6 @@
         "1": "2.90",
         "2": "2.20",
         "X": "3.20"
-      },
-      "category": "fotbal"
-    },
-    "1b3ac12150500cf3c5c6172919f17d51d8bcb32b": {
-      "id": "1b3ac12150500cf3c5c6172919f17d51d8bcb32b",
-      "teams": "Alfaro CD - CD Calahorra B",
-      "odds": {
-        "1": "2.10",
-        "2": "2.95",
-        "X": "3.40"
-      },
-      "category": "fotbal"
-    },
-    "70dbaba15d0701e722ec943d41a32595c1d717af": {
-      "id": "70dbaba15d0701e722ec943d41a32595c1d717af",
-      "teams": "Calamocha - Utebo",
-      "odds": {
-        "1": "2.00",
-        "2": "3.20",
-        "X": "3.45"
-      },
-      "category": "fotbal"
-    },
-    "d938d53957d33d4b4c168e0eea85bb3f29ff665a": {
-      "id": "d938d53957d33d4b4c168e0eea85bb3f29ff665a",
-      "teams": "AD Almudevar - CD Belchite 97",
-      "odds": {
-        "1": "2.75",
-        "2": "2.35",
-        "X": "3.15"
-      },
-      "category": "fotbal"
-    },
-    "52e37fec4da1e75a479cdad19e3f82dec66377a5": {
-      "id": "52e37fec4da1e75a479cdad19e3f82dec66377a5",
-      "teams": "Villanueva CF - UD Fraga",
-      "odds": {
-        "1": "2.20",
-        "2": "3.10",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "26860df3e440250e8f2b2c7ba021e99536bb7ac7": {
-      "id": "26860df3e440250e8f2b2c7ba021e99536bb7ac7",
-      "teams": "Illueca CF - Robres CD",
-      "odds": {
-        "1": "1.28",
-        "2": "7.50",
-        "X": "5.10"
-      },
-      "category": "fotbal"
-    },
-    "11c854e79af97e9865c2b414966530f624d51e9e": {
-      "id": "11c854e79af97e9865c2b414966530f624d51e9e",
-      "teams": "SD Tarazona - CD Teruel",
-      "odds": {
-        "1": "2.30",
-        "2": "3.10",
-        "X": "2.85"
-      },
-      "category": "fotbal"
-    },
-    "1f0700a94063455e553976f00f793d286ceaba4c": {
-      "id": "1f0700a94063455e553976f00f793d286ceaba4c",
-      "teams": "Polisi Tanzania - Azam",
-      "odds": {
-        "1": "3.30",
-        "2": "2.40",
-        "X": "2.65"
-      },
-      "category": "fotbal"
-    },
-    "5507237a080b9625f1ea3f6199fcb134a157173b": {
-      "id": "5507237a080b9625f1ea3f6199fcb134a157173b",
-      "teams": "Jkt Tanzania - Namungo",
-      "odds": {
-        "1": "1.85",
-        "2": "4.50",
-        "X": "3.00"
-      },
-      "category": "fotbal"
-    },
-    "9786cca8b4e0b2a7c410eb8b06396ab195919290": {
-      "id": "9786cca8b4e0b2a7c410eb8b06396ab195919290",
-      "teams": "CS Sfaxien - CS Chebba",
-      "odds": {
-        "1": "1.48",
-        "2": "6.25",
-        "X": "3.80"
-      },
-      "category": "fotbal"
-    },
-    "57551fbbd7426faf88f138b856c25c528d847be5": {
-      "id": "57551fbbd7426faf88f138b856c25c528d847be5",
-      "teams": "AS Soliman - Metlaoui",
-      "odds": {
-        "1": "2.20",
-        "2": "3.35",
-        "X": "2.90"
-      },
-      "category": "fotbal"
-    },
-    "94e23c351105d0424af0f082d7bc5c1d46487a6f": {
-      "id": "94e23c351105d0424af0f082d7bc5c1d46487a6f",
-      "teams": "Alanyaspor - Konyaspor",
-      "odds": {
-        "1": "1.48",
-        "2": "7.20",
-        "X": "4.20"
-      },
-      "category": "fotbal"
-    },
-    "41d7c6f2da40d42a1813ea3179366ad27c0d5502": {
-      "id": "41d7c6f2da40d42a1813ea3179366ad27c0d5502",
-      "teams": "Gaziantep Bld - Y.Malatyaspor",
-      "odds": {
-        "1": "2.75",
-        "2": "2.50",
-        "X": "3.50"
-      },
-      "category": "fotbal"
-    },
-    "716ae160ce7028d2ff9a46884279d9d68824a1e0": {
-      "id": "716ae160ce7028d2ff9a46884279d9d68824a1e0",
-      "teams": "C.Rizespor - Fenerbahce",
-      "odds": {
-        "1": "4.40",
-        "2": "1.77",
-        "X": "3.85"
-      },
-      "category": "fotbal"
-    },
-    "8960a37726eb89bcc67ef86776b2fd24434a7ff6": {
-      "id": "8960a37726eb89bcc67ef86776b2fd24434a7ff6",
-      "teams": "Istanbulspor - Adana Demir",
-      "odds": {
-        "1": "2.15",
-        "2": "3.00",
-        "X": "3.40"
       },
       "category": "fotbal"
     },
@@ -2522,26 +732,6 @@
       },
       "category": "fotbal"
     },
-    "a5c961735ca279d8bac7a5f3df5b3a039bb0da09": {
-      "id": "a5c961735ca279d8bac7a5f3df5b3a039bb0da09",
-      "teams": "Forest Ran. - Red Arrows",
-      "odds": {
-        "1": "2.45",
-        "2": "2.95",
-        "X": "2.75"
-      },
-      "category": "fotbal"
-    },
-    "9bcba6445ccabe903dba1a95bc28bc480db14c51": {
-      "id": "9bcba6445ccabe903dba1a95bc28bc480db14c51",
-      "teams": "Nkana - Nkwazi",
-      "odds": {
-        "1": "1.70",
-        "2": "4.65",
-        "X": "3.25"
-      },
-      "category": "fotbal"
-    },
     "f85d79b385145fad01094193362e4117cde6dd5b": {
       "id": "f85d79b385145fad01094193362e4117cde6dd5b",
       "teams": "Mag. Cisnadiei (F) - Bistrita (F)",
@@ -2552,72 +742,12 @@
       },
       "category": "handbal"
     },
-    "9c0f8f9389b5b172de4c578b8333ef87e015f23e": {
-      "id": "9c0f8f9389b5b172de4c578b8333ef87e015f23e",
-      "teams": "Bergischer - Nordhorn",
-      "odds": {
-        "1": "1.12",
-        "2": "9.40",
-        "X": "15.00"
-      },
-      "category": "handbal"
-    },
-    "fb16f1f273e6e297727481fbe11305824105c9f8": {
-      "id": "fb16f1f273e6e297727481fbe11305824105c9f8",
-      "teams": "Balingen - Leipzig",
-      "odds": {
-        "1": "2.25",
-        "2": "2.05",
-        "X": "7.50"
-      },
-      "category": "handbal"
-    },
-    "10f8e72ce9a47f904e1aa77f992af8f209b7d00b": {
-      "id": "10f8e72ce9a47f904e1aa77f992af8f209b7d00b",
-      "teams": "Kiel - Lemgo",
-      "odds": {
-        "1": "1.13",
-        "2": "8.45",
-        "X": "16.00"
-      },
-      "category": "handbal"
-    },
-    "ef98a138241a66658c36f6f0db988846f61c0a37": {
-      "id": "ef98a138241a66658c36f6f0db988846f61c0a37",
-      "teams": "Minden - Burgdorf",
-      "odds": {
-        "1": "3.15",
-        "2": "1.57",
-        "X": "9.00"
-      },
-      "category": "handbal"
-    },
-    "a2a9458944bd33c100501bca5d2b2f7d9b1825be": {
-      "id": "a2a9458944bd33c100501bca5d2b2f7d9b1825be",
-      "teams": "Algeria - Olanda",
-      "odds": {
-        "1": "4.17",
-        "2": "1.37",
-        "X": "9.00"
-      },
-      "category": "handbal"
-    },
-    "b8cfb40ea3c687ab158d0b1329db0c642a4ab609": {
-      "id": "b8cfb40ea3c687ab158d0b1329db0c642a4ab609",
-      "teams": "Cehia - Slovacia",
-      "odds": {
-        "1": "1.33",
-        "2": "4.35",
-        "X": "10.00"
-      },
-      "category": "handbal"
-    },
     "b49e9559e291a19d6c25d7727ffb54edfac0b14a": {
       "id": "b49e9559e291a19d6c25d7727ffb54edfac0b14a",
       "teams": "Romania - Macedonia de N.",
       "odds": {
-        "1": "1.25",
-        "2": "5.70",
+        "1": "1.32",
+        "2": "4.60",
         "X": "9.50"
       },
       "category": "handbal"
@@ -2652,46 +782,6 @@
       },
       "category": "handbal"
     },
-    "c161432e9e2ecdb2e266a799007fc63d3b6dff9f": {
-      "id": "c161432e9e2ecdb2e266a799007fc63d3b6dff9f",
-      "teams": "Odense (F) - Herning-Ikast (F)",
-      "odds": {
-        "1": "1.55",
-        "2": "2.87",
-        "X": "8.50"
-      },
-      "category": "handbal"
-    },
-    "44af9cf14901c57d93511593c05e2dfd92ccb495": {
-      "id": "44af9cf14901c57d93511593c05e2dfd92ccb495",
-      "teams": "Fleury (F) - B.De Peage (F)",
-      "odds": {
-        "1": "1.15",
-        "2": "6.50",
-        "X": "11.50"
-      },
-      "category": "handbal"
-    },
-    "433b91ba581b17bfbc418f7e3d229dcf28420868": {
-      "id": "433b91ba581b17bfbc418f7e3d229dcf28420868",
-      "teams": "Merignac (F) - Nice (F)",
-      "odds": {
-        "1": "6.50",
-        "2": "1.15",
-        "X": "11.50"
-      },
-      "category": "handbal"
-    },
-    "9d8d7525de82e8d6aa8c4454b494b17460913a5b": {
-      "id": "9d8d7525de82e8d6aa8c4454b494b17460913a5b",
-      "teams": "Paris 92 (F) - Brest B. (F)",
-      "odds": {
-        "1": "4.85",
-        "2": "1.25",
-        "X": "9.50"
-      },
-      "category": "handbal"
-    },
     "69988d54395ee359180638a6f6e14bd72d1ab6a7": {
       "id": "69988d54395ee359180638a6f6e14bd72d1ab6a7",
       "teams": "Besancon (F) - Chambray T. (F)",
@@ -2722,46 +812,6 @@
       },
       "category": "handbal"
     },
-    "3f30486c1120c350b472fe4b335667842116b127": {
-      "id": "3f30486c1120c350b472fe4b335667842116b127",
-      "teams": "Buxtehuder (F) - Blomberg (F)",
-      "odds": {
-        "1": "4.50",
-        "2": "1.27",
-        "X": "10.00"
-      },
-      "category": "handbal"
-    },
-    "56f6e00d0869a73a89f68d7d1b4876d6b6a52747": {
-      "id": "56f6e00d0869a73a89f68d7d1b4876d6b6a52747",
-      "teams": "FSV Mainz 05 (F) - Goppingen (F)",
-      "odds": {
-        "1": "4.75",
-        "2": "1.25",
-        "X": "10.00"
-      },
-      "category": "handbal"
-    },
-    "29b7dcd35bff17aaa3a3335dd08e783f5d4677cc": {
-      "id": "29b7dcd35bff17aaa3a3335dd08e783f5d4677cc",
-      "teams": "Leverkusen (F) - Bad Wildungen (F)",
-      "odds": {
-        "1": "1.10",
-        "2": "8.00",
-        "X": "13.00"
-      },
-      "category": "handbal"
-    },
-    "d0f753679b3c1bd17144d32f73c3e06058f78154": {
-      "id": "d0f753679b3c1bd17144d32f73c3e06058f78154",
-      "teams": "Oldenburg (F) - Metzingen (F)",
-      "odds": {
-        "1": "6.32",
-        "2": "1.15",
-        "X": "12.00"
-      },
-      "category": "handbal"
-    },
     "08752577cb7a6e6534e2371d1ab88c77569e9fab": {
       "id": "08752577cb7a6e6534e2371d1ab88c77569e9fab",
       "teams": "Neckarsulmer (F) - TSG Ketsch (F)",
@@ -2782,16 +832,6 @@
       },
       "category": "handbal"
     },
-    "04ac3ec762f50288337e3e3bc88933ce0d9585fc": {
-      "id": "04ac3ec762f50288337e3e3bc88933ce0d9585fc",
-      "teams": "Haslum HK - Elverum",
-      "odds": {
-        "1": "4.00",
-        "2": "1.30",
-        "X": "11.00"
-      },
-      "category": "handbal"
-    },
     "a41e357cec20cff7651f44243e970d2c7e130d39": {
       "id": "a41e357cec20cff7651f44243e970d2c7e130d39",
       "teams": "Skara (F) - H65 Hoor (F)",
@@ -2809,16 +849,6 @@
         "1": "3.56",
         "2": "1.37",
         "X": "10.00"
-      },
-      "category": "handbal"
-    },
-    "3aaf9c55d14397a8f4817989192f3b3df12c990b": {
-      "id": "3aaf9c55d14397a8f4817989192f3b3df12c990b",
-      "teams": "Erdi (F) - Fehervar KC (F)",
-      "odds": {
-        "1": "1.03",
-        "2": "12.30",
-        "X": "17.00"
       },
       "category": "handbal"
     },
@@ -2891,108 +921,228 @@
         "X": "7.50"
       },
       "category": "polo"
-    },
-    "a46dc2c3e51c403e7772671c1c2dd22425ee62ab": {
-      "id": "a46dc2c3e51c403e7772671c1c2dd22425ee62ab",
-      "teams": "Exeter Ch. - Saracens",
-      "odds": {
-        "1": "2.10",
-        "2": "1.75",
-        "X": "18.00"
-      },
-      "category": "rugby"
-    },
-    "20158b669063e7aa5601a3196203b8cd75b9b521": {
-      "id": "20158b669063e7aa5601a3196203b8cd75b9b521",
-      "teams": "La Rochelle - Agen",
-      "odds": {
-        "1": "1.08",
-        "2": "8.00",
-        "X": "35.00"
-      },
-      "category": "rugby"
-    },
-    "12a3f0b20fa71f3176bdda26b5e41c03ca7f5f2e": {
-      "id": "12a3f0b20fa71f3176bdda26b5e41c03ca7f5f2e",
-      "teams": "Section P. - Bordeaux",
-      "odds": {
-        "1": "2.10",
-        "2": "1.80",
-        "X": "19.00"
-      },
-      "category": "rugby"
-    },
-    "7254d72291bac8cccc5905ddfa6d95da910e12ae": {
-      "id": "7254d72291bac8cccc5905ddfa6d95da910e12ae",
-      "teams": "Clermont - Castres",
-      "odds": {
-        "1": "1.07",
-        "2": "8.20",
-        "X": "40.00"
-      },
-      "category": "rugby"
-    },
-    "965505eb5865a1f8b573da8694f8a0f17af53939": {
-      "id": "965505eb5865a1f8b573da8694f8a0f17af53939",
-      "teams": "Toulouse - Toulon",
-      "odds": {
-        "1": "1.17",
-        "2": "5.35",
-        "X": "25.00"
-      },
-      "category": "rugby"
     }
   },
   "unibet": {
-    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
-      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
-      "teams": "Arsenal - Chelsea",
-      "odds": {
-        "1": "2.94",
-        "2": "3.80",
-        "X": "2.37"
-      },
-      "category": "fotbal"
-    },
     "2047b9b1af50b2a649f3064c570ce7c23d1fbc83": {
       "id": "2047b9b1af50b2a649f3064c570ce7c23d1fbc83",
       "teams": "Liverpool - Wolverhampton Wanderers",
       "odds": {
-        "1": "1.36",
-        "2": "5.50",
-        "X": "9.25"
+        "1": "1.28",
+        "2": "6.30",
+        "X": "12.00"
       },
       "category": "fotbal"
     },
-    "097fcb3997ba4f95db9c93d311ac0fdab4925d97": {
-      "id": "097fcb3997ba4f95db9c93d311ac0fdab4925d97",
-      "teams": "Birmingham - Leeds United",
+    "00560f7a594e54862e826e234431feac553af8cb": {
+      "id": "00560f7a594e54862e826e234431feac553af8cb",
+      "teams": "Manchester City - Sheffield United",
       "odds": {
-        "1": "5.50",
-        "2": "3.85",
-        "X": "1.67"
+        "1": "1.28",
+        "2": "6.35",
+        "X": "11.50"
       },
       "category": "fotbal"
     },
-    "2ecf9d382edb24058a7c98ee7ce44b6ddfd29f8a": {
-      "id": "2ecf9d382edb24058a7c98ee7ce44b6ddfd29f8a",
-      "teams": "Bristol City - Luton Town",
+    "d00db5f8bebda4600fe3b58c0244dc2913c8f328": {
+      "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
+      "teams": "Benevento - Ascoli",
       "odds": {
-        "1": "1.70",
+        "1": "1.43",
         "2": "4.10",
-        "X": "4.80"
+        "X": "7.50"
       },
       "category": "fotbal"
     },
-    "a2a9458944bd33c100501bca5d2b2f7d9b1825be": {
-      "id": "a2a9458944bd33c100501bca5d2b2f7d9b1825be",
-      "teams": "Algeria - Olanda",
+    "41b423007d6e0540348032f6d1b518dc582d6730": {
+      "id": "41b423007d6e0540348032f6d1b518dc582d6730",
+      "teams": "Friburguense-RJ - AA Portuguesa-RJ",
       "odds": {
-        "1": "4.00",
-        "2": "9.50",
-        "X": "1.36"
+        "1": "3.40",
+        "2": "2.95",
+        "X": "2.10"
       },
-      "category": "handbal"
+      "category": "fotbal"
+    },
+    "f1244008400ae66f82c0378f4c906c06761fc360": {
+      "id": "f1244008400ae66f82c0378f4c906c06761fc360",
+      "teams": "Macaé-RJ - Nova Iguaçu",
+      "odds": {
+        "1": "3.30",
+        "2": "2.95",
+        "X": "2.12"
+      },
+      "category": "fotbal"
+    },
+    "44bb64a092b6765c23010f51721306c307e7485c": {
+      "id": "44bb64a092b6765c23010f51721306c307e7485c",
+      "teams": "Al-Masry Club - Pyramids FC",
+      "odds": {
+        "1": "3.00",
+        "2": "2.90",
+        "X": "2.30"
+      },
+      "category": "fotbal"
+    },
+    "be6b01de7df8c514aaa14794b328e7c9007dd37e": {
+      "id": "be6b01de7df8c514aaa14794b328e7c9007dd37e",
+      "teams": "Bidvest Wits - AL Nasr SC (LBY)",
+      "odds": {
+        "1": "1.35",
+        "2": "4.20",
+        "X": "8.00"
+      },
+      "category": "fotbal"
+    },
+    "d6fc5d42fbfb795c691f448e5dde4438fdfd4f52": {
+      "id": "d6fc5d42fbfb795c691f448e5dde4438fdfd4f52",
+      "teams": "Horoya AC - Djoliba AC",
+      "odds": {
+        "1": "1.42",
+        "2": "3.60",
+        "X": "9.00"
+      },
+      "category": "fotbal"
+    },
+    "29d5c7beddac54c8526757e327da89c5e70c5128": {
+      "id": "29d5c7beddac54c8526757e327da89c5e70c5128",
+      "teams": "Nouadhibou - Enugu Rangers",
+      "odds": {
+        "1": "2.15",
+        "2": "3.30",
+        "X": "3.00"
+      },
+      "category": "fotbal"
+    },
+    "1e84e0e2e44ea6a2bb100a7a6ebc92e6b0091c71": {
+      "id": "1e84e0e2e44ea6a2bb100a7a6ebc92e6b0091c71",
+      "teams": "Paradou Ac - Enyimba",
+      "odds": {
+        "1": "1.25",
+        "2": "5.00",
+        "X": "9.50"
+      },
+      "category": "fotbal"
+    },
+    "828e934c6c6896cb9932d95aa1fbac28c7d899ec": {
+      "id": "828e934c6c6896cb9932d95aa1fbac28c7d899ec",
+      "teams": "Renaissance Sportive De Berkane - Daring Club Motema Pembe",
+      "odds": {
+        "1": "1.16",
+        "2": "5.25",
+        "X": "23.00"
+      },
+      "category": "fotbal"
+    },
+    "5917abc52975fdfe37a6602283f97bbae9970f17": {
+      "id": "5917abc52975fdfe37a6602283f97bbae9970f17",
+      "teams": "Maccabi Netanya - Bnei Yehuda Tel Aviv",
+      "odds": {
+        "1": "2.35",
+        "2": "2.90",
+        "X": "2.90"
+      },
+      "category": "fotbal"
+    },
+    "60ffcd66761d276e2c334132bfc2fd409ca134b4": {
+      "id": "60ffcd66761d276e2c334132bfc2fd409ca134b4",
+      "teams": "Sektzia Nes Tziona - Hapoel Tel Aviv",
+      "odds": {
+        "1": "3.20",
+        "2": "3.00",
+        "X": "2.16"
+      },
+      "category": "fotbal"
+    },
+    "061d7bd392912a4416631c9ace1c6f46c22d7b71": {
+      "id": "061d7bd392912a4416631c9ace1c6f46c22d7b71",
+      "teams": "Al Kuwait SC - Al Yarmouk (KWT)",
+      "odds": {
+        "1": "1.22",
+        "2": "5.50",
+        "X": "9.00"
+      },
+      "category": "fotbal"
+    },
+    "5038c912bc8d2f6653efce41685932183fe6f6f1": {
+      "id": "5038c912bc8d2f6653efce41685932183fe6f6f1",
+      "teams": "Youssoufia Berrechid - Rapide Oued Zem",
+      "odds": {
+        "1": "1.65",
+        "2": "3.25",
+        "X": "4.50"
+      },
+      "category": "fotbal"
+    },
+    "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78": {
+      "id": "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78",
+      "teams": "Chaves - Vilafranquense",
+      "odds": {
+        "1": "1.48",
+        "2": "3.65",
+        "X": "6.75"
+      },
+      "category": "fotbal"
+    },
+    "43bed69ae570c359196142f77c3be70d8b0b59a5": {
+      "id": "43bed69ae570c359196142f77c3be70d8b0b59a5",
+      "teams": "ASC Jaraaf - Casa Sport",
+      "odds": {
+        "1": "2.20",
+        "2": "2.80",
+        "X": "3.30"
+      },
+      "category": "fotbal"
+    },
+    "53dde199460c1915beac96534482f33c71fbbfe1": {
+      "id": "53dde199460c1915beac96534482f33c71fbbfe1",
+      "teams": "Mbour Petite Cote - FFA Centre of Excellence",
+      "odds": {
+        "1": "1.80",
+        "2": "3.25",
+        "X": "4.00"
+      },
+      "category": "fotbal"
+    },
+    "d398b8b171788d892f8e10ab488a6bc29cd85c23": {
+      "id": "d398b8b171788d892f8e10ab488a6bc29cd85c23",
+      "teams": "ASEC Ndiambour - US Gorée",
+      "odds": {
+        "1": "1.90",
+        "2": "3.10",
+        "X": "3.75"
+      },
+      "category": "fotbal"
+    },
+    "3010e06b7533b9882ad962392654fe73b6ca83a6": {
+      "id": "3010e06b7533b9882ad962392654fe73b6ca83a6",
+      "teams": "Real Avila CF - Gimnástica Segoviana",
+      "odds": {
+        "1": "2.80",
+        "2": "3.05",
+        "X": "2.16"
+      },
+      "category": "fotbal"
+    },
+    "8183f3698518396088a1d6237d1989031f3a84c7": {
+      "id": "8183f3698518396088a1d6237d1989031f3a84c7",
+      "teams": "Çaykur Rizespor - Fenerbahçe",
+      "odds": {
+        "1": "4.60",
+        "2": "4.00",
+        "X": "1.65"
+      },
+      "category": "fotbal"
+    },
+    "1397b6008a70526114df81ce8df3731fef2b5aec": {
+      "id": "1397b6008a70526114df81ce8df3731fef2b5aec",
+      "teams": "Altay Izmir - Giresunspor",
+      "odds": {
+        "1": "1.95",
+        "2": "3.20",
+        "X": "3.45"
+      },
+      "category": "fotbal"
     },
     "cbf736a5dbeef4dbcd39f21e90d59fd72a6a8e5c": {
       "id": "cbf736a5dbeef4dbcd39f21e90d59fd72a6a8e5c",
@@ -3001,6 +1151,146 @@
         "1": "5.50",
         "2": "11.50",
         "X": "1.23"
+      },
+      "category": "handbal"
+    },
+    "c649ac4df5395842df77bb5465aa347692a2fa2c": {
+      "id": "c649ac4df5395842df77bb5465aa347692a2fa2c",
+      "teams": "Serbia - Egipt",
+      "odds": {
+        "1": "1.98",
+        "2": "7.50",
+        "X": "2.23"
+      },
+      "category": "handbal"
+    },
+    "ea81ec4ee900a767d634c6ae79ef74d8e17515ce": {
+      "id": "ea81ec4ee900a767d634c6ae79ef74d8e17515ce",
+      "teams": "Spain B - Emiratele Arabe Unite",
+      "odds": {
+        "1": "",
+        "2": "25.00",
+        "X": "29.00"
+      },
+      "category": "handbal"
+    },
+    "b6c2046a12467ba99259b6bc7c9cba902076efbe": {
+      "id": "b6c2046a12467ba99259b6bc7c9cba902076efbe",
+      "teams": "Polonia - Belarus",
+      "odds": {
+        "1": "3.65",
+        "2": "9.00",
+        "X": "1.43"
+      },
+      "category": "handbal"
+    },
+    "63ad3bf3476922e8f0002826bdeef2955d56f090": {
+      "id": "63ad3bf3476922e8f0002826bdeef2955d56f090",
+      "teams": "BVB 09 Dortmund (F) - SG BBM Bietigheim (F)",
+      "odds": {
+        "1": "2.07",
+        "2": "8.50",
+        "X": "1.96"
+      },
+      "category": "handbal"
+    },
+    "2a5e9c285564a9cbd4bc19dcdc5d82b4b881f450": {
+      "id": "2a5e9c285564a9cbd4bc19dcdc5d82b4b881f450",
+      "teams": "Neckarsulmer SU (F) - Kurpfalz Bären Ketsch (W)",
+      "odds": {
+        "1": "1.34",
+        "2": "11.00",
+        "X": "3.60"
+      },
+      "category": "handbal"
+    },
+    "df08402275bb2275676ae2679de594bf051adf10": {
+      "id": "df08402275bb2275676ae2679de594bf051adf10",
+      "teams": "Măgura Cisnădie (F) - CSM Bistrița (F)",
+      "odds": {
+        "1": "1.56",
+        "2": "9.00",
+        "X": "3.05"
+      },
+      "category": "handbal"
+    },
+    "92cb733d8783b355bd50ec86f6c4ee8672edc004": {
+      "id": "92cb733d8783b355bd50ec86f6c4ee8672edc004",
+      "teams": "Skara HF (F) - H 65 Höör (F)",
+      "odds": {
+        "1": "8.50",
+        "2": "14.00",
+        "X": "1.11"
+      },
+      "category": "handbal"
+    },
+    "5e206cf332b09019a99f8450d1a5cb2c5ce71241": {
+      "id": "5e206cf332b09019a99f8450d1a5cb2c5ce71241",
+      "teams": "Lugi HF (F) - IK Sävehof (F)",
+      "odds": {
+        "1": "3.60",
+        "2": "10.50",
+        "X": "1.41"
+      },
+      "category": "handbal"
+    },
+    "cbdd41dc37f878cfcb59065ed7ba18759315c7f2": {
+      "id": "cbdd41dc37f878cfcb59065ed7ba18759315c7f2",
+      "teams": "MTK-Budapesta (F) - Siófok KC (F)",
+      "odds": {
+        "1": "11.00",
+        "2": "14.00",
+        "X": "1.08"
+      },
+      "category": "handbal"
+    },
+    "f6bb3699d0e07e19c6387f0051fbdaf27f3fb31e": {
+      "id": "f6bb3699d0e07e19c6387f0051fbdaf27f3fb31e",
+      "teams": "Békéscsabai ENK SE (F) - Vaci NKSE (F)",
+      "odds": {
+        "1": "5.80",
+        "2": "12.00",
+        "X": "1.19"
+      },
+      "category": "handbal"
+    },
+    "7ad2ea89cdcf722a6e9e8d9b4dbdc59721b46d58": {
+      "id": "7ad2ea89cdcf722a6e9e8d9b4dbdc59721b46d58",
+      "teams": "DVSC Schaeffler (F) - Szombathelyi KKA (F)",
+      "odds": {
+        "1": "1.11",
+        "2": "14.00",
+        "X": "8.50"
+      },
+      "category": "handbal"
+    },
+    "3d97aebb0cecf5896c0f22772df3c3686fa7ea7d": {
+      "id": "3d97aebb0cecf5896c0f22772df3c3686fa7ea7d",
+      "teams": "Dunaújvárosi Kohász KA (F) - Szent Isent SE (F)",
+      "odds": {
+        "1": "1.07",
+        "2": "17.00",
+        "X": "11.50"
+      },
+      "category": "handbal"
+    },
+    "72093ab6c1afdea9152782caad65a1072e84a817": {
+      "id": "72093ab6c1afdea9152782caad65a1072e84a817",
+      "teams": "Ferencvárosi TC (F) - Győri Audi ETO KC (F)",
+      "odds": {
+        "1": "5.00",
+        "2": "12.00",
+        "X": "1.25"
+      },
+      "category": "handbal"
+    },
+    "1c7a92a7f26f244ab4c6643d6f9de66ac25d5d2d": {
+      "id": "1c7a92a7f26f244ab4c6643d6f9de66ac25d5d2d",
+      "teams": "Mosonmagyaróvári KC SE (F) - Kisvárda (F)",
+      "odds": {
+        "1": "2.18",
+        "2": "7.50",
+        "X": "2.00"
       },
       "category": "handbal"
     }
@@ -3642,9 +1932,9 @@
       "id": "8036b8f6908b3841599b63092b2705180c669a63",
       "teams": "Liverpool -Wolverhampton",
       "odds": {
-        "1": "1.35",
-        "2": "8.40",
-        "X": "5.50"
+        "1": "1.27",
+        "2": "10.76",
+        "X": "6.20"
       },
       "category": "fotbal"
     },
@@ -3655,16 +1945,6 @@
         "1": "1.28",
         "2": "10.09",
         "X": "6.20"
-      },
-      "category": "fotbal"
-    },
-    "e67252392de5a2f13801104047fcd9b0877d5457": {
-      "id": "e67252392de5a2f13801104047fcd9b0877d5457",
-      "teams": "Al Masry -Pyramids FC",
-      "odds": {
-        "1": "3.28",
-        "2": "2.20",
-        "X": "2.85"
       },
       "category": "fotbal"
     },
@@ -3685,26 +1965,6 @@
         "1": "1.17",
         "2": "14.70",
         "X": "5.37"
-      },
-      "category": "fotbal"
-    },
-    "5cb466aa681f6d0720f4a0b5646a3385cfc675d7": {
-      "id": "5cb466aa681f6d0720f4a0b5646a3385cfc675d7",
-      "teams": "Horoya -Djoliba",
-      "odds": {
-        "1": "1.39",
-        "2": "8.49",
-        "X": "3.70"
-      },
-      "category": "fotbal"
-    },
-    "9df11aae0ad43525689a386e2c10d0ee36725d07": {
-      "id": "9df11aae0ad43525689a386e2c10d0ee36725d07",
-      "teams": "Bidvest-AL Nasr SC Benghazi",
-      "odds": {
-        "1": "1.31",
-        "2": "9.26",
-        "X": "4.24"
       },
       "category": "fotbal"
     },
@@ -3792,9 +2052,9 @@
       "id": "e8cf548b4c3170a8b959fed51af4318e5bc18f85",
       "teams": "Molynes-Dunbeholden FC",
       "odds": {
-        "1": "3.13",
-        "2": "2.19",
-        "X": "2.98"
+        "1": "3.19",
+        "2": "2.16",
+        "X": "2.99"
       },
       "category": "fotbal"
     },
@@ -3848,16 +2108,6 @@
       },
       "category": "fotbal"
     },
-    "1d7995e60635bc3a291004b61a49e0e26a5e96e3": {
-      "id": "1d7995e60635bc3a291004b61a49e0e26a5e96e3",
-      "teams": "Youssoufia B.-RC O.Zem",
-      "odds": {
-        "1": "1.72",
-        "2": "4.76",
-        "X": "3.23"
-      },
-      "category": "fotbal"
-    },
     "c1afdc5e7ccde5f157416588cd358698277afbf5": {
       "id": "c1afdc5e7ccde5f157416588cd358698277afbf5",
       "teams": "CF America -Monterrey",
@@ -3878,36 +2128,6 @@
       },
       "category": "fotbal"
     },
-    "fbff708d2c6e64d01e48a3f3b3fc53b70bb83542": {
-      "id": "fbff708d2c6e64d01e48a3f3b3fc53b70bb83542",
-      "teams": "Real Avila-G.Segovia",
-      "odds": {
-        "1": "2.94",
-        "2": "2.21",
-        "X": "3.14"
-      },
-      "category": "fotbal"
-    },
-    "eaddc18778b602a6ed12f76a2582f8a72f0879d6": {
-      "id": "eaddc18778b602a6ed12f76a2582f8a72f0879d6",
-      "teams": "C.Rize-Fenerbahce",
-      "odds": {
-        "1": "4.56",
-        "2": "1.73",
-        "X": "4.00"
-      },
-      "category": "fotbal"
-    },
-    "b6459631fe512711a41829739a1d8087976356e3": {
-      "id": "b6459631fe512711a41829739a1d8087976356e3",
-      "teams": "Altay I.-Giresun",
-      "odds": {
-        "1": "2.00",
-        "2": "3.60",
-        "X": "3.30"
-      },
-      "category": "fotbal"
-    },
     "3c7b1619f4e374a5054e37304674f765aa5f5a2f": {
       "id": "3c7b1619f4e374a5054e37304674f765aa5f5a2f",
       "teams": "Polonia-Belarus",
@@ -3915,66 +2135,6 @@
         "1": "3.25",
         "2": "1.47",
         "X": "8.77"
-      },
-      "category": "handbal"
-    },
-    "fffea30f937df9740169bea9d198ab71e46e1601": {
-      "id": "fffea30f937df9740169bea9d198ab71e46e1601",
-      "teams": "M.Cisnadie-CS Gloria Bistrita",
-      "odds": {
-        "1": "1.67",
-        "2": "2.77",
-        "X": "8.25"
-      },
-      "category": "handbal"
-    },
-    "d7bdc644b128fcb8739e84091006d8efde001e1c": {
-      "id": "d7bdc644b128fcb8739e84091006d8efde001e1c",
-      "teams": "Besancon-Chambray T.",
-      "odds": {
-        "1": "1.17",
-        "2": "6.04",
-        "X": "11.00"
-      },
-      "category": "handbal"
-    },
-    "c290432c1cb0f5e71057264cdd28c1d58eb96ec0": {
-      "id": "c290432c1cb0f5e71057264cdd28c1d58eb96ec0",
-      "teams": "Toulon-Dijon",
-      "odds": {
-        "1": "1.35",
-        "2": "3.80",
-        "X": "9.30"
-      },
-      "category": "handbal"
-    },
-    "0dac35656a859cee6e0f26b5754468514a8254b8": {
-      "id": "0dac35656a859cee6e0f26b5754468514a8254b8",
-      "teams": "Metz-Nantes",
-      "odds": {
-        "1": "1.05",
-        "2": "10.01",
-        "X": "17.00"
-      },
-      "category": "handbal"
-    },
-    "006508690cd006ba8f605bd0b7fb73c95bac2166": {
-      "id": "006508690cd006ba8f605bd0b7fb73c95bac2166",
-      "teams": "Neckarsulmer SU-TSG Ketsch",
-      "odds": {
-        "1": "1.27",
-        "2": "4.70",
-        "X": "10.27"
-      },
-      "category": "handbal"
-    },
-    "969323cdee5eb622eb4d23bb68e68101b4562227": {
-      "id": "969323cdee5eb622eb4d23bb68e68101b4562227",
-      "teams": "BVB Dortmund-Bietigheim",
-      "odds": {
-        "1": "2.16",
-        "2": "1.98",
-        "X": "7.61"
       },
       "category": "handbal"
     },
@@ -3995,16 +2155,6 @@
         "1": "3.57",
         "2": "1.43",
         "X": "9.88"
-      },
-      "category": "handbal"
-    },
-    "79aa01feb1dabe41b27846fd3aa44807d6ed880b": {
-      "id": "79aa01feb1dabe41b27846fd3aa44807d6ed880b",
-      "teams": "MTK Budapesta-Siofok",
-      "odds": {
-        "1": "9.13",
-        "2": "1.06",
-        "X": "17.18"
       },
       "category": "handbal"
     },
@@ -4057,16 +2207,6 @@
         "X": "15.14"
       },
       "category": "handbal"
-    },
-    "e10182c475538fbc31c22f659ef01fcc404160e0": {
-      "id": "e10182c475538fbc31c22f659ef01fcc404160e0",
-      "teams": "Serbia - Croaţia",
-      "odds": {
-        "1": "1.80",
-        "2": "2.40",
-        "X": "7.00"
-      },
-      "category": "polo pe apa"
     }
   }
 }
