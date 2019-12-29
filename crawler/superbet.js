@@ -16,6 +16,7 @@ module.exports  = async () => {
         const matchAcc = []
         const matches = document.querySelectorAll('.event-row-container')
         for (const match of matches) {
+          const category = match.parentNode.querySelector('.details-header__event-collection-title').innerText.trim().toLowerCase()
           const team1 = match.querySelector('.event-summary__competitors-team1').innerText
           const team2 = match.querySelector('.event-summary__competitors-team2').innerText
           const odds = [...match.querySelectorAll('.pick__click-buffer')]
@@ -25,7 +26,7 @@ module.exports  = async () => {
               if (ODD_TYPES.includes(id)) oddAcc[id] = value
               return oddAcc
             }, {})
-          matchAcc.push({ teams: `${team1} - ${team2}`, odds })
+          matchAcc.push({ teams: `${team1} - ${team2}`, odds, category })
           lastMatch = match
         }
         lastMatch.scrollIntoView()

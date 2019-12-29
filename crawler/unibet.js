@@ -23,15 +23,17 @@ module.exports  = async () => {
         subHeader.click()
       }
     })
+
     await nightmare.wait(1000)
     const data = await nightmare.evaluate((ODD_TYPES) => {
       const matchAcc = []
-      const matches = document.querySelectorAll('.KambiBC-event-item__event-wrapper')
+
+      const matches = document.querySelectorAll('.KambiBC-event-item.KambiBC-event-item--type-match')
       for (const match of matches) {
+        const category = match.parentNode.parentNode.parentNode.querySelector('.KambiBC-mod-event-group-header__main-title').innerText.trim().toLowerCase()
         const teams = [...match.querySelectorAll('.KambiBC-event-participants__name')]
           .map((element) => element.innerText)
           .join(' - ')
-
         const odds = [...match.querySelectorAll('.KambiBC-mod-outcome__odds')]
           .reduce((oddAcc, element, index) => {
             const id = ODD_TYPES[index]
@@ -39,7 +41,7 @@ module.exports  = async () => {
             oddAcc[id] = value
             return oddAcc
           }, {})
-        matchAcc.push({ teams, odds })
+        matchAcc.push({ teams, odds, category })
       }
       return matchAcc
     }, ODD_TYPES)

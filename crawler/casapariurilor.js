@@ -15,8 +15,9 @@ module.exports  = async () => {
       const pageMatches = await nightmare.evaluate((ODD_TYPES) => {
         let lastMatch
         const matchAcc = []
-        const matches = document.querySelectorAll('.event-layout')
+        const matches = document.querySelectorAll('.event-layout:not(.has-filter)')
         for (const match of matches) {
+          const category = match.parentNode.parentNode.parentNode.querySelector('.header-group-title').innerText.split(' - ')[0].trim().toLowerCase()
           const [team1, team2] = [...match.querySelectorAll('.event-header-team')]
             .map((element) => element.innerText)
           const odds = [...match.querySelectorAll('.bet-pick')]
@@ -25,7 +26,7 @@ module.exports  = async () => {
               oddAcc[ODD_TYPES[index]] = element.innerText
               return oddAcc
             }, {})
-          matchAcc.push({ teams: `${team1} - ${team2}`, odds })
+          matchAcc.push({ teams: `${team1} - ${team2}`, odds, category })
           lastMatch = match
         }
         lastMatch.scrollIntoView()
