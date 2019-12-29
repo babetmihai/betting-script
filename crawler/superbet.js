@@ -24,7 +24,7 @@ module.exports  = async () => {
           const odds = [...match.querySelectorAll('.pick__click-buffer')]
             .reduce((oddAcc, element) => {
               const id = element.querySelector('.market.actionable').innerText
-              const value = element.querySelector('.value.new.actionable').innerText
+              const value = element.querySelector('.value.new.actionable').innerText.trim()
               if (ODD_TYPES.includes(id)) oddAcc[id] = value
               return oddAcc
             }, {})

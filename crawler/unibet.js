@@ -38,7 +38,7 @@ module.exports  = async () => {
         const odds = [...match.querySelectorAll('.KambiBC-mod-outcome__odds')]
           .reduce((oddAcc, element, index) => {
             const id = ODD_TYPES[index]
-            const value = element.innerText
+            const value = element.innerText.trim()
             oddAcc[id] = value
             return oddAcc
           }, {})

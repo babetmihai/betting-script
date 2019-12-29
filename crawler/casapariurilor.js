@@ -20,11 +20,11 @@ module.exports  = async () => {
         for (const match of matches) {
           const category = match.parentNode.parentNode.parentNode.querySelector('.header-group-title').innerText.split(' - ')[0].trim().toLowerCase()
           const [team1, team2] = [...match.querySelectorAll('.event-header-team')]
-            .map((element) => element.innerText)
+            .map((element) => element.innerText.trim())
           const odds = [...match.querySelectorAll('.bet-pick')]
             .slice(0, 3)
             .reduce((oddAcc, element, index) => {
-              oddAcc[ODD_TYPES[index]] = element.innerText
+              oddAcc[ODD_TYPES[index]] = element.innerText.trim()
               return oddAcc
             }, {})
           matchAcc.push({ teams: `${team1} - ${team2}`, odds, category })

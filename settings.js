@@ -1,6 +1,6 @@
 const ODD_TYPES = ['1', 'X', '2']
-const CATEGORY_WHITELIST = ['fotbal', 'basket', 'handbal', 'hockey', 'polo', 'rugby']
-const CATEGORY_BLACKLIST = ['fotbal american']
+const CATEGORY_WHITELIST = ['fotbal', 'handbal', 'hockey', 'polo']
+const CATEGORY_BLACKLIST = ['fotbal american', 'basket']
 
 module.exports = {
   ODD_TYPES,
