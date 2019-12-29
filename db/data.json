@@ -569,5 +569,349 @@
         "X": "20,00"
       }
     }
+  },
+  "unibet": {
+    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
+      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
+      "teams": "Arsenal - Chelsea",
+      "odds": {
+        "1": "2.95",
+        "2": "2.40",
+        "X": "3.95"
+      }
+    },
+    "097fcb3997ba4f95db9c93d311ac0fdab4925d97": {
+      "id": "097fcb3997ba4f95db9c93d311ac0fdab4925d97",
+      "teams": "Birmingham - Leeds United",
+      "odds": {
+        "1": "5.50",
+        "2": "1.67",
+        "X": "3.85"
+      }
+    },
+    "2ecf9d382edb24058a7c98ee7ce44b6ddfd29f8a": {
+      "id": "2ecf9d382edb24058a7c98ee7ce44b6ddfd29f8a",
+      "teams": "Bristol City - Luton Town",
+      "odds": {
+        "1": "1.70",
+        "2": "4.80",
+        "X": "4.10"
+      }
+    },
+    "b2fad7f9f9969f02c170d8adca9542e7db582ea5": {
+      "id": "b2fad7f9f9969f02c170d8adca9542e7db582ea5",
+      "teams": "Fulham - Stoke City",
+      "odds": {
+        "1": "2.05",
+        "2": "3.90",
+        "X": "3.40"
+      }
+    },
+    "8623430317f48627ea6be0566e993c76cf9ccdfa": {
+      "id": "8623430317f48627ea6be0566e993c76cf9ccdfa",
+      "teams": "Huddersfield Town - Blackburn Rovers",
+      "odds": {
+        "1": "2.50",
+        "2": "3.00",
+        "X": "3.25"
+      }
+    },
+    "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
+      "id": "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380",
+      "teams": "Millwall - Brentford",
+      "odds": {
+        "1": "4.00",
+        "2": "2.05",
+        "X": "3.35"
+      }
+    },
+    "701dafa3b2fee8f53c510d7f0130c1c89ebd40d0": {
+      "id": "701dafa3b2fee8f53c510d7f0130c1c89ebd40d0",
+      "teams": "Nottingham Forest - Wigan Athletic",
+      "odds": {
+        "1": "1.80",
+        "2": "5.00",
+        "X": "3.50"
+      }
+    },
+    "c17d0796685841f30f2ca1b699b547463932e67f": {
+      "id": "c17d0796685841f30f2ca1b699b547463932e67f",
+      "teams": "Gillingham - Rochdale",
+      "odds": {
+        "1": "1.65",
+        "2": "5.10",
+        "X": "4.00"
+      }
+    },
+    "22570fd9baa018ebfd2dea15350a6092cfc4b4c6": {
+      "id": "22570fd9baa018ebfd2dea15350a6092cfc4b4c6",
+      "teams": "AFC Wimbledon - Oxford United",
+      "odds": {
+        "1": "4.60",
+        "2": "1.70",
+        "X": "4.00"
+      }
+    },
+    "c1d964448beb5e870d6ce3154fc2e4a483a472c9": {
+      "id": "c1d964448beb5e870d6ce3154fc2e4a483a472c9",
+      "teams": "Accrington Stanley - Burton Albion",
+      "odds": {
+        "1": "2.55",
+        "2": "2.70",
+        "X": "3.50"
+      }
+    },
+    "ad784b08909017b9f320560f60577ffa5ca3aa0d": {
+      "id": "ad784b08909017b9f320560f60577ffa5ca3aa0d",
+      "teams": "Bolton - Shrewsbury Town",
+      "odds": {
+        "1": "3.20",
+        "2": "2.25",
+        "X": "3.25"
+      }
+    },
+    "73a8e297d8d6bc813c8a7540ac6995db31678336": {
+      "id": "73a8e297d8d6bc813c8a7540ac6995db31678336",
+      "teams": "Doncaster Rovers - Sunderland",
+      "odds": {
+        "1": "2.40",
+        "2": "2.90",
+        "X": "3.50"
+      }
+    },
+    "47ab0f10a9bc3cfe65407c3eeac12002b6fbcb18": {
+      "id": "47ab0f10a9bc3cfe65407c3eeac12002b6fbcb18",
+      "teams": "Fleetwood Town - Bristol Rovers",
+      "odds": {
+        "1": "1.55",
+        "2": "6.00",
+        "X": "4.20"
+      }
+    },
+    "76d87d0e3a53a154f343b6da0f2891fa73b0bd2f": {
+      "id": "76d87d0e3a53a154f343b6da0f2891fa73b0bd2f",
+      "teams": "Bradford City - Mansfield Town",
+      "odds": {
+        "1": "1.98",
+        "2": "3.85",
+        "X": "3.45"
+      }
+    },
+    "492953fb304a9bf6532e5f71ea3112ce9b157523": {
+      "id": "492953fb304a9bf6532e5f71ea3112ce9b157523",
+      "teams": "Cambridge United - Morecambe",
+      "odds": {
+        "1": "1.78",
+        "2": "4.60",
+        "X": "3.60"
+      }
+    },
+    "46f9110e3e46c37d569a4a01838132f2aac96669": {
+      "id": "46f9110e3e46c37d569a4a01838132f2aac96669",
+      "teams": "Colchester United - Exeter",
+      "odds": {
+        "1": "2.45",
+        "2": "2.90",
+        "X": "3.25"
+      }
+    },
+    "781e34fd3cec170b13be0a88074374b931250f53": {
+      "id": "781e34fd3cec170b13be0a88074374b931250f53",
+      "teams": "Crewe Alexandra - Scunthorpe United",
+      "odds": {
+        "1": "1.75",
+        "2": "4.30",
+        "X": "3.90"
+      }
+    },
+    "944220310a1379099cd3119b861ec54500e0f8d3": {
+      "id": "944220310a1379099cd3119b861ec54500e0f8d3",
+      "teams": "Forest Green Rovers - Macclesfield Town",
+      "odds": {
+        "1": "1.50",
+        "2": "7.20",
+        "X": "4.00"
+      }
+    },
+    "10b6bd99a5382bdb5e66eded859c5c031dc9a335": {
+      "id": "10b6bd99a5382bdb5e66eded859c5c031dc9a335",
+      "teams": "Grimsby Town - Crawley Town",
+      "odds": {
+        "1": "2.40",
+        "2": "3.00",
+        "X": "3.30"
+      }
+    },
+    "2b5ee8e07a40e7049b7cc4e60cf37affb3ad571e": {
+      "id": "2b5ee8e07a40e7049b7cc4e60cf37affb3ad571e",
+      "teams": "Cittadella - Virtus Entella",
+      "odds": {
+        "1": "1.75",
+        "2": "5.10",
+        "X": "3.30"
+      }
+    },
+    "688d05e2ce6a3eedaf2265f710fd781b9fe8c344": {
+      "id": "688d05e2ce6a3eedaf2265f710fd781b9fe8c344",
+      "teams": "Katrineholm - Nässjö IF",
+      "odds": {
+        "1": "1.35",
+        "2": "4.50",
+        "X": "6.80"
+      }
+    },
+    "b14c55348b633e7d16ad23de80a1867f66fc79eb": {
+      "id": "b14c55348b633e7d16ad23de80a1867f66fc79eb",
+      "teams": "Peace & Love City Bandy - Falu BS",
+      "odds": {
+        "1": "16.00",
+        "2": "1.02",
+        "X": "14.00"
+      }
+    },
+    "714f42dabee4a46247e3f8f02b44820845b05fa1": {
+      "id": "714f42dabee4a46247e3f8f02b44820845b05fa1",
+      "teams": "Gripen Trollhattan BK - IFK Kungälv",
+      "odds": {
+        "1": "1.28",
+        "2": "5.20",
+        "X": "7.20"
+      }
+    },
+    "f4510d2482fc732c856f12735198396f84997000": {
+      "id": "f4510d2482fc732c856f12735198396f84997000",
+      "teams": "IF Boltic Karlstad - Lidköpings AIK",
+      "odds": {
+        "1": "1.57",
+        "2": "3.00",
+        "X": "6.50"
+      }
+    },
+    "ffa4ba99faf6f30ba158630f3bf58d569efb5cf6": {
+      "id": "ffa4ba99faf6f30ba158630f3bf58d569efb5cf6",
+      "teams": "Örebro SK Bandy - TB Västerås",
+      "odds": {
+        "1": "1.18",
+        "2": "7.00",
+        "X": "8.20"
+      }
+    },
+    "36bf346a664fb012cfb92201d2954b59b42cb07f": {
+      "id": "36bf346a664fb012cfb92201d2954b59b42cb07f",
+      "teams": "IK Tellus - Kalix",
+      "odds": {
+        "1": "1.20",
+        "2": "6.50",
+        "X": "8.00"
+      }
+    },
+    "5bde36fc8c82a765605536376cb848b917322ec9": {
+      "id": "5bde36fc8c82a765605536376cb848b917322ec9",
+      "teams": "Skutskärs IF - UNIK Bandy",
+      "odds": {
+        "1": "4.70",
+        "2": "1.32",
+        "X": "7.00"
+      }
+    },
+    "f72b9cef5344a47028ad257a13807b65679157a7": {
+      "id": "f72b9cef5344a47028ad257a13807b65679157a7",
+      "teams": "Happee - Nokian KrP",
+      "odds": {
+        "1": "2.28",
+        "2": "2.10",
+        "X": "5.75"
+      }
+    },
+    "488894fd0a3e50b8cc5f3612223ca1f817e2b6c6": {
+      "id": "488894fd0a3e50b8cc5f3612223ca1f817e2b6c6",
+      "teams": "SPV - Indians",
+      "odds": {
+        "1": "1.68",
+        "2": "3.05",
+        "X": "6.00"
+      }
+    },
+    "a9650898a881ed986cd9c483f2649d18221b7228": {
+      "id": "a9650898a881ed986cd9c483f2649d18221b7228",
+      "teams": "Tiikerit - OLS Oulu",
+      "odds": {
+        "1": "2.16",
+        "2": "2.17",
+        "X": "6.00"
+      }
+    },
+    "d1b19957b99de9ea0358c1b15efa2e5d09a8669f": {
+      "id": "d1b19957b99de9ea0358c1b15efa2e5d09a8669f",
+      "teams": "Karlstad IBF (F) - IBK Dalen (F)",
+      "odds": {
+        "1": "1.60",
+        "2": "3.00",
+        "X": "6.50"
+      }
+    },
+    "d12308b283d122e40ea63fc8bdc9ab7047b67b6c": {
+      "id": "d12308b283d122e40ea63fc8bdc9ab7047b67b6c",
+      "teams": "Täby IS IBK (F) - Warbergs IC (F)",
+      "odds": {
+        "1": "1.10",
+        "2": "9.00",
+        "X": "11.00"
+      }
+    },
+    "d0d2c81ea17554d6c39bb517d5adc572f68e7140": {
+      "id": "d0d2c81ea17554d6c39bb517d5adc572f68e7140",
+      "teams": "KAIS Mora IF (F) - Pixbo Wallenstam IBK (F)",
+      "odds": {
+        "1": "1.62",
+        "2": "2.95",
+        "X": "6.50"
+      }
+    },
+    "ab8d033eeececf8fe19406c59a3a987be4318065": {
+      "id": "ab8d033eeececf8fe19406c59a3a987be4318065",
+      "teams": "IKSU (F) - Rönnby (F)",
+      "odds": {
+        "1": "1.08",
+        "2": "10.00",
+        "X": "12.00"
+      }
+    },
+    "22dadb2022fd88f3e06bf6683b291d8b33a7b8bb": {
+      "id": "22dadb2022fd88f3e06bf6683b291d8b33a7b8bb",
+      "teams": "Skoghalls IBK (W) - Malmö FBC (F)",
+      "odds": {
+        "1": "5.20",
+        "2": "1.25",
+        "X": "8.50"
+      }
+    },
+    "a2a9458944bd33c100501bca5d2b2f7d9b1825be": {
+      "id": "a2a9458944bd33c100501bca5d2b2f7d9b1825be",
+      "teams": "Algeria - Olanda",
+      "odds": {
+        "1": "4.00",
+        "2": "1.36",
+        "X": "9.50"
+      }
+    },
+    "907c7637d02cba2db5a3769e9a76eed46f8d7ede": {
+      "id": "907c7637d02cba2db5a3769e9a76eed46f8d7ede",
+      "teams": "Kazahstan U20 - Finlanda U20",
+      "odds": {
+        "1": "26.00",
+        "2": "1.02",
+        "X": "18.00"
+      }
+    },
+    "2047b9b1af50b2a649f3064c570ce7c23d1fbc83": {
+      "id": "2047b9b1af50b2a649f3064c570ce7c23d1fbc83",
+      "teams": "Liverpool - Wolverhampton Wanderers",
+      "odds": {
+        "1": "1.35",
+        "2": "11.00",
+        "X": "5.65"
+      }
+    }
   }
 }
