@@ -1,11 +1,11 @@
-const nightmare = require('./crawler')
+const nightmare = require('./crawlers')
 
-const superbet = require('./crawler/superbet')
-const casapariurilor = require('./crawler/casapariurilor')
-const unibet = require('./crawler/unibet')
-const betano = require('./crawler/betano')
-const fortuna = require('./crawler/fortuna')
-const netbet = require('./crawler/netbet')
+const superbet = require('./crawlers/superbet')
+const casapariurilor = require('./crawlers/casapariurilor')
+const unibet = require('./crawlers/unibet')
+const betano = require('./crawlers/betano')
+const fortuna = require('./crawlers/fortuna')
+const netbet = require('./crawlers/netbet')
 
 Promise.resolve()
   .then(async () => {
