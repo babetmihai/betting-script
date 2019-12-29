@@ -1,572 +1,5450 @@
 {
   "superbet": {
-    "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a": {
-      "id": "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a",
-      "teams": "Panathinaikos - Real Madrid",
+    "da243e4f62edd3858fabd49929f2f99d81db0f38": {
+      "id": "da243e4f62edd3858fabd49929f2f99d81db0f38",
+      "teams": "Celtic - Rangers",
       "odds": {
-        "1": "1.95",
-        "2": "2.05",
-        "X": "15.00"
+        "1": "2.15",
+        "2": "3.45",
+        "X": "3.40"
       }
     },
-    "d5a7fb4f11a5b22fff4acd382b24a8349e9bed48": {
-      "id": "d5a7fb4f11a5b22fff4acd382b24a8349e9bed48",
-      "teams": "Standard - Gent",
+    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
+      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
+      "teams": "Arsenal - Chelsea",
       "odds": {
-        "1": "2.55",
-        "2": "2.70",
-        "X": "3.50"
+        "1": "2.85",
+        "2": "2.38",
+        "X": "3.75"
       }
     },
-    "cbd0949b85de612288dc15e240af0b98b581ee1d": {
-      "id": "cbd0949b85de612288dc15e240af0b98b581ee1d",
-      "teams": "Reading - QPR",
+    "5fa7d864d02d04c6d5a8ac284d3e90ff269236bd": {
+      "id": "5fa7d864d02d04c6d5a8ac284d3e90ff269236bd",
+      "teams": "WBA - Middlesbrough",
       "odds": {
-        "1": "2.35",
-        "2": "2.95",
-        "X": "3.45"
+        "1": "1.57",
+        "2": "5.75",
+        "X": "4.15"
       }
     },
-    "62f243594fdac35e7d597d0f06fa75c032367447": {
-      "id": "62f243594fdac35e7d597d0f06fa75c032367447",
-      "teams": "Leicester - Liverpool",
+    "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85": {
+      "id": "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85",
+      "teams": "Swansea - Barnsley",
       "odds": {
-        "1": "3.20",
-        "2": "2.20",
+        "1": "1.92",
+        "2": "3.90",
+        "X": "3.70"
+      }
+    },
+    "a0b74f11393edc25eb93e896155c34f1219743a7": {
+      "id": "a0b74f11393edc25eb93e896155c34f1219743a7",
+      "teams": "Sheffield Wed. - Cardiff",
+      "odds": {
+        "1": "1.75",
+        "2": "4.85",
         "X": "3.65"
       }
     },
-    "f6020c1c77655d23b18e334fc2beec3a4aeb0588": {
-      "id": "f6020c1c77655d23b18e334fc2beec3a4aeb0588",
-      "teams": "V.Entella - Spezia",
+    "37567169f49a087609ebd118cd3011f133762b0a": {
+      "id": "37567169f49a087609ebd118cd3011f133762b0a",
+      "teams": "QPR - Hull",
       "odds": {
-        "1": "2.45",
-        "2": "3.00",
-        "X": "3.10"
+        "1": "2.40",
+        "2": "2.85",
+        "X": "3.60"
       }
     },
-    "07acb3f66fa471a55470e4c3b3e66455551a6be2": {
-      "id": "07acb3f66fa471a55470e4c3b3e66455551a6be2",
-      "teams": "Monterrey - Club America",
+    "2d9c6f1885a6e32058360320813bf9e7d1f95e95": {
+      "id": "2d9c6f1885a6e32058360320813bf9e7d1f95e95",
+      "teams": "Fulham - Stoke",
       "odds": {
         "1": "2.05",
-        "2": "3.45",
-        "X": "3.30"
+        "2": "3.75",
+        "X": "3.35"
       }
     },
-    "67d76debf40ca56d7168ef22110615d24c6f65b3": {
-      "id": "67d76debf40ca56d7168ef22110615d24c6f65b3",
-      "teams": "Besiktas - Genclerbirligi",
+    "df2a1efa44d2d4bd6593627203091168230a2d26": {
+      "id": "df2a1efa44d2d4bd6593627203091168230a2d26",
+      "teams": "Birmingham - Leeds",
       "odds": {
-        "1": "1.50",
-        "2": "5.85",
-        "X": "4.65"
-      }
-    },
-    "5e2789982b8aa88947a79b852f948df8273759e8": {
-      "id": "5e2789982b8aa88947a79b852f948df8273759e8",
-      "teams": "Wolverhampton - Manchester City",
-      "odds": {
-        "1": "7.50",
-        "2": "1.45",
-        "X": "4.60"
-      }
-    },
-    "4f5539dd6b7be854c756a18c168e6c7d7481ca23": {
-      "id": "4f5539dd6b7be854c756a18c168e6c7d7481ca23",
-      "teams": "Norwich - Tottenham",
-      "odds": {
-        "1": "5.05",
-        "2": "1.63",
-        "X": "4.15"
+        "1": "5.25",
+        "2": "1.68",
+        "X": "3.75"
       }
     },
     "968de6dad0ab2f21cea3ada925a10dd02b4b7580": {
       "id": "968de6dad0ab2f21cea3ada925a10dd02b4b7580",
       "teams": "Liverpool - Wolverhampton",
       "odds": {
-        "1": "1.32",
-        "2": "10.00",
-        "X": "5.20"
+        "1": "1.35",
+        "2": "9.00",
+        "X": "5.30"
       }
     },
-    "07b00facd7a7e2d850e9b7ed15208d1a4d85c1d7": {
-      "id": "07b00facd7a7e2d850e9b7ed15208d1a4d85c1d7",
-      "teams": "Antigua - Municipal",
+    "1c56f574cbbfb4cfb0a7e29d36f0efa177338f12": {
+      "id": "1c56f574cbbfb4cfb0a7e29d36f0efa177338f12",
+      "teams": "Manchester City - Sheffield Utd",
       "odds": {
-        "1": "2.15",
-        "2": "3.45",
+        "1": "1.27",
+        "2": "11.00",
+        "X": "6.15"
+      }
+    },
+    "c4cc90858123b100fc0963fe403c6787aa856d2e": {
+      "id": "c4cc90858123b100fc0963fe403c6787aa856d2e",
+      "teams": "Preston - Reading",
+      "odds": {
+        "1": "1.90",
+        "2": "4.20",
+        "X": "3.50"
+      }
+    },
+    "34225f8193ccaba3dc434d9c5083723d045c0057": {
+      "id": "34225f8193ccaba3dc434d9c5083723d045c0057",
+      "teams": "Nott.Forest - Wigan",
+      "odds": {
+        "1": "1.82",
+        "2": "4.80",
+        "X": "3.40"
+      }
+    },
+    "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
+      "id": "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380",
+      "teams": "Millwall - Brentford",
+      "odds": {
+        "1": "3.75",
+        "2": "2.07",
+        "X": "3.30"
+      }
+    },
+    "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa": {
+      "id": "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa",
+      "teams": "Huddersfield - Blackburn",
+      "odds": {
+        "1": "2.55",
+        "2": "2.95",
+        "X": "3.10"
+      }
+    },
+    "468908c9a89769cbe883821549a57e03b2fd9b5d": {
+      "id": "468908c9a89769cbe883821549a57e03b2fd9b5d",
+      "teams": "Bristol City - Luton",
+      "odds": {
+        "1": "1.73",
+        "2": "4.55",
+        "X": "3.95"
+      }
+    },
+    "c17d0796685841f30f2ca1b699b547463932e67f": {
+      "id": "c17d0796685841f30f2ca1b699b547463932e67f",
+      "teams": "Gillingham - Rochdale",
+      "odds": {
+        "1": "1.65",
+        "2": "5.00",
+        "X": "3.85"
+      }
+    },
+    "49dfe8b3da280549b128fc0c497faf3c3ad9d469": {
+      "id": "49dfe8b3da280549b128fc0c497faf3c3ad9d469",
+      "teams": "Wycombe - Coventry",
+      "odds": {
+        "1": "2.70",
+        "2": "2.60",
+        "X": "3.25"
+      }
+    },
+    "9f4edfcde74fdc35600c1ddfd75e1bdd7417e8d8": {
+      "id": "9f4edfcde74fdc35600c1ddfd75e1bdd7417e8d8",
+      "teams": "Tranmere R. - Blackpool",
+      "odds": {
+        "1": "3.05",
+        "2": "2.30",
+        "X": "3.30"
+      }
+    },
+    "d927df4e7a7a31c9d29048886020e139c4a4eca0": {
+      "id": "d927df4e7a7a31c9d29048886020e139c4a4eca0",
+      "teams": "Rotherham - Peterborough",
+      "odds": {
+        "1": "2.25",
+        "2": "3.05",
+        "X": "3.40"
+      }
+    },
+    "0c722ff5c7421797775e8e1c4e382bf501940b65": {
+      "id": "0c722ff5c7421797775e8e1c4e382bf501940b65",
+      "teams": "MK Dons - Portsmouth",
+      "odds": {
+        "1": "3.70",
+        "2": "1.95",
+        "X": "3.55"
+      }
+    },
+    "b8bd0010d69296ec79216ef6628a2ee8f757b909": {
+      "id": "b8bd0010d69296ec79216ef6628a2ee8f757b909",
+      "teams": "Lincoln City - Ipswich",
+      "odds": {
+        "1": "2.60",
+        "2": "2.90",
+        "X": "3.00"
+      }
+    },
+    "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44": {
+      "id": "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44",
+      "teams": "Fleetwood - Bristol R.",
+      "odds": {
+        "1": "1.57",
+        "2": "5.85",
+        "X": "3.90"
+      }
+    },
+    "5c05c25b3fbada910a8513bebfd8d77b776f532a": {
+      "id": "5c05c25b3fbada910a8513bebfd8d77b776f532a",
+      "teams": "Doncaster - Sunderland",
+      "odds": {
+        "1": "2.50",
+        "2": "2.80",
+        "X": "3.25"
+      }
+    },
+    "07ac2f339119e208cd5997f0f989c4f3eaa80599": {
+      "id": "07ac2f339119e208cd5997f0f989c4f3eaa80599",
+      "teams": "Bolton - Shrewsbury",
+      "odds": {
+        "1": "3.30",
+        "2": "2.30",
+        "X": "3.05"
+      }
+    },
+    "ebb74e855e24459d98c794c6237a441886e8074d": {
+      "id": "ebb74e855e24459d98c794c6237a441886e8074d",
+      "teams": "Accrington - Burton A.",
+      "odds": {
+        "1": "2.60",
+        "2": "2.70",
+        "X": "3.25"
+      }
+    },
+    "cba7c9e3498b21ca8b3a5d1d2ba727af7d662d39": {
+      "id": "cba7c9e3498b21ca8b3a5d1d2ba727af7d662d39",
+      "teams": "Wimbledon - Oxford Utd",
+      "odds": {
+        "1": "4.60",
+        "2": "1.70",
+        "X": "3.85"
+      }
+    },
+    "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3": {
+      "id": "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3",
+      "teams": "Forest Green - Macclesfield",
+      "odds": {
+        "1": "1.57",
+        "2": "6.15",
+        "X": "3.75"
+      }
+    },
+    "a903ed83367495bb7deccd9434f4a69fc4e9abec": {
+      "id": "a903ed83367495bb7deccd9434f4a69fc4e9abec",
+      "teams": "Walsall - Carlisle",
+      "odds": {
+        "1": "2.10",
+        "2": "3.50",
+        "X": "3.30"
+      }
+    },
+    "e6feb9915915ffbffdd251438ff9e18ab79a9e71": {
+      "id": "e6feb9915915ffbffdd251438ff9e18ab79a9e71",
+      "teams": "Port Vale - Swindon",
+      "odds": {
+        "1": "3.35",
+        "2": "2.15",
+        "X": "3.30"
+      }
+    },
+    "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f": {
+      "id": "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f",
+      "teams": "Plymouth - Stevenage",
+      "odds": {
+        "1": "1.68",
+        "2": "5.10",
+        "X": "3.65"
+      }
+    },
+    "659ace39a1a8d2add8543c608326e2f996b184e2": {
+      "id": "659ace39a1a8d2add8543c608326e2f996b184e2",
+      "teams": "Oldham - Salford C.",
+      "odds": {
+        "1": "2.40",
+        "2": "2.90",
+        "X": "3.30"
+      }
+    },
+    "f48e5079326f507e4d097f78aa490076692be893": {
+      "id": "f48e5079326f507e4d097f78aa490076692be893",
+      "teams": "Northampton - Cheltenham",
+      "odds": {
+        "1": "2.45",
+        "2": "2.90",
+        "X": "3.20"
+      }
+    },
+    "8bcd7369f904b274033bd602954840b5a9a48b15": {
+      "id": "8bcd7369f904b274033bd602954840b5a9a48b15",
+      "teams": "Newport - Leyton O.",
+      "odds": {
+        "1": "2.07",
+        "2": "3.60",
+        "X": "3.30"
+      }
+    },
+    "6fca8dfb9e8c8e833446cb72462e4c46273f22fc": {
+      "id": "6fca8dfb9e8c8e833446cb72462e4c46273f22fc",
+      "teams": "Grimsby - Crawley",
+      "odds": {
+        "1": "2.40",
+        "2": "2.95",
+        "X": "3.25"
+      }
+    },
+    "d7e46db8672770f6dbd01568f2a30588f49a8bf8": {
+      "id": "d7e46db8672770f6dbd01568f2a30588f49a8bf8",
+      "teams": "Crewe - Scunthorpe",
+      "odds": {
+        "1": "1.80",
+        "2": "4.15",
+        "X": "3.70"
+      }
+    },
+    "075a8257c529c5a63b7b05c245c65812e7a46e30": {
+      "id": "075a8257c529c5a63b7b05c245c65812e7a46e30",
+      "teams": "Colchester - Exeter",
+      "odds": {
+        "1": "2.40",
+        "2": "3.00",
+        "X": "3.20"
+      }
+    },
+    "6895e1bd409c33e3c8e7dfd7f5e5e8bacc93692f": {
+      "id": "6895e1bd409c33e3c8e7dfd7f5e5e8bacc93692f",
+      "teams": "Cambridge Utd - Morecambe",
+      "odds": {
+        "1": "1.80",
+        "2": "4.30",
+        "X": "3.60"
+      }
+    },
+    "fcd4133d9dc45f3f69f66e5d39649dc0caa1fc06": {
+      "id": "fcd4133d9dc45f3f69f66e5d39649dc0caa1fc06",
+      "teams": "Bradford C. - Mansfield",
+      "odds": {
+        "1": "2.05",
+        "2": "3.55",
+        "X": "3.40"
+      }
+    },
+    "d1bfa8b1db97d304de81f0aff437de17ba0b65e8": {
+      "id": "d1bfa8b1db97d304de81f0aff437de17ba0b65e8",
+      "teams": "NSR EL Fedjoudj - US Biskra",
+      "odds": {
+        "1": "3.75",
+        "2": "1.77",
+        "X": "3.85"
+      }
+    },
+    "e886f6e85b45f93e1b31b77b928c96957af6170c": {
+      "id": "e886f6e85b45f93e1b31b77b928c96957af6170c",
+      "teams": "Friburguense RJ - Portuguesa RJ",
+      "odds": {
+        "1": "3.40",
+        "2": "2.10",
+        "X": "3.10"
+      }
+    },
+    "612e125ef3803130557de786b6d49f6c7442e5df": {
+      "id": "612e125ef3803130557de786b6d49f6c7442e5df",
+      "teams": "Macae RJ - Nova Iguacu RJ",
+      "odds": {
+        "1": "3.15",
+        "2": "2.25",
+        "X": "3.05"
+      }
+    },
+    "af0a8580bd75942926f57255e8a172b24a00eeef": {
+      "id": "af0a8580bd75942926f57255e8a172b24a00eeef",
+      "teams": "Bouake - AS Tanda",
+      "odds": {
+        "1": "2.30",
+        "2": "3.10",
+        "X": "2.85"
+      }
+    },
+    "fa64d4cd055f3c95e08d392c4b2792c861510166": {
+      "id": "fa64d4cd055f3c95e08d392c4b2792c861510166",
+      "teams": "Aswan - Talaea El G.",
+      "odds": {
+        "1": "2.80",
+        "2": "2.60",
+        "X": "2.90"
+      }
+    },
+    "cc4969f6f8f8a01959dff17c0fbe1c9c02119381": {
+      "id": "cc4969f6f8f8a01959dff17c0fbe1c9c02119381",
+      "teams": "Ebusua Dwarfs - Medeama",
+      "odds": {
+        "1": "2.95",
+        "2": "2.40",
+        "X": "2.80"
+      }
+    },
+    "9a45b6a4b0af4c7d0255f31f2c45481a1f3a1658": {
+      "id": "9a45b6a4b0af4c7d0255f31f2c45481a1f3a1658",
+      "teams": "Ashanti Gold - Great Olympics",
+      "odds": {
+        "1": "1.30",
+        "2": "9.15",
+        "X": "4.30"
+      }
+    },
+    "43ff1f314ec4d4db81af77095242c4b6bbe51915": {
+      "id": "43ff1f314ec4d4db81af77095242c4b6bbe51915",
+      "teams": "Liberty - ALL Stars",
+      "odds": {
+        "1": "1.23",
+        "2": "11.70",
+        "X": "4.70"
+      }
+    },
+    "7c6b5cd2b3aecb593719a2031662797807275bde": {
+      "id": "7c6b5cd2b3aecb593719a2031662797807275bde",
+      "teams": "Hearts of Oak - Berekum C.",
+      "odds": {
+        "1": "1.32",
+        "2": "8.45",
+        "X": "4.25"
+      }
+    },
+    "93eb747244f6985b6673ff91673e6ed9b73d8583": {
+      "id": "93eb747244f6985b6673ff91673e6ed9b73d8583",
+      "teams": "Asante Kotoko - Eleven Wonders",
+      "odds": {
+        "1": "1.30",
+        "2": "9.15",
+        "X": "4.30"
+      }
+    },
+    "7a2eb6c0dc6203981f6f651afadd46233c6c10b9": {
+      "id": "7a2eb6c0dc6203981f6f651afadd46233c6c10b9",
+      "teams": "Karela - Sogakope W.",
+      "odds": {
+        "1": "1.30",
+        "2": "8.75",
+        "X": "4.40"
+      }
+    },
+    "2ca066fe5d0d4c0424efbe9388c20fddfb117fc3": {
+      "id": "2ca066fe5d0d4c0424efbe9388c20fddfb117fc3",
+      "teams": "1 Municipal - 0 Antigua",
+      "odds": {
+        "1": "1.58",
+        "2": "5.10",
+        "X": "3.80"
+      }
+    },
+    "a084ccea0cce01596dab86791bb9a0e9c9ab6734": {
+      "id": "a084ccea0cce01596dab86791bb9a0e9c9ab6734",
+      "teams": "Mumbai City - Hyderabad",
+      "odds": {
+        "1": "1.75",
+        "2": "3.85",
+        "X": "3.75"
+      }
+    },
+    "0ab9cb27581cbc5c76c13e983eeab4c1f62a31d3": {
+      "id": "0ab9cb27581cbc5c76c13e983eeab4c1f62a31d3",
+      "teams": "Al Masry - Pyramids FC",
+      "odds": {
+        "1": "3.00",
+        "2": "2.40",
         "X": "2.95"
       }
     },
-    "4dc25ffa537630bff8e56ddc8778a820173df333": {
-      "id": "4dc25ffa537630bff8e56ddc8778a820173df333",
-      "teams": "Detroit - Washington",
+    "29d5c7beddac54c8526757e327da89c5e70c5128": {
+      "id": "29d5c7beddac54c8526757e327da89c5e70c5128",
+      "teams": "Nouadhibou - Enugu Rangers",
       "odds": {
-        "1": "1.40",
-        "2": "3.45",
-        "X": "16.00"
+        "1": "2.25",
+        "2": "2.90",
+        "X": "3.40"
       }
     },
-    "57649cea76635548929b6b1ab8fee08fb94d4f23": {
-      "id": "57649cea76635548929b6b1ab8fee08fb94d4f23",
-      "teams": "Brooklyn - New York",
+    "8a07df02ea657d060eb15aa7092e32e4f4c785dc": {
+      "id": "8a07df02ea657d060eb15aa7092e32e4f4c785dc",
+      "teams": "Esae FC - Zanaco",
+      "odds": {
+        "1": "4.40",
+        "2": "1.73",
+        "X": "3.55"
+      }
+    },
+    "74d5132c0eb71e2f019b934ae2c83c992a2419b0": {
+      "id": "74d5132c0eb71e2f019b934ae2c83c992a2419b0",
+      "teams": "De Berkane - DCMP",
+      "odds": {
+        "1": "1.20",
+        "2": "13.90",
+        "X": "5.50"
+      }
+    },
+    "d6fc5d42fbfb795c691f448e5dde4438fdfd4f52": {
+      "id": "d6fc5d42fbfb795c691f448e5dde4438fdfd4f52",
+      "teams": "Horoya AC - Djoliba AC",
+      "odds": {
+        "1": "1.45",
+        "2": "7.45",
+        "X": "3.80"
+      }
+    },
+    "393ad562dff1c1bc97b0e6965073cbe3587ce025": {
+      "id": "393ad562dff1c1bc97b0e6965073cbe3587ce025",
+      "teams": "Bidvest Wits - AL Nasr SC B.",
       "odds": {
         "1": "1.35",
-        "2": "3.80",
-        "X": "16.00"
+        "2": "8.40",
+        "X": "4.40"
       }
     },
-    "3e68205ad1634d524111ba654242707675abcbb2": {
-      "id": "3e68205ad1634d524111ba654242707675abcbb2",
-      "teams": "Dallas - San Antonio",
+    "f8090c7cde84080d7692a545fdd43747c192ce58": {
+      "id": "f8090c7cde84080d7692a545fdd43747c192ce58",
+      "teams": "FC San Pedro - Hassania Agadir",
+      "odds": {
+        "1": "2.50",
+        "2": "2.55",
+        "X": "3.35"
+      }
+    },
+    "73f88441962ce79262a7a97122081da9fd17ccb4": {
+      "id": "73f88441962ce79262a7a97122081da9fd17ccb4",
+      "teams": "Paradou AC - Enyimba",
+      "odds": {
+        "1": "1.30",
+        "2": "9.00",
+        "X": "4.85"
+      }
+    },
+    "c5c604a7367133e1fb3c433c294abb7092207272": {
+      "id": "c5c604a7367133e1fb3c433c294abb7092207272",
+      "teams": "ABC RN - Botafogo PB",
+      "odds": {
+        "1": "2.55",
+        "2": "2.55",
+        "X": "3.20"
+      }
+    },
+    "8b09bf0b8f9590a4d475ae8c42e21adf5ed9594e": {
+      "id": "8b09bf0b8f9590a4d475ae8c42e21adf5ed9594e",
+      "teams": "Caxias RS - Ypiranga RS",
+      "odds": {
+        "1": "1.80",
+        "2": "3.60",
+        "X": "3.80"
+      }
+    },
+    "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5": {
+      "id": "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5",
+      "teams": "Mac.Netanya - Bnei Yehuda TA",
+      "odds": {
+        "1": "2.40",
+        "2": "3.00",
+        "X": "3.05"
+      }
+    },
+    "19a52ea4a695d6a821b95945c92430c24a9c04a6": {
+      "id": "19a52ea4a695d6a821b95945c92430c24a9c04a6",
+      "teams": "Sektzia Nes T. - Hap.Tel Aviv",
+      "odds": {
+        "1": "3.45",
+        "2": "2.17",
+        "X": "3.05"
+      }
+    },
+    "0199bcb8133c6167dd2017c7d1e177ba8e12e36c": {
+      "id": "0199bcb8133c6167dd2017c7d1e177ba8e12e36c",
+      "teams": "Crotone - Trapani",
       "odds": {
         "1": "1.42",
-        "2": "3.35",
-        "X": "16.00"
+        "2": "7.50",
+        "X": "4.40"
       }
     },
-    "9d731cfd3b750b15c5a165f853af083d583a8e3a": {
-      "id": "9d731cfd3b750b15c5a165f853af083d583a8e3a",
-      "teams": "Oklahoma - Memphis",
+    "1e617fb04ca6fff01e5d25d5fd1010245753471d": {
+      "id": "1e617fb04ca6fff01e5d25d5fd1010245753471d",
+      "teams": "Pordenone - Cremonese",
+      "odds": {
+        "1": "2.25",
+        "2": "3.50",
+        "X": "3.00"
+      }
+    },
+    "9b975f988b22a6090db20d245b4ee8bab0d7dcdf": {
+      "id": "9b975f988b22a6090db20d245b4ee8bab0d7dcdf",
+      "teams": "Juve Stabia - Cosenza",
+      "odds": {
+        "1": "2.65",
+        "2": "2.90",
+        "X": "2.95"
+      }
+    },
+    "032244787687df057ab636cfae5d3fee37ca072d": {
+      "id": "032244787687df057ab636cfae5d3fee37ca072d",
+      "teams": "Cittadella - V.Entella",
+      "odds": {
+        "1": "1.80",
+        "2": "4.55",
+        "X": "3.45"
+      }
+    },
+    "8fdec5ba44b142b82838ec2045971bff38d13d8c": {
+      "id": "8fdec5ba44b142b82838ec2045971bff38d13d8c",
+      "teams": "Pisa - Frosinone",
+      "odds": {
+        "1": "3.75",
+        "2": "2.15",
+        "X": "3.00"
+      }
+    },
+    "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81": {
+      "id": "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81",
+      "teams": "Spezia - Salernitana",
+      "odds": {
+        "1": "2.05",
+        "2": "4.00",
+        "X": "3.05"
+      }
+    },
+    "2e3212ed030c6869836c531be77a8faac6d0009e": {
+      "id": "2e3212ed030c6869836c531be77a8faac6d0009e",
+      "teams": "Perugia - Venezia",
+      "odds": {
+        "1": "2.00",
+        "2": "4.10",
+        "X": "3.10"
+      }
+    },
+    "d00db5f8bebda4600fe3b58c0244dc2913c8f328": {
+      "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
+      "teams": "Benevento - Ascoli",
       "odds": {
         "1": "1.50",
+        "2": "6.85",
+        "X": "3.95"
+      }
+    },
+    "92982d4a99ca406f847a8c353655b64333b01744": {
+      "id": "92982d4a99ca406f847a8c353655b64333b01744",
+      "teams": "Empoli - Livorno",
+      "odds": {
+        "1": "1.75",
+        "2": "4.70",
+        "X": "3.55"
+      }
+    },
+    "6f89d9554ef631b238a4e3788e641ba83b666d30": {
+      "id": "6f89d9554ef631b238a4e3788e641ba83b666d30",
+      "teams": "Molynes - Dunbeholden",
+      "odds": {
+        "1": "3.00",
+        "2": "2.20",
+        "X": "3.10"
+      }
+    },
+    "e2ed69c7c6064cbfefb2c38994ce848866163bbf": {
+      "id": "e2ed69c7c6064cbfefb2c38994ce848866163bbf",
+      "teams": "Vere Utd - Tivoli G.",
+      "odds": {
+        "1": "2.80",
+        "2": "2.40",
+        "X": "3.00"
+      }
+    },
+    "f8bc889a6792a969730177b5e8b071da35919ea9": {
+      "id": "f8bc889a6792a969730177b5e8b071da35919ea9",
+      "teams": "Humble L. - Arnett G.",
+      "odds": {
+        "1": "2.35",
         "2": "2.95",
+        "X": "2.90"
+      }
+    },
+    "696ed8b30ea09357007e48d7a031add8c12b40c4": {
+      "id": "696ed8b30ea09357007e48d7a031add8c12b40c4",
+      "teams": "Harbour V. - Portmore Utd",
+      "odds": {
+        "1": "3.40",
+        "2": "2.00",
+        "X": "3.15"
+      }
+    },
+    "6a240aa5d1e1426a959567b0fca7ccd953e072f5": {
+      "id": "6a240aa5d1e1426a959567b0fca7ccd953e072f5",
+      "teams": "Cavaliers - Waterhouse",
+      "odds": {
+        "1": "3.60",
+        "2": "1.90",
+        "X": "3.25"
+      }
+    },
+    "7290b8d413c21069c3b111f835d4098bb0c1cc2f": {
+      "id": "7290b8d413c21069c3b111f835d4098bb0c1cc2f",
+      "teams": "Mathare Utd - Nzoia Utd",
+      "odds": {
+        "1": "1.62",
+        "2": "4.65",
+        "X": "3.60"
+      }
+    },
+    "a7fbd17347ba779424f1f06255c9acfb58600237": {
+      "id": "a7fbd17347ba779424f1f06255c9acfb58600237",
+      "teams": "Al Fehaheel - Khaitan SC",
+      "odds": {
+        "1": "2.15",
+        "2": "3.00",
+        "X": "3.35"
+      }
+    },
+    "5623b2047f65e7976a55b1f1da4761d4ab51e98b": {
+      "id": "5623b2047f65e7976a55b1f1da4761d4ab51e98b",
+      "teams": "AL Kuwait SC - Yarmouk",
+      "odds": {
+        "1": "1.28",
+        "2": "7.20",
+        "X": "5.60"
+      }
+    },
+    "b02aa7ad2c6e395054ccf6d0b8179519772bd734": {
+      "id": "b02aa7ad2c6e395054ccf6d0b8179519772bd734",
+      "teams": "Khouribga - FAR Rabat",
+      "odds": {
+        "1": "2.65",
+        "2": "2.65",
+        "X": "2.95"
+      }
+    },
+    "24382e2575d4aab3af7e4983f5eb01e17300610f": {
+      "id": "24382e2575d4aab3af7e4983f5eb01e17300610f",
+      "teams": "Y.Berrechid - Rapide OZ",
+      "odds": {
+        "1": "1.80",
+        "2": "4.45",
+        "X": "3.15"
+      }
+    },
+    "74ad679babffe5968cee5ac3eb991f58063fa6df": {
+      "id": "74ad679babffe5968cee5ac3eb991f58063fa6df",
+      "teams": "1 Club America - 2 Monterrey",
+      "odds": {
+        "1": "2.15",
+        "2": "3.10",
+        "X": "3.45"
+      }
+    },
+    "14b850e9d719c8d9b1021e9e711a9a79175ad33d": {
+      "id": "14b850e9d719c8d9b1021e9e711a9a79175ad33d",
+      "teams": "Akwa Utd - Lobi Stars",
+      "odds": {
+        "1": "2.00",
+        "2": "4.05",
+        "X": "2.85"
+      }
+    },
+    "7ab56a6f0b232614d289cee3e4dab6fc08db8179": {
+      "id": "7ab56a6f0b232614d289cee3e4dab6fc08db8179",
+      "teams": "Abia Warriors - Plateau Utd",
+      "odds": {
+        "1": "1.80",
+        "2": "4.75",
+        "X": "3.00"
+      }
+    },
+    "b9b799e4243f335dda09bdbce1fc9170f9f19586": {
+      "id": "b9b799e4243f335dda09bdbce1fc9170f9f19586",
+      "teams": "Ifeanyi Ubah - Heartland Ow.",
+      "odds": {
+        "1": "1.67",
+        "2": "5.55",
+        "X": "3.20"
+      }
+    },
+    "baa7fde31d957e3ca083692448c06ad4cb4f0443": {
+      "id": "baa7fde31d957e3ca083692448c06ad4cb4f0443",
+      "teams": "AL Orouba - Al Rustaq",
+      "odds": {
+        "1": "3.80",
+        "2": "1.95",
+        "X": "3.10"
+      }
+    },
+    "cb7afeed38884de4e361e953041323a6929117b2": {
+      "id": "cb7afeed38884de4e361e953041323a6929117b2",
+      "teams": "Fanja - Sohar Cl.",
+      "odds": {
+        "1": "2.05",
+        "2": "3.20",
+        "X": "3.35"
+      }
+    },
+    "f9872eca4005ca4e1381c82427d9d0cac437748c": {
+      "id": "f9872eca4005ca4e1381c82427d9d0cac437748c",
+      "teams": "Muscat - Oman FC",
+      "odds": {
+        "1": "2.30",
+        "2": "2.85",
+        "X": "3.20"
+      }
+    },
+    "b1e8a01f94605a45b010280241e503596c9c1231": {
+      "id": "b1e8a01f94605a45b010280241e503596c9c1231",
+      "teams": "Al Nasr S. - Dhofar",
+      "odds": {
+        "1": "4.10",
+        "2": "1.87",
+        "X": "3.15"
+      }
+    },
+    "1b0d452c58ca1a9af8fcb60acf2d95c770b057de": {
+      "id": "1b0d452c58ca1a9af8fcb60acf2d95c770b057de",
+      "teams": "Feirense - Casa Pia",
+      "odds": {
+        "1": "1.43",
+        "2": "7.25",
+        "X": "4.10"
+      }
+    },
+    "a093799bc23784a9720516c8833579d0ccb8ce12": {
+      "id": "a093799bc23784a9720516c8833579d0ccb8ce12",
+      "teams": "Mafra - Acad.Viseu",
+      "odds": {
+        "1": "2.00",
+        "2": "3.70",
+        "X": "3.25"
+      }
+    },
+    "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78": {
+      "id": "fde22b2ec761bbb8be80b3fc0fbf3e7f4ed4fc78",
+      "teams": "Chaves - Vilafranquense",
+      "odds": {
+        "1": "1.53",
+        "2": "5.85",
+        "X": "3.90"
+      }
+    },
+    "9f1e302d264c52fb2b5a4bb7515a524b104cce30": {
+      "id": "9f1e302d264c52fb2b5a4bb7515a524b104cce30",
+      "teams": "Hearts - Aberdeen",
+      "odds": {
+        "1": "2.60",
+        "2": "2.75",
+        "X": "3.15"
+      }
+    },
+    "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8": {
+      "id": "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8",
+      "teams": "St.Mirren - Kilmarnock",
+      "odds": {
+        "1": "2.45",
+        "2": "3.05",
+        "X": "3.05"
+      }
+    },
+    "9bccd00e03ceaf6539f9be3862f85cdf9f6e0101": {
+      "id": "9bccd00e03ceaf6539f9be3862f85cdf9f6e0101",
+      "teams": "St.Johnstone - Ross County",
+      "odds": {
+        "1": "1.73",
+        "2": "4.80",
+        "X": "3.60"
+      }
+    },
+    "bbcdb1a63280e96f28360cc0eb297dff3559e910": {
+      "id": "bbcdb1a63280e96f28360cc0eb297dff3559e910",
+      "teams": "Motherwell - Hamilton",
+      "odds": {
+        "1": "1.53",
+        "2": "5.95",
+        "X": "4.10"
+      }
+    },
+    "869ccee97c3a93b5ab7582fa272d524f34c64746": {
+      "id": "869ccee97c3a93b5ab7582fa272d524f34c64746",
+      "teams": "Livingston - Hibernian",
+      "odds": {
+        "1": "2.25",
+        "2": "3.10",
+        "X": "3.35"
+      }
+    },
+    "a708e3bcb15cd00b6437310aa992174acbb32213": {
+      "id": "a708e3bcb15cd00b6437310aa992174acbb32213",
+      "teams": "Jaraaf - Casa Sport",
+      "odds": {
+        "1": "2.20",
+        "2": "3.35",
+        "X": "2.80"
+      }
+    },
+    "e9bafcfa37023ab560e16325c0b054ffdf66db6c": {
+      "id": "e9bafcfa37023ab560e16325c0b054ffdf66db6c",
+      "teams": "Mbour Petite C. - Cneps",
+      "odds": {
+        "1": "1.85",
+        "2": "3.90",
+        "X": "3.20"
+      }
+    },
+    "58958cc56126915cd728da8f1f5e8be395fee425": {
+      "id": "58958cc56126915cd728da8f1f5e8be395fee425",
+      "teams": "Asec Ndiambour - US Goree",
+      "odds": {
+        "1": "1.95",
+        "2": "3.65",
+        "X": "3.10"
+      }
+    },
+    "a62217322d38874626ce6f66957c9f12f51e52e9": {
+      "id": "a62217322d38874626ce6f66957c9f12f51e52e9",
+      "teams": "CD Numancia B - SD Almazan",
+      "odds": {
+        "1": "1.38",
+        "2": "6.00",
+        "X": "4.60"
+      }
+    },
+    "57d85892182f4bdc1782e9353134656bc6080d75": {
+      "id": "57d85892182f4bdc1782e9353134656bc6080d75",
+      "teams": "CD Becerril - Real Burgos",
+      "odds": {
+        "1": "3.00",
+        "2": "2.20",
+        "X": "3.10"
+      }
+    },
+    "9d9dedc15025e62e9917840a13118ea478bd7510": {
+      "id": "9d9dedc15025e62e9917840a13118ea478bd7510",
+      "teams": "R.Avila CF - Gim.Segoviana",
+      "odds": {
+        "1": "3.10",
+        "2": "2.10",
+        "X": "3.20"
+      }
+    },
+    "1b3ac12150500cf3c5c6172919f17d51d8bcb32b": {
+      "id": "1b3ac12150500cf3c5c6172919f17d51d8bcb32b",
+      "teams": "Alfaro CD - CD Calahorra B",
+      "odds": {
+        "1": "2.10",
+        "2": "2.95",
+        "X": "3.40"
+      }
+    },
+    "70dbaba15d0701e722ec943d41a32595c1d717af": {
+      "id": "70dbaba15d0701e722ec943d41a32595c1d717af",
+      "teams": "Calamocha - Utebo",
+      "odds": {
+        "1": "2.00",
+        "2": "3.20",
+        "X": "3.45"
+      }
+    },
+    "d938d53957d33d4b4c168e0eea85bb3f29ff665a": {
+      "id": "d938d53957d33d4b4c168e0eea85bb3f29ff665a",
+      "teams": "AD Almudevar - CD Belchite 97",
+      "odds": {
+        "1": "2.80",
+        "2": "2.35",
+        "X": "3.10"
+      }
+    },
+    "52e37fec4da1e75a479cdad19e3f82dec66377a5": {
+      "id": "52e37fec4da1e75a479cdad19e3f82dec66377a5",
+      "teams": "Villanueva CF - UD Fraga",
+      "odds": {
+        "1": "2.20",
+        "2": "3.10",
+        "X": "3.00"
+      }
+    },
+    "26860df3e440250e8f2b2c7ba021e99536bb7ac7": {
+      "id": "26860df3e440250e8f2b2c7ba021e99536bb7ac7",
+      "teams": "Illueca CF - Robres CD",
+      "odds": {
+        "1": "1.28",
+        "2": "7.50",
+        "X": "5.10"
+      }
+    },
+    "11c854e79af97e9865c2b414966530f624d51e9e": {
+      "id": "11c854e79af97e9865c2b414966530f624d51e9e",
+      "teams": "SD Tarazona - CD Teruel",
+      "odds": {
+        "1": "2.15",
+        "2": "3.10",
+        "X": "3.10"
+      }
+    },
+    "1f0700a94063455e553976f00f793d286ceaba4c": {
+      "id": "1f0700a94063455e553976f00f793d286ceaba4c",
+      "teams": "Polisi Tanzania - Azam",
+      "odds": {
+        "1": "3.30",
+        "2": "2.40",
+        "X": "2.65"
+      }
+    },
+    "5507237a080b9625f1ea3f6199fcb134a157173b": {
+      "id": "5507237a080b9625f1ea3f6199fcb134a157173b",
+      "teams": "Jkt Tanzania - Namungo",
+      "odds": {
+        "1": "1.85",
+        "2": "4.50",
+        "X": "3.00"
+      }
+    },
+    "9786cca8b4e0b2a7c410eb8b06396ab195919290": {
+      "id": "9786cca8b4e0b2a7c410eb8b06396ab195919290",
+      "teams": "CS Sfaxien - CS Chebba",
+      "odds": {
+        "1": "1.48",
+        "2": "6.25",
+        "X": "3.80"
+      }
+    },
+    "57551fbbd7426faf88f138b856c25c528d847be5": {
+      "id": "57551fbbd7426faf88f138b856c25c528d847be5",
+      "teams": "AS Soliman - Metlaoui",
+      "odds": {
+        "1": "2.20",
+        "2": "3.35",
+        "X": "2.90"
+      }
+    },
+    "94e23c351105d0424af0f082d7bc5c1d46487a6f": {
+      "id": "94e23c351105d0424af0f082d7bc5c1d46487a6f",
+      "teams": "Alanyaspor - Konyaspor",
+      "odds": {
+        "1": "1.48",
+        "2": "7.20",
+        "X": "4.20"
+      }
+    },
+    "41d7c6f2da40d42a1813ea3179366ad27c0d5502": {
+      "id": "41d7c6f2da40d42a1813ea3179366ad27c0d5502",
+      "teams": "Gaziantep Bld - Y.Malatyaspor",
+      "odds": {
+        "1": "2.75",
+        "2": "2.50",
+        "X": "3.50"
+      }
+    },
+    "716ae160ce7028d2ff9a46884279d9d68824a1e0": {
+      "id": "716ae160ce7028d2ff9a46884279d9d68824a1e0",
+      "teams": "C.Rizespor - Fenerbahce",
+      "odds": {
+        "1": "4.40",
+        "2": "1.77",
+        "X": "3.85"
+      }
+    },
+    "8960a37726eb89bcc67ef86776b2fd24434a7ff6": {
+      "id": "8960a37726eb89bcc67ef86776b2fd24434a7ff6",
+      "teams": "Istanbulspor - Adana Demir",
+      "odds": {
+        "1": "2.15",
+        "2": "3.00",
+        "X": "3.40"
+      }
+    },
+    "1397b6008a70526114df81ce8df3731fef2b5aec": {
+      "id": "1397b6008a70526114df81ce8df3731fef2b5aec",
+      "teams": "Altay Izmir - Giresunspor",
+      "odds": {
+        "1": "2.00",
+        "2": "3.45",
+        "X": "3.30"
+      }
+    },
+    "a5c961735ca279d8bac7a5f3df5b3a039bb0da09": {
+      "id": "a5c961735ca279d8bac7a5f3df5b3a039bb0da09",
+      "teams": "Forest Ran. - Red Arrows",
+      "odds": {
+        "1": "2.45",
+        "2": "2.95",
+        "X": "2.75"
+      }
+    },
+    "9bcba6445ccabe903dba1a95bc28bc480db14c51": {
+      "id": "9bcba6445ccabe903dba1a95bc28bc480db14c51",
+      "teams": "Nkana - Nkwazi",
+      "odds": {
+        "1": "1.70",
+        "2": "4.65",
+        "X": "3.25"
+      }
+    },
+    "2630425ba256af15f2de041d65f3c111072895c6": {
+      "id": "2630425ba256af15f2de041d65f3c111072895c6",
+      "teams": "Toronto - Oklahoma",
+      "odds": {
+        "1": "1.80",
+        "2": "2.30",
+        "X": "14.00"
+      }
+    },
+    "6dccda9f8c2c43ed538ff7e463e71ff8273e577d": {
+      "id": "6dccda9f8c2c43ed538ff7e463e71ff8273e577d",
+      "teams": "Denver - Sacramento",
+      "odds": {
+        "1": "1.23",
+        "2": "5.05",
+        "X": "18.00"
+      }
+    },
+    "26a98453722a38759fed9835f60c688dc4284e94": {
+      "id": "26a98453722a38759fed9835f60c688dc4284e94",
+      "teams": "New Orleans - Houston",
+      "odds": {
+        "1": "2.75",
+        "2": "1.57",
         "X": "16.00"
       }
     },
-    "8d2ade64a418f12010ab5bc8c2a54f4afc1b7426": {
-      "id": "8d2ade64a418f12010ab5bc8c2a54f4afc1b7426",
-      "teams": "Sacramento - Minnesota",
+    "cdb7f5fb2c4d86e643a10a5ac2876a814ac0698c": {
+      "id": "cdb7f5fb2c4d86e643a10a5ac2876a814ac0698c",
+      "teams": "Memphis - Charlotte",
+      "odds": {
+        "1": "1.75",
+        "2": "2.35",
+        "X": "14.00"
+      }
+    },
+    "00e0d23625da282e18fb74878eefb31820460d7e": {
+      "id": "00e0d23625da282e18fb74878eefb31820460d7e",
+      "teams": "LA Lakers - Dallas",
+      "odds": {
+        "1": "1.75",
+        "2": "2.35",
+        "X": "14.00"
+      }
+    },
+    "400948a9275fa4f977470a337d27ff38b2ed0a38": {
+      "id": "400948a9275fa4f977470a337d27ff38b2ed0a38",
+      "teams": "BC Timisoara - BCMU Pitesti",
+      "odds": {
+        "1": "1.40",
+        "2": "3.30",
+        "X": "16.00"
+      }
+    },
+    "f86d95cc745910d8f0438fd3008e738453d0c429": {
+      "id": "f86d95cc745910d8f0438fd3008e738453d0c429",
+      "teams": "Ormanspor - P.Karsiyaka",
+      "odds": {
+        "1": "5.65",
+        "2": "1.20",
+        "X": "18.00"
+      }
+    },
+    "0e0df4fc845449146850cf20aec71c08fd3bc99a": {
+      "id": "0e0df4fc845449146850cf20aec71c08fd3bc99a",
+      "teams": "Efes - Darussafaka",
+      "odds": {
+        "1": "1.12",
+        "2": "7.90",
+        "X": "21.00"
+      }
+    },
+    "1f7e06921a341d6766b69bd3f297eaa371157e91": {
+      "id": "1f7e06921a341d6766b69bd3f297eaa371157e91",
+      "teams": "Andorra - Joventut",
       "odds": {
         "1": "1.55",
         "2": "2.80",
         "X": "16.00"
       }
     },
-    "f7f2109d57ade28c0909be4218059a98b0b3fd81": {
-      "id": "f7f2109d57ade28c0909be4218059a98b0b3fd81",
-      "teams": "Utah - Portland",
+    "b51d0089eebfe2785ceb8b80b30f0b84ee243a34": {
+      "id": "b51d0089eebfe2785ceb8b80b30f0b84ee243a34",
+      "teams": "Barcelona - Real Madrid",
       "odds": {
-        "1": "1.50",
-        "2": "2.95",
-        "X": "16.00"
-      }
-    },
-    "160e8e4882e73ae5cb71eb7135edfe0f4557f0b6": {
-      "id": "160e8e4882e73ae5cb71eb7135edfe0f4557f0b6",
-      "teams": "Alba Berlin - Baskonia",
-      "odds": {
-        "1": "1.90",
-        "2": "2.10",
+        "1": "1.60",
+        "2": "2.65",
         "X": "15.00"
       }
     },
-    "8e65e3900570a1d21bcb948aff816e9d9c419697": {
-      "id": "8e65e3900570a1d21bcb948aff816e9d9c419697",
-      "teams": "Asvel - Khimki M.",
-      "odds": {
-        "1": "2.55",
-        "2": "1.65",
-        "X": "15.00"
-      }
-    },
-    "43c59db8aff3810cc7ac36907ae03821138c5608": {
-      "id": "43c59db8aff3810cc7ac36907ae03821138c5608",
-      "teams": "Brescia - Cremona",
-      "odds": {
-        "1": "1.40",
-        "2": "3.45",
-        "X": "16.00"
-      }
-    },
-    "e0b7e444fbcbaa7daf69a49cb0df1be93afdc9dc": {
-      "id": "e0b7e444fbcbaa7daf69a49cb0df1be93afdc9dc",
-      "teams": "Brindisi - R.Emilia",
+    "cd2148cb7800251ae370578a869041f54b73e94c": {
+      "id": "cd2148cb7800251ae370578a869041f54b73e94c",
+      "teams": "Valencia - Tenerife",
       "odds": {
         "1": "1.45",
         "2": "3.20",
         "X": "16.00"
       }
     },
-    "6b681b490754419df86d991724b71938d9f568d2": {
-      "id": "6b681b490754419df86d991724b71938d9f568d2",
-      "teams": "Trento - Trieste",
+    "d1d072b35d1e49d6169068e594aad551a5b8fadb": {
+      "id": "d1d072b35d1e49d6169068e594aad551a5b8fadb",
+      "teams": "Hamburg - Vechta",
       "odds": {
-        "1": "1.42",
-        "2": "3.35",
+        "1": "3.45",
+        "2": "1.40",
         "X": "16.00"
       }
     },
-    "3fde8c5323ab83e8a6c73d07d4ac521329097102": {
-      "id": "3fde8c5323ab83e8a6c73d07d4ac521329097102",
-      "teams": "Liege - Aalstar",
+    "db0952dc146c540060aaada5459c8ceeb2df6361": {
+      "id": "db0952dc146c540060aaada5459c8ceeb2df6361",
+      "teams": "Bayreuth - Giessen",
       "odds": {
-        "1": "11.20",
-        "2": "1.05",
+        "1": "1.42",
+        "2": "3.30",
+        "X": "17.00"
+      }
+    },
+    "df61d23dec80b90b3ce1a0a78bd819c62ea319a5": {
+      "id": "df61d23dec80b90b3ce1a0a78bd819c62ea319a5",
+      "teams": "Crailsheim - Ulm",
+      "odds": {
+        "1": "2.35",
+        "2": "1.75",
+        "X": "15.00"
+      }
+    },
+    "7cd54726ce99558fbbdda0df6ebc645e75fd4c5d": {
+      "id": "7cd54726ce99558fbbdda0df6ebc645e75fd4c5d",
+      "teams": "Wurzburg - Bonn",
+      "odds": {
+        "1": "1.37",
+        "2": "3.60",
+        "X": "17.00"
+      }
+    },
+    "708e224224eb3b7155ec86db55d8efbce3d9f2ef": {
+      "id": "708e224224eb3b7155ec86db55d8efbce3d9f2ef",
+      "teams": "Virtus Bologna - Milano",
+      "odds": {
+        "1": "1.75",
+        "2": "2.35",
+        "X": "15.00"
+      }
+    },
+    "203523e0f66778e28ef43a383454174180f42612": {
+      "id": "203523e0f66778e28ef43a383454174180f42612",
+      "teams": "Varese - Trento",
+      "odds": {
+        "1": "1.38",
+        "2": "3.60",
+        "X": "16.00"
+      }
+    },
+    "1a5d0ba9bb78aaf45fc67e9f40f9767c9bc1cf21": {
+      "id": "1a5d0ba9bb78aaf45fc67e9f40f9767c9bc1cf21",
+      "teams": "Trieste - Fortitudo Bol.",
+      "odds": {
+        "1": "1.85",
+        "2": "2.20",
+        "X": "14.00"
+      }
+    },
+    "3b490b150940bf0f083c9fe373094d7653db06ca": {
+      "id": "3b490b150940bf0f083c9fe373094d7653db06ca",
+      "teams": "Venezia - Pesaro",
+      "odds": {
+        "1": "1.07",
+        "2": "11.60",
         "X": "22.00"
       }
     },
-    "744205baf6d4b5022722d607bce1a0da705e7cea": {
-      "id": "744205baf6d4b5022722d607bce1a0da705e7cea",
-      "teams": "Oostende - Leuven",
+    "94dcf99f550860b0fcc5d8118542dee1c6289949": {
+      "id": "94dcf99f550860b0fcc5d8118542dee1c6289949",
+      "teams": "R.Emilia - Virtus Roma",
       "odds": {
-        "1": "1.12",
-        "2": "7.10",
+        "1": "1.40",
+        "2": "3.45",
+        "X": "16.00"
+      }
+    },
+    "4aa4c69aa5286af8e4a3e18b9463fec7d9dd9bad": {
+      "id": "4aa4c69aa5286af8e4a3e18b9463fec7d9dd9bad",
+      "teams": "Brindisi - Treviso",
+      "odds": {
+        "1": "1.30",
+        "2": "4.20",
+        "X": "17.00"
+      }
+    },
+    "f7676bdb31b9648722dc236e35f8377cf3ddc14e": {
+      "id": "f7676bdb31b9648722dc236e35f8377cf3ddc14e",
+      "teams": "Sheffield - Leicester",
+      "odds": {
+        "1": "1.85",
+        "2": "2.10",
+        "X": "14.00"
+      }
+    },
+    "4e3b6a6def4d0ca2e7a221939974fbfab3cf0bd6": {
+      "id": "4e3b6a6def4d0ca2e7a221939974fbfab3cf0bd6",
+      "teams": "Manchester - Worcester",
+      "odds": {
+        "1": "11.00",
+        "2": "1.05",
+        "X": "23.00"
+      }
+    },
+    "48fd9de060237e9ad563ab63daf999c97b74bbbc": {
+      "id": "48fd9de060237e9ad563ab63daf999c97b74bbbc",
+      "teams": "Glasgow - Newcastle",
+      "odds": {
+        "1": "2.30",
+        "2": "1.72",
+        "X": "15.00"
+      }
+    },
+    "5be1adbd5493cf287c32e60556390699c0130e23": {
+      "id": "5be1adbd5493cf287c32e60556390699c0130e23",
+      "teams": "Oberwart - BC Vienna",
+      "odds": {
+        "1": "1.10",
+        "2": "7.80",
+        "X": "20.00"
+      }
+    },
+    "b5dc9c58b366447e42067a318562e593e9756ceb": {
+      "id": "b5dc9c58b366447e42067a318562e593e9756ceb",
+      "teams": "S.Gmunden - A.Traiskirchen",
+      "odds": {
+        "1": "1.01",
+        "2": "17.60",
+        "X": "25.00"
+      }
+    },
+    "4b06cb4cb52b3b8fa26405fd4b1d3f93a3df2743": {
+      "id": "4b06cb4cb52b3b8fa26405fd4b1d3f93a3df2743",
+      "teams": "Graz - Kapfenberg",
+      "odds": {
+        "1": "4.35",
+        "2": "1.25",
+        "X": "18.00"
+      }
+    },
+    "9dc59f09ea1315ddef2f09ad9595afef95bc29dc": {
+      "id": "9dc59f09ea1315ddef2f09ad9595afef95bc29dc",
+      "teams": "Sao Paulo - Pato Basquete",
+      "odds": {
+        "1": "1.17",
+        "2": "5.55",
         "X": "19.00"
       }
     },
-    "0243be0487c0a339e492b17e702357a77cd7026a": {
-      "id": "0243be0487c0a339e492b17e702357a77cd7026a",
-      "teams": "Brussels - Limburg",
+    "b88703e01144ae44c8f48d7b7127f0663cf95bb1": {
+      "id": "b88703e01144ae44c8f48d7b7127f0663cf95bb1",
+      "teams": "Minas - Brasília",
+      "odds": {
+        "1": "1.20",
+        "2": "5.05",
+        "X": "18.00"
+      }
+    },
+    "043698b37a3e7b2269664ecc49a91ed93e92bcbe": {
+      "id": "043698b37a3e7b2269664ecc49a91ed93e92bcbe",
+      "teams": "USK Praha - U.N.Labem",
+      "odds": {
+        "1": "1.35",
+        "2": "3.50",
+        "X": "17.00"
+      }
+    },
+    "8e064678641a9b23304e46a60e35802ea4c60c4e": {
+      "id": "8e064678641a9b23304e46a60e35802ea4c60c4e",
+      "teams": "Pardubice - Kralovsti Sokoli",
+      "odds": {
+        "1": "1.10",
+        "2": "8.38",
+        "X": "27.00"
+      }
+    },
+    "f8f7c5aae340bceae541384e181242c996e1e5e4": {
+      "id": "f8f7c5aae340bceae541384e181242c996e1e5e4",
+      "teams": "Kolin - Brno",
+      "odds": {
+        "1": "2.30",
+        "2": "1.70",
+        "X": "15.00"
+      }
+    },
+    "1d6239801a25324d94f66300b13817be2e28ccc2": {
+      "id": "1d6239801a25324d94f66300b13817be2e28ccc2",
+      "teams": "Svitavy - Olomoucko",
+      "odds": {
+        "1": "1.55",
+        "2": "2.65",
+        "X": "16.00"
+      }
+    },
+    "fecce05d577cba89c28cb569458e81e8730b80a9": {
+      "id": "fecce05d577cba89c28cb569458e81e8730b80a9",
+      "teams": "Decin - Ostrava",
+      "odds": {
+        "1": "1.13",
+        "2": "6.70",
+        "X": "19.00"
+      }
+    },
+    "e58625d9e5a72620c26f7b628497e50e6d4180ed": {
+      "id": "e58625d9e5a72620c26f7b628497e50e6d4180ed",
+      "teams": "Herlev W. - Ebaa",
+      "odds": {
+        "1": "1.04",
+        "2": "9.45",
+        "X": "23.00"
+      }
+    },
+    "6d8c004f7354bb7882b44daaaceb531fa16a9fc8": {
+      "id": "6d8c004f7354bb7882b44daaaceb531fa16a9fc8",
+      "teams": "Randers - Vaerlose",
+      "odds": {
+        "1": "1.03",
+        "2": "10.30",
+        "X": "23.00"
+      }
+    },
+    "635191fbb634f8cd7750d8e747ab1ff75a5da011": {
+      "id": "635191fbb634f8cd7750d8e747ab1ff75a5da011",
+      "teams": "Lahti B. - Korikobrat",
+      "odds": {
+        "1": "1.18",
+        "2": "5.35",
+        "X": "19.00"
+      }
+    },
+    "9cbbac176804ac7cdc63d2d5715f4d176c535448": {
+      "id": "9cbbac176804ac7cdc63d2d5715f4d176c535448",
+      "teams": "P.Tampere - Kauh.Karhu",
+      "odds": {
+        "1": "2.10",
+        "2": "1.85",
+        "X": "14.00"
+      }
+    },
+    "aade57d68c9482ef3fe31395cc92e03014d601a0": {
+      "id": "aade57d68c9482ef3fe31395cc92e03014d601a0",
+      "teams": "Krka - Zadar",
+      "odds": {
+        "1": "1.45",
+        "2": "3.05",
+        "X": "16.00"
+      }
+    },
+    "9747d62e2de87d37454b175b727f601ac736286e": {
+      "id": "9747d62e2de87d37454b175b727f601ac736286e",
+      "teams": "Partizan - Primorska",
+      "odds": {
+        "1": "1.01",
+        "2": "19.60",
+        "X": "25.00"
+      }
+    },
+    "c232512d917a691f3f1e425247e4830ee402289a": {
+      "id": "c232512d917a691f3f1e425247e4830ee402289a",
+      "teams": "Liepajas L. - Kalev/Cramo",
+      "odds": {
+        "1": "10.30",
+        "2": "1.03",
+        "X": "23.00"
+      }
+    },
+    "917eea11aabe808d4b6c6a0e53e80e50da11f529": {
+      "id": "917eea11aabe808d4b6c6a0e53e80e50da11f529",
+      "teams": "Ogre - VEF Riga",
+      "odds": {
+        "1": "2.00",
+        "2": "1.85",
+        "X": "15.00"
+      }
+    },
+    "4595d8284add21a5f9fd29601fda61a9cb939b93": {
+      "id": "4595d8284add21a5f9fd29601fda61a9cb939b93",
+      "teams": "G.Gilboa - Hap.Eilat",
+      "odds": {
+        "1": "1.75",
+        "2": "2.25",
+        "X": "15.00"
+      }
+    },
+    "049553fb7a1bd9879f5f94cb486060919fd8b36d": {
+      "id": "049553fb7a1bd9879f5f94cb486060919fd8b36d",
+      "teams": "Hap.B.Sheva - Maccabi T.A.",
+      "odds": {
+        "1": "9.50",
+        "2": "1.07",
+        "X": "21.00"
+      }
+    },
+    "4164ab687116791823ae9f1900b8cbb73c34baa9": {
+      "id": "4164ab687116791823ae9f1900b8cbb73c34baa9",
+      "teams": "Ferrara - Ravenna",
+      "odds": {
+        "1": "1.95",
+        "2": "2.00",
+        "X": "14.00"
+      }
+    },
+    "13020e4318fd72d8191a8051319c654219f5db4d": {
+      "id": "13020e4318fd72d8191a8051319c654219f5db4d",
+      "teams": "Imola - San Severo",
+      "odds": {
+        "1": "1.45",
+        "2": "3.00",
+        "X": "16.00"
+      }
+    },
+    "7abffeaff5c44cad2ab63915bb035bd8dcdde611": {
+      "id": "7abffeaff5c44cad2ab63915bb035bd8dcdde611",
+      "teams": "Forli - Orzinuovi",
+      "odds": {
+        "1": "1.10",
+        "2": "7.85",
+        "X": "20.00"
+      }
+    },
+    "da887f45cc0cb2ec2e12b8493b0d79e9f328baef": {
+      "id": "da887f45cc0cb2ec2e12b8493b0d79e9f328baef",
+      "teams": "Roseto - Caserta",
+      "odds": {
+        "1": "2.50",
+        "2": "1.62",
+        "X": "15.00"
+      }
+    },
+    "415628d01d7a0091ced7398b57714a9d947079e5": {
+      "id": "415628d01d7a0091ced7398b57714a9d947079e5",
+      "teams": "Ass.Piacenza - Poderosa",
+      "odds": {
+        "1": "1.50",
+        "2": "2.79",
+        "X": "16.00"
+      }
+    },
+    "39d33c25f1f73fde11e99bebb734a96caffe43fe": {
+      "id": "39d33c25f1f73fde11e99bebb734a96caffe43fe",
+      "teams": "Torino - Capo D'Orlando",
+      "odds": {
+        "1": "1.25",
+        "2": "4.35",
+        "X": "18.00"
+      }
+    },
+    "e5afa19f2bf53606e05d0709214a66af46e14796": {
+      "id": "e5afa19f2bf53606e05d0709214a66af46e14796",
+      "teams": "Latina - Napoli",
+      "odds": {
+        "1": "2.55",
+        "2": "1.60",
+        "X": "15.00"
+      }
+    },
+    "37d1913603d4f140e00eb37ed28d57b146ed8dec": {
+      "id": "37d1913603d4f140e00eb37ed28d57b146ed8dec",
+      "teams": "Agrigento - Biella",
+      "odds": {
+        "1": "1.80",
+        "2": "2.15",
+        "X": "14.00"
+      }
+    },
+    "cd39dbdc4e0e94724ec0c188fe4f6ab0f57bf0f0": {
+      "id": "cd39dbdc4e0e94724ec0c188fe4f6ab0f57bf0f0",
+      "teams": "Bergamo - Derthona",
+      "odds": {
+        "1": "5.60",
+        "2": "1.17",
+        "X": "19.00"
+      }
+    },
+    "91e41024defbb1e24f144d3c7b34059cf9d0864c": {
+      "id": "91e41024defbb1e24f144d3c7b34059cf9d0864c",
+      "teams": "Trapani - Scafati",
       "odds": {
         "1": "1.90",
         "2": "2.05",
         "X": "14.00"
       }
     },
-    "562d0f303bfd55e5231f02e6f5d205ef6fda2c97": {
-      "id": "562d0f303bfd55e5231f02e6f5d205ef6fda2c97",
-      "teams": "Mechelen - Antwerp",
+    "13f28bb7043e47d4740a5d1c22d515a07d94d939": {
+      "id": "13f28bb7043e47d4740a5d1c22d515a07d94d939",
+      "teams": "Rieti - Treviglio",
       "odds": {
-        "1": "3.00",
-        "2": "1.45",
+        "1": "1.95",
+        "2": "2.00",
+        "X": "14.00"
+      }
+    },
+    "c5f1cce478e7a7eb09aa913b79fb758176b7635b": {
+      "id": "c5f1cce478e7a7eb09aa913b79fb758176b7635b",
+      "teams": "Prienai - Siauliai",
+      "odds": {
+        "1": "1.45",
+        "2": "3.00",
         "X": "16.00"
       }
     },
-    "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094": {
-      "id": "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094",
-      "teams": "Crimmitschau - Tolzer Lowen",
+    "5c6d15daa8c545223783997b9e7633c93e88cf2a": {
+      "id": "5c6d15daa8c545223783997b9e7633c93e88cf2a",
+      "teams": "Nevezis - Pieno",
       "odds": {
         "1": "2.30",
-        "2": "2.35",
-        "X": "4.60"
+        "2": "1.72",
+        "X": "15.00"
       }
     },
-    "43562b9290efa00830cb8e0e9c66c5d02094c99e": {
-      "id": "43562b9290efa00830cb8e0e9c66c5d02094c99e",
-      "teams": "Trinec - Canada",
+    "6616cdfb8d9fab5fa5c6107265286235d2f31e38": {
+      "id": "6616cdfb8d9fab5fa5c6107265286235d2f31e38",
+      "teams": "Trefl Sopot - Rosa Radom",
       "odds": {
-        "1": "4.55",
-        "2": "1.45",
-        "X": "5.00"
+        "1": "1.38",
+        "2": "3.35",
+        "X": "17.00"
       }
     },
-    "4a16262be5512da991aba18ee5abbcd168651d02": {
-      "id": "4a16262be5512da991aba18ee5abbcd168651d02",
-      "teams": "Bregenzerwald - Salzburg 2",
+    "bea4985efa58f2409854ac0881e963c3859ced16": {
+      "id": "bea4985efa58f2409854ac0881e963c3859ced16",
+      "teams": "Lublin - Legia V.",
+      "odds": {
+        "1": "1.10",
+        "2": "8.20",
+        "X": "20.00"
+      }
+    },
+    "7c6bb2a274fc1690a3a57d3024b0e6e3e3465557": {
+      "id": "7c6bb2a274fc1690a3a57d3024b0e6e3e3465557",
+      "teams": "Iberojet Palma - Lleida",
+      "odds": {
+        "1": "1.05",
+        "2": "11.20",
+        "X": "22.00"
+      }
+    },
+    "03ae9938c373457008697aaad32359d3332a8c78": {
+      "id": "03ae9938c373457008697aaad32359d3332a8c78",
+      "teams": "Gipuzkoa - Alicante",
+      "odds": {
+        "1": "1.25",
+        "2": "4.35",
+        "X": "18.00"
+      }
+    },
+    "1f9ff553ee98a140bef73b048fe570b760f8aeb6": {
+      "id": "1f9ff553ee98a140bef73b048fe570b760f8aeb6",
+      "teams": "L.Coruna - Caceres",
+      "odds": {
+        "1": "1.70",
+        "2": "2.30",
+        "X": "15.00"
+      }
+    },
+    "f85d79b385145fad01094193362e4117cde6dd5b": {
+      "id": "f85d79b385145fad01094193362e4117cde6dd5b",
+      "teams": "Mag. Cisnadiei (F) - Bistrita (F)",
+      "odds": {
+        "1": "1.55",
+        "2": "3.15",
+        "X": "8.50"
+      }
+    },
+    "4fcdbe79ef328c6bf659e0424db2815bacaf53ed": {
+      "id": "4fcdbe79ef328c6bf659e0424db2815bacaf53ed",
+      "teams": "Stuttgart - Fuchse B.",
       "odds": {
         "1": "3.20",
-        "2": "1.67",
-        "X": "5.00"
+        "2": "1.55",
+        "X": "9.50"
       }
     },
-    "1e8d512d104eadddcf6cc282e839d6d0b4a2e5ef": {
-      "id": "1e8d512d104eadddcf6cc282e839d6d0b4a2e5ef",
-      "teams": "Lustenau - Val Pusteria",
+    "d8350b8cdd5aedaff32aa9a2af8d1555bfb79170": {
+      "id": "d8350b8cdd5aedaff32aa9a2af8d1555bfb79170",
+      "teams": "Ludwigshafen - Goppingen",
+      "odds": {
+        "1": "2.71",
+        "2": "1.75",
+        "X": "8.00"
+      }
+    },
+    "fa723b2ccd427730f0edb261795ed583a0088043": {
+      "id": "fa723b2ccd427730f0edb261795ed583a0088043",
+      "teams": "Erlangen - Melsungen",
+      "odds": {
+        "1": "2.55",
+        "2": "1.85",
+        "X": "7.50"
+      }
+    },
+    "5ba17a0d1e437a1319e50c4d9fca8df3b9024698": {
+      "id": "5ba17a0d1e437a1319e50c4d9fca8df3b9024698",
+      "teams": "Magdeburg - Wetzlar",
+      "odds": {
+        "1": "1.25",
+        "2": "5.70",
+        "X": "11.00"
+      }
+    },
+    "9c0f8f9389b5b172de4c578b8333ef87e015f23e": {
+      "id": "9c0f8f9389b5b172de4c578b8333ef87e015f23e",
+      "teams": "Bergischer - Nordhorn",
+      "odds": {
+        "1": "1.12",
+        "2": "9.40",
+        "X": "15.00"
+      }
+    },
+    "fb16f1f273e6e297727481fbe11305824105c9f8": {
+      "id": "fb16f1f273e6e297727481fbe11305824105c9f8",
+      "teams": "Balingen - Leipzig",
+      "odds": {
+        "1": "2.25",
+        "2": "2.05",
+        "X": "7.50"
+      }
+    },
+    "10f8e72ce9a47f904e1aa77f992af8f209b7d00b": {
+      "id": "10f8e72ce9a47f904e1aa77f992af8f209b7d00b",
+      "teams": "Kiel - Lemgo",
+      "odds": {
+        "1": "1.13",
+        "2": "8.45",
+        "X": "16.00"
+      }
+    },
+    "ef98a138241a66658c36f6f0db988846f61c0a37": {
+      "id": "ef98a138241a66658c36f6f0db988846f61c0a37",
+      "teams": "Minden - Burgdorf",
+      "odds": {
+        "1": "3.15",
+        "2": "1.57",
+        "X": "9.00"
+      }
+    },
+    "a2a9458944bd33c100501bca5d2b2f7d9b1825be": {
+      "id": "a2a9458944bd33c100501bca5d2b2f7d9b1825be",
+      "teams": "Algeria - Olanda",
+      "odds": {
+        "1": "4.17",
+        "2": "1.37",
+        "X": "9.00"
+      }
+    },
+    "b8cfb40ea3c687ab158d0b1329db0c642a4ab609": {
+      "id": "b8cfb40ea3c687ab158d0b1329db0c642a4ab609",
+      "teams": "Cehia - Slovacia",
+      "odds": {
+        "1": "1.33",
+        "2": "4.35",
+        "X": "10.00"
+      }
+    },
+    "b49e9559e291a19d6c25d7727ffb54edfac0b14a": {
+      "id": "b49e9559e291a19d6c25d7727ffb54edfac0b14a",
+      "teams": "Romania - Macedonia de N.",
+      "odds": {
+        "1": "1.25",
+        "2": "5.70",
+        "X": "9.50"
+      }
+    },
+    "c649ac4df5395842df77bb5465aa347692a2fa2c": {
+      "id": "c649ac4df5395842df77bb5465aa347692a2fa2c",
+      "teams": "Serbia - Egipt",
+      "odds": {
+        "1": "2.05",
+        "2": "2.14",
+        "X": "8.00"
+      }
+    },
+    "6002d49502cb686559a3a5a53eefdf9bdf324e27": {
+      "id": "6002d49502cb686559a3a5a53eefdf9bdf324e27",
+      "teams": "Spania B - E.A.U.",
+      "odds": {
+        "1": "1.01",
+        "2": "22.00",
+        "X": "22.00"
+      }
+    },
+    "b6c2046a12467ba99259b6bc7c9cba902076efbe": {
+      "id": "b6c2046a12467ba99259b6bc7c9cba902076efbe",
+      "teams": "Polonia - Belarus",
+      "odds": {
+        "1": "3.45",
+        "2": "1.45",
+        "X": "10.00"
+      }
+    },
+    "a1eb1ab36520b23e6d41c008528ff72b273d3e15": {
+      "id": "a1eb1ab36520b23e6d41c008528ff72b273d3e15",
+      "teams": "Copenhagen (F) - Holstebro (F)",
+      "odds": {
+        "1": "1.30",
+        "2": "4.15",
+        "X": "10.00"
+      }
+    },
+    "c161432e9e2ecdb2e266a799007fc63d3b6dff9f": {
+      "id": "c161432e9e2ecdb2e266a799007fc63d3b6dff9f",
+      "teams": "Odense (F) - Herning-Ikast (F)",
+      "odds": {
+        "1": "1.55",
+        "2": "2.87",
+        "X": "8.50"
+      }
+    },
+    "44af9cf14901c57d93511593c05e2dfd92ccb495": {
+      "id": "44af9cf14901c57d93511593c05e2dfd92ccb495",
+      "teams": "Fleury (F) - B.De Peage (F)",
+      "odds": {
+        "1": "1.15",
+        "2": "6.50",
+        "X": "11.50"
+      }
+    },
+    "433b91ba581b17bfbc418f7e3d229dcf28420868": {
+      "id": "433b91ba581b17bfbc418f7e3d229dcf28420868",
+      "teams": "Merignac (F) - Nice (F)",
+      "odds": {
+        "1": "6.50",
+        "2": "1.15",
+        "X": "11.50"
+      }
+    },
+    "9d8d7525de82e8d6aa8c4454b494b17460913a5b": {
+      "id": "9d8d7525de82e8d6aa8c4454b494b17460913a5b",
+      "teams": "Paris 92 (F) - Brest B. (F)",
+      "odds": {
+        "1": "4.85",
+        "2": "1.25",
+        "X": "9.50"
+      }
+    },
+    "69988d54395ee359180638a6f6e14bd72d1ab6a7": {
+      "id": "69988d54395ee359180638a6f6e14bd72d1ab6a7",
+      "teams": "Besancon (F) - Chambray T. (F)",
+      "odds": {
+        "1": "1.17",
+        "2": "6.20",
+        "X": "10.50"
+      }
+    },
+    "771bb567dc0ad2d5bd9d642e6e1124bacf187caf": {
+      "id": "771bb567dc0ad2d5bd9d642e6e1124bacf187caf",
+      "teams": "Metz (F) - Nantes (F)",
+      "odds": {
+        "1": "1.05",
+        "2": "11.00",
+        "X": "15.00"
+      }
+    },
+    "e5fd0a0e7d39cbeaa4ba5063a93883004d58bfe3": {
+      "id": "e5fd0a0e7d39cbeaa4ba5063a93883004d58bfe3",
+      "teams": "Toulon (F) - Dijon (F)",
+      "odds": {
+        "1": "1.37",
+        "2": "3.62",
+        "X": "9.50"
+      }
+    },
+    "3f30486c1120c350b472fe4b335667842116b127": {
+      "id": "3f30486c1120c350b472fe4b335667842116b127",
+      "teams": "Buxtehuder (F) - Blomberg (F)",
+      "odds": {
+        "1": "4.50",
+        "2": "1.27",
+        "X": "10.00"
+      }
+    },
+    "56f6e00d0869a73a89f68d7d1b4876d6b6a52747": {
+      "id": "56f6e00d0869a73a89f68d7d1b4876d6b6a52747",
+      "teams": "FSV Mainz 05 (F) - Goppingen (F)",
+      "odds": {
+        "1": "4.75",
+        "2": "1.25",
+        "X": "10.00"
+      }
+    },
+    "29b7dcd35bff17aaa3a3335dd08e783f5d4677cc": {
+      "id": "29b7dcd35bff17aaa3a3335dd08e783f5d4677cc",
+      "teams": "Leverkusen (F) - Bad Wildungen (F)",
+      "odds": {
+        "1": "1.10",
+        "2": "8.00",
+        "X": "13.00"
+      }
+    },
+    "d0f753679b3c1bd17144d32f73c3e06058f78154": {
+      "id": "d0f753679b3c1bd17144d32f73c3e06058f78154",
+      "teams": "Oldenburg (F) - Metzingen (F)",
+      "odds": {
+        "1": "6.32",
+        "2": "1.15",
+        "X": "12.00"
+      }
+    },
+    "08752577cb7a6e6534e2371d1ab88c77569e9fab": {
+      "id": "08752577cb7a6e6534e2371d1ab88c77569e9fab",
+      "teams": "Neckarsulmer (F) - TSG Ketsch (F)",
+      "odds": {
+        "1": "1.33",
+        "2": "3.95",
+        "X": "9.50"
+      }
+    },
+    "1ebca08b3a5242e5b78e8625f7b6bc95d866abbe": {
+      "id": "1ebca08b3a5242e5b78e8625f7b6bc95d866abbe",
+      "teams": "Dortmund (F) - Bietigheim (F)",
+      "odds": {
+        "1": "2.05",
+        "2": "2.00",
+        "X": "8.00"
+      }
+    },
+    "04ac3ec762f50288337e3e3bc88933ce0d9585fc": {
+      "id": "04ac3ec762f50288337e3e3bc88933ce0d9585fc",
+      "teams": "Haslum HK - Elverum",
+      "odds": {
+        "1": "4.00",
+        "2": "1.30",
+        "X": "11.00"
+      }
+    },
+    "a41e357cec20cff7651f44243e970d2c7e130d39": {
+      "id": "a41e357cec20cff7651f44243e970d2c7e130d39",
+      "teams": "Skara (F) - H65 Hoor (F)",
+      "odds": {
+        "1": "8.15",
+        "2": "1.08",
+        "X": "16.00"
+      }
+    },
+    "666cc3f95a3be70bfd37e35f78eed71df45fa7d4": {
+      "id": "666cc3f95a3be70bfd37e35f78eed71df45fa7d4",
+      "teams": "Lugi (F) - Savehof (F)",
+      "odds": {
+        "1": "3.56",
+        "2": "1.37",
+        "X": "10.00"
+      }
+    },
+    "3aaf9c55d14397a8f4817989192f3b3df12c990b": {
+      "id": "3aaf9c55d14397a8f4817989192f3b3df12c990b",
+      "teams": "Erdi (F) - Fehervar KC (F)",
+      "odds": {
+        "1": "1.03",
+        "2": "12.30",
+        "X": "17.00"
+      }
+    },
+    "ffd6974a6d198d87e209824ee254d801b05d1ed5": {
+      "id": "ffd6974a6d198d87e209824ee254d801b05d1ed5",
+      "teams": "MTK B. (F) - Siofok KC (F)",
+      "odds": {
+        "1": "11.50",
+        "2": "1.05",
+        "X": "14.00"
+      }
+    },
+    "282f271ac4b530e1431194b982052032a822d4c3": {
+      "id": "282f271ac4b530e1431194b982052032a822d4c3",
+      "teams": "Dunaujvarosi (F) - Szent Istvan (F)",
+      "odds": {
+        "1": "1.05",
+        "2": "10.90",
+        "X": "15.00"
+      }
+    },
+    "4fa74028593b134c72b58e525933ec725f49a190": {
+      "id": "4fa74028593b134c72b58e525933ec725f49a190",
+      "teams": "Mosonmagya. (F) - Kisvarda (F)",
+      "odds": {
+        "1": "2.10",
+        "2": "2.00",
+        "X": "7.50"
+      }
+    },
+    "5d095b67ddcab419405014dd937cb59b19670c52": {
+      "id": "5d095b67ddcab419405014dd937cb59b19670c52",
+      "teams": "FTC (F) - Gyor (F)",
+      "odds": {
+        "1": "4.75",
+        "2": "1.25",
+        "X": "10.00"
+      }
+    },
+    "d048c0e31aad9928fda1716dbb841c0894aae455": {
+      "id": "d048c0e31aad9928fda1716dbb841c0894aae455",
+      "teams": "Bekescsabai (F) - Vaci (F)",
+      "odds": {
+        "1": "6.20",
+        "2": "1.17",
+        "X": "10.50"
+      }
+    },
+    "bd45f76d8980ca36816eb3ac4eacbf2d78ed816a": {
+      "id": "bd45f76d8980ca36816eb3ac4eacbf2d78ed816a",
+      "teams": "DVSC (F) - Szombathelyi (F)",
+      "odds": {
+        "1": "1.08",
+        "2": "8.45",
+        "X": "15.00"
+      }
+    },
+    "f1ecb204db9c01b74221833909ded8d6d5c9119a": {
+      "id": "f1ecb204db9c01b74221833909ded8d6d5c9119a",
+      "teams": "St.Louis - Winnipeg",
+      "odds": {
+        "1": "1.90",
+        "2": "3.50",
+        "X": "4.20"
+      }
+    },
+    "6565c7b9c712feb9e2ec5a3b42ee21401adf201e": {
+      "id": "6565c7b9c712feb9e2ec5a3b42ee21401adf201e",
+      "teams": "Ottawa - NJ Devils",
+      "odds": {
+        "1": "2.25",
+        "2": "2.75",
+        "X": "4.10"
+      }
+    },
+    "4e8d3b81a94a550a4c6c940ca7ce2fd4d2f30429": {
+      "id": "4e8d3b81a94a550a4c6c940ca7ce2fd4d2f30429",
+      "teams": "Columbus - Chicago",
+      "odds": {
+        "1": "2.00",
+        "2": "3.20",
+        "X": "4.20"
+      }
+    },
+    "119404e4e6da9688e01d01f18d74e4f174cccce8": {
+      "id": "119404e4e6da9688e01d01f18d74e4f174cccce8",
+      "teams": "Minnesota - NY Islanders",
+      "odds": {
+        "1": "2.50",
+        "2": "2.55",
+        "X": "3.80"
+      }
+    },
+    "63b35da7a65f76c45ba1241b9815fa2c6d38d056": {
+      "id": "63b35da7a65f76c45ba1241b9815fa2c6d38d056",
+      "teams": "Florida - Montreal",
+      "odds": {
+        "1": "2.25",
+        "2": "2.70",
+        "X": "4.20"
+      }
+    },
+    "19f3711cd41638fd47b9acc4ee5d6fade5a35cea": {
+      "id": "19f3711cd41638fd47b9acc4ee5d6fade5a35cea",
+      "teams": "Tampa Bay - Detroit",
+      "odds": {
+        "1": "1.47",
+        "2": "5.55",
+        "X": "5.20"
+      }
+    },
+    "16339add5d9efa884225f8af7e4c124231d7927f": {
+      "id": "16339add5d9efa884225f8af7e4c124231d7927f",
+      "teams": "Boston - Buffalo",
+      "odds": {
+        "1": "1.75",
+        "2": "4.05",
+        "X": "4.30"
+      }
+    },
+    "967529e363a01d66e1c7131e911b09223a97c009": {
+      "id": "967529e363a01d66e1c7131e911b09223a97c009",
+      "teams": "Arizona C. - Dallas",
+      "odds": {
+        "1": "2.30",
+        "2": "2.75",
+        "X": "3.90"
+      }
+    },
+    "420ccc09dab4a8b0f6f100ad7980edfb941512d0": {
+      "id": "420ccc09dab4a8b0f6f100ad7980edfb941512d0",
+      "teams": "Anaheim - Philadelphia",
+      "odds": {
+        "1": "2.55",
+        "2": "2.40",
+        "X": "4.10"
+      }
+    },
+    "9ca1d298ce573178eb28bc4bf604155d7e3aa253": {
+      "id": "9ca1d298ce573178eb28bc4bf604155d7e3aa253",
+      "teams": "Calgary - Vancouver",
+      "odds": {
+        "1": "1.95",
+        "2": "3.25",
+        "X": "4.30"
+      }
+    },
+    "518231a2178c4cc3a6a39874448a351f179e9481": {
+      "id": "518231a2178c4cc3a6a39874448a351f179e9481",
+      "teams": "Metallurg Mg - Dynamo M.",
+      "odds": {
+        "1": "2.30",
+        "2": "2.80",
+        "X": "3.80"
+      }
+    },
+    "c8c918be5e3eeedb9e296ed0b221352dd7c0c68b": {
+      "id": "c8c918be5e3eeedb9e296ed0b221352dd7c0c68b",
+      "teams": "HC Sochi - Spartak M.",
+      "odds": {
+        "1": "2.80",
+        "2": "2.30",
+        "X": "3.90"
+      }
+    },
+    "33cea8c765f1097e7388c271734d8eae1c6aa96c": {
+      "id": "33cea8c765f1097e7388c271734d8eae1c6aa96c",
+      "teams": "Severstal C. - SKA St.Peters.",
+      "odds": {
+        "1": "5.65",
+        "2": "1.50",
+        "X": "4.80"
+      }
+    },
+    "b3e4ea2a5ce830d65b34a606f757ed336189a7b5": {
+      "id": "b3e4ea2a5ce830d65b34a606f757ed336189a7b5",
+      "teams": "Rungsted - Rodovre",
+      "odds": {
+        "1": "1.65",
+        "2": "3.90",
+        "X": "4.80"
+      }
+    },
+    "c93ccf85262ab935b0135e600cd31883a2ece8f1": {
+      "id": "c93ccf85262ab935b0135e600cd31883a2ece8f1",
+      "teams": "Esbjerg - Sonderjyske",
+      "odds": {
+        "1": "2.10",
+        "2": "2.85",
+        "X": "4.10"
+      }
+    },
+    "19abe4ad8b1d7ab270d9159754bf41788861ebac": {
+      "id": "19abe4ad8b1d7ab270d9159754bf41788861ebac",
+      "teams": "Aalborg - Frederikshavn",
+      "odds": {
+        "1": "1.95",
+        "2": "3.00",
+        "X": "4.50"
+      }
+    },
+    "f3ed5f7a173f5a27b6f2d932f3cc6937c23d4a6d": {
+      "id": "f3ed5f7a173f5a27b6f2d932f3cc6937c23d4a6d",
+      "teams": "Odense - Herning",
+      "odds": {
+        "1": "5.35",
+        "2": "1.42",
+        "X": "5.70"
+      }
+    },
+    "c5b25709cacfd3d41548f424d1b597aa3f7fca8a": {
+      "id": "c5b25709cacfd3d41548f424d1b597aa3f7fca8a",
+      "teams": "Kloten - Olten",
+      "odds": {
+        "1": "1.95",
+        "2": "2.80",
+        "X": "4.20"
+      }
+    },
+    "e7e5e4ccc8d714cdc1e3498e0697350d69b718ed": {
+      "id": "e7e5e4ccc8d714cdc1e3498e0697350d69b718ed",
+      "teams": "Thurgau - H.A.Zug",
+      "odds": {
+        "1": "1.35",
+        "2": "5.50",
+        "X": "5.30"
+      }
+    },
+    "1db561c97e71501ac2303ee33193740255ee166a": {
+      "id": "1db561c97e71501ac2303ee33193740255ee166a",
+      "teams": "La Chaux-de-F. - Langenthal",
       "odds": {
         "1": "2.30",
         "2": "2.30",
         "X": "4.20"
       }
     },
-    "1ee0fd27d4787464f3bd7eaad5e976e5ff6a7395": {
-      "id": "1ee0fd27d4787464f3bd7eaad5e976e5ff6a7395",
-      "teams": "Zeller Eisbaren - Steelwings Linz",
+    "69b93d00df9c743827275de7488fb71d39681f8a": {
+      "id": "69b93d00df9c743827275de7488fb71d39681f8a",
+      "teams": "Sierre - Ajoie",
       "odds": {
-        "1": "1.03",
-        "2": "13.50",
-        "X": "15.00"
+        "1": "3.75",
+        "2": "1.55",
+        "X": "5.00"
       }
     },
-    "2c6bf3b1a9ba99b1455f07d64be9e70574ed886e": {
-      "id": "2c6bf3b1a9ba99b1455f07d64be9e70574ed886e",
-      "teams": "Vipiteno - Viena Capitals II",
+    "fb1a5df868d2254e43a881acebdcb72215300ae4": {
+      "id": "fb1a5df868d2254e43a881acebdcb72215300ae4",
+      "teams": "Peliitat - Jokipojat",
       "odds": {
-        "1": "1.42",
-        "2": "4.65",
-        "X": "5.20"
+        "1": "2.95",
+        "2": "1.90",
+        "X": "4.60"
       }
     },
-    "da79b07c95a74f291844ad820e79d1d273a6f2ab": {
-      "id": "da79b07c95a74f291844ad820e79d1d273a6f2ab",
-      "teams": "Asiago - Gherdeina",
+    "9051f1c81d195e458f36d59d2735b495fe3cbd65": {
+      "id": "9051f1c81d195e458f36d59d2735b495fe3cbd65",
+      "teams": "IPK - Hokki",
       "odds": {
-        "1": "1.85",
-        "2": "2.90",
+        "1": "1.30",
+        "2": "7.00",
+        "X": "6.80"
+      }
+    },
+    "b6148563c2ba688bb875d3b5312a2a51ec041523": {
+      "id": "b6148563c2ba688bb875d3b5312a2a51ec041523",
+      "teams": "Keupa - Tuto",
+      "odds": {
+        "1": "2.10",
+        "2": "2.60",
         "X": "4.50"
       }
     },
-    "a472f7606310f86930dc8971d8c185602932646a": {
-      "id": "a472f7606310f86930dc8971d8c185602932646a",
-      "teams": "Cortina - Olimpija L.",
+    "1511d2f4f3b0eb762f7cd6f879102a0e8bdaf16b": {
+      "id": "1511d2f4f3b0eb762f7cd6f879102a0e8bdaf16b",
+      "teams": "Kettera - SaPKo",
       "odds": {
-        "1": "2.65",
-        "2": "1.95",
-        "X": "4.55"
+        "1": "1.85",
+        "2": "3.05",
+        "X": "4.75"
       }
     },
-    "0848ffe902546f313dad7ec2fa05bbc6eb8156e6": {
-      "id": "0848ffe902546f313dad7ec2fa05bbc6eb8156e6",
-      "teams": "KRS Peking - Tsen Tou",
+    "7274c72640e8e2bdcaf5ae88a61ce2e00fac154c": {
+      "id": "7274c72640e8e2bdcaf5ae88a61ce2e00fac154c",
+      "teams": "Koovee - K-Vantaa",
       "odds": {
-        "1": "2.15",
-        "2": "2.60",
+        "1": "1.80",
+        "2": "3.00",
+        "X": "5.20"
+      }
+    },
+    "d7e9ca6540003161365e595a9bf07ee0ecfe5d5b": {
+      "id": "d7e9ca6540003161365e595a9bf07ee0ecfe5d5b",
+      "teams": "Hermes - RoKi",
+      "odds": {
+        "1": "1.62",
+        "2": "3.80",
+        "X": "5.00"
+      }
+    },
+    "0ca2e0ac916febe55550fdc9de4da03f8b8051b4": {
+      "id": "0ca2e0ac916febe55550fdc9de4da03f8b8051b4",
+      "teams": "TPS Turku - Davos",
+      "odds": {
+        "1": "3.65",
+        "2": "1.65",
         "X": "4.30"
       }
     },
-    "513b0f9fa2b5c357c79938bd514f8e6ef11e3313": {
-      "id": "513b0f9fa2b5c357c79938bd514f8e6ef11e3313",
-      "teams": "Nomad N. - CSK VVS",
+    "4cc313ca5d9c05118fec3865b2e75356d6dfaf28": {
+      "id": "4cc313ca5d9c05118fec3865b2e75356d6dfaf28",
+      "teams": "Trinec - Salavat Ufa",
+      "odds": {
+        "1": "2.35",
+        "2": "2.35",
+        "X": "3.90"
+      }
+    },
+    "907c7637d02cba2db5a3769e9a76eed46f8d7ede": {
+      "id": "907c7637d02cba2db5a3769e9a76eed46f8d7ede",
+      "teams": "Kazahstan U20 - Finlanda U20",
+      "odds": {
+        "1": "24.00",
+        "2": "1.02",
+        "X": "17.00"
+      }
+    },
+    "2ecad4ae6ca5000d485099d4857879607aecf0b1": {
+      "id": "2ecad4ae6ca5000d485099d4857879607aecf0b1",
+      "teams": "SUA U20 - Rusia U20",
       "odds": {
         "1": "2.15",
-        "2": "2.80",
+        "2": "2.55",
+        "X": "4.40"
+      }
+    },
+    "6a2f4fa695807cd0cfd558e304c3e879f531b48a": {
+      "id": "6a2f4fa695807cd0cfd558e304c3e879f531b48a",
+      "teams": "Gyergyoi - Vasas",
+      "odds": {
+        "1": "1.27",
+        "2": "6.50",
+        "X": "6.00"
+      }
+    },
+    "d2010a796d1f5b7dae7f6145e6efd7abc5843c0a": {
+      "id": "d2010a796d1f5b7dae7f6145e6efd7abc5843c0a",
+      "teams": "Debreceni - DAB Docler",
+      "odds": {
+        "1": "2.10",
+        "2": "2.50",
+        "X": "4.30"
+      }
+    },
+    "e7327c5748e27fa960c111ba67ad52ccee8892ad": {
+      "id": "e7327c5748e27fa960c111ba67ad52ccee8892ad",
+      "teams": "Narvik - Gruner",
+      "odds": {
+        "1": "1.30",
+        "2": "7.35",
+        "X": "6.20"
+      }
+    },
+    "e731ce5f100bb18e61b760e5d9d906523d4d3f1f": {
+      "id": "e731ce5f100bb18e61b760e5d9d906523d4d3f1f",
+      "teams": "Yuzhny U. - Dynamo Tver",
+      "odds": {
+        "1": "1.95",
+        "2": "3.30",
+        "X": "3.75"
+      }
+    },
+    "72fce07de2ac7ed177dcc4c3bc2b171acc4c4f00": {
+      "id": "72fce07de2ac7ed177dcc4c3bc2b171acc4c4f00",
+      "teams": "Kurgan - SKA-Neva",
+      "odds": {
+        "1": "3.45",
+        "2": "1.90",
         "X": "3.80"
       }
     },
-    "a62efe709a2a64af325e222f881d5040c7001376": {
-      "id": "a62efe709a2a64af325e222f881d5040c7001376",
-      "teams": "Chelmet C. - Dynamo Tver",
+    "e1c1a75d911d026e57463f6e57ed39ee9856fa91": {
+      "id": "e1c1a75d911d026e57463f6e57ed39ee9856fa91",
+      "teams": "Manitoba M. - Rockford",
       "odds": {
-        "1": "2.05",
-        "2": "3.25",
-        "X": "3.50"
+        "1": "2.35",
+        "2": "2.35",
+        "X": "4.30"
       }
     },
-    "a8978bdb6b07b3a13b707801639859612569d23e": {
-      "id": "a8978bdb6b07b3a13b707801639859612569d23e",
-      "teams": "Toronto M. - Belleville S.",
+    "e628990f8789ab8445f1297020843925adc6b148": {
+      "id": "e628990f8789ab8445f1297020843925adc6b148",
+      "teams": "Lehigh V. - Hershey B.",
       "odds": {
-        "1": "2.20",
-        "2": "2.45",
-        "X": "4.70"
+        "1": "2.90",
+        "2": "2.15",
+        "X": "3.70"
+      }
+    },
+    "dada63af0562b6c67ce9abf48857ed62187d32e3": {
+      "id": "dada63af0562b6c67ce9abf48857ed62187d32e3",
+      "teams": "Chicago W. - Milwaukee",
+      "odds": {
+        "1": "2.75",
+        "2": "2.25",
+        "X": "3.70"
+      }
+    },
+    "305139520811e08898242642cca5ae4d19f448ca": {
+      "id": "305139520811e08898242642cca5ae4d19f448ca",
+      "teams": "Tucson R. - Colorado E.",
+      "odds": {
+        "1": "2.00",
+        "2": "2.95",
+        "X": "4.10"
+      }
+    },
+    "80f1228a778608634bfa1f0c3142f3257ddc4e7e": {
+      "id": "80f1228a778608634bfa1f0c3142f3257ddc4e7e",
+      "teams": "San Jose B. - Bakersfield C.",
+      "odds": {
+        "1": "2.35",
+        "2": "2.35",
+        "X": "4.30"
+      }
+    },
+    "95406fd0564973bc43f1007640af8c5ed4d093ee": {
+      "id": "95406fd0564973bc43f1007640af8c5ed4d093ee",
+      "teams": "Modo - Timra",
+      "odds": {
+        "1": "1.75",
+        "2": "3.60",
+        "X": "4.30"
+      }
+    },
+    "7fbd654a4bdb4d27cb3978fa50c3bcf642e55983": {
+      "id": "7fbd654a4bdb4d27cb3978fa50c3bcf642e55983",
+      "teams": "Candoso - Sporting",
+      "odds": {
+        "1": "30.00",
+        "2": "1.03",
+        "X": "13.00"
+      }
+    },
+    "f248277777f6c9963eee978e3d104956de27a8f5": {
+      "id": "f248277777f6c9963eee978e3d104956de27a8f5",
+      "teams": "New England - Miami",
+      "odds": {
+        "1": "1.10",
+        "2": "7.90",
+        "X": "22.00"
+      }
+    },
+    "8c5cb05ae3c34e8e97ce79589106df132ebb6a72": {
+      "id": "8c5cb05ae3c34e8e97ce79589106df132ebb6a72",
+      "teams": "Minnesota - Chicago",
+      "odds": {
+        "1": "2.50",
+        "2": "1.65",
+        "X": "13.00"
+      }
+    },
+    "e10e2579c663b2e1a60d706d138dc540609eca13": {
+      "id": "e10e2579c663b2e1a60d706d138dc540609eca13",
+      "teams": "Kansas City - LA Chargers",
+      "odds": {
+        "1": "1.27",
+        "2": "4.25",
+        "X": "17.00"
+      }
+    },
+    "373cf22b73bf7d026b21aa0fac7f4e149882a82c": {
+      "id": "373cf22b73bf7d026b21aa0fac7f4e149882a82c",
+      "teams": "Detroit - Green Bay",
+      "odds": {
+        "1": "5.20",
+        "2": "1.20",
+        "X": "18.00"
+      }
+    },
+    "89d9042e1ae02d562a8def093dc708d8dd8d8d93": {
+      "id": "89d9042e1ae02d562a8def093dc708d8dd8d8d93",
+      "teams": "Cincinnati - Cleveland",
+      "odds": {
+        "1": "2.25",
+        "2": "1.75",
+        "X": "15.00"
+      }
+    },
+    "085780b37e6484409449c03874c0d1a86e1bebef": {
+      "id": "085780b37e6484409449c03874c0d1a86e1bebef",
+      "teams": "Carolina - New Orleans",
+      "odds": {
+        "1": "6.80",
+        "2": "1.15",
+        "X": "18.00"
+      }
+    },
+    "bb9416e69421551d89c65efe2b491bf6ca499499": {
+      "id": "bb9416e69421551d89c65efe2b491bf6ca499499",
+      "teams": "Tampa Bay - Atlanta",
+      "odds": {
+        "1": "1.90",
+        "2": "2.05",
+        "X": "14.00"
+      }
+    },
+    "5e28c464dfbe0072c10cb8818d7d4e5f2f53982f": {
+      "id": "5e28c464dfbe0072c10cb8818d7d4e5f2f53982f",
+      "teams": "Buffalo - NY Jets",
+      "odds": {
+        "1": "1.90",
+        "2": "2.05",
+        "X": "14.00"
+      }
+    },
+    "a07e6b1db528a9c1a5a20b9749134504633243f4": {
+      "id": "a07e6b1db528a9c1a5a20b9749134504633243f4",
+      "teams": "Denver - Oakland",
+      "odds": {
+        "1": "1.60",
+        "2": "2.60",
+        "X": "15.00"
+      }
+    },
+    "d42fee3c72262cb44766150e5799e80e9e571eeb": {
+      "id": "d42fee3c72262cb44766150e5799e80e9e571eeb",
+      "teams": "Jacksonville - Indianapolis",
+      "odds": {
+        "1": "3.15",
+        "2": "1.45",
+        "X": "14.00"
+      }
+    },
+    "dda3dcb4d02171714fbffb6d6d250249e0422c2e": {
+      "id": "dda3dcb4d02171714fbffb6d6d250249e0422c2e",
+      "teams": "Houston - Tennessee",
+      "odds": {
+        "1": "3.10",
+        "2": "1.45",
+        "X": "15.00"
+      }
+    },
+    "892c60567704f6456e1762e11ff0b2fc5cccadec": {
+      "id": "892c60567704f6456e1762e11ff0b2fc5cccadec",
+      "teams": "Dallas - Washington",
+      "odds": {
+        "1": "1.20",
+        "2": "5.20",
+        "X": "18.00"
+      }
+    },
+    "084b967faca4326cc142a4b7d008302ede09fdd5": {
+      "id": "084b967faca4326cc142a4b7d008302ede09fdd5",
+      "teams": "NY Giants - Philadelphia",
+      "odds": {
+        "1": "2.80",
+        "2": "1.53",
+        "X": "14.00"
+      }
+    },
+    "85b708201749fd769bc1373252652d7d7b801f16": {
+      "id": "85b708201749fd769bc1373252652d7d7b801f16",
+      "teams": "Baltimore - Pittsburgh",
+      "odds": {
+        "1": "2.00",
+        "2": "1.95",
+        "X": "14.00"
+      }
+    },
+    "1b0ee9d652b5baf38c48bc6369356b0cb2818393": {
+      "id": "1b0ee9d652b5baf38c48bc6369356b0cb2818393",
+      "teams": "Seattle - San Francisco",
+      "odds": {
+        "1": "2.60",
+        "2": "1.60",
+        "X": "14.00"
+      }
+    },
+    "914f79a76e544d68d73dfeed78909a7f1acceb1c": {
+      "id": "914f79a76e544d68d73dfeed78909a7f1acceb1c",
+      "teams": "Serbia - Croatia",
+      "odds": {
+        "1": "1.70",
+        "2": "2.55",
+        "X": "7.50"
+      }
+    },
+    "a46dc2c3e51c403e7772671c1c2dd22425ee62ab": {
+      "id": "a46dc2c3e51c403e7772671c1c2dd22425ee62ab",
+      "teams": "Exeter Ch. - Saracens",
+      "odds": {
+        "1": "2.10",
+        "2": "1.75",
+        "X": "18.00"
+      }
+    },
+    "20158b669063e7aa5601a3196203b8cd75b9b521": {
+      "id": "20158b669063e7aa5601a3196203b8cd75b9b521",
+      "teams": "La Rochelle - Agen",
+      "odds": {
+        "1": "1.08",
+        "2": "8.00",
+        "X": "35.00"
+      }
+    },
+    "12a3f0b20fa71f3176bdda26b5e41c03ca7f5f2e": {
+      "id": "12a3f0b20fa71f3176bdda26b5e41c03ca7f5f2e",
+      "teams": "Section P. - Bordeaux",
+      "odds": {
+        "1": "2.10",
+        "2": "1.80",
+        "X": "19.00"
+      }
+    },
+    "7254d72291bac8cccc5905ddfa6d95da910e12ae": {
+      "id": "7254d72291bac8cccc5905ddfa6d95da910e12ae",
+      "teams": "Clermont - Castres",
+      "odds": {
+        "1": "1.07",
+        "2": "8.20",
+        "X": "40.00"
+      }
+    },
+    "965505eb5865a1f8b573da8694f8a0f17af53939": {
+      "id": "965505eb5865a1f8b573da8694f8a0f17af53939",
+      "teams": "Toulouse - Toulon",
+      "odds": {
+        "1": "1.17",
+        "2": "5.35",
+        "X": "25.00"
+      }
+    },
+    "90519ac94b9adfba648bee9f295b1246422e5a19": {
+      "id": "90519ac94b9adfba648bee9f295b1246422e5a19",
+      "teams": "Peace & Love C. - Falu",
+      "odds": {
+        "1": "15.00",
+        "2": "1.05",
+        "X": "17.00"
+      }
+    },
+    "f6571a2105187f11873ab1223a8188b8a5344a82": {
+      "id": "f6571a2105187f11873ab1223a8188b8a5344a82",
+      "teams": "Katrineholm - Nassjo",
+      "odds": {
+        "1": "1.35",
+        "2": "4.80",
+        "X": "7.25"
+      }
+    },
+    "40f852115dde77de3b7eb3799f82f0a06eb89004": {
+      "id": "40f852115dde77de3b7eb3799f82f0a06eb89004",
+      "teams": "Boltic - Lidkopings",
+      "odds": {
+        "1": "1.60",
+        "2": "3.20",
+        "X": "7.10"
+      }
+    },
+    "40fed4e3202103247bf92f5ba9c75344cf1a4f3a": {
+      "id": "40fed4e3202103247bf92f5ba9c75344cf1a4f3a",
+      "teams": "Gripen - Kungalv",
+      "odds": {
+        "1": "1.27",
+        "2": "5.50",
+        "X": "8.00"
+      }
+    },
+    "d2318816ef7481e5e40ffe00cc4f05bb632ad8e8": {
+      "id": "d2318816ef7481e5e40ffe00cc4f05bb632ad8e8",
+      "teams": "Orebro - Vasteras",
+      "odds": {
+        "1": "1.17",
+        "2": "7.50",
+        "X": "9.50"
+      }
+    },
+    "95cb7801cf48d08e16bf817c177c4d5b24a3eef3": {
+      "id": "95cb7801cf48d08e16bf817c177c4d5b24a3eef3",
+      "teams": "Tellus - Kalix",
+      "odds": {
+        "1": "1.20",
+        "2": "7.00",
+        "X": "8.50"
+      }
+    },
+    "3d3783c808393bfc8e9ca107d97fdaf9ae84e10d": {
+      "id": "3d3783c808393bfc8e9ca107d97fdaf9ae84e10d",
+      "teams": "Skutskars - Unik BK",
+      "odds": {
+        "1": "5.00",
+        "2": "1.35",
+        "X": "7.50"
+      }
+    },
+    "13dbf628fcf7d10ca61d5f890c7e685cd3030163": {
+      "id": "13dbf628fcf7d10ca61d5f890c7e685cd3030163",
+      "teams": "Ljusdals - Rattvik",
+      "odds": {
+        "1": "1.32",
+        "2": "5.10",
+        "X": "7.50"
+      }
+    },
+    "0463b3f9b24317f1bb0eac40a6746f6e84a749ea": {
+      "id": "0463b3f9b24317f1bb0eac40a6746f6e84a749ea",
+      "teams": "M.Boleslav - Liberec",
+      "odds": {
+        "1": "1.08",
+        "2": "11.00",
+        "X": "11.00"
+      }
+    },
+    "f72b9cef5344a47028ad257a13807b65679157a7": {
+      "id": "f72b9cef5344a47028ad257a13807b65679157a7",
+      "teams": "Happee - Nokian KrP",
+      "odds": {
+        "1": "2.30",
+        "2": "2.05",
+        "X": "6.00"
+      }
+    },
+    "f1a137368268671e8ff2989c96ea3f662bbfc967": {
+      "id": "f1a137368268671e8ff2989c96ea3f662bbfc967",
+      "teams": "Karlstad (F) - IBK Dalen (F)",
+      "odds": {
+        "1": "1.55",
+        "2": "3.20",
+        "X": "6.50"
+      }
+    },
+    "373c26689b74fa9047ff4b147c8abc497d446499": {
+      "id": "373c26689b74fa9047ff4b147c8abc497d446499",
+      "teams": "Taby Ibk (F) - Warberg (F)",
+      "odds": {
+        "1": "1.07",
+        "2": "11.00",
+        "X": "12.00"
+      }
+    },
+    "0373fa257a55fbdc52e854ceab54a40a15510c23": {
+      "id": "0373fa257a55fbdc52e854ceab54a40a15510c23",
+      "teams": "Kais Mora (F) - P.Wallenstam (F)",
+      "odds": {
+        "1": "1.70",
+        "2": "2.85",
+        "X": "6.00"
+      }
+    },
+    "2b63b37b363a1a0826d53929e9ef11eaf3e9424e": {
+      "id": "2b63b37b363a1a0826d53929e9ef11eaf3e9424e",
+      "teams": "Iksu (F) - Ronnby (F)",
+      "odds": {
+        "1": "1.07",
+        "2": "11.00",
+        "X": "12.00"
+      }
+    },
+    "bafcf4157453345bf827fccdac8bce20bf5eddb0": {
+      "id": "bafcf4157453345bf827fccdac8bce20bf5eddb0",
+      "teams": "Skoghalls (F) - Malmo (F)",
+      "odds": {
+        "1": "6.00",
+        "2": "1.20",
+        "X": "9.50"
+      }
+    },
+    "20682e1455fd858271543977bb74e56ac7bd273f": {
+      "id": "20682e1455fd858271543977bb74e56ac7bd273f",
+      "teams": "Sirius (F) - Endre (F)",
+      "odds": {
+        "1": "4.10",
+        "2": "1.35",
+        "X": "8.00"
       }
     }
   },
   "casapariurilor": {
-    "7c93df8e63b2e0b82c64694c76a56be265660ad5": {
-      "id": "7c93df8e63b2e0b82c64694c76a56be265660ad5",
-      "teams": "Brooklyn Nets - New York Knicks",
+    "a5c3f96c76e4cfffeb4342c138748b4645deab7c": {
+      "id": "a5c3f96c76e4cfffeb4342c138748b4645deab7c",
+      "teams": "Arsenal - Chelsea",
       "odds": {
-        "1": "1,38",
-        "2": "3,70",
-        "X": "15,00"
+        "1": "3,00",
+        "2": "3,80",
+        "X": "2,42"
       }
     },
-    "5a4c1731798af8d7d2bace4a83724dd787a6ba9b": {
-      "id": "5a4c1731798af8d7d2bace4a83724dd787a6ba9b",
-      "teams": "Dallas Mavericks - San Antonio Spurs",
+    "7ed3e817690c5fda1078427728521b270c0a7d4b": {
+      "id": "7ed3e817690c5fda1078427728521b270c0a7d4b",
+      "teams": "Alanya - Konyaspor",
       "odds": {
-        "1": "1,40",
+        "1": "1,47",
+        "2": "4,15",
+        "X": "7,35"
+      }
+    },
+    "0199bcb8133c6167dd2017c7d1e177ba8e12e36c": {
+      "id": "0199bcb8133c6167dd2017c7d1e177ba8e12e36c",
+      "teams": "Crotone - Trapani",
+      "odds": {
+        "1": "1,43",
+        "2": "4,30",
+        "X": "7,75"
+      }
+    },
+    "3485ef1b0d512adb75b5d6fa9f2ea6175bf86c17": {
+      "id": "3485ef1b0d512adb75b5d6fa9f2ea6175bf86c17",
+      "teams": "Sev. Cherepovets - St.Petersburg",
+      "odds": {
+        "1": "5,50",
+        "2": "4,50",
+        "X": "1,53"
+      }
+    },
+    "bbcdb1a63280e96f28360cc0eb297dff3559e910": {
+      "id": "bbcdb1a63280e96f28360cc0eb297dff3559e910",
+      "teams": "Motherwell - Hamilton",
+      "odds": {
+        "1": "1,53",
+        "2": "4,20",
+        "X": "6,10"
+      }
+    },
+    "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3": {
+      "id": "e0c3ad6d42abad19c3cfef8c0a8b7c60ac53fdb3",
+      "teams": "Forest Green - Macclesfield",
+      "odds": {
+        "1": "1,57",
+        "2": "3,80",
+        "X": "6,20"
+      }
+    },
+    "c9cbd4e7f4bb0d6bc9cb0b83640b03807bf7d5a1": {
+      "id": "c9cbd4e7f4bb0d6bc9cb0b83640b03807bf7d5a1",
+      "teams": "West Bromwich - Middlesbrough",
+      "odds": {
+        "1": "1,58",
+        "2": "4,00",
+        "X": "5,80"
+      }
+    },
+    "968de6dad0ab2f21cea3ada925a10dd02b4b7580": {
+      "id": "968de6dad0ab2f21cea3ada925a10dd02b4b7580",
+      "teams": "Liverpool - Wolverhampton",
+      "odds": {
+        "1": "1,35",
+        "2": "5,30",
+        "X": "8,70"
+      }
+    },
+    "d00db5f8bebda4600fe3b58c0244dc2913c8f328": {
+      "id": "d00db5f8bebda4600fe3b58c0244dc2913c8f328",
+      "teams": "Benevento - Ascoli",
+      "odds": {
+        "1": "1,50",
+        "2": "3,90",
+        "X": "7,20"
+      }
+    },
+    "19f3711cd41638fd47b9acc4ee5d6fade5a35cea": {
+      "id": "19f3711cd41638fd47b9acc4ee5d6fade5a35cea",
+      "teams": "Tampa Bay - Detroit",
+      "odds": {
+        "1": "1,45",
+        "2": "5,15",
+        "X": "5,35"
+      }
+    },
+    "ab670979615fe71a6cc3841c8c64afe51fac00ba": {
+      "id": "ab670979615fe71a6cc3841c8c64afe51fac00ba",
+      "teams": "Manchester City - Sheffield Utd.",
+      "odds": {
+        "1": "1,28",
+        "2": "6,15",
+        "X": "10,50"
+      }
+    },
+    "24962e2b60e66841a7e90b1bbe48ff766767eab3": {
+      "id": "24962e2b60e66841a7e90b1bbe48ff766767eab3",
+      "teams": "Bristol C. - Luton",
+      "odds": {
+        "1": "1,73",
+        "2": "3,90",
+        "X": "4,50"
+      }
+    },
+    "a0b74f11393edc25eb93e896155c34f1219743a7": {
+      "id": "a0b74f11393edc25eb93e896155c34f1219743a7",
+      "teams": "Sheffield Wed. - Cardiff",
+      "odds": {
+        "1": "1,75",
+        "2": "3,65",
+        "X": "4,75"
+      }
+    },
+    "eeae44ecd65bee9b312918658f3c83a952cae6cb": {
+      "id": "eeae44ecd65bee9b312918658f3c83a952cae6cb",
+      "teams": "Nottingham F. - Wigan",
+      "odds": {
+        "1": "1,82",
+        "2": "3,35",
+        "X": "4,70"
+      }
+    },
+    "2ade5235b3654eaf4a19819f69e768ae92fa7d49": {
+      "id": "2ade5235b3654eaf4a19819f69e768ae92fa7d49",
+      "teams": "Preston NE - Reading",
+      "odds": {
+        "1": "1,90",
         "2": "3,50",
-        "X": "16,00"
+        "X": "4,10"
       }
     },
-    "18ed487d623b99514434664b8c3fef6c1d8e4378": {
-      "id": "18ed487d623b99514434664b8c3fef6c1d8e4378",
-      "teams": "Oklahoma City Thunder - Memphis Grizzlies",
+    "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85": {
+      "id": "4d1a26fc5243a0be56972a6a0e7a5a8aabff7f85",
+      "teams": "Swansea - Barnsley",
       "odds": {
-        "1": "1,42",
-        "2": "3,45",
-        "X": "15,00"
+        "1": "1,90",
+        "2": "3,65",
+        "X": "3,85"
       }
     },
-    "62f243594fdac35e7d597d0f06fa75c032367447": {
-      "id": "62f243594fdac35e7d597d0f06fa75c032367447",
-      "teams": "Leicester - Liverpool",
+    "2d9c6f1885a6e32058360320813bf9e7d1f95e95": {
+      "id": "2d9c6f1885a6e32058360320813bf9e7d1f95e95",
+      "teams": "Fulham - Stoke",
       "odds": {
-        "1": "3,20",
-        "2": "2,17",
-        "X": "3,70"
+        "1": "2,00",
+        "2": "3,30",
+        "X": "3,85"
       }
     },
-    "3c867ebc01f91d67632ebddf37e9463daee290c1": {
-      "id": "3c867ebc01f91d67632ebddf37e9463daee290c1",
-      "teams": "Reading - Queens Park Rangers",
+    "3d8c374b863ee5aa474b6265270dfea8fc97fab4": {
+      "id": "3d8c374b863ee5aa474b6265270dfea8fc97fab4",
+      "teams": "Queens Park Rangers - Hull",
       "odds": {
         "1": "2,40",
-        "2": "2,85",
-        "X": "3,50"
+        "2": "3,55",
+        "X": "2,80"
       }
     },
-    "f6020c1c77655d23b18e334fc2beec3a4aeb0588": {
-      "id": "f6020c1c77655d23b18e334fc2beec3a4aeb0588",
-      "teams": "V.Entella - Spezia",
+    "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa": {
+      "id": "cb9dc74d05c2a12c5d83637ef0fd45f1f55531fa",
+      "teams": "Huddersfield - Blackburn",
       "odds": {
-        "1": "2,45",
-        "2": "2,95",
-        "X": "3,15"
+        "1": "2,55",
+        "2": "3,20",
+        "X": "2,80"
       }
     },
-    "98d64549b6d43f0582c865f12e34f7b5e56a0b56": {
-      "id": "98d64549b6d43f0582c865f12e34f7b5e56a0b56",
-      "teams": "Standard L. - KAA Gent",
+    "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
+      "id": "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380",
+      "teams": "Millwall - Brentford",
       "odds": {
-        "1": "2,50",
-        "2": "2,65",
-        "X": "3,55"
-      }
-    },
-    "971b6d72728daaedbb681bad66d0cba6853217b6": {
-      "id": "971b6d72728daaedbb681bad66d0cba6853217b6",
-      "teams": "Antigua GFC - CSD Municipal",
-      "odds": {
-        "1": "2,10",
+        "1": "3,60",
         "2": "3,25",
-        "X": "3,00"
+        "X": "2,10"
       }
     },
-    "b55614faa2b4ddae1a2cf81b8fc5e09a34ee25c2": {
-      "id": "b55614faa2b4ddae1a2cf81b8fc5e09a34ee25c2",
-      "teams": "Monterrey - América",
+    "df2a1efa44d2d4bd6593627203091168230a2d26": {
+      "id": "df2a1efa44d2d4bd6593627203091168230a2d26",
+      "teams": "Birmingham - Leeds",
       "odds": {
-        "1": "2,05",
-        "2": "3,50",
-        "X": "3,35"
+        "1": "5,10",
+        "2": "3,80",
+        "X": "1,65"
       }
     },
-    "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094": {
-      "id": "76f95d34f6860bbd13f4e30c4cbcb6c2a2eb7094",
-      "teams": "Crimmitschau - Tolzer Lowen",
+    "032244787687df057ab636cfae5d3fee37ca072d": {
+      "id": "032244787687df057ab636cfae5d3fee37ca072d",
+      "teams": "Cittadella - V.Entella",
+      "odds": {
+        "1": "1,80",
+        "2": "3,40",
+        "X": "4,65"
+      }
+    },
+    "2e3212ed030c6869836c531be77a8faac6d0009e": {
+      "id": "2e3212ed030c6869836c531be77a8faac6d0009e",
+      "teams": "Perugia - Venezia",
+      "odds": {
+        "1": "2,00",
+        "2": "3,10",
+        "X": "4,20"
+      }
+    },
+    "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81": {
+      "id": "a9d9a332385e6a4e93c82b3bf000d9d600e4ed81",
+      "teams": "Spezia - Salernitana",
+      "odds": {
+        "1": "2,00",
+        "2": "3,10",
+        "X": "4,15"
+      }
+    },
+    "1e617fb04ca6fff01e5d25d5fd1010245753471d": {
+      "id": "1e617fb04ca6fff01e5d25d5fd1010245753471d",
+      "teams": "Pordenone - Cremonese",
       "odds": {
         "1": "2,25",
-        "2": "2,35",
-        "X": "4,80"
+        "2": "3,10",
+        "X": "3,45"
       }
     },
-    "0fb01053909645a8243b69a6dc6cc3d2f37c0b58": {
-      "id": "0fb01053909645a8243b69a6dc6cc3d2f37c0b58",
-      "teams": "Toronto - Belleville",
+    "9b975f988b22a6090db20d245b4ee8bab0d7dcdf": {
+      "id": "9b975f988b22a6090db20d245b4ee8bab0d7dcdf",
+      "teams": "Juve Stabia - Cosenza",
       "odds": {
-        "1": "2,25",
-        "2": "2,35",
+        "1": "2,75",
+        "2": "2,95",
+        "X": "2,75"
+      }
+    },
+    "8fdec5ba44b142b82838ec2045971bff38d13d8c": {
+      "id": "8fdec5ba44b142b82838ec2045971bff38d13d8c",
+      "teams": "Pisa - Frosinone",
+      "odds": {
+        "1": "3,60",
+        "2": "3,10",
+        "X": "2,15"
+      }
+    },
+    "92982d4a99ca406f847a8c353655b64333b01744": {
+      "id": "92982d4a99ca406f847a8c353655b64333b01744",
+      "teams": "Empoli - Livorno",
+      "odds": {
+        "1": "1,77",
+        "2": "3,60",
         "X": "4,60"
       }
     },
-    "43562b9290efa00830cb8e0e9c66c5d02094c99e": {
-      "id": "43562b9290efa00830cb8e0e9c66c5d02094c99e",
-      "teams": "Trinec - Canada",
+    "839266c59c18a04f7540552312bcc5186e84fae2": {
+      "id": "839266c59c18a04f7540552312bcc5186e84fae2",
+      "teams": "Crotone - Wba",
       "odds": {
-        "1": "5,20",
-        "2": "1,45",
+        "1": "2,30",
+        "2": "4,20",
+        "X": "2,30"
+      }
+    },
+    "28debdf9917a8f86b9702d040612aab7d8828312": {
+      "id": "28debdf9917a8f86b9702d040612aab7d8828312",
+      "teams": "Fulham - Preston",
+      "odds": {
+        "1": "2,30",
+        "2": "4,20",
+        "X": "2,30"
+      }
+    },
+    "9d702a411a2c7c70b8bc8f28364f8d22969f4a67": {
+      "id": "9d702a411a2c7c70b8bc8f28364f8d22969f4a67",
+      "teams": "Celtic - Gl.Rangers",
+      "odds": {
+        "1": "2,15",
+        "2": "3,40",
+        "X": "3,40"
+      }
+    },
+    "9f1e302d264c52fb2b5a4bb7515a524b104cce30": {
+      "id": "9f1e302d264c52fb2b5a4bb7515a524b104cce30",
+      "teams": "Hearts - Aberdeen",
+      "odds": {
+        "1": "2,75",
+        "2": "3,20",
+        "X": "2,65"
+      }
+    },
+    "b72ca82a7e673298f6a1fce758f733397e9d20ac": {
+      "id": "b72ca82a7e673298f6a1fce758f733397e9d20ac",
+      "teams": "St.Johnstone - Ross C.",
+      "odds": {
+        "1": "1,75",
+        "2": "3,70",
+        "X": "4,60"
+      }
+    },
+    "e5297f57a42cefacc1d0c811ce1803e23163224c": {
+      "id": "e5297f57a42cefacc1d0c811ce1803e23163224c",
+      "teams": "Livingston - Hibernian FC",
+      "odds": {
+        "1": "2,25",
+        "2": "3,40",
+        "X": "3,15"
+      }
+    },
+    "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8": {
+      "id": "87b7762ad7b3bb81df8ecdbec5d88c06c7e77ab8",
+      "teams": "St.Mirren - Kilmarnock",
+      "odds": {
+        "1": "2,40",
+        "2": "3,15",
+        "X": "3,10"
+      }
+    },
+    "afaefd83b72d95e86e158247b3f2880a6c71955c": {
+      "id": "afaefd83b72d95e86e158247b3f2880a6c71955c",
+      "teams": "Gazisehir Gaziantep - Malatya Bld",
+      "odds": {
+        "1": "2,80",
+        "2": "3,40",
+        "X": "2,40"
+      }
+    },
+    "1ce320d227feab5febfc0f567b1fb9abd8dade4a": {
+      "id": "1ce320d227feab5febfc0f567b1fb9abd8dade4a",
+      "teams": "C.Rize - Fenerbahce",
+      "odds": {
+        "1": "4,40",
+        "2": "3,75",
+        "X": "1,77"
+      }
+    },
+    "c17d0796685841f30f2ca1b699b547463932e67f": {
+      "id": "c17d0796685841f30f2ca1b699b547463932e67f",
+      "teams": "Gillingham - Rochdale",
+      "odds": {
+        "1": "1,65",
+        "2": "3,85",
+        "X": "5,10"
+      }
+    },
+    "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44": {
+      "id": "7f7ec1f0a0d2d7502c27d5c6e02cb6dd4d508a44",
+      "teams": "Fleetwood - Bristol R.",
+      "odds": {
+        "1": "1,60",
+        "2": "3,90",
+        "X": "5,70"
+      }
+    },
+    "d927df4e7a7a31c9d29048886020e139c4a4eca0": {
+      "id": "d927df4e7a7a31c9d29048886020e139c4a4eca0",
+      "teams": "Rotherham - Peterborough",
+      "odds": {
+        "1": "2,20",
+        "2": "3,50",
+        "X": "3,10"
+      }
+    },
+    "e587ae6f41c765b031694b386527e3a463cd2a2d": {
+      "id": "e587ae6f41c765b031694b386527e3a463cd2a2d",
+      "teams": "Accrington - Burton",
+      "odds": {
+        "1": "2,55",
+        "2": "3,35",
+        "X": "2,70"
+      }
+    },
+    "5c05c25b3fbada910a8513bebfd8d77b776f532a": {
+      "id": "5c05c25b3fbada910a8513bebfd8d77b776f532a",
+      "teams": "Doncaster - Sunderland",
+      "odds": {
+        "1": "2,55",
+        "2": "3,35",
+        "X": "2,70"
+      }
+    },
+    "b8bd0010d69296ec79216ef6628a2ee8f757b909": {
+      "id": "b8bd0010d69296ec79216ef6628a2ee8f757b909",
+      "teams": "Lincoln City - Ipswich",
+      "odds": {
+        "1": "2,60",
+        "2": "3,00",
+        "X": "2,90"
+      }
+    },
+    "49dfe8b3da280549b128fc0c497faf3c3ad9d469": {
+      "id": "49dfe8b3da280549b128fc0c497faf3c3ad9d469",
+      "teams": "Wycombe - Coventry",
+      "odds": {
+        "1": "2,70",
+        "2": "3,25",
+        "X": "2,60"
+      }
+    },
+    "9e0776a6fc5eb1b1e2b20d1e805f93f05f9f1537": {
+      "id": "9e0776a6fc5eb1b1e2b20d1e805f93f05f9f1537",
+      "teams": "Tranmere - Blackpool",
+      "odds": {
+        "1": "3,10",
+        "2": "3,35",
+        "X": "2,30"
+      }
+    },
+    "07ac2f339119e208cd5997f0f989c4f3eaa80599": {
+      "id": "07ac2f339119e208cd5997f0f989c4f3eaa80599",
+      "teams": "Bolton - Shrewsbury",
+      "odds": {
+        "1": "3,30",
+        "2": "3,10",
+        "X": "2,30"
+      }
+    },
+    "0c722ff5c7421797775e8e1c4e382bf501940b65": {
+      "id": "0c722ff5c7421797775e8e1c4e382bf501940b65",
+      "teams": "MK Dons - Portsmouth",
+      "odds": {
+        "1": "3,65",
+        "2": "3,65",
+        "X": "1,95"
+      }
+    },
+    "907d1e109125eeb386e193652ca85ad6140d7f10": {
+      "id": "907d1e109125eeb386e193652ca85ad6140d7f10",
+      "teams": "AFC Wimbledon - Oxford Utd.",
+      "odds": {
+        "1": "4,50",
+        "2": "3,80",
+        "X": "1,75"
+      }
+    },
+    "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f": {
+      "id": "ad8731f93c9297aa4c5c15ebf9378cbbf08c050f",
+      "teams": "Plymouth - Stevenage",
+      "odds": {
+        "1": "1,70",
+        "2": "3,65",
+        "X": "4,80"
+      }
+    },
+    "d7e46db8672770f6dbd01568f2a30588f49a8bf8": {
+      "id": "d7e46db8672770f6dbd01568f2a30588f49a8bf8",
+      "teams": "Crewe - Scunthorpe",
+      "odds": {
+        "1": "1,80",
+        "2": "3,70",
+        "X": "4,20"
+      }
+    },
+    "1fe76deb58f790cdd9ba08c8c9f5c375001e9a94": {
+      "id": "1fe76deb58f790cdd9ba08c8c9f5c375001e9a94",
+      "teams": "Cambridge Utd. - Morecambe",
+      "odds": {
+        "1": "1,80",
+        "2": "3,55",
+        "X": "4,40"
+      }
+    },
+    "6e2cf05b9dbc6fa88ecf31464747a5aed1ac0e7a": {
+      "id": "6e2cf05b9dbc6fa88ecf31464747a5aed1ac0e7a",
+      "teams": "Bradford - Mansfield",
+      "odds": {
+        "1": "2,00",
+        "2": "3,30",
+        "X": "3,65"
+      }
+    },
+    "7cfceca4f290f94a2414bc4f217aadf58b675852": {
+      "id": "7cfceca4f290f94a2414bc4f217aadf58b675852",
+      "teams": "Newport - Leyton",
+      "odds": {
+        "1": "2,05",
+        "2": "3,30",
+        "X": "3,60"
+      }
+    },
+    "a903ed83367495bb7deccd9434f4a69fc4e9abec": {
+      "id": "a903ed83367495bb7deccd9434f4a69fc4e9abec",
+      "teams": "Walsall - Carlisle",
+      "odds": {
+        "1": "2,10",
+        "2": "3,30",
+        "X": "3,40"
+      }
+    },
+    "51405eb207a29f3948747641e91b2a5faf6a4bac": {
+      "id": "51405eb207a29f3948747641e91b2a5faf6a4bac",
+      "teams": "Oldham - Salford City",
+      "odds": {
+        "1": "2,40",
+        "2": "3,30",
+        "X": "2,90"
+      }
+    },
+    "f48e5079326f507e4d097f78aa490076692be893": {
+      "id": "f48e5079326f507e4d097f78aa490076692be893",
+      "teams": "Northampton - Cheltenham",
+      "odds": {
+        "1": "2,40",
+        "2": "3,20",
+        "X": "2,95"
+      }
+    },
+    "6fca8dfb9e8c8e833446cb72462e4c46273f22fc": {
+      "id": "6fca8dfb9e8c8e833446cb72462e4c46273f22fc",
+      "teams": "Grimsby - Crawley",
+      "odds": {
+        "1": "2,40",
+        "2": "3,20",
+        "X": "2,90"
+      }
+    },
+    "075a8257c529c5a63b7b05c245c65812e7a46e30": {
+      "id": "075a8257c529c5a63b7b05c245c65812e7a46e30",
+      "teams": "Colchester - Exeter",
+      "odds": {
+        "1": "2,45",
+        "2": "3,20",
+        "X": "2,85"
+      }
+    },
+    "88ea5539c678bfd9eca440d77b1301cc63fc283c": {
+      "id": "88ea5539c678bfd9eca440d77b1301cc63fc283c",
+      "teams": "Port Vale - Swindon Town",
+      "odds": {
+        "1": "3,25",
+        "2": "3,30",
+        "X": "2,15"
+      }
+    },
+    "051645c163b697a635e25085307b40eee08b8baf": {
+      "id": "051645c163b697a635e25085307b40eee08b8baf",
+      "teams": "Nsr El Fedjoudj - Us Biskra",
+      "odds": {
+        "1": "3,75",
+        "2": "3,80",
+        "X": "1,77"
+      }
+    },
+    "e886f6e85b45f93e1b31b77b928c96957af6170c": {
+      "id": "e886f6e85b45f93e1b31b77b928c96957af6170c",
+      "teams": "Friburguense RJ - Portuguesa RJ",
+      "odds": {
+        "1": "3,35",
+        "2": "3,00",
+        "X": "2,10"
+      }
+    },
+    "612e125ef3803130557de786b6d49f6c7442e5df": {
+      "id": "612e125ef3803130557de786b6d49f6c7442e5df",
+      "teams": "Macae RJ - Nova Iguacu RJ",
+      "odds": {
+        "1": "3,55",
+        "2": "3,00",
+        "X": "2,05"
+      }
+    },
+    "7b743b0eab2916281ba99a110ebba5c51ef7cf93": {
+      "id": "7b743b0eab2916281ba99a110ebba5c51ef7cf93",
+      "teams": "Aswan Fc - Talaea El Gaish",
+      "odds": {
+        "1": "2,50",
+        "2": "2,85",
+        "X": "2,90"
+      }
+    },
+    "038bc2922550afc08a585de96196c6aaaf74deae": {
+      "id": "038bc2922550afc08a585de96196c6aaaf74deae",
+      "teams": "CSD Municipal - Antigua GFC",
+      "odds": {
+        "1": "1,57",
+        "2": "3,70",
         "X": "5,00"
       }
     },
-    "380c582f9670cec5ae1addcbc582b79e271837bc": {
-      "id": "380c582f9670cec5ae1addcbc582b79e271837bc",
-      "teams": "Detroit Pistons - Washington Wizards",
+    "add2ce0fb4970f2ef2f051f9e7ff7205c3adeef5": {
+      "id": "add2ce0fb4970f2ef2f051f9e7ff7205c3adeef5",
+      "teams": "Mumbai City - Hyderabad Fc",
+      "odds": {
+        "1": "1,65",
+        "2": "3,95",
+        "X": "4,00"
+      }
+    },
+    "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5": {
+      "id": "ac4ffdfb746c1dbab111bbc1d26a1ed6541ba4f5",
+      "teams": "Mac.Netanya - Bnei Yehuda TA",
+      "odds": {
+        "1": "2,35",
+        "2": "3,05",
+        "X": "3,00"
+      }
+    },
+    "6cdcc483cecf34046a543298512397595ffb6983": {
+      "id": "6cdcc483cecf34046a543298512397595ffb6983",
+      "teams": "Sectzya Nes Ziona - Hap.Tel Aviv",
+      "odds": {
+        "1": "3,35",
+        "2": "3,10",
+        "X": "2,15"
+      }
+    },
+    "c75d90264a79bc1f3ad0525f2dbcf1f8da8d4bfd": {
+      "id": "c75d90264a79bc1f3ad0525f2dbcf1f8da8d4bfd",
+      "teams": "Jamalco FC - Tivoli Gardens",
+      "odds": {
+        "1": "2,80",
+        "2": "3,00",
+        "X": "2,40"
+      }
+    },
+    "1d5c6eed691de72df08628351e55925813da7999": {
+      "id": "1d5c6eed691de72df08628351e55925813da7999",
+      "teams": "Molynes - Dunbeholden Fc",
+      "odds": {
+        "1": "3,00",
+        "2": "3,10",
+        "X": "2,20"
+      }
+    },
+    "3e9a196fca0fa219b6bbf3cd52731b507c74df29": {
+      "id": "3e9a196fca0fa219b6bbf3cd52731b507c74df29",
+      "teams": "Humble Lions - Arnett Gardens",
+      "odds": {
+        "1": "2,30",
+        "2": "2,90",
+        "X": "3,00"
+      }
+    },
+    "4dd111d6d091c73b356bbf4989280be35e9a5c78": {
+      "id": "4dd111d6d091c73b356bbf4989280be35e9a5c78",
+      "teams": "Harbour View FC - Portmore Utd",
+      "odds": {
+        "1": "3,50",
+        "2": "3,10",
+        "X": "2,00"
+      }
+    },
+    "3e5104f8e3904d02ef9c32b9a607d10c3998bdec": {
+      "id": "3e5104f8e3904d02ef9c32b9a607d10c3998bdec",
+      "teams": "Cavaliers FC - Waterhouse",
+      "odds": {
+        "1": "3,65",
+        "2": "3,25",
+        "X": "1,90"
+      }
+    },
+    "252c878922d63d815e88ac81ddc70cad70c677c2": {
+      "id": "252c878922d63d815e88ac81ddc70cad70c677c2",
+      "teams": "Khouribga - Far Forces",
+      "odds": {
+        "1": "2,50",
+        "2": "2,95",
+        "X": "2,75"
+      }
+    },
+    "ca28982a7e5c85deae56881682534db515023e95": {
+      "id": "ca28982a7e5c85deae56881682534db515023e95",
+      "teams": "Cayb Ca Youssoufia B. - Rapide Oued Zem",
+      "odds": {
+        "1": "1,70",
+        "2": "3,25",
+        "X": "4,60"
+      }
+    },
+    "6190e4155762c66382f262f89e13d124a7a75b95": {
+      "id": "6190e4155762c66382f262f89e13d124a7a75b95",
+      "teams": "América - Monterrey",
+      "odds": {
+        "1": "2,15",
+        "2": "3,45",
+        "X": "3,20"
+      }
+    },
+    "7ef734086d1904bf3f6f99ece7241a08fb9dfc19": {
+      "id": "7ef734086d1904bf3f6f99ece7241a08fb9dfc19",
+      "teams": "Feirense - Casa Pia Atletico",
       "odds": {
         "1": "1,45",
-        "2": "3,30",
-        "X": "15,00"
+        "2": "4,00",
+        "X": "7,50"
       }
     },
-    "b728f5807237ee9915794d8a93970dc0b7f6ad1c": {
-      "id": "b728f5807237ee9915794d8a93970dc0b7f6ad1c",
-      "teams": "Sacramento Kings - Minnesota",
-      "odds": {
-        "1": "1,60",
-        "2": "2,70",
-        "X": "15,00"
-      }
-    },
-    "f798a9b39c6d06df80d3bd23d18055df71c63e8e": {
-      "id": "f798a9b39c6d06df80d3bd23d18055df71c63e8e",
-      "teams": "Utah Jazz - Portland Trail Blazers",
-      "odds": {
-        "1": "1,45",
-        "2": "3,20",
-        "X": "15,00"
-      }
-    },
-    "f3bca8989aba25e65fa94a12142500ed371dc6aa": {
-      "id": "f3bca8989aba25e65fa94a12142500ed371dc6aa",
-      "teams": "Alba Berlin - Baskonia Vitoria",
-      "odds": {
-        "1": "1,92",
-        "2": "2,05",
-        "X": "15,00"
-      }
-    },
-    "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a": {
-      "id": "fe5b23886d2226ad76c99c14ab5b7a4cca5a520a",
-      "teams": "Panathinaikos - Real Madrid",
+    "047115860ed94b59b5b161d3f29d611286bcaada": {
+      "id": "047115860ed94b59b5b161d3f29d611286bcaada",
+      "teams": "Mafra - Viseu",
       "odds": {
         "1": "1,95",
-        "2": "2,05",
-        "X": "15,00"
+        "2": "3,30",
+        "X": "3,85"
       }
     },
-    "54c864357ed82a3c1f3db12b2975398f8e3058fc": {
-      "id": "54c864357ed82a3c1f3db12b2975398f8e3058fc",
-      "teams": "Asvel - Bc Khimki Moscow",
+    "8a96988847f1d6e46992a2c2d769dd44739f3ec5": {
+      "id": "8a96988847f1d6e46992a2c2d769dd44739f3ec5",
+      "teams": "Gd Chaves - Vilafranquense",
+      "odds": {
+        "1": "1,53",
+        "2": "4,00",
+        "X": "5,85"
+      }
+    },
+    "57ee5ad8f49d2f1be915e8ece0e45f517a8495ad": {
+      "id": "57ee5ad8f49d2f1be915e8ece0e45f517a8495ad",
+      "teams": "Istanbulspor AS - Adana Demir",
+      "odds": {
+        "1": "2,15",
+        "2": "3,35",
+        "X": "3,00"
+      }
+    },
+    "9fbd3a5d5e86529df8d41dde65bddcb8ecd26bda": {
+      "id": "9fbd3a5d5e86529df8d41dde65bddcb8ecd26bda",
+      "teams": "Altay Izmir - Giresun",
+      "odds": {
+        "1": "2,00",
+        "2": "3,30",
+        "X": "3,40"
+      }
+    },
+    "58e15c537cb4ab49330678e1da5527e8badffd6f": {
+      "id": "58e15c537cb4ab49330678e1da5527e8badffd6f",
+      "teams": "CS Sfaxien - Cs Chebba",
+      "odds": {
+        "1": "1,43",
+        "2": "4,10",
+        "X": "6,70"
+      }
+    },
+    "42950a50389c73f89de25f490ee2340628a9678b": {
+      "id": "42950a50389c73f89de25f490ee2340628a9678b",
+      "teams": "As Slimane - ES Metlaoui",
+      "odds": {
+        "1": "2,10",
+        "2": "3,00",
+        "X": "3,30"
+      }
+    },
+    "26213ad6b4b506db83a394645611f532a6a914f3": {
+      "id": "26213ad6b4b506db83a394645611f532a6a914f3",
+      "teams": "Fc San Pedro - Husa Hassania",
+      "odds": {
+        "1": "2,55",
+        "2": "3,35",
+        "X": "2,40"
+      }
+    },
+    "d4426d7e9286f7c8b6172e94494cb74db03757c4": {
+      "id": "d4426d7e9286f7c8b6172e94494cb74db03757c4",
+      "teams": "Esae Fc - Zanaco",
+      "odds": {
+        "1": "4,30",
+        "2": "3,35",
+        "X": "1,75"
+      }
+    },
+    "433ef2a6ac6283d6c04c18980d1fe34dfb6c349e": {
+      "id": "433ef2a6ac6283d6c04c18980d1fe34dfb6c349e",
+      "teams": "Bidvest W. - Al-Nasr SC Benghazi",
+      "odds": {
+        "1": "1,35",
+        "2": "4,20",
+        "X": "8,10"
+      }
+    },
+    "cb41f7676e884653a5c06856f7ff7131cd7bd541": {
+      "id": "cb41f7676e884653a5c06856f7ff7131cd7bd541",
+      "teams": "Horoya Ac - Djoliba AC",
+      "odds": {
+        "1": "1,50",
+        "2": "3,55",
+        "X": "6,20"
+      }
+    },
+    "0ab9cb27581cbc5c76c13e983eeab4c1f62a31d3": {
+      "id": "0ab9cb27581cbc5c76c13e983eeab4c1f62a31d3",
+      "teams": "Al Masry - Pyramids FC",
+      "odds": {
+        "1": "2,90",
+        "2": "2,90",
+        "X": "2,40"
+      }
+    },
+    "1e84e0e2e44ea6a2bb100a7a6ebc92e6b0091c71": {
+      "id": "1e84e0e2e44ea6a2bb100a7a6ebc92e6b0091c71",
+      "teams": "Paradou Ac - Enyimba",
+      "odds": {
+        "1": "1,30",
+        "2": "4,75",
+        "X": "8,00"
+      }
+    },
+    "a53de33e57aedefa83f90da08f773794c86f082a": {
+      "id": "a53de33e57aedefa83f90da08f773794c86f082a",
+      "teams": "Fc Nouadhibou - Enugu Rangers International FC",
+      "odds": {
+        "1": "2,25",
+        "2": "3,30",
+        "X": "2,75"
+      }
+    },
+    "0dcb092bdf9890ee4f7e7185b4727640b6cec55e": {
+      "id": "0dcb092bdf9890ee4f7e7185b4727640b6cec55e",
+      "teams": "Liverpool - undefined",
+      "odds": {
+        "1": "1,05",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "77462893ce11395582d3ec58b132df9dd8862fab": {
+      "id": "77462893ce11395582d3ec58b132df9dd8862fab",
+      "teams": "Manchester City - undefined",
+      "odds": {
+        "1": "15,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "b923e2d350f44c579c4e3d84e875ddea722a7e58": {
+      "id": "b923e2d350f44c579c4e3d84e875ddea722a7e58",
+      "teams": "Leicester - undefined",
+      "odds": {
+        "1": "100,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "3aac6d2a3344c0c3b3fa367fed79ff87c60a2393": {
+      "id": "3aac6d2a3344c0c3b3fa367fed79ff87c60a2393",
+      "teams": "Chelsea - undefined",
+      "odds": {
+        "1": "500,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "abc1c25184738cdd6696672b77304bf6d48bf75f": {
+      "id": "abc1c25184738cdd6696672b77304bf6d48bf75f",
+      "teams": "Tottenham - undefined",
+      "odds": {
+        "1": "750,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "d8ce484bda18034c0154e771212684f6bd79db86": {
+      "id": "d8ce484bda18034c0154e771212684f6bd79db86",
+      "teams": "Manchester Utd. - undefined",
+      "odds": {
+        "1": "750,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "86bf7812deee51a6bf60bc4caf0a4b729ac3c489": {
+      "id": "86bf7812deee51a6bf60bc4caf0a4b729ac3c489",
+      "teams": "Arsenal - undefined",
+      "odds": {
+        "1": "900,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "061ddf1b7bfa3fd98249f783fef0bd0a148f9133": {
+      "id": "061ddf1b7bfa3fd98249f783fef0bd0a148f9133",
+      "teams": "Wolverhampton - undefined",
+      "odds": {
+        "1": "900,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "329b8e614c0b03e07cb71054e5e47f22150d930d": {
+      "id": "329b8e614c0b03e07cb71054e5e47f22150d930d",
+      "teams": "Everton - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "c183651cd57e7cab28abbb0be2710f324e7f9b07": {
+      "id": "c183651cd57e7cab28abbb0be2710f324e7f9b07",
+      "teams": "West Ham - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "30711360bb7ffc85b9871091fe83234e15a2fed3": {
+      "id": "30711360bb7ffc85b9871091fe83234e15a2fed3",
+      "teams": "Newcastle - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "19abca119cee5ccf7ca2093c5e854cc0233ebf18": {
+      "id": "19abca119cee5ccf7ca2093c5e854cc0233ebf18",
+      "teams": "Watford - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "b187bce07b775f8690574f9b8e16b18d265bd4b1": {
+      "id": "b187bce07b775f8690574f9b8e16b18d265bd4b1",
+      "teams": "Crystal P. - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "59fb9ffef9a756f9d0df5bc8366fac15267a2d81": {
+      "id": "59fb9ffef9a756f9d0df5bc8366fac15267a2d81",
+      "teams": "Southampton - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "8ac372425162a75f845e0fa8760e1abc1c15c7cf": {
+      "id": "8ac372425162a75f845e0fa8760e1abc1c15c7cf",
+      "teams": "Aston Villa - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "9cbc6663233c32ecfbe35a4d6f08511a5b70ca0b": {
+      "id": "9cbc6663233c32ecfbe35a4d6f08511a5b70ca0b",
+      "teams": "Bournemouth - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "804815192088175ff64ecbb39bfc4f63434fb13f": {
+      "id": "804815192088175ff64ecbb39bfc4f63434fb13f",
+      "teams": "Brighton - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "15a3c6adca1fc2955e0b35f4524366950c656198": {
+      "id": "15a3c6adca1fc2955e0b35f4524366950c656198",
+      "teams": "Burnley - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "ba47e512a532f02f42bf325b414931368fdfd1cf": {
+      "id": "ba47e512a532f02f42bf325b414931368fdfd1cf",
+      "teams": "Norwich - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "5522652e7d4166714647c8e270ddb3f2ece766cb": {
+      "id": "5522652e7d4166714647c8e270ddb3f2ece766cb",
+      "teams": "Sheffield Utd. - undefined",
+      "odds": {
+        "1": "999,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "176408428968049606ca65d57b1de5ac41e02b40": {
+      "id": "176408428968049606ca65d57b1de5ac41e02b40",
+      "teams": "St. Louis - Winnipeg",
+      "odds": {
+        "1": "1,90",
+        "2": "4,10",
+        "X": "3,40"
+      }
+    },
+    "4e8d3b81a94a550a4c6c940ca7ce2fd4d2f30429": {
+      "id": "4e8d3b81a94a550a4c6c940ca7ce2fd4d2f30429",
+      "teams": "Columbus - Chicago",
+      "odds": {
+        "1": "2,00",
+        "2": "4,00",
+        "X": "3,10"
+      }
+    },
+    "74d7287d11ce04b6768db9b12ad6eebabc342900": {
+      "id": "74d7287d11ce04b6768db9b12ad6eebabc342900",
+      "teams": "Ottawa - New Jersey",
+      "odds": {
+        "1": "2,20",
+        "2": "4,00",
+        "X": "2,75"
+      }
+    },
+    "119404e4e6da9688e01d01f18d74e4f174cccce8": {
+      "id": "119404e4e6da9688e01d01f18d74e4f174cccce8",
+      "teams": "Minnesota - NY Islanders",
+      "odds": {
+        "1": "2,55",
+        "2": "3,80",
+        "X": "2,40"
+      }
+    },
+    "16339add5d9efa884225f8af7e4c124231d7927f": {
+      "id": "16339add5d9efa884225f8af7e4c124231d7927f",
+      "teams": "Boston - Buffalo",
+      "odds": {
+        "1": "1,70",
+        "2": "4,25",
+        "X": "4,00"
+      }
+    },
+    "63b35da7a65f76c45ba1241b9815fa2c6d38d056": {
+      "id": "63b35da7a65f76c45ba1241b9815fa2c6d38d056",
+      "teams": "Florida - Montreal",
+      "odds": {
+        "1": "2,20",
+        "2": "4,00",
+        "X": "2,70"
+      }
+    },
+    "df0be622bc006656bb4ad1d0ab525595b2ae1ca1": {
+      "id": "df0be622bc006656bb4ad1d0ab525595b2ae1ca1",
+      "teams": "Arizona - Dallas",
+      "odds": {
+        "1": "2,30",
+        "2": "3,80",
+        "X": "2,65"
+      }
+    },
+    "420ccc09dab4a8b0f6f100ad7980edfb941512d0": {
+      "id": "420ccc09dab4a8b0f6f100ad7980edfb941512d0",
+      "teams": "Anaheim - Philadelphia",
+      "odds": {
+        "1": "2,70",
+        "2": "3,90",
+        "X": "2,25"
+      }
+    },
+    "9ca1d298ce573178eb28bc4bf604155d7e3aa253": {
+      "id": "9ca1d298ce573178eb28bc4bf604155d7e3aa253",
+      "teams": "Calgary - Vancouver",
+      "odds": {
+        "1": "1,85",
+        "2": "4,10",
+        "X": "3,45"
+      }
+    },
+    "fe604ac02144a6e17c58dd191c8ad264bdf34145": {
+      "id": "fe604ac02144a6e17c58dd191c8ad264bdf34145",
+      "teams": "Metallurg Magnitogorsk - Dyn. Moscova",
+      "odds": {
+        "1": "2,40",
+        "2": "3,60",
+        "X": "2,65"
+      }
+    },
+    "79886329356b8d274b55d7128b34e1aa167ba145": {
+      "id": "79886329356b8d274b55d7128b34e1aa167ba145",
+      "teams": "HC Sochi - Spartak Moscova",
+      "odds": {
+        "1": "2,90",
+        "2": "3,80",
+        "X": "2,20"
+      }
+    },
+    "62d95019079a829b860e9d1d7dbb2c4ec3bafcf5": {
+      "id": "62d95019079a829b860e9d1d7dbb2c4ec3bafcf5",
+      "teams": "20/Kazahstan - 20/Finlanda",
+      "odds": {
+        "1": "22,00",
+        "2": "13,00",
+        "X": "1,05"
+      }
+    },
+    "a1bc79e7f18569e59e0c1c2d9f3be7d4ad619cf1": {
+      "id": "a1bc79e7f18569e59e0c1c2d9f3be7d4ad619cf1",
+      "teams": "20/Sua - 20/Rusia",
+      "odds": {
+        "1": "2,10",
+        "2": "4,40",
+        "X": "2,70"
+      }
+    },
+    "fc5130647ab671a22f6fcfbda70e2de8c01f8668": {
+      "id": "fc5130647ab671a22f6fcfbda70e2de8c01f8668",
+      "teams": "Ottawa Senators - Florida",
+      "odds": {
+        "1": "2,25",
+        "2": "4,50",
+        "X": "2,25"
+      }
+    },
+    "61741fb0157850e98adf83a7e3b59975f70e2617": {
+      "id": "61741fb0157850e98adf83a7e3b59975f70e2617",
+      "teams": "Boston - Calgary",
+      "odds": {
+        "1": "2,25",
+        "2": "4,50",
+        "X": "2,25"
+      }
+    },
+    "da3b117ea1b5bd1969978b0009027e1d39d5b017": {
+      "id": "da3b117ea1b5bd1969978b0009027e1d39d5b017",
+      "teams": "Rungsted - Rodovre Mighty Bulls",
+      "odds": {
+        "1": "1,60",
+        "2": "4,75",
+        "X": "3,95"
+      }
+    },
+    "13a032143645d403fcb583cab1a0727cb7a58183": {
+      "id": "13a032143645d403fcb583cab1a0727cb7a58183",
+      "teams": "Esbjerg Energy - Sonderjyske HC",
+      "odds": {
+        "1": "2,05",
+        "2": "4,10",
+        "X": "2,85"
+      }
+    },
+    "871df01ff7ab3b6ecb1ba8bd006861f198d4187d": {
+      "id": "871df01ff7ab3b6ecb1ba8bd006861f198d4187d",
+      "teams": "Aalborg P. - Frederikshavn",
+      "odds": {
+        "1": "1,95",
+        "2": "4,30",
+        "X": "2,95"
+      }
+    },
+    "edef6da54c36bbc69c0dffcad1d355f41a61eceb": {
+      "id": "edef6da54c36bbc69c0dffcad1d355f41a61eceb",
+      "teams": "Odense Bulldogs - Herning Blue Fox",
+      "odds": {
+        "1": "4,75",
+        "2": "5,20",
+        "X": "1,45"
+      }
+    },
+    "d5f478c9bdd0598356111e4dbe5100a7d5aed4f0": {
+      "id": "d5f478c9bdd0598356111e4dbe5100a7d5aed4f0",
+      "teams": "Ehc Kloten - Ehc Olten",
+      "odds": {
+        "1": "1,95",
+        "2": "4,35",
+        "X": "2,85"
+      }
+    },
+    "d08c781d4242d67d34a7bfac81cc2d1237341ae5": {
+      "id": "d08c781d4242d67d34a7bfac81cc2d1237341ae5",
+      "teams": "Hc Thurgau - Ev Zug Academy",
+      "odds": {
+        "1": "1,35",
+        "2": "5,25",
+        "X": "5,80"
+      }
+    },
+    "5608d12cd8a85ce890c9b203aabe5600d3118e91": {
+      "id": "5608d12cd8a85ce890c9b203aabe5600d3118e91",
+      "teams": "Chaux de F. - Langenthal",
       "odds": {
         "1": "2,45",
-        "2": "1,70",
+        "2": "4,30",
+        "X": "2,20"
+      }
+    },
+    "48e51103888f7c6242df2451e983ef2ecbb37a10": {
+      "id": "48e51103888f7c6242df2451e983ef2ecbb37a10",
+      "teams": "Hc Sierre - Hc Ajoie",
+      "odds": {
+        "1": "4,10",
+        "2": "5,10",
+        "X": "1,50"
+      }
+    },
+    "5bbbe2447232558c222dc655bccebf5787c739b9": {
+      "id": "5bbbe2447232558c222dc655bccebf5787c739b9",
+      "teams": "Iisalmen Peli-Karhut - Kajaanin Hokki",
+      "odds": {
+        "1": "1,30",
+        "2": "6,20",
+        "X": "6,50"
+      }
+    },
+    "fe69dad406a7011456567657b55d45ee1c2f1441": {
+      "id": "fe69dad406a7011456567657b55d45ee1c2f1441",
+      "teams": "Heinolan P. - Jokipojat Joensuu",
+      "odds": {
+        "1": "2,80",
+        "2": "4,60",
+        "X": "1,90"
+      }
+    },
+    "6c9b562ceeeee8b3dca29cbc382b1808ba198e94": {
+      "id": "6c9b562ceeeee8b3dca29cbc382b1808ba198e94",
+      "teams": "Koo-Vee - K-Vantaa",
+      "odds": {
+        "1": "1,80",
+        "2": "4,90",
+        "X": "3,00"
+      }
+    },
+    "d2172836872ca6cd59044ceddbfd49e1e91d2fed": {
+      "id": "d2172836872ca6cd59044ceddbfd49e1e91d2fed",
+      "teams": "Kettera - Sapko",
+      "odds": {
+        "1": "1,80",
+        "2": "4,70",
+        "X": "3,10"
+      }
+    },
+    "68f1147a6e72400a9876d494b19f647b5e282e2c": {
+      "id": "68f1147a6e72400a9876d494b19f647b5e282e2c",
+      "teams": "Keupa - TuTo",
+      "odds": {
+        "1": "2,15",
+        "2": "4,60",
+        "X": "2,50"
+      }
+    },
+    "d7e9ca6540003161365e595a9bf07ee0ecfe5d5b": {
+      "id": "d7e9ca6540003161365e595a9bf07ee0ecfe5d5b",
+      "teams": "Hermes - RoKi",
+      "odds": {
+        "1": "1,65",
+        "2": "4,90",
+        "X": "3,70"
+      }
+    },
+    "ed8cc526a6482bb912c7f517c6f96bf629d3cdb8": {
+      "id": "ed8cc526a6482bb912c7f517c6f96bf629d3cdb8",
+      "teams": "Narvik - Gruner Ishockey",
+      "odds": {
+        "1": "1,32",
+        "2": "6,00",
+        "X": "6,50"
+      }
+    },
+    "d743548da20a9e4cc5e663915e72052cfbfc51ab": {
+      "id": "d743548da20a9e4cc5e663915e72052cfbfc51ab",
+      "teams": "Yuzhny Ural Orsk - Hk Dynamo Tver",
+      "odds": {
+        "1": "1,95",
+        "2": "3,80",
+        "X": "3,20"
+      }
+    },
+    "52b9c48050ee8dfe57416f87717fbb06b2d11ce0": {
+      "id": "52b9c48050ee8dfe57416f87717fbb06b2d11ce0",
+      "teams": "Zauralye Kurgan - SKA Karelia",
+      "odds": {
+        "1": "3,20",
+        "2": "3,90",
+        "X": "1,90"
+      }
+    },
+    "052ddf43c72199d4886dde895d9d4310039e6d83": {
+      "id": "052ddf43c72199d4886dde895d9d4310039e6d83",
+      "teams": "Manitoba - Rockford",
+      "odds": {
+        "1": "2,45",
+        "2": "4,00",
+        "X": "2,35"
+      }
+    },
+    "c6e7644aef90fab447bed662cb2a4ec2c652e968": {
+      "id": "c6e7644aef90fab447bed662cb2a4ec2c652e968",
+      "teams": "Lehigh V. - Hershey",
+      "odds": {
+        "1": "2,90",
+        "2": "3,75",
+        "X": "2,10"
+      }
+    },
+    "dada63af0562b6c67ce9abf48857ed62187d32e3": {
+      "id": "dada63af0562b6c67ce9abf48857ed62187d32e3",
+      "teams": "Chicago W. - Milwaukee",
+      "odds": {
+        "1": "2,70",
+        "2": "3,75",
+        "X": "2,25"
+      }
+    },
+    "8d35d980a7a92e15dc15c28101187c304742c619": {
+      "id": "8d35d980a7a92e15dc15c28101187c304742c619",
+      "teams": "San Jose - Bakersfield",
+      "odds": {
+        "1": "2,35",
+        "2": "4,50",
+        "X": "2,25"
+      }
+    },
+    "22e1b731b5e7cc41e122a0c0b198a5f2ec4ea2ba": {
+      "id": "22e1b731b5e7cc41e122a0c0b198a5f2ec4ea2ba",
+      "teams": "Modo Hockey - Timra",
+      "odds": {
+        "1": "1,85",
+        "2": "4,20",
+        "X": "3,30"
+      }
+    },
+    "0ca2e0ac916febe55550fdc9de4da03f8b8051b4": {
+      "id": "0ca2e0ac916febe55550fdc9de4da03f8b8051b4",
+      "teams": "TPS Turku - Davos",
+      "odds": {
+        "1": "4,25",
+        "2": "4,60",
+        "X": "1,62"
+      }
+    },
+    "9f1a04fe760597a30f2718707c6661b23d64c1ca": {
+      "id": "9f1a04fe760597a30f2718707c6661b23d64c1ca",
+      "teams": "Trinec - Ufa",
+      "odds": {
+        "1": "2,65",
+        "2": "4,00",
+        "X": "2,25"
+      }
+    },
+    "239220fd88c6febf3399a3080d6cf99ecb6a2d5a": {
+      "id": "239220fd88c6febf3399a3080d6cf99ecb6a2d5a",
+      "teams": "Bc Timisoara - BCM U Pitesti",
+      "odds": {
+        "1": "1,45",
+        "2": "16,00",
+        "X": "3,10"
+      }
+    },
+    "d449232789224c211aa78afbcc837eb58ee5f764": {
+      "id": "d449232789224c211aa78afbcc837eb58ee5f764",
+      "teams": "Toronto Raptors - Oklahoma City Thunder",
+      "odds": {
+        "1": "1,75",
+        "2": "14,00",
+        "X": "2,35"
+      }
+    },
+    "51c59ef508c7d66aec757be2113968a82e391571": {
+      "id": "51c59ef508c7d66aec757be2113968a82e391571",
+      "teams": "Denver Nuggets - Sacramento Kings",
+      "odds": {
+        "1": "1,23",
+        "2": "17,00",
+        "X": "5,00"
+      }
+    },
+    "7e7fedfe903f1266c65e4e4b4afed4af7c655214": {
+      "id": "7e7fedfe903f1266c65e4e4b4afed4af7c655214",
+      "teams": "Memphis Grizzlies - Charlotte",
+      "odds": {
+        "1": "1,70",
+        "2": "15,00",
+        "X": "2,40"
+      }
+    },
+    "c8504f048e40d1ae0460f93c985e73ad6d98acff": {
+      "id": "c8504f048e40d1ae0460f93c985e73ad6d98acff",
+      "teams": "New Orleans Pelicans - Houston Rockets",
+      "odds": {
+        "1": "2,75",
+        "2": "16,00",
+        "X": "1,55"
+      }
+    },
+    "06f980598a2bfa4dd8c9fbd1f46d31cb28a7b80b": {
+      "id": "06f980598a2bfa4dd8c9fbd1f46d31cb28a7b80b",
+      "teams": "Los Angeles Lakers - Dallas Mavericks",
+      "odds": {
+        "1": "1,70",
+        "2": "14,00",
+        "X": "2,45"
+      }
+    },
+    "aade57d68c9482ef3fe31395cc92e03014d601a0": {
+      "id": "aade57d68c9482ef3fe31395cc92e03014d601a0",
+      "teams": "Krka - Zadar",
+      "odds": {
+        "1": "1,42",
+        "2": "16,00",
+        "X": "3,10"
+      }
+    },
+    "725f99959a2bb8ddd110f1c0715586edc1dd667f": {
+      "id": "725f99959a2bb8ddd110f1c0715586edc1dd667f",
+      "teams": "Partizan Belgrad - Primorska",
+      "odds": {
+        "1": "-",
+        "2": "20,00",
+        "X": "11,00"
+      }
+    },
+    "37c497c666acd94cb0d61880d7370bbdd020ea4a": {
+      "id": "37c497c666acd94cb0d61880d7370bbdd020ea4a",
+      "teams": "Bayreuth - LTi Giessen 46ers",
+      "odds": {
+        "1": "1,40",
+        "2": "16,00",
+        "X": "3,35"
+      }
+    },
+    "ce45ba934cb857dd09a3fe08c68df64d158b5270": {
+      "id": "ce45ba934cb857dd09a3fe08c68df64d158b5270",
+      "teams": "Crailsheim M. - Ulm",
+      "odds": {
+        "1": "2,30",
+        "2": "16,00",
+        "X": "1,75"
+      }
+    },
+    "0c9a078605f2dc431b32e2ff69e0d042ded9e07d": {
+      "id": "0c9a078605f2dc431b32e2ff69e0d042ded9e07d",
+      "teams": "Hamburg Towers - Sc Rasta Vechta",
+      "odds": {
+        "1": "3,55",
+        "2": "17,00",
+        "X": "1,37"
+      }
+    },
+    "f811059d08213d06194446ed69fee8706f7012d5": {
+      "id": "f811059d08213d06194446ed69fee8706f7012d5",
+      "teams": "S.Oliver Baskets - Bonn",
+      "odds": {
+        "1": "1,33",
+        "2": "15,00",
+        "X": "4,00"
+      }
+    },
+    "bb255f844faa5aa065b266295d00022896df697d": {
+      "id": "bb255f844faa5aa065b266295d00022896df697d",
+      "teams": "Bologna - AJ Milano",
+      "odds": {
+        "1": "1,80",
+        "2": "14,00",
+        "X": "2,25"
+      }
+    },
+    "b5be42990d1a6ffaa0b66819f5e9478dd832468a": {
+      "id": "b5be42990d1a6ffaa0b66819f5e9478dd832468a",
+      "teams": "Pallacanestro Varese - Trentino",
+      "odds": {
+        "1": "1,37",
+        "2": "16,00",
+        "X": "3,55"
+      }
+    },
+    "ea9d4982fb5d44381b6e93ffa5858a5be18cc9a3": {
+      "id": "ea9d4982fb5d44381b6e93ffa5858a5be18cc9a3",
+      "teams": "Trieste - Fortitudo Bologna 103",
+      "odds": {
+        "1": "1,90",
+        "2": "14,00",
+        "X": "2,10"
+      }
+    },
+    "f57d18358a0c6717538100c30be68540a363213d": {
+      "id": "f57d18358a0c6717538100c30be68540a363213d",
+      "teams": "Umana Venezia - VL Pesaro",
+      "odds": {
+        "1": "1,07",
+        "2": "23,00",
+        "X": "11,00"
+      }
+    },
+    "33d12af6440046a2c7738e87519c2fdebfd85d3c": {
+      "id": "33d12af6440046a2c7738e87519c2fdebfd85d3c",
+      "teams": "Reggio Emilia - Virtus Roma",
+      "odds": {
+        "1": "1,47",
+        "2": "16,00",
+        "X": "3,00"
+      }
+    },
+    "4aa4c69aa5286af8e4a3e18b9463fec7d9dd9bad": {
+      "id": "4aa4c69aa5286af8e4a3e18b9463fec7d9dd9bad",
+      "teams": "Brindisi - Treviso",
+      "odds": {
+        "1": "1,32",
+        "2": "18,00",
+        "X": "3,90"
+      }
+    },
+    "66e91ed8fa05d5ccf24c7ea79cd18df99e56db21": {
+      "id": "66e91ed8fa05d5ccf24c7ea79cd18df99e56db21",
+      "teams": "MoraBanc Andorra - Joventut",
+      "odds": {
+        "1": "1,55",
+        "2": "15,00",
+        "X": "2,75"
+      }
+    },
+    "b51d0089eebfe2785ceb8b80b30f0b84ee243a34": {
+      "id": "b51d0089eebfe2785ceb8b80b30f0b84ee243a34",
+      "teams": "Barcelona - Real Madrid",
+      "odds": {
+        "1": "1,60",
+        "2": "15,00",
+        "X": "2,70"
+      }
+    },
+    "c139062193618cc0ae5a0176ea410226a83ec587": {
+      "id": "c139062193618cc0ae5a0176ea410226a83ec587",
+      "teams": "Valencia B. - Cb Canarias",
+      "odds": {
+        "1": "1,43",
+        "2": "15,00",
+        "X": "3,30"
+      }
+    },
+    "1bb026921d9e2a17beb60818512607b4df64b2a0": {
+      "id": "1bb026921d9e2a17beb60818512607b4df64b2a0",
+      "teams": "Ogm Ormanspor - Pinar",
+      "odds": {
+        "1": "5,20",
+        "2": "17,00",
+        "X": "1,20"
+      }
+    },
+    "4f638aa8fc4a3d184773a742f8e73a7e1c99f727": {
+      "id": "4f638aa8fc4a3d184773a742f8e73a7e1c99f727",
+      "teams": "Anadolu Efes Istanbul - Darussafaka",
+      "odds": {
+        "1": "1,10",
+        "2": "20,00",
+        "X": "8,00"
+      }
+    },
+    "7dbe17640ead1d1555b0545dbde7de7caa53ad97": {
+      "id": "7dbe17640ead1d1555b0545dbde7de7caa53ad97",
+      "teams": "Sheffield S. - Leicester",
+      "odds": {
+        "1": "1,80",
+        "2": "14,00",
+        "X": "2,10"
+      }
+    },
+    "1e829b6046f349b8d7b2ff6594ab855776cdfd38": {
+      "id": "1e829b6046f349b8d7b2ff6594ab855776cdfd38",
+      "teams": "Manchester G. - Worcester W.",
+      "odds": {
+        "1": "9,50",
+        "2": "22,00",
+        "X": "1,05"
+      }
+    },
+    "a65c77aee8bb0508f6c63af077b10bad5fc32b41": {
+      "id": "a65c77aee8bb0508f6c63af077b10bad5fc32b41",
+      "teams": "Glasgow R. - Newcastle E.",
+      "odds": {
+        "1": "2,45",
+        "2": "15,00",
+        "X": "1,60"
+      }
+    },
+    "14de35fbba2464c80f619d7f2bb448390c941168": {
+      "id": "14de35fbba2464c80f619d7f2bb448390c941168",
+      "teams": "Gmunden - Traiskirchen",
+      "odds": {
+        "1": "-",
+        "2": "23,00",
+        "X": "17,00"
+      }
+    },
+    "5be1adbd5493cf287c32e60556390699c0130e23": {
+      "id": "5be1adbd5493cf287c32e60556390699c0130e23",
+      "teams": "Oberwart - BC Vienna",
+      "odds": {
+        "1": "1,13",
+        "2": "20,00",
+        "X": "6,50"
+      }
+    },
+    "8d0c92c7e59a2cfcd4be65978478ff6d6bd71da7": {
+      "id": "8d0c92c7e59a2cfcd4be65978478ff6d6bd71da7",
+      "teams": "Ubsc Graz - Kapfenberg",
+      "odds": {
+        "1": "4,30",
+        "2": "17,00",
+        "X": "1,23"
+      }
+    },
+    "3b4429bac5912666ec9fc6887ef3d0abbd000e3c": {
+      "id": "3b4429bac5912666ec9fc6887ef3d0abbd000e3c",
+      "teams": "Sao Paulo Fc - Pato Basquete",
+      "odds": {
+        "1": "1,20",
+        "2": "20,00",
+        "X": "4,80"
+      }
+    },
+    "0b70f3be65178af11076069ef7ae4104c9e61417": {
+      "id": "0b70f3be65178af11076069ef7ae4104c9e61417",
+      "teams": "Minas - Bc Brasília",
+      "odds": {
+        "1": "1,25",
+        "2": "19,00",
+        "X": "4,20"
+      }
+    },
+    "8e064678641a9b23304e46a60e35802ea4c60c4e": {
+      "id": "8e064678641a9b23304e46a60e35802ea4c60c4e",
+      "teams": "Pardubice - Kralovsti Sokoli",
+      "odds": {
+        "1": "1,10",
+        "2": "20,00",
+        "X": "7,50"
+      }
+    },
+    "a4e7af7fdcc65baa655ec0200352e3950bba778c": {
+      "id": "a4e7af7fdcc65baa655ec0200352e3950bba778c",
+      "teams": "USK Praga - Usti Nad L.",
+      "odds": {
+        "1": "1,35",
+        "2": "16,00",
+        "X": "3,40"
+      }
+    },
+    "f8f7c5aae340bceae541384e181242c996e1e5e4": {
+      "id": "f8f7c5aae340bceae541384e181242c996e1e5e4",
+      "teams": "Kolin - Brno",
+      "odds": {
+        "1": "2,40",
+        "2": "14,00",
+        "X": "1,60"
+      }
+    },
+    "fecce05d577cba89c28cb569458e81e8730b80a9": {
+      "id": "fecce05d577cba89c28cb569458e81e8730b80a9",
+      "teams": "Decin - Ostrava",
+      "odds": {
+        "1": "1,10",
+        "2": "20,00",
+        "X": "7,00"
+      }
+    },
+    "ddf3852d09aad174b54950fba92faa3bea4c5d94": {
+      "id": "ddf3852d09aad174b54950fba92faa3bea4c5d94",
+      "teams": "Svitavy - Bk Olomoucko Prostejov",
+      "odds": {
+        "1": "1,55",
+        "2": "15,00",
+        "X": "2,60"
+      }
+    },
+    "9f2ce4d58b0ce435a8406c50fae5fe2209441d4c": {
+      "id": "9f2ce4d58b0ce435a8406c50fae5fe2209441d4c",
+      "teams": "Lahti Basketball - Lapuan",
+      "odds": {
+        "1": "1,18",
+        "2": "18,00",
+        "X": "5,20"
+      }
+    },
+    "a31788cda0520441b08611b47be192ccfc7879c1": {
+      "id": "a31788cda0520441b08611b47be192ccfc7879c1",
+      "teams": "Pyrinto - Kauhajoen",
+      "odds": {
+        "1": "2,10",
+        "2": "14,00",
+        "X": "1,80"
+      }
+    },
+    "2f8d5434366039d484bab52e39dc8331c0a2333e": {
+      "id": "2f8d5434366039d484bab52e39dc8331c0a2333e",
+      "teams": "Panionios - Panathinaikos",
+      "odds": {
+        "1": "20,00",
+        "2": "25,00",
+        "X": "-"
+      }
+    },
+    "9e53ea04272fe3bc54c28c1f64c966d66a41c2a3": {
+      "id": "9e53ea04272fe3bc54c28c1f64c966d66a41c2a3",
+      "teams": "Galil Gilboa - Hapoel Eilat",
+      "odds": {
+        "1": "1,75",
+        "2": "15,00",
+        "X": "2,25"
+      }
+    },
+    "0f746d6f07fbb2c0ea5e1c73499f1afb49a51af5": {
+      "id": "0f746d6f07fbb2c0ea5e1c73499f1afb49a51af5",
+      "teams": "H.Beer Sheva - Maccabi TA",
+      "odds": {
+        "1": "7,00",
+        "2": "22,00",
+        "X": "1,12"
+      }
+    },
+    "2e61217011c423db617f7b9e59f08d4cedf54479": {
+      "id": "2e61217011c423db617f7b9e59f08d4cedf54479",
+      "teams": "Pallacanestro 2.015 Forli - Agribertocchi Orzinuovi",
+      "odds": {
+        "1": "1,12",
+        "2": "20,00",
+        "X": "6,50"
+      }
+    },
+    "00f0df149657e4f810446a0e8f105e0c04692fb5": {
+      "id": "00f0df149657e4f810446a0e8f105e0c04692fb5",
+      "teams": "Assigeco - Poderosa Pallacanestro Montegranaro",
+      "odds": {
+        "1": "1,40",
+        "2": "16,00",
+        "X": "3,00"
+      }
+    },
+    "fccb88158ec5dd93b2d5ecdfe64170a80227fcc5": {
+      "id": "fccb88158ec5dd93b2d5ecdfe64170a80227fcc5",
+      "teams": "Aget Imola - Resende Costa Freitas V / Santos N M",
+      "odds": {
+        "1": "1,40",
+        "2": "16,00",
+        "X": "3,10"
+      }
+    },
+    "4164ab687116791823ae9f1900b8cbb73c34baa9": {
+      "id": "4164ab687116791823ae9f1900b8cbb73c34baa9",
+      "teams": "Ferrara - Ravenna",
+      "odds": {
+        "1": "2,05",
+        "2": "13,00",
+        "X": "1,85"
+      }
+    },
+    "bc2a81c1d6b4a61003092aa9401de939efddb3e0": {
+      "id": "bc2a81c1d6b4a61003092aa9401de939efddb3e0",
+      "teams": "Roseto - Juvecaserta",
+      "odds": {
+        "1": "2,50",
+        "2": "15,00",
+        "X": "1,60"
+      }
+    },
+    "7c442f5e3bb16310e6a9bac7a120afb650e6fcac": {
+      "id": "7c442f5e3bb16310e6a9bac7a120afb650e6fcac",
+      "teams": "Torino - Orlandina",
+      "odds": {
+        "1": "1,27",
+        "2": "18,00",
+        "X": "4,00"
+      }
+    },
+    "f51237d3d07a3860375a6f52b332dc7de19fcd08": {
+      "id": "f51237d3d07a3860375a6f52b332dc7de19fcd08",
+      "teams": "Trapani - Givova Scafati",
+      "odds": {
+        "1": "1,85",
+        "2": "13,00",
+        "X": "2,05"
+      }
+    },
+    "54bba5ff98a48bb25c9eec4ee1ac31d82c15278c": {
+      "id": "54bba5ff98a48bb25c9eec4ee1ac31d82c15278c",
+      "teams": "Fortitudo Agrigento - Angelico Biella",
+      "odds": {
+        "1": "1,85",
+        "2": "13,00",
+        "X": "2,05"
+      }
+    },
+    "ca2cfb5dc8cebaf7f44303c4476cdde1aadcd715": {
+      "id": "ca2cfb5dc8cebaf7f44303c4476cdde1aadcd715",
+      "teams": "Npc Rieti - Treviglio",
+      "odds": {
+        "1": "1,90",
+        "2": "13,00",
+        "X": "2,00"
+      }
+    },
+    "96b41efea6e8df0f11bdb2b3c1e7dcf4bc02b6da": {
+      "id": "96b41efea6e8df0f11bdb2b3c1e7dcf4bc02b6da",
+      "teams": "Latina - Napoli Basket",
+      "odds": {
+        "1": "2,55",
+        "2": "15,00",
+        "X": "1,57"
+      }
+    },
+    "8f01ff18bee03461171290e486037082d0284334": {
+      "id": "8f01ff18bee03461171290e486037082d0284334",
+      "teams": "Azimut Bergamo - Tortona",
+      "odds": {
+        "1": "6,50",
+        "2": "20,00",
+        "X": "1,13"
+      }
+    },
+    "c5f1cce478e7a7eb09aa913b79fb758176b7635b": {
+      "id": "c5f1cce478e7a7eb09aa913b79fb758176b7635b",
+      "teams": "Prienai - Siauliai",
+      "odds": {
+        "1": "1,43",
+        "2": "16,00",
+        "X": "3,10"
+      }
+    },
+    "7a48a594f9a08d64f172779dc45ff6f2e2b18953": {
+      "id": "7a48a594f9a08d64f172779dc45ff6f2e2b18953",
+      "teams": "Kedainiai - Pieno Z.",
+      "odds": {
+        "1": "2,35",
+        "2": "15,00",
+        "X": "1,70"
+      }
+    },
+    "6616cdfb8d9fab5fa5c6107265286235d2f31e38": {
+      "id": "6616cdfb8d9fab5fa5c6107265286235d2f31e38",
+      "teams": "Trefl Sopot - Rosa Radom",
+      "odds": {
+        "1": "1,37",
+        "2": "16,00",
+        "X": "3,40"
+      }
+    },
+    "34b8692cba8cf8a381067ab62c822427f0035ed8": {
+      "id": "34b8692cba8cf8a381067ab62c822427f0035ed8",
+      "teams": "Start Lublin - Legia Warszawa",
+      "odds": {
+        "1": "1,08",
+        "2": "21,00",
+        "X": "9,00"
+      }
+    },
+    "90c865dffd56feeb5edd0b1f32e43364b2c68a9e": {
+      "id": "90c865dffd56feeb5edd0b1f32e43364b2c68a9e",
+      "teams": "Palma Air - Caprabo Lleida",
+      "odds": {
+        "1": "1,08",
+        "2": "20,00",
+        "X": "9,00"
+      }
+    },
+    "f216460d2c878bf56185af5803e12dc43818a5eb": {
+      "id": "f216460d2c878bf56185af5803e12dc43818a5eb",
+      "teams": "Gipuzkoa Basket - Lucentum Alicante",
+      "odds": {
+        "1": "1,33",
+        "2": "16,00",
+        "X": "3,70"
+      }
+    },
+    "ce2d20390b05d9ac9819a7ef3e124d246461f5dc": {
+      "id": "ce2d20390b05d9ac9819a7ef3e124d246461f5dc",
+      "teams": "Leyma C. - Caceres Patrimonio De La Humanidad",
+      "odds": {
+        "1": "1,65",
+        "2": "14,00",
+        "X": "2,40"
+      }
+    },
+    "c020b63d2952621c074ab73efa732012c5977bc1": {
+      "id": "c020b63d2952621c074ab73efa732012c5977bc1",
+      "teams": "F/CS Magura Cisnadiei - F/CSM Bistrita",
+      "odds": {
+        "1": "1,65",
+        "2": "8,00",
+        "X": "2,80"
+      }
+    },
+    "1f175df8741ec3bc7c3b95f6d6083743b23caf20": {
+      "id": "1f175df8741ec3bc7c3b95f6d6083743b23caf20",
+      "teams": "F/CJF Fleury Les Aubrais - F/Bourg De Peage",
+      "odds": {
+        "1": "1,15",
+        "2": "12,00",
+        "X": "7,20"
+      }
+    },
+    "4fca9bc9bfd83ae868fd31a3c768335bf35b4bd4": {
+      "id": "4fca9bc9bfd83ae868fd31a3c768335bf35b4bd4",
+      "teams": "F/Issy Paris - F/Brest Bretagne",
+      "odds": {
+        "1": "5,30",
+        "2": "10,00",
+        "X": "1,25"
+      }
+    },
+    "c0904d74220c3c78c3445937297385e67adf5b7a": {
+      "id": "c0904d74220c3c78c3445937297385e67adf5b7a",
+      "teams": "F/Merignac - F/Ogc Nice Cote D'azur",
+      "odds": {
+        "1": "7,20",
+        "2": "12,00",
+        "X": "1,15"
+      }
+    },
+    "e9ab060baa9ec1016541478b2ec0d55823cee292": {
+      "id": "e9ab060baa9ec1016541478b2ec0d55823cee292",
+      "teams": "F/Metz - F/Nantes Loire",
+      "odds": {
+        "1": "1,05",
+        "2": "18,00",
+        "X": "10,00"
+      }
+    },
+    "130367ccca507d5b67cb45af86648112781406a7": {
+      "id": "130367ccca507d5b67cb45af86648112781406a7",
+      "teams": "F/ESBF Besancon - F/Chambray Touraine",
+      "odds": {
+        "1": "1,18",
+        "2": "12,00",
+        "X": "6,00"
+      }
+    },
+    "2a848032b2a6b18db2a3eed7681ac0a19d4e6acb": {
+      "id": "2a848032b2a6b18db2a3eed7681ac0a19d4e6acb",
+      "teams": "F/Toulon Saint Cyr Var Handball - F/Cercle Dijon Bourgogne",
+      "odds": {
+        "1": "1,35",
+        "2": "9,00",
+        "X": "4,00"
+      }
+    },
+    "b3bc056b2284518fc2baf89517d7fa61afa7cc4e": {
+      "id": "b3bc056b2284518fc2baf89517d7fa61afa7cc4e",
+      "teams": "SC Magdeburg - HSG Wetzlar",
+      "odds": {
+        "1": "1,22",
+        "2": "11,00",
+        "X": "6,20"
+      }
+    },
+    "f251609cc97d8d2b4470fcec51a036ef1caba347": {
+      "id": "f251609cc97d8d2b4470fcec51a036ef1caba347",
+      "teams": "HC Erlangen - Melsungen",
+      "odds": {
+        "1": "2,30",
+        "2": "8,00",
+        "X": "1,95"
+      }
+    },
+    "d8350b8cdd5aedaff32aa9a2af8d1555bfb79170": {
+      "id": "d8350b8cdd5aedaff32aa9a2af8d1555bfb79170",
+      "teams": "Ludwigshafen - Goppingen",
+      "odds": {
+        "1": "2,75",
+        "2": "8,50",
+        "X": "1,70"
+      }
+    },
+    "8c76cd975d551a82904c145e50caea0317ce2bb1": {
+      "id": "8c76cd975d551a82904c145e50caea0317ce2bb1",
+      "teams": "Tvb Stuttgart - Fuchse Berlin",
+      "odds": {
+        "1": "3,20",
+        "2": "9,00",
+        "X": "1,55"
+      }
+    },
+    "9c0f8f9389b5b172de4c578b8333ef87e015f23e": {
+      "id": "9c0f8f9389b5b172de4c578b8333ef87e015f23e",
+      "teams": "Bergischer - Nordhorn",
+      "odds": {
+        "1": "1,10",
+        "2": "15,50",
+        "X": "10,00"
+      }
+    },
+    "04fcc93e684700b37a535776eab20dcc01210f5f": {
+      "id": "04fcc93e684700b37a535776eab20dcc01210f5f",
+      "teams": "THW Kiel - TVV Lemgo",
+      "odds": {
+        "1": "1,12",
+        "2": "16,00",
+        "X": "9,50"
+      }
+    },
+    "0312c30a8fc24a306e42133ebf396bb69a920756": {
+      "id": "0312c30a8fc24a306e42133ebf396bb69a920756",
+      "teams": "Balingen - SC Leipzig",
+      "odds": {
+        "1": "2,30",
+        "2": "7,50",
+        "X": "2,00"
+      }
+    },
+    "bc29eccb63c803c5c5360f68597d2e476a538c47": {
+      "id": "bc29eccb63c803c5c5360f68597d2e476a538c47",
+      "teams": "Minden - TSV Hannover Burgdorf",
+      "odds": {
+        "1": "3,00",
+        "2": "8,80",
+        "X": "1,62"
+      }
+    },
+    "4d52f26e310f83353280fdc1b458504120bd4f24": {
+      "id": "4d52f26e310f83353280fdc1b458504120bd4f24",
+      "teams": "F/Thuringer HC - F/Auerbach",
+      "odds": {
+        "1": "-",
+        "2": "20,00",
         "X": "15,00"
       }
     },
-    "6d3647a397e380e6c1bf3b04341363722a5b755c": {
-      "id": "6d3647a397e380e6c1bf3b04341363722a5b755c",
-      "teams": "Brescia Leonessa - Cremona",
+    "8e1a1653678568498828413e6329a95a78763022": {
+      "id": "8e1a1653678568498828413e6329a95a78763022",
+      "teams": "F/Buxtehuder SV - F/Blomberg-Lippe",
       "odds": {
-        "1": "1,40",
-        "2": "3,45",
-        "X": "16,00"
+        "1": "5,00",
+        "2": "11,00",
+        "X": "1,28"
       }
     },
-    "e364c4721ac079c895114058d326c7d6ae2e9f17": {
-      "id": "e364c4721ac079c895114058d326c7d6ae2e9f17",
-      "teams": "Brindisi - Reggio Emilia",
-      "odds": {
-        "1": "1,42",
-        "2": "3,30",
-        "X": "16,00"
-      }
-    },
-    "726278adaa54517d2889c809d0ca236a7725f2b0": {
-      "id": "726278adaa54517d2889c809d0ca236a7725f2b0",
-      "teams": "Trentino - Trieste",
-      "odds": {
-        "1": "1,40",
-        "2": "3,40",
-        "X": "16,00"
-      }
-    },
-    "3afbbdd23b44e8f2dc82b5a3cb1d10e1e1cdfd37": {
-      "id": "3afbbdd23b44e8f2dc82b5a3cb1d10e1e1cdfd37",
-      "teams": "Oostende - Stella Artois Leuven Bears",
+    "72cc2fce40bc68413767058c2d429762ab66f5ab": {
+      "id": "72cc2fce40bc68413767058c2d429762ab66f5ab",
+      "teams": "F/TSV Bayer 04 Leverkusen - F/HSG Bad Wildungen",
       "odds": {
         "1": "1,12",
-        "2": "7,00",
-        "X": "18,00"
+        "2": "15,00",
+        "X": "8,50"
       }
     },
-    "9fc3164001d8e5752e5ab9066732db5d0fdd7255": {
-      "id": "9fc3164001d8e5752e5ab9066732db5d0fdd7255",
-      "teams": "Brussels B. - Limburg",
+    "d98943893ac0d49997e26613e4474d77d253d957": {
+      "id": "d98943893ac0d49997e26613e4474d77d253d957",
+      "teams": "1. Fsv Mainz 05 Women - F/FA Goppingen",
       "odds": {
-        "1": "1,80",
-        "2": "2,15",
+        "1": "5,00",
+        "2": "10,00",
+        "X": "1,27"
+      }
+    },
+    "cc8250924a54a12b0d75b53c052ed62f459fecae": {
+      "id": "cc8250924a54a12b0d75b53c052ed62f459fecae",
+      "teams": "F/VFL Oldenburg - F/TuS Metzingen",
+      "odds": {
+        "1": "7,25",
+        "2": "13,00",
+        "X": "1,17"
+      }
+    },
+    "dbd9a0c022457f8ec1cc1acd1bfd360afd0213aa": {
+      "id": "dbd9a0c022457f8ec1cc1acd1bfd360afd0213aa",
+      "teams": "F/Neckarsulmer SU - F/Kurpfalz Baren Ketsch",
+      "odds": {
+        "1": "1,35",
+        "2": "10,00",
+        "X": "4,25"
+      }
+    },
+    "faf4a32b86c21dc5a293e2410e4b6853ecd5c285": {
+      "id": "faf4a32b86c21dc5a293e2410e4b6853ecd5c285",
+      "teams": "F/BVB Dortmund - F/SG BBM Bietigheim",
+      "odds": {
+        "1": "2,15",
+        "2": "8,50",
+        "X": "2,05"
+      }
+    },
+    "a6772a1c1bea74171dabdf093e24bff0e3df7dad": {
+      "id": "a6772a1c1bea74171dabdf093e24bff0e3df7dad",
+      "teams": "F/Skara - F/Hoors H65",
+      "odds": {
+        "1": "10,00",
+        "2": "16,00",
+        "X": "1,07"
+      }
+    },
+    "ff7a0ef80c84ce3fc56f7f1df421cd430f07057a": {
+      "id": "ff7a0ef80c84ce3fc56f7f1df421cd430f07057a",
+      "teams": "F/Lugi - F/Savehof",
+      "odds": {
+        "1": "3,80",
+        "2": "10,00",
+        "X": "1,40"
+      }
+    },
+    "ea863e6a6e69331d9b27ddee0f2ac41698b351f7": {
+      "id": "ea863e6a6e69331d9b27ddee0f2ac41698b351f7",
+      "teams": "F/Erd - F/Fehervar",
+      "odds": {
+        "1": "1,05",
+        "2": "17,00",
+        "X": "10,00"
+      }
+    },
+    "826b5fcee217a32b0376025ff5103c5579a95ec3": {
+      "id": "826b5fcee217a32b0376025ff5103c5579a95ec3",
+      "teams": "Mtk-Budapest - F/Siofok Kc-Galerius Furdo",
+      "odds": {
+        "1": "10,00",
+        "2": "17,00",
+        "X": "1,05"
+      }
+    },
+    "381dd98fccdd350e76eb74674e41e71b23f6819f": {
+      "id": "381dd98fccdd350e76eb74674e41e71b23f6819f",
+      "teams": "F/Dunaujvarosi Akad. - F/Szent Istvan",
+      "odds": {
+        "1": "1,03",
+        "2": "15,00",
         "X": "14,00"
       }
     },
-    "1bb23de83b209278f8c639af1d570d09f49b382e": {
-      "id": "1bb23de83b209278f8c639af1d570d09f49b382e",
-      "teams": "Kangoeroes - Antwerp",
+    "52d25db2401372fd95f2458d790bde2cac631b27": {
+      "id": "52d25db2401372fd95f2458d790bde2cac631b27",
+      "teams": "F/Debreceni VSC - F/Szombathelyi Kka",
       "odds": {
-        "1": "2,70",
-        "2": "1,55",
-        "X": "15,00"
+        "1": "1,07",
+        "2": "16,00",
+        "X": "9,75"
       }
     },
-    "3fde8c5323ab83e8a6c73d07d4ac521329097102": {
-      "id": "3fde8c5323ab83e8a6c73d07d4ac521329097102",
-      "teams": "Liege - Aalstar",
+    "3772e9c9a579552ed726dd8d05d5264dd2d898ee": {
+      "id": "3772e9c9a579552ed726dd8d05d5264dd2d898ee",
+      "teams": "F/Mosonmagyarovari - F/Kisvarda",
       "odds": {
-        "1": "7,50",
-        "2": "1,10",
-        "X": "20,00"
+        "1": "2,15",
+        "2": "7,50",
+        "X": "2,00"
+      }
+    },
+    "be25851eb3823a884ca13aa7c7faecef88a7de54": {
+      "id": "be25851eb3823a884ca13aa7c7faecef88a7de54",
+      "teams": "F/Ftc - F/Gyori ETO KC",
+      "odds": {
+        "1": "5,00",
+        "2": "10,00",
+        "X": "1,25"
+      }
+    },
+    "7783980a8bf765aafb7e49762a6d2fff2e20abd9": {
+      "id": "7783980a8bf765aafb7e49762a6d2fff2e20abd9",
+      "teams": "Bekescsabai Enkse - F/Vaci Nkse",
+      "odds": {
+        "1": "5,70",
+        "2": "10,00",
+        "X": "1,20"
+      }
+    },
+    "914f79a76e544d68d73dfeed78909a7f1acceb1c": {
+      "id": "914f79a76e544d68d73dfeed78909a7f1acceb1c",
+      "teams": "Serbia - Croatia",
+      "odds": {
+        "1": "1,80",
+        "2": "7,00",
+        "X": "2,40"
+      }
+    },
+    "d3f3542c7b507cbbfd5098cbfc608a6afc4d0905": {
+      "id": "d3f3542c7b507cbbfd5098cbfc608a6afc4d0905",
+      "teams": "Cr Candoso - Sporting CP",
+      "odds": {
+        "1": "21,00",
+        "2": "12,00",
+        "X": "1,03"
+      }
+    },
+    "3fc13a250d69cad36bc125dce6facfe8af0eadbc": {
+      "id": "3fc13a250d69cad36bc125dce6facfe8af0eadbc",
+      "teams": "Mlada B. - Fbc Liberec",
+      "odds": {
+        "1": "1,07",
+        "2": "12,00",
+        "X": "12,00"
+      }
+    },
+    "0748e579a4f70069417b430d46f4298a3adb7b5f": {
+      "id": "0748e579a4f70069417b430d46f4298a3adb7b5f",
+      "teams": "Happee Jyvaskyla - Nokian Kristityt Palloilijat",
+      "odds": {
+        "1": "2,25",
+        "2": "5,75",
+        "X": "2,10"
+      }
+    },
+    "20158b669063e7aa5601a3196203b8cd75b9b521": {
+      "id": "20158b669063e7aa5601a3196203b8cd75b9b521",
+      "teams": "La Rochelle - Agen",
+      "odds": {
+        "1": "1,10",
+        "2": "35,00",
+        "X": "8,00"
+      }
+    },
+    "28dc6906cb8a22524e04857673301d486f6b6a9c": {
+      "id": "28dc6906cb8a22524e04857673301d486f6b6a9c",
+      "teams": "Section Paloise - Bordeaux B.",
+      "odds": {
+        "1": "2,20",
+        "2": "20,00",
+        "X": "1,72"
+      }
+    },
+    "c237f055c2fbe3f23f7b043f20f4c053e213840d": {
+      "id": "c237f055c2fbe3f23f7b043f20f4c053e213840d",
+      "teams": "Clermont A. - Castres",
+      "odds": {
+        "1": "1,10",
+        "2": "35,00",
+        "X": "7,50"
+      }
+    },
+    "aaaa2ee09b30ed5423f50765c3b3c40914e822d9": {
+      "id": "aaaa2ee09b30ed5423f50765c3b3c40914e822d9",
+      "teams": "Toulouse - RC Toulonnais",
+      "odds": {
+        "1": "1,18",
+        "2": "28,00",
+        "X": "5,00"
+      }
+    },
+    "4264fa2418cf151f897a071609d2bd95754c9380": {
+      "id": "4264fa2418cf151f897a071609d2bd95754c9380",
+      "teams": "Exeter - Saracens",
+      "odds": {
+        "1": "2,10",
+        "2": "20,00",
+        "X": "1,80"
+      }
+    },
+    "09cc7a50f4a2bd8c31e67ccc6bedb9b860236367": {
+      "id": "09cc7a50f4a2bd8c31e67ccc6bedb9b860236367",
+      "teams": "New England Patriots - Miami Dolphins",
+      "odds": {
+        "1": "1,10",
+        "2": "22,00",
+        "X": "8,00"
+      }
+    },
+    "2bbbd429d016fbfeeb07931e10959240a71b72f9": {
+      "id": "2bbbd429d016fbfeeb07931e10959240a71b72f9",
+      "teams": "Kansas City Chiefs - Los Angeles Chargers",
+      "odds": {
+        "1": "1,28",
+        "2": "17,00",
+        "X": "4,10"
+      }
+    },
+    "0345a842d3300d07a920db9575542dd6c0e43338": {
+      "id": "0345a842d3300d07a920db9575542dd6c0e43338",
+      "teams": "Buffalo Bills - New York Jets",
+      "odds": {
+        "1": "1,90",
+        "2": "12,00",
+        "X": "2,10"
+      }
+    },
+    "baaa8a05e4197b084756082417916696f3a3b6fc": {
+      "id": "baaa8a05e4197b084756082417916696f3a3b6fc",
+      "teams": "Tampa Bay Buccaneers - Atlanta Falcons",
+      "odds": {
+        "1": "2,00",
+        "2": "14,00",
+        "X": "2,00"
+      }
+    },
+    "519a3f3e4e482278042d1a89ccb445afddeb71ca": {
+      "id": "519a3f3e4e482278042d1a89ccb445afddeb71ca",
+      "teams": "Cincinnati Bengals - Cleveland Browns",
+      "odds": {
+        "1": "2,35",
+        "2": "13,00",
+        "X": "1,75"
+      }
+    },
+    "89c09bc4c18b39ac4ed033b09063efabd31f25ae": {
+      "id": "89c09bc4c18b39ac4ed033b09063efabd31f25ae",
+      "teams": "Minnesota Vikings - Chicago Bears",
+      "odds": {
+        "1": "2,50",
+        "2": "14,00",
+        "X": "1,65"
+      }
+    },
+    "6f6820647101896b6f3afc931614ec462a7f9f00": {
+      "id": "6f6820647101896b6f3afc931614ec462a7f9f00",
+      "teams": "Detroit Lions - Green Bay Packers",
+      "odds": {
+        "1": "5,20",
+        "2": "18,00",
+        "X": "1,20"
+      }
+    },
+    "cbc7c1ccf5785b4d6d31fd3e910f9118c9a62c40": {
+      "id": "cbc7c1ccf5785b4d6d31fd3e910f9118c9a62c40",
+      "teams": "Carolina Panthers - New Orleans Saints",
+      "odds": {
+        "1": "5,70",
+        "2": "20,00",
+        "X": "1,17"
+      }
+    },
+    "f318228aaf7d2d6d43fe2de4347cc603229019ce": {
+      "id": "f318228aaf7d2d6d43fe2de4347cc603229019ce",
+      "teams": "Dallas Cowboys - Washington Redskins",
+      "odds": {
+        "1": "1,20",
+        "2": "19,00",
+        "X": "5,30"
+      }
+    },
+    "e5ca753a31a10581b2e0dc390cc8590cba5e9513": {
+      "id": "e5ca753a31a10581b2e0dc390cc8590cba5e9513",
+      "teams": "Los Angeles Rams - Arizona Cardinals",
+      "odds": {
+        "1": "1,40",
+        "2": "15,00",
+        "X": "3,40"
+      }
+    },
+    "96c6bc1bf2551ad8cd5cc715c38a66b71a28b99e": {
+      "id": "96c6bc1bf2551ad8cd5cc715c38a66b71a28b99e",
+      "teams": "Denver Broncos - Oakland Raiders",
+      "odds": {
+        "1": "1,60",
+        "2": "15,00",
+        "X": "2,55"
+      }
+    },
+    "26d8e1ffbb0824f5860e2b1d2398f0676edba910": {
+      "id": "26d8e1ffbb0824f5860e2b1d2398f0676edba910",
+      "teams": "Baltimore Ravens - Pittsburgh Steelers",
+      "odds": {
+        "1": "2,15",
+        "2": "14,00",
+        "X": "1,85"
+      }
+    },
+    "b2546a78ae452e2deca9178850a84d1f7cf5258d": {
+      "id": "b2546a78ae452e2deca9178850a84d1f7cf5258d",
+      "teams": "New York Giants - Philadelphia Eagles",
+      "odds": {
+        "1": "2,70",
+        "2": "15,00",
+        "X": "1,55"
+      }
+    },
+    "d4ea8bc86a77e9cc757ae717151df3fcb34b2f85": {
+      "id": "d4ea8bc86a77e9cc757ae717151df3fcb34b2f85",
+      "teams": "Houston Texans - Tennessee Titans",
+      "odds": {
+        "1": "3,05",
+        "2": "15,00",
+        "X": "1,45"
+      }
+    },
+    "4ea37b07f644be61209d9328ce6bdebc4514f50c": {
+      "id": "4ea37b07f644be61209d9328ce6bdebc4514f50c",
+      "teams": "Jacksonville Jaguars - Indianapolis Colts",
+      "odds": {
+        "1": "3,10",
+        "2": "15,00",
+        "X": "1,45"
+      }
+    },
+    "e7368679e43923d7c04be6688fe69206b8a32560": {
+      "id": "e7368679e43923d7c04be6688fe69206b8a32560",
+      "teams": "Seattle Seahawks - San Francisco 49Ers",
+      "odds": {
+        "1": "2,55",
+        "2": "14,00",
+        "X": "1,62"
+      }
+    },
+    "b3d50597372032214ba442252c110b10dceb6e51": {
+      "id": "b3d50597372032214ba442252c110b10dceb6e51",
+      "teams": "Stefan Kraft - undefined",
+      "odds": {
+        "1": "2,65",
+        "2": "1,30",
+        "X": "-"
+      }
+    },
+    "b5bb807a2e02de945f722df0a64aee9e849768fb": {
+      "id": "b5bb807a2e02de945f722df0a64aee9e849768fb",
+      "teams": "Kobayashi, Ryoyu - undefined",
+      "odds": {
+        "1": "2,50",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "337615c26cd3e3408790bdc921160820a9a1d8a0": {
+      "id": "337615c26cd3e3408790bdc921160820a9a1d8a0",
+      "teams": "Kark Geiger - undefined",
+      "odds": {
+        "1": "10,00",
+        "2": "2,20",
+        "X": "-"
+      }
+    },
+    "809b4dbf7d354c89c681e35380756d85a4899533": {
+      "id": "809b4dbf7d354c89c681e35380756d85a4899533",
+      "teams": "Aschenwald, Philipp - undefined",
+      "odds": {
+        "1": "17,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "f7f115d376d8af885ba85e475b069e1d5ec2dc33": {
+      "id": "f7f115d376d8af885ba85e475b069e1d5ec2dc33",
+      "teams": "Kamil Stoch - undefined",
+      "odds": {
+        "1": "15,00",
+        "2": "2,75",
+        "X": "-"
+      }
+    },
+    "25c1d243cb6feb7e41454bc93def4ec3cd655741": {
+      "id": "25c1d243cb6feb7e41454bc93def4ec3cd655741",
+      "teams": "Lindvik, Marius - undefined",
+      "odds": {
+        "1": "20,00",
+        "2": "5,00",
+        "X": "-"
+      }
+    },
+    "46e71d4e1147e884a2626b2d782a67fb565d341a": {
+      "id": "46e71d4e1147e884a2626b2d782a67fb565d341a",
+      "teams": "Prevc, Peter - undefined",
+      "odds": {
+        "1": "25,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "7b2d91c1e3b920ab2767252c31db0b974a4a4dcf": {
+      "id": "7b2d91c1e3b920ab2767252c31db0b974a4a4dcf",
+      "teams": "Forfang, Johann Andre - undefined",
+      "odds": {
+        "1": "35,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "8771b3fdf99b7fbd94a26abcc77a1b316a081435": {
+      "id": "8771b3fdf99b7fbd94a26abcc77a1b316a081435",
+      "teams": "Piotr Żyła - undefined",
+      "odds": {
+        "1": "25,00",
+        "2": "10,00",
+        "X": "-"
+      }
+    },
+    "2929830864c1bcfe9fc3b34fb9c79b7858ade465": {
+      "id": "2929830864c1bcfe9fc3b34fb9c79b7858ade465",
+      "teams": "Eisenbichler, Markus - undefined",
+      "odds": {
+        "1": "150,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "61fe9808609e9b4ea0b39a862a4080fc2f45e5a0": {
+      "id": "61fe9808609e9b4ea0b39a862a4080fc2f45e5a0",
+      "teams": "Robert Johansson - undefined",
+      "odds": {
+        "1": "40,00",
+        "2": "12,00",
+        "X": "-"
+      }
+    },
+    "6ad847f91166652dd43e9fdb159eba94bc643ee9": {
+      "id": "6ad847f91166652dd43e9fdb159eba94bc643ee9",
+      "teams": "Dawid Kubacki - undefined",
+      "odds": {
+        "1": "40,00",
+        "2": "12,00",
+        "X": "-"
+      }
+    },
+    "dc435c6427b4d6e73aec723ed479119b93172921": {
+      "id": "dc435c6427b4d6e73aec723ed479119b93172921",
+      "teams": "Sato, Yukiya - undefined",
+      "odds": {
+        "1": "50,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "9afa459ead62d8a21e4f88781778006fb53a3ada": {
+      "id": "9afa459ead62d8a21e4f88781778006fb53a3ada",
+      "teams": "Tande, Daniel Andre - undefined",
+      "odds": {
+        "1": "40,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "45ba9908a927a142c85a05fdf74fbc354c84f9d4": {
+      "id": "45ba9908a927a142c85a05fdf74fbc354c84f9d4",
+      "teams": "Hoerl, Jan - undefined",
+      "odds": {
+        "1": "80,00",
+        "2": "15,00",
+        "X": "-"
+      }
+    },
+    "6ce006c5d70f437a19def633e2ee499997605cf8": {
+      "id": "6ce006c5d70f437a19def633e2ee499997605cf8",
+      "teams": "Domen Prevc - undefined",
+      "odds": {
+        "1": "80,00",
+        "2": "15,00",
+        "X": "-"
+      }
+    },
+    "e51b014548b25ca3086a0d001c1fdf6cdc95dfbf": {
+      "id": "e51b014548b25ca3086a0d001c1fdf6cdc95dfbf",
+      "teams": "Timi Zajc - undefined",
+      "odds": {
+        "1": "100,00",
+        "2": "15,00",
+        "X": "-"
+      }
+    },
+    "4b48c12b50f747c2840abaf855d7a307a158bc88": {
+      "id": "4b48c12b50f747c2840abaf855d7a307a158bc88",
+      "teams": "Paschke, Pius - undefined",
+      "odds": {
+        "1": "100,00",
+        "2": "15,00",
+        "X": "-"
+      }
+    },
+    "244c63c43437fa346fa8b5dca590a7bc5ddea409": {
+      "id": "244c63c43437fa346fa8b5dca590a7bc5ddea409",
+      "teams": "Peier, Killian - undefined",
+      "odds": {
+        "1": "80,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "f344112e6dbbb871bcf9ae03646adb8171617d59": {
+      "id": "f344112e6dbbb871bcf9ae03646adb8171617d59",
+      "teams": "Schlierenzauer, Gregor - undefined",
+      "odds": {
+        "1": "125,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "bd760f70b8efd257c18b714770357cdfc382a8aa": {
+      "id": "bd760f70b8efd257c18b714770357cdfc382a8aa",
+      "teams": "Lanisek, Anze - undefined",
+      "odds": {
+        "1": "200,00",
+        "2": "25,00",
+        "X": "-"
+      }
+    },
+    "3c0e1ad379e3602d0edb1c080d55993ad91cf4a1": {
+      "id": "3c0e1ad379e3602d0edb1c080d55993ad91cf4a1",
+      "teams": "Michael Haybock - undefined",
+      "odds": {
+        "1": "200,00",
+        "2": "25,00",
+        "X": "-"
+      }
+    },
+    "79f5267d8118c28f8762e9b1a70bc29134232d6c": {
+      "id": "79f5267d8118c28f8762e9b1a70bc29134232d6c",
+      "teams": "Kraft, Stefan - undefined",
+      "odds": {
+        "1": "3,25",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "0b1f2754114b26ee912b0768ec47ad04068b8966": {
+      "id": "0b1f2754114b26ee912b0768ec47ad04068b8966",
+      "teams": "Stoch, Kamil - undefined",
+      "odds": {
+        "1": "6,50",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "2a818dcabc5303587cf48329a8b0c59370601ddb": {
+      "id": "2a818dcabc5303587cf48329a8b0c59370601ddb",
+      "teams": "Geiger, Karl - undefined",
+      "odds": {
+        "1": "8,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "a7f7d84631fc39290ac59ce5e73a7af3140fcaf0": {
+      "id": "a7f7d84631fc39290ac59ce5e73a7af3140fcaf0",
+      "teams": "Johansson, Robert - undefined",
+      "odds": {
+        "1": "25,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "95c9dee29d01c89bf9cc15abbec53fd877f9c8ee": {
+      "id": "95c9dee29d01c89bf9cc15abbec53fd877f9c8ee",
+      "teams": "Kubacki, Dawid - undefined",
+      "odds": {
+        "1": "40,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "2fb50bd0a6326eacd36153804d6c04bc85aff3d7": {
+      "id": "2fb50bd0a6326eacd36153804d6c04bc85aff3d7",
+      "teams": "Zyla, Piotr - undefined",
+      "odds": {
+        "1": "40,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "fc537e354bb0ba763ecaee0fccccf0b52e4a4e73": {
+      "id": "fc537e354bb0ba763ecaee0fccccf0b52e4a4e73",
+      "teams": "Huber, Daniel - undefined",
+      "odds": {
+        "1": "70,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "bc1e50feeab7f8ad5688db7a803d7f33cc69db98": {
+      "id": "bc1e50feeab7f8ad5688db7a803d7f33cc69db98",
+      "teams": "Zajc, Timi - undefined",
+      "odds": {
+        "1": "80,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "98bf5027a5659f87ba117940217e33760482d786": {
+      "id": "98bf5027a5659f87ba117940217e33760482d786",
+      "teams": "Prevc, Domen - undefined",
+      "odds": {
+        "1": "150,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "4c9e6b95f93849b0dde196748fbdd1d8a7886bf8": {
+      "id": "4c9e6b95f93849b0dde196748fbdd1d8a7886bf8",
+      "teams": "Leyhe, Stephan - undefined",
+      "odds": {
+        "1": "150,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "87edbddf073bbe53ad2fec4d33df528960abdd63": {
+      "id": "87edbddf073bbe53ad2fec4d33df528960abdd63",
+      "teams": "Hayboeck, Michael - undefined",
+      "odds": {
+        "1": "200,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "bb69dc43d74d29a9b1c3ae702bd215444a000ff9": {
+      "id": "bb69dc43d74d29a9b1c3ae702bd215444a000ff9",
+      "teams": "Kobayashi, Junshiro - undefined",
+      "odds": {
+        "1": "250,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "bd1da4a0cba3f5f33ad839b6539b9e72b8b4882c": {
+      "id": "bd1da4a0cba3f5f33ad839b6539b9e72b8b4882c",
+      "teams": "Freitag, Richard - undefined",
+      "odds": {
+        "1": "350,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "66cae628a0bec2b6edd3c2daf0414d4b0f68e530": {
+      "id": "66cae628a0bec2b6edd3c2daf0414d4b0f68e530",
+      "teams": "Klimov, Evgeniy - undefined",
+      "odds": {
+        "1": "350,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "e543951b677e7a3599fb531403c23205547359cd": {
+      "id": "e543951b677e7a3599fb531403c23205547359cd",
+      "teams": "Wolny, Jakub - undefined",
+      "odds": {
+        "1": "350,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "6721b02f195745fc77346600c97cdddb4d7d8166": {
+      "id": "6721b02f195745fc77346600c97cdddb4d7d8166",
+      "teams": "Ammann, Simon - undefined",
+      "odds": {
+        "1": "350,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "e996a91c311f29cebd436047d802c76dd87eb361": {
+      "id": "e996a91c311f29cebd436047d802c76dd87eb361",
+      "teams": "Koudelka, Roman - undefined",
+      "odds": {
+        "1": "500,00",
+        "2": "-",
+        "X": "-"
+      }
+    },
+    "4647ae8b8642202da7810b6209988fdd11a9a039": {
+      "id": "4647ae8b8642202da7810b6209988fdd11a9a039",
+      "teams": "Aalto, Antti - undefined",
+      "odds": {
+        "1": "500,00",
+        "2": "-",
+        "X": "-"
       }
     }
   },
@@ -576,8 +5454,8 @@
       "teams": "Arsenal - Chelsea",
       "odds": {
         "1": "2.95",
-        "2": "2.40",
-        "X": "3.95"
+        "2": "3.95",
+        "X": "2.40"
       }
     },
     "097fcb3997ba4f95db9c93d311ac0fdab4925d97": {
@@ -585,8 +5463,8 @@
       "teams": "Birmingham - Leeds United",
       "odds": {
         "1": "5.50",
-        "2": "1.67",
-        "X": "3.85"
+        "2": "3.85",
+        "X": "1.67"
       }
     },
     "2ecf9d382edb24058a7c98ee7ce44b6ddfd29f8a": {
@@ -594,8 +5472,8 @@
       "teams": "Bristol City - Luton Town",
       "odds": {
         "1": "1.70",
-        "2": "4.80",
-        "X": "4.10"
+        "2": "4.10",
+        "X": "4.80"
       }
     },
     "b2fad7f9f9969f02c170d8adca9542e7db582ea5": {
@@ -603,8 +5481,8 @@
       "teams": "Fulham - Stoke City",
       "odds": {
         "1": "2.05",
-        "2": "3.90",
-        "X": "3.40"
+        "2": "3.40",
+        "X": "3.90"
       }
     },
     "8623430317f48627ea6be0566e993c76cf9ccdfa": {
@@ -612,8 +5490,8 @@
       "teams": "Huddersfield Town - Blackburn Rovers",
       "odds": {
         "1": "2.50",
-        "2": "3.00",
-        "X": "3.25"
+        "2": "3.25",
+        "X": "3.00"
       }
     },
     "ddeaffff84fb3019b68d6595f3ecf4ad5d99b380": {
@@ -621,8 +5499,8 @@
       "teams": "Millwall - Brentford",
       "odds": {
         "1": "4.00",
-        "2": "2.05",
-        "X": "3.35"
+        "2": "3.35",
+        "X": "2.05"
       }
     },
     "701dafa3b2fee8f53c510d7f0130c1c89ebd40d0": {
@@ -630,8 +5508,8 @@
       "teams": "Nottingham Forest - Wigan Athletic",
       "odds": {
         "1": "1.80",
-        "2": "5.00",
-        "X": "3.50"
+        "2": "3.50",
+        "X": "5.00"
       }
     },
     "c17d0796685841f30f2ca1b699b547463932e67f": {
@@ -639,8 +5517,8 @@
       "teams": "Gillingham - Rochdale",
       "odds": {
         "1": "1.65",
-        "2": "5.10",
-        "X": "4.00"
+        "2": "4.00",
+        "X": "5.10"
       }
     },
     "22570fd9baa018ebfd2dea15350a6092cfc4b4c6": {
@@ -648,8 +5526,8 @@
       "teams": "AFC Wimbledon - Oxford United",
       "odds": {
         "1": "4.60",
-        "2": "1.70",
-        "X": "4.00"
+        "2": "4.00",
+        "X": "1.70"
       }
     },
     "c1d964448beb5e870d6ce3154fc2e4a483a472c9": {
@@ -657,8 +5535,8 @@
       "teams": "Accrington Stanley - Burton Albion",
       "odds": {
         "1": "2.55",
-        "2": "2.70",
-        "X": "3.50"
+        "2": "3.50",
+        "X": "2.70"
       }
     },
     "ad784b08909017b9f320560f60577ffa5ca3aa0d": {
@@ -666,8 +5544,8 @@
       "teams": "Bolton - Shrewsbury Town",
       "odds": {
         "1": "3.20",
-        "2": "2.25",
-        "X": "3.25"
+        "2": "3.25",
+        "X": "2.25"
       }
     },
     "73a8e297d8d6bc813c8a7540ac6995db31678336": {
@@ -675,8 +5553,8 @@
       "teams": "Doncaster Rovers - Sunderland",
       "odds": {
         "1": "2.40",
-        "2": "2.90",
-        "X": "3.50"
+        "2": "3.50",
+        "X": "2.90"
       }
     },
     "47ab0f10a9bc3cfe65407c3eeac12002b6fbcb18": {
@@ -684,8 +5562,8 @@
       "teams": "Fleetwood Town - Bristol Rovers",
       "odds": {
         "1": "1.55",
-        "2": "6.00",
-        "X": "4.20"
+        "2": "4.20",
+        "X": "6.00"
       }
     },
     "76d87d0e3a53a154f343b6da0f2891fa73b0bd2f": {
@@ -693,8 +5571,8 @@
       "teams": "Bradford City - Mansfield Town",
       "odds": {
         "1": "1.98",
-        "2": "3.85",
-        "X": "3.45"
+        "2": "3.45",
+        "X": "3.85"
       }
     },
     "492953fb304a9bf6532e5f71ea3112ce9b157523": {
@@ -702,8 +5580,8 @@
       "teams": "Cambridge United - Morecambe",
       "odds": {
         "1": "1.78",
-        "2": "4.60",
-        "X": "3.60"
+        "2": "3.60",
+        "X": "4.60"
       }
     },
     "46f9110e3e46c37d569a4a01838132f2aac96669": {
@@ -711,8 +5589,8 @@
       "teams": "Colchester United - Exeter",
       "odds": {
         "1": "2.45",
-        "2": "2.90",
-        "X": "3.25"
+        "2": "3.25",
+        "X": "2.90"
       }
     },
     "781e34fd3cec170b13be0a88074374b931250f53": {
@@ -720,8 +5598,8 @@
       "teams": "Crewe Alexandra - Scunthorpe United",
       "odds": {
         "1": "1.75",
-        "2": "4.30",
-        "X": "3.90"
+        "2": "3.90",
+        "X": "4.30"
       }
     },
     "944220310a1379099cd3119b861ec54500e0f8d3": {
@@ -729,8 +5607,8 @@
       "teams": "Forest Green Rovers - Macclesfield Town",
       "odds": {
         "1": "1.50",
-        "2": "7.20",
-        "X": "4.00"
+        "2": "4.00",
+        "X": "7.20"
       }
     },
     "10b6bd99a5382bdb5e66eded859c5c031dc9a335": {
@@ -738,8 +5616,8 @@
       "teams": "Grimsby Town - Crawley Town",
       "odds": {
         "1": "2.40",
-        "2": "3.00",
-        "X": "3.30"
+        "2": "3.30",
+        "X": "3.00"
       }
     },
     "2b5ee8e07a40e7049b7cc4e60cf37affb3ad571e": {
@@ -747,8 +5625,53 @@
       "teams": "Cittadella - Virtus Entella",
       "odds": {
         "1": "1.75",
-        "2": "5.10",
-        "X": "3.30"
+        "2": "3.30",
+        "X": "5.10"
+      }
+    },
+    "0199bcb8133c6167dd2017c7d1e177ba8e12e36c": {
+      "id": "0199bcb8133c6167dd2017c7d1e177ba8e12e36c",
+      "teams": "Crotone - Trapani",
+      "odds": {
+        "1": "1.40",
+        "2": "4.30",
+        "X": "8.00"
+      }
+    },
+    "9b975f988b22a6090db20d245b4ee8bab0d7dcdf": {
+      "id": "9b975f988b22a6090db20d245b4ee8bab0d7dcdf",
+      "teams": "Juve Stabia - Cosenza",
+      "odds": {
+        "1": "2.65",
+        "2": "2.95",
+        "X": "2.90"
+      }
+    },
+    "2e3212ed030c6869836c531be77a8faac6d0009e": {
+      "id": "2e3212ed030c6869836c531be77a8faac6d0009e",
+      "teams": "Perugia - Venezia",
+      "odds": {
+        "1": "1.95",
+        "2": "3.10",
+        "X": "4.40"
+      }
+    },
+    "8fdec5ba44b142b82838ec2045971bff38d13d8c": {
+      "id": "8fdec5ba44b142b82838ec2045971bff38d13d8c",
+      "teams": "Pisa - Frosinone",
+      "odds": {
+        "1": "3.85",
+        "2": "2.95",
+        "X": "2.15"
+      }
+    },
+    "1e617fb04ca6fff01e5d25d5fd1010245753471d": {
+      "id": "1e617fb04ca6fff01e5d25d5fd1010245753471d",
+      "teams": "Pordenone - Cremonese",
+      "odds": {
+        "1": "2.12",
+        "2": "3.05",
+        "X": "3.80"
       }
     },
     "688d05e2ce6a3eedaf2265f710fd781b9fe8c344": {
@@ -756,8 +5679,8 @@
       "teams": "Katrineholm - Nässjö IF",
       "odds": {
         "1": "1.35",
-        "2": "4.50",
-        "X": "6.80"
+        "2": "6.80",
+        "X": "4.50"
       }
     },
     "b14c55348b633e7d16ad23de80a1867f66fc79eb": {
@@ -765,8 +5688,8 @@
       "teams": "Peace & Love City Bandy - Falu BS",
       "odds": {
         "1": "16.00",
-        "2": "1.02",
-        "X": "14.00"
+        "2": "14.00",
+        "X": "1.02"
       }
     },
     "714f42dabee4a46247e3f8f02b44820845b05fa1": {
@@ -774,8 +5697,8 @@
       "teams": "Gripen Trollhattan BK - IFK Kungälv",
       "odds": {
         "1": "1.28",
-        "2": "5.20",
-        "X": "7.20"
+        "2": "7.20",
+        "X": "5.20"
       }
     },
     "f4510d2482fc732c856f12735198396f84997000": {
@@ -783,8 +5706,8 @@
       "teams": "IF Boltic Karlstad - Lidköpings AIK",
       "odds": {
         "1": "1.57",
-        "2": "3.00",
-        "X": "6.50"
+        "2": "6.50",
+        "X": "3.00"
       }
     },
     "ffa4ba99faf6f30ba158630f3bf58d569efb5cf6": {
@@ -792,8 +5715,8 @@
       "teams": "Örebro SK Bandy - TB Västerås",
       "odds": {
         "1": "1.18",
-        "2": "7.00",
-        "X": "8.20"
+        "2": "8.20",
+        "X": "7.00"
       }
     },
     "36bf346a664fb012cfb92201d2954b59b42cb07f": {
@@ -801,8 +5724,8 @@
       "teams": "IK Tellus - Kalix",
       "odds": {
         "1": "1.20",
-        "2": "6.50",
-        "X": "8.00"
+        "2": "8.00",
+        "X": "6.50"
       }
     },
     "5bde36fc8c82a765605536376cb848b917322ec9": {
@@ -810,8 +5733,8 @@
       "teams": "Skutskärs IF - UNIK Bandy",
       "odds": {
         "1": "4.70",
-        "2": "1.32",
-        "X": "7.00"
+        "2": "7.00",
+        "X": "1.32"
       }
     },
     "f72b9cef5344a47028ad257a13807b65679157a7": {
@@ -819,8 +5742,8 @@
       "teams": "Happee - Nokian KrP",
       "odds": {
         "1": "2.28",
-        "2": "2.10",
-        "X": "5.75"
+        "2": "5.75",
+        "X": "2.10"
       }
     },
     "488894fd0a3e50b8cc5f3612223ca1f817e2b6c6": {
@@ -828,8 +5751,8 @@
       "teams": "SPV - Indians",
       "odds": {
         "1": "1.68",
-        "2": "3.05",
-        "X": "6.00"
+        "2": "6.00",
+        "X": "3.05"
       }
     },
     "a9650898a881ed986cd9c483f2649d18221b7228": {
@@ -837,8 +5760,8 @@
       "teams": "Tiikerit - OLS Oulu",
       "odds": {
         "1": "2.16",
-        "2": "2.17",
-        "X": "6.00"
+        "2": "6.00",
+        "X": "2.17"
       }
     },
     "d1b19957b99de9ea0358c1b15efa2e5d09a8669f": {
@@ -846,8 +5769,8 @@
       "teams": "Karlstad IBF (F) - IBK Dalen (F)",
       "odds": {
         "1": "1.60",
-        "2": "3.00",
-        "X": "6.50"
+        "2": "6.50",
+        "X": "3.00"
       }
     },
     "d12308b283d122e40ea63fc8bdc9ab7047b67b6c": {
@@ -855,8 +5778,8 @@
       "teams": "Täby IS IBK (F) - Warbergs IC (F)",
       "odds": {
         "1": "1.10",
-        "2": "9.00",
-        "X": "11.00"
+        "2": "11.00",
+        "X": "9.00"
       }
     },
     "d0d2c81ea17554d6c39bb517d5adc572f68e7140": {
@@ -864,8 +5787,8 @@
       "teams": "KAIS Mora IF (F) - Pixbo Wallenstam IBK (F)",
       "odds": {
         "1": "1.62",
-        "2": "2.95",
-        "X": "6.50"
+        "2": "6.50",
+        "X": "2.95"
       }
     },
     "ab8d033eeececf8fe19406c59a3a987be4318065": {
@@ -873,8 +5796,8 @@
       "teams": "IKSU (F) - Rönnby (F)",
       "odds": {
         "1": "1.08",
-        "2": "10.00",
-        "X": "12.00"
+        "2": "12.00",
+        "X": "10.00"
       }
     },
     "22dadb2022fd88f3e06bf6683b291d8b33a7b8bb": {
@@ -882,8 +5805,44 @@
       "teams": "Skoghalls IBK (W) - Malmö FBC (F)",
       "odds": {
         "1": "5.20",
-        "2": "1.25",
-        "X": "8.50"
+        "2": "8.50",
+        "X": "1.25"
+      }
+    },
+    "ab911027bef1fbc5da531b82fa8a5a5ec3078ac1": {
+      "id": "ab911027bef1fbc5da531b82fa8a5a5ec3078ac1",
+      "teams": "Esae FC - Zanaco Lusaka",
+      "odds": {
+        "1": "4.25",
+        "2": "3.70",
+        "X": "1.75"
+      }
+    },
+    "7886e616813152f937230872844d12481d9695d0": {
+      "id": "7886e616813152f937230872844d12481d9695d0",
+      "teams": "FC San Pedro - HUSA Agadir",
+      "odds": {
+        "1": "2.35",
+        "2": "3.50",
+        "X": "2.60"
+      }
+    },
+    "6faca0220fee78a0d9c1e71a0418b57d21a22d35": {
+      "id": "6faca0220fee78a0d9c1e71a0418b57d21a22d35",
+      "teams": "El Fayoum - Dayrout",
+      "odds": {
+        "1": "1.80",
+        "2": "3.30",
+        "X": "4.00"
+      }
+    },
+    "52b37824a9737f8d0b95fd76ac597b58b63aaba4": {
+      "id": "52b37824a9737f8d0b95fd76ac597b58b63aaba4",
+      "teams": "National Bank - Asyut Petroleum",
+      "odds": {
+        "1": "1.85",
+        "2": "3.25",
+        "X": "3.80"
       }
     },
     "a2a9458944bd33c100501bca5d2b2f7d9b1825be": {
@@ -891,8 +5850,8 @@
       "teams": "Algeria - Olanda",
       "odds": {
         "1": "4.00",
-        "2": "1.36",
-        "X": "9.50"
+        "2": "9.50",
+        "X": "1.36"
       }
     },
     "907c7637d02cba2db5a3769e9a76eed46f8d7ede": {
@@ -900,8 +5859,8 @@
       "teams": "Kazahstan U20 - Finlanda U20",
       "odds": {
         "1": "26.00",
-        "2": "1.02",
-        "X": "18.00"
+        "2": "18.00",
+        "X": "1.02"
       }
     },
     "2047b9b1af50b2a649f3064c570ce7c23d1fbc83": {
@@ -909,8 +5868,8 @@
       "teams": "Liverpool - Wolverhampton Wanderers",
       "odds": {
         "1": "1.35",
-        "2": "11.00",
-        "X": "5.65"
+        "2": "5.65",
+        "X": "11.00"
       }
     }
   }

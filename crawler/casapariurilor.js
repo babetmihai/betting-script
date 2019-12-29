@@ -1,10 +1,9 @@
 const db = require('../db')
 const nightmare = require('../crawler')
-const { getId } = require('../utils')
 const _ = require('lodash')
+const { normalizeData, ODD_TYPES } = require('../utils')
 const moment = require('moment')
 
-const ODD_TYPES = ['1', 'X', '2']
 module.exports  = async () => {
   try {
     await nightmare
@@ -38,11 +37,7 @@ module.exports  = async () => {
       await nightmare.wait(1000)
     }
 
-    db.set('casapariurilor', data.reduce((acc, { teams, odds }) => {
-      const match = { id: getId(teams), teams, odds }
-      if (_.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())) acc[match.id] = match
-      return acc
-    }, {})).write()
+    db.set('casapariurilor', normalizeData(data)).write()
   } catch (error) {
     console.log(error.message)
   }
