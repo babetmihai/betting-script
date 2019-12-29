@@ -31,7 +31,6 @@ module.exports  = async () => {
       }
       return matchAcc
     }, ODD_TYPES)
-    console.log(data)
     db.set('fortuna', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
