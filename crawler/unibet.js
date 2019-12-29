@@ -2,7 +2,7 @@ const db = require('../db')
 const nightmare = require('../crawler')
 const { normalizeData } = require('../utils')
 const { ODD_TYPES } = require('../settings')
-const _ = require('lodash')
+
 
 module.exports  = async () => {
   try {
@@ -48,6 +48,6 @@ module.exports  = async () => {
     }, ODD_TYPES)
     db.set('unibet', normalizeData(data)).write()
   } catch (error) {
-    console.log(error.message)
+    console.log(error)
   }
 }

@@ -42,6 +42,6 @@ module.exports  = async () => {
 
     db.set('superbet', normalizeData(data)).write()
   } catch (error) {
-    console.log(error.message)
+    console.log(error)
   }
 }

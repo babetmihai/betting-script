@@ -41,6 +41,6 @@ module.exports  = async () => {
 
     db.set('casapariurilor', normalizeData(data)).write()
   } catch (error) {
-    console.log(error.message)
+    console.log(error)
   }
 }
