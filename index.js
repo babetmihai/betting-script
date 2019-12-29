@@ -6,10 +6,11 @@ const unibet = require('./crawler/unibet')
 const betano = require('./crawler/betano')
 
 
-Promise.resolve().then(async () => {
-  await betano()
-  await casapariurilor()
-  await superbet()
-  await unibet()
-  await nightmare.end()
-})
+Promise.resolve()
+  .then(async () => {
+    await betano()
+    await casapariurilor()
+    await superbet()
+    await unibet()
+  })
+  .finally(() => nightmare.end())
