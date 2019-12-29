@@ -7,16 +7,20 @@ const getBets = (...odds) => odds.map((odd) => 1 / odd)
 const getId = (string) => crypto.createHash('sha1').update(string).digest('hex')
 
 const ODD_TYPES = ['1', 'X', '2']
-const CATEGORIES = ['fotbal, basket, handbal, hockey']
+const CATEGORY_WHITELIST = ['fotbal', 'basket', 'handbal', 'hockey', 'polo', 'rugby']
+const CATEGORY_BLACKLIST = ['fotbal american']
 
-const normalizeData = (data) =>  data.reduce((acc, { teams, odds, category, ...rest }) => {
-  const match = { id: getId(teams), teams, odds, category, ...rest }
-  if (
-    _.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort()) &&
-    CATEGORIES.some((name) => category.includes(name.toLowerCase()))
-  ) acc[match.id] = match
-  return acc
-}, {})
+const normalizeData = (data) => data
+  .filter(({ odds, category }) =>  (
+    !CATEGORY_BLACKLIST.some((name) => category.toLowerCase().includes(name)) &&
+    CATEGORY_WHITELIST.some((name) => category.toLowerCase().includes(name)) &&
+    _.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())
+  ))
+  .reduce((acc, { teams, odds, category, ...rest }) => {
+    const match = { id: getId(teams), teams, odds, category, ...rest }
+    acc[match.id] = match
+    return acc
+  }, {})
 
 module.exports = {
   normalizeData,
