@@ -2,7 +2,7 @@ const crypto = require('crypto')
 const _ = require('lodash')
 const {
   ODD_TYPES,
-  CATEGORY_WHITELIST,
+  CATEGORIES,
   CATEGORY_BLACKLIST
 } = require('./settings')
 
@@ -14,7 +14,7 @@ const getId = (string) => crypto.createHash('sha1').update(string).digest('hex')
 const normalizeData = (data) => data
   .filter(({ odds, category }) =>  (
     !CATEGORY_BLACKLIST.some((name) => category.toLowerCase().includes(name)) &&
-    CATEGORY_WHITELIST.some((name) => category.toLowerCase().includes(name)) &&
+    CATEGORIES.some((name) => category.toLowerCase().includes(name)) &&
     _.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())
   ))
   .reduce((acc, { teams, odds, category, ...rest }) => {

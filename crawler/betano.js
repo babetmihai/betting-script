@@ -6,8 +6,7 @@ const { ODD_TYPES } = require('../settings')
 const URL_CODES = {
   fotbal: 'Soccer-FOOT',
   handbal: 'Handball-HAND',
-  hockey: 'Ice-Hockey-ICEH',
-  polo: 'Water-Polo-WTPL'
+  hockey: 'Ice-Hockey-ICEH'
 }
 
 
