@@ -5,9 +5,9 @@
         "id": "80a7ecc21e5e42694770f44e6fb1ea0f65572db6",
         "teams": "Derby -Charlton",
         "odds": {
-          "1": "1.90",
-          "2": "4.25",
-          "X": "3.50"
+          "1": 1.9,
+          "2": 4.25,
+          "X": 3.5
         },
         "category": "fotbal"
       },
@@ -15,69 +15,9 @@
         "id": "283e9532ae2e91c030ac5411c7375d09e6b24b4f",
         "teams": "Central C.-Perth",
         "odds": {
-          "1": "3.90",
-          "2": "1.85",
-          "X": "3.75"
-        },
-        "category": "fotbal"
-      },
-      "0e1b52969a3f1e51eb7485fb061adabde4cdfcf8": {
-        "id": "0e1b52969a3f1e51eb7485fb061adabde4cdfcf8",
-        "teams": "H.Haifa-Beitar J.",
-        "odds": {
-          "1": "5.13",
-          "2": "1.63",
-          "X": "3.75"
-        },
-        "category": "fotbal"
-      },
-      "1fe68942b673dd00ab7b30df9e7ccedc340a63cb": {
-        "id": "1fe68942b673dd00ab7b30df9e7ccedc340a63cb",
-        "teams": "H.Katamon-B.Sakhnin",
-        "odds": {
-          "1": "2.32",
-          "2": "3.16",
-          "X": "2.92"
-        },
-        "category": "fotbal"
-      },
-      "f375f7dab8cc24441d127c219d25f2bf90b4d696": {
-        "id": "f375f7dab8cc24441d127c219d25f2bf90b4d696",
-        "teams": "Hapoel UM EL Fahem-Hap.R.Gan",
-        "odds": {
-          "1": "2.32",
-          "2": "3.01",
-          "X": "3.06"
-        },
-        "category": "fotbal"
-      },
-      "bc544c44a55aae7002f07d1fecd7ffe9f7b36e5f": {
-        "id": "bc544c44a55aae7002f07d1fecd7ffe9f7b36e5f",
-        "teams": "MP Tikva-HR Letzion",
-        "odds": {
-          "1": "1.93",
-          "2": "3.83",
-          "X": "3.23"
-        },
-        "category": "fotbal"
-      },
-      "032a1d914eeea0024375979b6291c60e4dd6af62": {
-        "id": "032a1d914eeea0024375979b6291c60e4dd6af62",
-        "teams": "H.Bnei Ar.-H.Herzelia",
-        "odds": {
-          "1": "2.25",
-          "2": "3.00",
-          "X": "3.00"
-        },
-        "category": "fotbal"
-      },
-      "c2e8455aabacfdf9536d6948ffb8894cb55ce310": {
-        "id": "c2e8455aabacfdf9536d6948ffb8894cb55ce310",
-        "teams": "M.Oujda-Renaissance Ezzmamra",
-        "odds": {
-          "1": "1.85",
-          "2": "4.00",
-          "X": "3.25"
+          "1": 3.9,
+          "2": 1.85,
+          "X": 3.75
         },
         "category": "fotbal"
       },
@@ -85,9 +25,9 @@
         "id": "8d429c63967ffc7e88690400899d98ee85c7d16f",
         "teams": "Cardiff MU-Barry Town",
         "odds": {
-          "1": "2.25",
-          "2": "3.04",
-          "X": "3.25"
+          "1": 2.35,
+          "2": 2.87,
+          "X": 3.25
         },
         "category": "fotbal"
       },
@@ -95,9 +35,9 @@
         "id": "03839aaddf8630c304b28452c81b5f2e53a3aba0",
         "teams": "Bala T.-Caernarfon",
         "odds": {
-          "1": "1.47",
-          "2": "6.15",
-          "X": "4.20"
+          "1": 1.43,
+          "2": 6.7,
+          "X": 4.3
         },
         "category": "fotbal"
       },
@@ -105,9 +45,9 @@
         "id": "3b42f68fb75699bf1b293249c435ceb77a5192de",
         "teams": "TNS-Cefn Druids",
         "odds": {
-          "1": "1.10",
-          "2": "18.00",
-          "X": "8.50"
+          "1": 1.07,
+          "2": 19.51,
+          "X": 10.5
         },
         "category": "fotbal"
       },
@@ -115,9 +55,9 @@
         "id": "199c4b798f45c1053aae18350e1d1f07221b3bd8",
         "teams": "Airbus -Connah's",
         "odds": {
-          "1": "8.10",
-          "2": "1.33",
-          "X": "5.00"
+          "1": 8.52,
+          "2": 1.3,
+          "X": 5.3
         },
         "category": "fotbal"
       },
@@ -125,971 +65,31 @@
         "id": "7f2ed428a2b8f37dfdf3b0599f2b6d6c5ca0159d",
         "teams": "Aberystwyth -Newtown",
         "odds": {
-          "1": "3.03",
-          "2": "2.15",
-          "X": "3.50"
+          "1": 3.17,
+          "2": 2.05,
+          "X": 3.6
         },
         "category": "fotbal"
-      },
-      "370bd57c19cc5ef8bdd020b2121ebeb83ccbc1b7": {
-        "id": "370bd57c19cc5ef8bdd020b2121ebeb83ccbc1b7",
-        "teams": "Tunisia-Maroc",
-        "odds": {
-          "1": "1.12",
-          "2": "7.43",
-          "X": "14.00"
-        },
-        "category": "handbal"
-      },
-      "cf6e19753fc35c988894d6702f4aa58be1cec829": {
-        "id": "cf6e19753fc35c988894d6702f4aa58be1cec829",
-        "teams": "Hamm-Westfalen-Gummersbach",
-        "odds": {
-          "1": "1.65",
-          "2": "2.86",
-          "X": "8.00"
-        },
-        "category": "handbal"
-      },
-      "205c566a76d170c6b042f421b84d3c6d8ee92d6d": {
-        "id": "205c566a76d170c6b042f421b84d3c6d8ee92d6d",
-        "teams": "Vasterasirsta -Kungalvs HK",
-        "odds": {
-          "1": "1.95",
-          "2": "2.15",
-          "X": "7.50"
-        },
-        "category": "handbal"
-      },
-      "c9a41fcc6ecf5223eafc6c24c6aa6ef7c6fb1113": {
-        "id": "c9a41fcc6ecf5223eafc6c24c6aa6ef7c6fb1113",
-        "teams": "GT Söder-Onnereds",
-        "odds": {
-          "1": "2.65",
-          "2": "1.63",
-          "X": "8.30"
-        },
-        "category": "handbal"
       }
     },
     "betano": {
-      "ce57c5da66933e023fc742472c4cb2210b11e034": {
-        "id": "ce57c5da66933e023fc742472c4cb2210b11e034",
-        "teams": "Hapoel Raanana (F) - Maccabi Kiryat Gat (F)",
-        "odds": {
-          "1": "56.00",
-          "2": "24.00",
-          "X": "1.001"
-        },
-        "category": "fotbal"
-      },
       "47ae426f870b3c2a498fa3ab140c5888baa99924": {
         "id": "47ae426f870b3c2a498fa3ab140c5888baa99924",
         "teams": "South United - AGORC",
         "odds": {
-          "1": "1.22",
-          "2": "5.95",
-          "X": "9.75"
+          "1": 1.22,
+          "2": 9.75,
+          "X": 5.95
         },
         "category": "fotbal"
-      },
-      "280cbedbe8ba7aac74311b762573b8f867b87602": {
-        "id": "280cbedbe8ba7aac74311b762573b8f867b87602",
-        "teams": "ASV Hamm-Westfalen - VfL Gummersbach",
-        "odds": {
-          "1": "1.65",
-          "2": "8.50",
-          "X": "2.75"
-        },
-        "category": "handbal"
-      },
-      "455dec453ccf9c8257f31815a2f30c3ab9247e29": {
-        "id": "455dec453ccf9c8257f31815a2f30c3ab9247e29",
-        "teams": "Vasterasirsta HF (F) - Kungalvs HK (F)",
-        "odds": {
-          "1": "2.02",
-          "2": "6.95",
-          "X": "2.12"
-        },
-        "category": "handbal"
-      },
-      "967be5b954ecf3f73e6da7c4a381562349d34c2a": {
-        "id": "967be5b954ecf3f73e6da7c4a381562349d34c2a",
-        "teams": "GT Soder (F) - Onnereds HK (F)",
-        "odds": {
-          "1": "2.85",
-          "2": "8.00",
-          "X": "1.57"
-        },
-        "category": "handbal"
-      },
-      "4f41833a8643c2576d60a76485f52debca238e54": {
-        "id": "4f41833a8643c2576d60a76485f52debca238e54",
-        "teams": "Cleveland Monsters - Charlotte Checkers",
-        "odds": {
-          "1": "3.05",
-          "2": "3.95",
-          "X": "2.05"
-        },
-        "category": "hockey"
-      },
-      "90e69af83231a310511524cb0abb4fad7f3640ef": {
-        "id": "90e69af83231a310511524cb0abb4fad7f3640ef",
-        "teams": "Ujpest Budapest - Fehervari Titanok",
-        "odds": {
-          "1": "1.50",
-          "2": "5.20",
-          "X": "4.25"
-        },
-        "category": "hockey"
-      },
-      "717497cbb3f786d598cf2e6e371303c8bfaf3df8": {
-        "id": "717497cbb3f786d598cf2e6e371303c8bfaf3df8",
-        "teams": "Dunaujvarosi Acelbikak - Ferencvaros",
-        "odds": {
-          "1": "2.63",
-          "2": "4.15",
-          "X": "2.15"
-        },
-        "category": "hockey"
-      },
-      "3f5369dbdef252e0aca2b61ed578682d7d29a37d": {
-        "id": "3f5369dbdef252e0aca2b61ed578682d7d29a37d",
-        "teams": "Hokiklub Budapest - Debreceni",
-        "odds": {
-          "1": "4.45",
-          "2": "6.00",
-          "X": "1.44"
-        },
-        "category": "hockey"
-      },
-      "a5d4af893773afd03ac7e970c2a8202c25e448c9": {
-        "id": "a5d4af893773afd03ac7e970c2a8202c25e448c9",
-        "teams": "HC Kometa Brno - HC Karlovy Vary",
-        "odds": {
-          "1": "1.67",
-          "2": "4.30",
-          "X": "4.20"
-        },
-        "category": "hockey"
-      },
-      "cb50ab583a63c10f3c70d553067dd71381b0fe57": {
-        "id": "cb50ab583a63c10f3c70d553067dd71381b0fe57",
-        "teams": "HC Kladno - HC Olomouc",
-        "odds": {
-          "1": "2.55",
-          "2": "3.70",
-          "X": "2.45"
-        },
-        "category": "hockey"
-      },
-      "f32c06e3546279c167f1a005ed2d50ceb6bc2143": {
-        "id": "f32c06e3546279c167f1a005ed2d50ceb6bc2143",
-        "teams": "HC Liberec - PSG Zlin",
-        "odds": {
-          "1": "1.55",
-          "2": "4.55",
-          "X": "4.90"
-        },
-        "category": "hockey"
-      },
-      "767c83d0329accd7aeee81699c17d82ce4ca5046": {
-        "id": "767c83d0329accd7aeee81699c17d82ce4ca5046",
-        "teams": "HC Pardubice - HC Vitkovice",
-        "odds": {
-          "1": "2.10",
-          "2": "3.85",
-          "X": "3.00"
-        },
-        "category": "hockey"
-      },
-      "3345f0e792a37dbe41344d8a107f0e215e46019c": {
-        "id": "3345f0e792a37dbe41344d8a107f0e215e46019c",
-        "teams": "Zubr Prerov - HC Slavia Prague",
-        "odds": {
-          "1": "1.55",
-          "2": "4.25",
-          "X": "4.75"
-        },
-        "category": "hockey"
-      },
-      "34e245fbf50091cd41401bb17eae7d331fa11030": {
-        "id": "34e245fbf50091cd41401bb17eae7d331fa11030",
-        "teams": "HK Jestrabi Prostejov - Benatky",
-        "odds": {
-          "1": "1.53",
-          "2": "4.50",
-          "X": "4.80"
-        },
-        "category": "hockey"
-      },
-      "6213bdaa27cf39725d3d051108e26fb20fcb0f08": {
-        "id": "6213bdaa27cf39725d3d051108e26fb20fcb0f08",
-        "teams": "SK Kadan - Banik Sokolov",
-        "odds": {
-          "1": "2.65",
-          "2": "4.00",
-          "X": "2.17"
-        },
-        "category": "hockey"
-      },
-      "acef66932b1804b66c8b0437e8c8f22e034a1c70": {
-        "id": "acef66932b1804b66c8b0437e8c8f22e034a1c70",
-        "teams": "07 Detva - MHK 32 Mikulas",
-        "odds": {
-          "1": "1.80",
-          "2": "3.95",
-          "X": "3.50"
-        },
-        "category": "hockey"
-      },
-      "1bff4453b3d42807e23d763c74ff3efb4d9e5e35": {
-        "id": "1bff4453b3d42807e23d763c74ff3efb4d9e5e35",
-        "teams": "HK Skp Poprad - Mac Budapest",
-        "odds": {
-          "1": "1.35",
-          "2": "5.25",
-          "X": "6.50"
-        },
-        "category": "hockey"
-      },
-      "3968b057bf9f45b41c8600806c5d5c8efabf173c": {
-        "id": "3968b057bf9f45b41c8600806c5d5c8efabf173c",
-        "teams": "Miskolci Jjse - HKM Zvolen",
-        "odds": {
-          "1": "2.32",
-          "2": "3.65",
-          "X": "2.60"
-        },
-        "category": "hockey"
-      },
-      "52b67efad9cbd98f1b15a11b9289de443dc06d4e": {
-        "id": "52b67efad9cbd98f1b15a11b9289de443dc06d4e",
-        "teams": "MHK Martin - BK Levice",
-        "odds": {
-          "1": "1.33",
-          "2": "5.40",
-          "X": "6.55"
-        },
-        "category": "hockey"
-      },
-      "567c75c05f8005467562ad904ef8fc6d37561dc1": {
-        "id": "567c75c05f8005467562ad904ef8fc6d37561dc1",
-        "teams": "Povazska Bystrica - Spisska Nova Ves",
-        "odds": {
-          "1": "3.90",
-          "2": "4.25",
-          "X": "1.67"
-        },
-        "category": "hockey"
-      },
-      "c9183a1e17292d3cfcf5a449bddb75e39b49195d": {
-        "id": "c9183a1e17292d3cfcf5a449bddb75e39b49195d",
-        "teams": "Sparta Prague - HC Litvinov",
-        "odds": {
-          "1": "1.55",
-          "2": "4.55",
-          "X": "4.80"
-        },
-        "category": "hockey"
-      },
-      "b8d54d2f7e5f9b2575781aa6df2af950a06412b2": {
-        "id": "b8d54d2f7e5f9b2575781aa6df2af950a06412b2",
-        "teams": "Slovan Bratislava - HK Nitra",
-        "odds": {
-          "1": "1.63",
-          "2": "4.10",
-          "X": "4.35"
-        },
-        "category": "hockey"
-      },
-      "7250d8fe176b9c4e280a4cf5eecb04287a6264ba": {
-        "id": "7250d8fe176b9c4e280a4cf5eecb04287a6264ba",
-        "teams": "HC Znojmo - Vienna Capitals",
-        "odds": {
-          "1": "3.50",
-          "2": "4.20",
-          "X": "1.83"
-        },
-        "category": "hockey"
-      },
-      "967433f6c18fe069eb4cbef3247c0b0eedf4ae07": {
-        "id": "967433f6c18fe069eb4cbef3247c0b0eedf4ae07",
-        "teams": "Stjernen Hockey - Sparta Sarpsborg",
-        "odds": {
-          "1": "2.30",
-          "2": "3.90",
-          "X": "2.52"
-        },
-        "category": "hockey"
-      },
-      "7462520609bc5ca25e21670e85232e398b3bed2f": {
-        "id": "7462520609bc5ca25e21670e85232e398b3bed2f",
-        "teams": "Lillehammer IK - Storhamar IH",
-        "odds": {
-          "1": "2.50",
-          "2": "3.85",
-          "X": "2.32"
-        },
-        "category": "hockey"
-      },
-      "72ba0ceed00ed4d5777980dafddab2aa1e002849": {
-        "id": "72ba0ceed00ed4d5777980dafddab2aa1e002849",
-        "teams": "Manglerud/Star - Stavanger Oilers",
-        "odds": {
-          "1": "6.50",
-          "2": "5.10",
-          "X": "1.35"
-        },
-        "category": "hockey"
-      },
-      "2396b95bb6adb210cf7e1080353a8797c962f361": {
-        "id": "2396b95bb6adb210cf7e1080353a8797c962f361",
-        "teams": "Tolzer Lowen - Dresdner Eislowen",
-        "odds": {
-          "1": "1.85",
-          "2": "4.20",
-          "X": "3.20"
-        },
-        "category": "hockey"
-      },
-      "810a445fd926a1c276838b653798f7c626b58319": {
-        "id": "810a445fd926a1c276838b653798f7c626b58319",
-        "teams": "Vienna Capitals II - EC Kac II",
-        "odds": {
-          "1": "2.35",
-          "2": "4.00",
-          "X": "2.42"
-        },
-        "category": "hockey"
-      },
-      "22f3ce787dca38e25b0ac678577e8aa762b55a3c": {
-        "id": "22f3ce787dca38e25b0ac678577e8aa762b55a3c",
-        "teams": "SUA U20 - Cehia U20",
-        "odds": {
-          "1": "1.35",
-          "2": "5.55",
-          "X": "6.65"
-        },
-        "category": "hockey"
-      },
-      "73a1622125b69dc78f5b6d8010cbdfd5c7bdf3f6": {
-        "id": "73a1622125b69dc78f5b6d8010cbdfd5c7bdf3f6",
-        "teams": "Slovacia U20 - Elveția U20",
-        "odds": {
-          "1": "4.35",
-          "2": "4.40",
-          "X": "1.63"
-        },
-        "category": "hockey"
-      },
-      "15cac754e0eff4d126fb6a3cf2dfe31ccb7176d5": {
-        "id": "15cac754e0eff4d126fb6a3cf2dfe31ccb7176d5",
-        "teams": "Frisk/Asker - Valerenga IF",
-        "odds": {
-          "1": "1.91",
-          "2": "3.80",
-          "X": "3.30"
-        },
-        "category": "hockey"
-      },
-      "6aa62bc0d9b6e728b94428dff9b75aa0bc1b6509": {
-        "id": "6aa62bc0d9b6e728b94428dff9b75aa0bc1b6509",
-        "teams": "Jesenice - EK Zell am See",
-        "odds": {
-          "1": "1.95",
-          "2": "4.10",
-          "X": "3.00"
-        },
-        "category": "hockey"
-      },
-      "f684d16e92fb2f5f4e94f2223a9f6b5f286c8b94": {
-        "id": "f684d16e92fb2f5f4e94f2223a9f6b5f286c8b94",
-        "teams": "Luleaa Hockey - Leksands IF",
-        "odds": {
-          "1": "1.53",
-          "2": "4.45",
-          "X": "5.35"
-        },
-        "category": "hockey"
-      },
-      "f548cb7a03f0421ead18f6ebe3a1e7eb25e5307d": {
-        "id": "f548cb7a03f0421ead18f6ebe3a1e7eb25e5307d",
-        "teams": "Rogle BK - Djurgaardens IF",
-        "odds": {
-          "1": "2.12",
-          "2": "3.75",
-          "X": "3.00"
-        },
-        "category": "hockey"
-      },
-      "3758bc06cc6f4c6fab573bb9b061217d9df50ec4": {
-        "id": "3758bc06cc6f4c6fab573bb9b061217d9df50ec4",
-        "teams": "Linkopings HC - HC Orebro",
-        "odds": {
-          "1": "2.62",
-          "2": "3.75",
-          "X": "2.37"
-        },
-        "category": "hockey"
-      },
-      "cd6460f356edcbac8e58900edec357b66172bd94": {
-        "id": "cd6460f356edcbac8e58900edec357b66172bd94",
-        "teams": "Skellefteaa Aik - Farjestads BK",
-        "odds": {
-          "1": "2.27",
-          "2": "3.85",
-          "X": "2.70"
-        },
-        "category": "hockey"
-      },
-      "f042a617657331efb9a5333581b118863f08a25a": {
-        "id": "f042a617657331efb9a5333581b118863f08a25a",
-        "teams": "Vaxjo Lakers - IK Oskarshamn",
-        "odds": {
-          "1": "1.47",
-          "2": "4.65",
-          "X": "5.75"
-        },
-        "category": "hockey"
-      },
-      "a0abb69e0b49edee67074889ba0630791df564d5": {
-        "id": "a0abb69e0b49edee67074889ba0630791df564d5",
-        "teams": "HV71 - Frolunda HC",
-        "odds": {
-          "1": "2.37",
-          "2": "3.75",
-          "X": "2.62"
-        },
-        "category": "hockey"
-      },
-      "ca8f71b39b122a4da11af102c9c73fcd5809e3e4": {
-        "id": "ca8f71b39b122a4da11af102c9c73fcd5809e3e4",
-        "teams": "Brynas IF - Malmo IF",
-        "odds": {
-          "1": "2.40",
-          "2": "3.65",
-          "X": "2.65"
-        },
-        "category": "hockey"
-      },
-      "87673a6c8c56ff13e4d42ab02132f2f05b7e0683": {
-        "id": "87673a6c8c56ff13e4d42ab02132f2f05b7e0683",
-        "teams": "Karlskrona HK - Kristianstads IK",
-        "odds": {
-          "1": "1.85",
-          "2": "3.85",
-          "X": "3.45"
-        },
-        "category": "hockey"
-      },
-      "82c371a826d9566277f0fbd6ffe61e8cd8ededec": {
-        "id": "82c371a826d9566277f0fbd6ffe61e8cd8ededec",
-        "teams": "IF Vallentuna - Lindlovens IF",
-        "odds": {
-          "1": "1.91",
-          "2": "3.85",
-          "X": "3.25"
-        },
-        "category": "hockey"
-      },
-      "413fe8e7d7ce3d28616820699cd78068ab5a3372": {
-        "id": "413fe8e7d7ce3d28616820699cd78068ab5a3372",
-        "teams": "Vasby IK - Borlange HF",
-        "odds": {
-          "1": "2.20",
-          "2": "3.75",
-          "X": "2.70"
-        },
-        "category": "hockey"
-      },
-      "48c12bc6ef7487650d7740d62090f421aaa989a5": {
-        "id": "48c12bc6ef7487650d7740d62090f421aaa989a5",
-        "teams": "Tegs SK - Hudiksvalls HC",
-        "odds": {
-          "1": "4.20",
-          "2": "4.20",
-          "X": "1.63"
-        },
-        "category": "hockey"
-      },
-      "b8d7a752650d0c6588c4e3ca8efd5705226cb745": {
-        "id": "b8d7a752650d0c6588c4e3ca8efd5705226cb745",
-        "teams": "Pitteaa HC - Ostersunds IK",
-        "odds": {
-          "1": "4.00",
-          "2": "4.05",
-          "X": "1.70"
-        },
-        "category": "hockey"
-      },
-      "66b9e5b9cc41e78732210abdf0a2197c8d9a1be0": {
-        "id": "66b9e5b9cc41e78732210abdf0a2197c8d9a1be0",
-        "teams": "Kiruna IF - Bodens HF",
-        "odds": {
-          "1": "3.95",
-          "2": "4.00",
-          "X": "1.70"
-        },
-        "category": "hockey"
-      },
-      "2f3e4d0ab5d8ae939aefa83f22293d9c620511c3": {
-        "id": "2f3e4d0ab5d8ae939aefa83f22293d9c620511c3",
-        "teams": "Halmstad Hammers - Grums IK",
-        "odds": {
-          "1": "1.91",
-          "2": "3.95",
-          "X": "3.20"
-        },
-        "category": "hockey"
-      },
-      "290db800991920704e16df95bef857e063a712f8": {
-        "id": "290db800991920704e16df95bef857e063a712f8",
-        "teams": "Visby-Roma HK - Skovde IK",
-        "odds": {
-          "1": "1.67",
-          "2": "4.15",
-          "X": "4.00"
-        },
-        "category": "hockey"
-      },
-      "5a2ebbd2805297ba1c4c27d3fcb4ace4292f12fe": {
-        "id": "5a2ebbd2805297ba1c4c27d3fcb4ace4292f12fe",
-        "teams": "IF Troja/Ljungby - Kallinge/Ronneby IF",
-        "odds": {
-          "1": "1.75",
-          "2": "4.05",
-          "X": "3.65"
-        },
-        "category": "hockey"
-      },
-      "d342feb8bb631ae6b64a6077afa80f8ccb81e68a": {
-        "id": "d342feb8bb631ae6b64a6077afa80f8ccb81e68a",
-        "teams": "Tranaas Aif - Nybro IF",
-        "odds": {
-          "1": "2.55",
-          "2": "3.80",
-          "X": "2.30"
-        },
-        "category": "hockey"
-      },
-      "2d1025a10bc08a724cc128243baf9ee190cac1dd": {
-        "id": "2d1025a10bc08a724cc128243baf9ee190cac1dd",
-        "teams": "Huddinge IK - Mariestads Bois",
-        "odds": {
-          "1": "1.97",
-          "2": "3.90",
-          "X": "3.05"
-        },
-        "category": "hockey"
-      },
-      "930376b91992c3b382d468e5889a2372a2b535bd": {
-        "id": "930376b91992c3b382d468e5889a2372a2b535bd",
-        "teams": "Hanhals IF - Morrum Gois IK",
-        "odds": {
-          "1": "3.40",
-          "2": "4.15",
-          "X": "1.80"
-        },
-        "category": "hockey"
-      },
-      "6ada1ba04c9d8345992d0ca98a3086d507bd7244": {
-        "id": "6ada1ba04c9d8345992d0ca98a3086d507bd7244",
-        "teams": "Vimmerby HC - Tyringe Sos",
-        "odds": {
-          "1": "1.10",
-          "2": "8.50",
-          "X": "14.25"
-        },
-        "category": "hockey"
-      },
-      "45b4ec0970d91b74174382ece4871f7d8e768395": {
-        "id": "45b4ec0970d91b74174382ece4871f7d8e768395",
-        "teams": "Kalmar HC - Boras",
-        "odds": {
-          "1": "1.38",
-          "2": "5.05",
-          "X": "6.15"
-        },
-        "category": "hockey"
-      },
-      "080e34a35e5941baf76dfb879c27d893afb76fa1": {
-        "id": "080e34a35e5941baf76dfb879c27d893afb76fa1",
-        "teams": "Malungs IF - Gripen HC Nykoping",
-        "odds": {
-          "1": "3.45",
-          "2": "4.05",
-          "X": "1.80"
-        },
-        "category": "hockey"
-      },
-      "79d20a37ea496240df04d76d5045addd6b6ebd61": {
-        "id": "79d20a37ea496240df04d76d5045addd6b6ebd61",
-        "teams": "Lindens Hockey - Surahammar IF",
-        "odds": {
-          "1": "1.25",
-          "2": "6.00",
-          "X": "7.90"
-        },
-        "category": "hockey"
-      },
-      "0730a70a4fd57eea5270a640bea1141e42cef099": {
-        "id": "0730a70a4fd57eea5270a640bea1141e42cef099",
-        "teams": "Forshaga IF - Koping HC",
-        "odds": {
-          "1": "1.67",
-          "2": "4.20",
-          "X": "4.00"
-        },
-        "category": "hockey"
-      },
-      "4037a54c32d98910222bcc877b301b8e16453db5": {
-        "id": "4037a54c32d98910222bcc877b301b8e16453db5",
-        "teams": "Hammarby Hockey IF - Wings Arlanda HC",
-        "odds": {
-          "1": "3.85",
-          "2": "4.30",
-          "X": "1.67"
-        },
-        "category": "hockey"
-      },
-      "2788851881b3b743a91a30d65cfb81e0263777a1": {
-        "id": "2788851881b3b743a91a30d65cfb81e0263777a1",
-        "teams": "Segeltorps IF - Hanvikens SK",
-        "odds": {
-          "1": "2.45",
-          "2": "3.95",
-          "X": "2.32"
-        },
-        "category": "hockey"
-      },
-      "e220f8aa0a181c7a1f0ca8df66aaa0c65829dc5a": {
-        "id": "e220f8aa0a181c7a1f0ca8df66aaa0c65829dc5a",
-        "teams": "Enkopings SK HK - Sollentuna HC",
-        "odds": {
-          "1": "2.22",
-          "2": "3.90",
-          "X": "2.62"
-        },
-        "category": "hockey"
-      },
-      "d82ef562ffd5699fcda14b6c6f972f31993f3de2": {
-        "id": "d82ef562ffd5699fcda14b6c6f972f31993f3de2",
-        "teams": "EC Dornbirn - HC Bozen - Bolzano Foxes",
-        "odds": {
-          "1": "3.75",
-          "2": "4.15",
-          "X": "1.78"
-        },
-        "category": "hockey"
-      },
-      "7feb48505156f14a367a692588a07f6f44172e8c": {
-        "id": "7feb48505156f14a367a692588a07f6f44172e8c",
-        "teams": "RB Salzburg - HC Innsbruck",
-        "odds": {
-          "1": "1.36",
-          "2": "5.35",
-          "X": "6.60"
-        },
-        "category": "hockey"
-      },
-      "7ecd955c2efe8737b5f33fc674086ce36f8b3e64": {
-        "id": "7ecd955c2efe8737b5f33fc674086ce36f8b3e64",
-        "teams": "EC VSV - KAC Klagenfurt",
-        "odds": {
-          "1": "2.50",
-          "2": "3.75",
-          "X": "2.50"
-        },
-        "category": "hockey"
-      },
-      "b2805f8227e23a2c297003e8a088adab13797e71": {
-        "id": "b2805f8227e23a2c297003e8a088adab13797e71",
-        "teams": "Sapa Fehervar AV19 - Black Wings Linz",
-        "odds": {
-          "1": "2.45",
-          "2": "4.00",
-          "X": "2.42"
-        },
-        "category": "hockey"
-      },
-      "f094b3fab65b376fa20d4a02befa433fd05c505c": {
-        "id": "f094b3fab65b376fa20d4a02befa433fd05c505c",
-        "teams": "Eisbaren Berlin - Augsburger Panther",
-        "odds": {
-          "1": "1.75",
-          "2": "4.20",
-          "X": "3.90"
-        },
-        "category": "hockey"
-      },
-      "ac32da8bab1698df59913a46ca9be5638bc072c7": {
-        "id": "ac32da8bab1698df59913a46ca9be5638bc072c7",
-        "teams": "Schwenninger Wild Wings - Straubing Tigers",
-        "odds": {
-          "1": "3.45",
-          "2": "4.05",
-          "X": "1.87"
-        },
-        "category": "hockey"
-      },
-      "4f0589059c898b62fba5b1448d3e8f0cfbee5d56": {
-        "id": "4f0589059c898b62fba5b1448d3e8f0cfbee5d56",
-        "teams": "Dusseldorfer EG - Wolfsburg Grizzly Adams",
-        "odds": {
-          "1": "2.22",
-          "2": "3.85",
-          "X": "2.80"
-        },
-        "category": "hockey"
-      },
-      "bb1935b58ffeeeb1f4450fafcbc0763fd90eb9c9": {
-        "id": "bb1935b58ffeeeb1f4450fafcbc0763fd90eb9c9",
-        "teams": "Bremerhaven - ERC Ingolstadt",
-        "odds": {
-          "1": "2.00",
-          "2": "4.00",
-          "X": "3.15"
-        },
-        "category": "hockey"
-      },
-      "20408e9d65b1ccfa922730ab5c2236ac32702a8f": {
-        "id": "20408e9d65b1ccfa922730ab5c2236ac32702a8f",
-        "teams": "Cologne Haie - Adler Mannheim",
-        "odds": {
-          "1": "3.10",
-          "2": "3.85",
-          "X": "2.05"
-        },
-        "category": "hockey"
-      },
-      "804f2307df2854895be97acade176328a1bd0774": {
-        "id": "804f2307df2854895be97acade176328a1bd0774",
-        "teams": "Red Bull Munich - Krefeld Pinguine",
-        "odds": {
-          "1": "1.38",
-          "2": "5.15",
-          "X": "6.55"
-        },
-        "category": "hockey"
-      },
-      "1b6ffd60907f1c701c69b595ef4ee6d70d66689c": {
-        "id": "1b6ffd60907f1c701c69b595ef4ee6d70d66689c",
-        "teams": "T. S. Ice Tigers - Iserlohn Roosters",
-        "odds": {
-          "1": "1.72",
-          "2": "4.20",
-          "X": "4.00"
-        },
-        "category": "hockey"
-      },
-      "a2f1fba5bc20fd79036c34e9cf523560071ad816": {
-        "id": "a2f1fba5bc20fd79036c34e9cf523560071ad816",
-        "teams": "Lowen Frankfurt - Heibronner Falken",
-        "odds": {
-          "1": "2.02",
-          "2": "4.05",
-          "X": "2.85"
-        },
-        "category": "hockey"
-      },
-      "683fd36d58a9ac70882021dc80205af43a35d26b": {
-        "id": "683fd36d58a9ac70882021dc80205af43a35d26b",
-        "teams": "Landshut Cannibals - Lausitzer Fuchse",
-        "odds": {
-          "1": "1.80",
-          "2": "4.15",
-          "X": "3.40"
-        },
-        "category": "hockey"
-      },
-      "3ccad0207b23e87774935acbc00054709cc67411": {
-        "id": "3ccad0207b23e87774935acbc00054709cc67411",
-        "teams": "Kaufbeuren - EC Bad Nauheim",
-        "odds": {
-          "1": "1.91",
-          "2": "3.95",
-          "X": "3.20"
-        },
-        "category": "hockey"
-      },
-      "5fac32c8b0f36e7c0d7c06e92cced99ad35fdb9d": {
-        "id": "5fac32c8b0f36e7c0d7c06e92cced99ad35fdb9d",
-        "teams": "Wolfe Freiburg - Ravensburg",
-        "odds": {
-          "1": "1.97",
-          "2": "3.85",
-          "X": "3.10"
-        },
-        "category": "hockey"
-      },
-      "10544df1a05ff0bd169b5c201f93b22fe0048211": {
-        "id": "10544df1a05ff0bd169b5c201f93b22fe0048211",
-        "teams": "EHC Lustenau - Bregenzerwald",
-        "odds": {
-          "1": "1.33",
-          "2": "5.40",
-          "X": "6.40"
-        },
-        "category": "hockey"
-      },
-      "d0c64d2613fcbd75267a41520c3d60e17811c821": {
-        "id": "d0c64d2613fcbd75267a41520c3d60e17811c821",
-        "teams": "Herlev Eagles - Rodovre Mighty Bulls",
-        "odds": {
-          "1": "1.67",
-          "2": "4.20",
-          "X": "3.90"
-        },
-        "category": "hockey"
-      },
-      "046b108ca9bf48d75883563a7a6c3b7f7af4a257": {
-        "id": "046b108ca9bf48d75883563a7a6c3b7f7af4a257",
-        "teams": "Frederikshavn White Hawks - Aalborg Pirates",
-        "odds": {
-          "1": "2.55",
-          "2": "3.75",
-          "X": "2.32"
-        },
-        "category": "hockey"
-      },
-      "b0ed097e213fdc45134ab211e50cb9308e346cb4": {
-        "id": "b0ed097e213fdc45134ab211e50cb9308e346cb4",
-        "teams": "IK Sonderjyske - Esbjerg Energy",
-        "odds": {
-          "1": "2.05",
-          "2": "3.70",
-          "X": "3.00"
-        },
-        "category": "hockey"
-      },
-      "5312482266e791aa6ab36a110e33187e2b8ec6ed": {
-        "id": "5312482266e791aa6ab36a110e33187e2b8ec6ed",
-        "teams": "Bietingheim/Bissingen - Kassel Huskies",
-        "odds": {
-          "1": "2.65",
-          "2": "3.90",
-          "X": "2.20"
-        },
-        "category": "hockey"
-      },
-      "46830fb4dcb90616ddf1e39c6852198a6be6a1da": {
-        "id": "46830fb4dcb90616ddf1e39c6852198a6be6a1da",
-        "teams": "Crimmitschau - EHC Bayreuth",
-        "odds": {
-          "1": "2.02",
-          "2": "4.05",
-          "X": "2.85"
-        },
-        "category": "hockey"
-      },
-      "ddf92b4a0d1b5bac3268bf5039ce4d28051637eb": {
-        "id": "ddf92b4a0d1b5bac3268bf5039ce4d28051637eb",
-        "teams": "Ritten Sport - HC Gherdeina",
-        "odds": {
-          "1": "1.42",
-          "2": "4.90",
-          "X": "5.55"
-        },
-        "category": "hockey"
-      },
-      "2e86c61b53ce1ebb6d1c7468440c1ebd43bea4f9": {
-        "id": "2e86c61b53ce1ebb6d1c7468440c1ebd43bea4f9",
-        "teams": "EC Die Adler Kitzbuhel - Steel Wings Linz",
-        "odds": {
-          "1": "1.10",
-          "2": "9.00",
-          "X": "14.75"
-        },
-        "category": "hockey"
-      },
-      "fc6266f826154e637b0d2f742fcc68724735b822": {
-        "id": "fc6266f826154e637b0d2f742fcc68724735b822",
-        "teams": "HC Pustertal - EC S.Feldkirch",
-        "odds": {
-          "1": "1.70",
-          "2": "4.25",
-          "X": "3.75"
-        },
-        "category": "hockey"
-      },
-      "dc259678d96742bdd2213e67fca5492488567c14": {
-        "id": "dc259678d96742bdd2213e67fca5492488567c14",
-        "teams": "Vipiteno - EC Red Bull Salzburg Junior",
-        "odds": {
-          "1": "2.05",
-          "2": "4.05",
-          "X": "2.82"
-        },
-        "category": "hockey"
-      },
-      "90ad429837ddd1dc90c8dc7bb6f4ee5a77ac5d26": {
-        "id": "90ad429837ddd1dc90c8dc7bb6f4ee5a77ac5d26",
-        "teams": "Rouen Dragons - Nice Aigles",
-        "odds": {
-          "1": "1.27",
-          "2": "5.70",
-          "X": "8.00"
-        },
-        "category": "hockey"
-      },
-      "500fb353afbea038d40405daa34dc1e36066471c": {
-        "id": "500fb353afbea038d40405daa34dc1e36066471c",
-        "teams": "Briancon - Angers Ducs",
-        "odds": {
-          "1": "19.00",
-          "2": "9.50",
-          "X": "1.08"
-        },
-        "category": "hockey"
-      },
-      "5562389004fbe83b89e39b990e6b64e6553ce723": {
-        "id": "5562389004fbe83b89e39b990e6b64e6553ce723",
-        "teams": "Scorpions de Mulhouse - Anglet Hormadi Elite",
-        "odds": {
-          "1": "1.80",
-          "2": "4.05",
-          "X": "3.45"
-        },
-        "category": "hockey"
-      },
-      "cc338c75f11b163ad045d070956e96ecbf5ef304": {
-        "id": "cc338c75f11b163ad045d070956e96ecbf5ef304",
-        "teams": "Belfast Giants - Dundee Stars",
-        "odds": {
-          "1": "1.35",
-          "2": "5.20",
-          "X": "6.40"
-        },
-        "category": "hockey"
-      },
-      "03fd24a76ac2b50153516a168685dbfa92c82f37": {
-        "id": "03fd24a76ac2b50153516a168685dbfa92c82f37",
-        "teams": "GCK Lions - EHC Visp",
-        "odds": {
-          "1": "3.20",
-          "2": "3.95",
-          "X": "1.91"
-        },
-        "category": "hockey"
-      },
-      "6b36ddf68ee57fa053b5387cd3a1f21d56f434d0": {
-        "id": "6b36ddf68ee57fa053b5387cd3a1f21d56f434d0",
-        "teams": "EHC Winterthur - HC Biasca",
-        "odds": {
-          "1": "1.80",
-          "2": "4.15",
-          "X": "3.40"
-        },
-        "category": "hockey"
       },
       "16952ff7ce1785017107274952d765d3893d5992": {
         "id": "16952ff7ce1785017107274952d765d3893d5992",
         "teams": "HC Ambri Piotta - HC Ocelari Trinec",
         "odds": {
-          "1": "1.93",
-          "2": "3.90",
-          "X": "3.40"
+          "1": 1.93,
+          "2": 3.4,
+          "X": 3.9
         },
         "category": "hockey"
       },
@@ -1097,19 +97,9 @@
         "id": "2f498c164f3f63005fa51630ec933060153319d3",
         "teams": "HC Amiens Somme - Gap HC",
         "odds": {
-          "1": "1.57",
-          "2": "4.30",
-          "X": "4.60"
-        },
-        "category": "hockey"
-      },
-      "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8": {
-        "id": "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8",
-        "teams": "HC Asiago - SG Cortina",
-        "odds": {
-          "1": "1.87",
-          "2": "4.10",
-          "X": "3.20"
+          "1": 1.47,
+          "2": 5.2,
+          "X": 4.55
         },
         "category": "hockey"
       },
@@ -1117,9 +107,19 @@
         "id": "789d7462ddb170fec7c90ea56506da1471054a41",
         "teams": "Chamoix Morzine - Grenoble MH38",
         "odds": {
-          "1": "6.55",
-          "2": "5.55",
-          "X": "1.33"
+          "1": 6.55,
+          "2": 1.33,
+          "X": 5.55
+        },
+        "category": "hockey"
+      },
+      "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8": {
+        "id": "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8",
+        "teams": "HC Asiago - SG Cortina",
+        "odds": {
+          "1": 1.85,
+          "2": 3.25,
+          "X": 4.1
         },
         "category": "hockey"
       },
@@ -1127,9 +127,9 @@
         "id": "9c1f6a9dd9492f89aaec12b6cb0875c305841c95",
         "teams": "SHC Fassa - HK Olimpija",
         "odds": {
-          "1": "3.30",
-          "2": "4.25",
-          "X": "1.80"
+          "1": 3.3,
+          "2": 1.8,
+          "X": 4.25
         },
         "category": "hockey"
       },
@@ -1137,9 +137,9 @@
         "id": "70c934c30d7c76fdfdbbdb0036b642fc79395789",
         "teams": "Pittsburgh Penguins - Ottawa Senators",
         "odds": {
-          "1": "1.50",
-          "2": "4.75",
-          "X": "5.05"
+          "1": 1.5,
+          "2": 5.05,
+          "X": 4.75
         },
         "category": "hockey"
       },
@@ -1147,9 +147,9 @@
         "id": "49cbc1f9044d4dcbce5ba4aead145b1ca4a8c00e",
         "teams": "Saginaw Spirit - Marie Greyhounds",
         "odds": {
-          "1": "1.83",
-          "2": "4.35",
-          "X": "3.20"
+          "1": 1.85,
+          "2": 3.1,
+          "X": 4.4
         },
         "category": "hockey"
       },
@@ -1157,9 +157,9 @@
         "id": "c583306036505f01afb70c4fcf0ac6b43a5c6c81",
         "teams": "Prince Albert Raiders - Winnipeg Ice",
         "odds": {
-          "1": "1.91",
-          "2": "4.05",
-          "X": "3.15"
+          "1": 2.02,
+          "2": 2.9,
+          "X": 4
         },
         "category": "hockey"
       },
@@ -1167,9 +167,9 @@
         "id": "1c8718b6e36db9816c26532f26c011b373fbe969",
         "teams": "Swift Current Broncos - Lethbridge Hurricanes",
         "odds": {
-          "1": "7.80",
-          "2": "5.70",
-          "X": "1.27"
+          "1": 7.8,
+          "2": 1.27,
+          "X": 5.7
         },
         "category": "hockey"
       },
@@ -1177,9 +177,9 @@
         "id": "cecd68ca615d99402097b2d8d59db08066203d1a",
         "teams": "Brandon Wheat Kings - Regina Pats",
         "odds": {
-          "1": "1.61",
-          "2": "4.45",
-          "X": "4.10"
+          "1": 1.65,
+          "2": 3.9,
+          "X": 4.4
         },
         "category": "hockey"
       },
@@ -1187,9 +187,9 @@
         "id": "cf7bb003aaffd90088fd1b531bc6aabc81766249",
         "teams": "Calgary Hitmen - Edmonton Oil Kings",
         "odds": {
-          "1": "2.52",
-          "2": "3.90",
-          "X": "2.30"
+          "1": 3,
+          "2": 2,
+          "X": 3.95
         },
         "category": "hockey"
       },
@@ -1197,9 +197,9 @@
         "id": "3bd4510a80cb8251b7dd824324fb4bf0b8c97ea4",
         "teams": "Red Deer Rebels - Everett Silvertips",
         "odds": {
-          "1": "5.00",
-          "2": "4.70",
-          "X": "1.47"
+          "1": 5,
+          "2": 1.47,
+          "X": 4.7
         },
         "category": "hockey"
       },
@@ -1207,9 +207,9 @@
         "id": "6be4b6f99fd85d289f2c323c87144ca22914ac1b",
         "teams": "Kamloops Blazers - Victoria Royals",
         "odds": {
-          "1": "1.91",
-          "2": "3.90",
-          "X": "3.25"
+          "1": 1.78,
+          "2": 3.65,
+          "X": 4
         },
         "category": "hockey"
       },
@@ -1217,9 +217,9 @@
         "id": "f7d639611a55743ebf0e5feb97434ba5bf7588cc",
         "teams": "Kelowna Rockets - Prince George Cougars",
         "odds": {
-          "1": "1.70",
-          "2": "4.05",
-          "X": "3.90"
+          "1": 1.7,
+          "2": 3.9,
+          "X": 4.05
         },
         "category": "hockey"
       },
@@ -1227,9 +227,9 @@
         "id": "bb0c076be3efa32084f3160652b0630a43e82f9c",
         "teams": "Rusia U20 - Germania U20",
         "odds": {
-          "1": "1.14",
-          "2": "8.50",
-          "X": "14.00"
+          "1": 1.12,
+          "2": 14.75,
+          "X": 9
         },
         "category": "hockey"
       },
@@ -1237,9 +237,49 @@
         "id": "519329dea16e586db4665c60041b75e83921c29c",
         "teams": "Suedia U20 - Slovacia U20",
         "odds": {
-          "1": "1.06",
-          "2": "11.75",
-          "X": "23.00"
+          "1": 1.05,
+          "2": 27,
+          "X": 13
+        },
+        "category": "hockey"
+      },
+      "503f03c9545e716406b7669a0c0db186440bbea6": {
+        "id": "503f03c9545e716406b7669a0c0db186440bbea6",
+        "teams": "New Jersey Devils - Boston Bruins",
+        "odds": {
+          "1": 3.5,
+          "2": 1.83,
+          "X": 4.2
+        },
+        "category": "hockey"
+      },
+      "d3166a2658d91c6102d22bdf77b65b84447367c1": {
+        "id": "d3166a2658d91c6102d22bdf77b65b84447367c1",
+        "teams": "Washington Capitals - New York Islanders",
+        "odds": {
+          "1": 2,
+          "2": 3.15,
+          "X": 4
+        },
+        "category": "hockey"
+      },
+      "c7a65f25416199e9af70d64b9d8aa8c08566689f": {
+        "id": "c7a65f25416199e9af70d64b9d8aa8c08566689f",
+        "teams": "Canada U20 - Cehia U20",
+        "odds": {
+          "1": 1.3,
+          "2": 7.35,
+          "X": 5.8
+        },
+        "category": "hockey"
+      },
+      "bdbb84ce681d2236c9a15b857eae8d7927743086": {
+        "id": "bdbb84ce681d2236c9a15b857eae8d7927743086",
+        "teams": "Finlanda U20 - Elveția U20",
+        "odds": {
+          "1": 1.33,
+          "2": 7.45,
+          "X": 5.65
         },
         "category": "hockey"
       }
@@ -1249,59 +289,9 @@
         "id": "77727c01612a48aff84045e8dc81c94b9a35b911",
         "teams": "Derby - Charlton",
         "odds": {
-          "1": "1,90",
-          "2": "3,60",
-          "X": "4,15"
-        },
-        "category": "fotbal"
-      },
-      "c152d74cb895dd2b8477fde69be00f91d0b065c2": {
-        "id": "c152d74cb895dd2b8477fde69be00f91d0b065c2",
-        "teams": "Hap.Haifa - Beitar I.",
-        "odds": {
-          "1": "5,00",
-          "2": "3,65",
-          "X": "1,60"
-        },
-        "category": "fotbal"
-      },
-      "6b8ff370b82401676b12123316908cb2cc8ed26c": {
-        "id": "6b8ff370b82401676b12123316908cb2cc8ed26c",
-        "teams": "Mac.Petach Tikva - Ironi Rishon",
-        "odds": {
-          "1": "1,85",
-          "2": "3,25",
-          "X": "3,90"
-        },
-        "category": "fotbal"
-      },
-      "64a2bba7bd123cce3a113a1b988ff367958cf907": {
-        "id": "64a2bba7bd123cce3a113a1b988ff367958cf907",
-        "teams": "Hap.Katamon - Bnei Sakhnin",
-        "odds": {
-          "1": "2,05",
-          "2": "3,20",
-          "X": "3,30"
-        },
-        "category": "fotbal"
-      },
-      "e71db516d90fe62d905e0c7898784d31ddbb2ff3": {
-        "id": "e71db516d90fe62d905e0c7898784d31ddbb2ff3",
-        "teams": "H.Om El Fahem - Hap.Ramat Gan",
-        "odds": {
-          "1": "2,35",
-          "2": "3,00",
-          "X": "2,90"
-        },
-        "category": "fotbal"
-      },
-      "ed9c838f803fb725cbc38dcdef50f1c20ec6917f": {
-        "id": "ed9c838f803fb725cbc38dcdef50f1c20ec6917f",
-        "teams": "Mouloudia Oujda - Cr Khemis Zemamra",
-        "odds": {
-          "1": "1,90",
-          "2": "2,90",
-          "X": "4,20"
+          "1": 1.9,
+          "2": 4.15,
+          "X": 3.6
         },
         "category": "fotbal"
       },
@@ -1309,9 +299,9 @@
         "id": "89432a44bbcf720e86dded666a100fa37c61553b",
         "teams": "The New Saints FC - Cefn",
         "odds": {
-          "1": "1,10",
-          "2": "8,50",
-          "X": "18,00"
+          "1": 1.07,
+          "2": 19,
+          "X": 10
         },
         "category": "fotbal"
       },
@@ -1319,9 +309,9 @@
         "id": "87312ea2ec28d8c819f33188bd4e9e75475892fa",
         "teams": "Bala - Caernarfon Town",
         "odds": {
-          "1": "1,45",
-          "2": "4,50",
-          "X": "5,50"
+          "1": 1.45,
+          "2": 5.5,
+          "X": 4.5
         },
         "category": "fotbal"
       },
@@ -1329,9 +319,9 @@
         "id": "fb1f73fa081e2865609fa7a5e2fe0120c25969ea",
         "teams": "Cardiff Met Univ. - Barry Town",
         "odds": {
-          "1": "2,25",
-          "2": "3,25",
-          "X": "2,90"
+          "1": 2.35,
+          "2": 2.8,
+          "X": 3.2
         },
         "category": "fotbal"
       },
@@ -1339,9 +329,9 @@
         "id": "4722fd753317c03188a2b968011fba3884d0596b",
         "teams": "Aberystwyth - Newtown",
         "odds": {
-          "1": "3,05",
-          "2": "3,55",
-          "X": "2,05"
+          "1": 3.05,
+          "2": 2.05,
+          "X": 3.55
         },
         "category": "fotbal"
       },
@@ -1349,221 +339,21 @@
         "id": "776365e6d3f7faf92c5d555967e7f1616625178c",
         "teams": "Airbus - Connah's Q.",
         "odds": {
-          "1": "7,30",
-          "2": "4,90",
-          "X": "1,33"
+          "1": 7.6,
+          "2": 1.3,
+          "X": 5.3
         },
         "category": "fotbal"
-      },
-      "505f28ac35e1402ceab6035460aa4cf24aac0b70": {
-        "id": "505f28ac35e1402ceab6035460aa4cf24aac0b70",
-        "teams": "ASV Hamm - VFL Gummersbach",
-        "odds": {
-          "1": "1,60",
-          "2": "9,00",
-          "X": "2,85"
-        },
-        "category": "handbal"
-      },
-      "762c4961cdd31c07049740023473163a6f72f4b6": {
-        "id": "762c4961cdd31c07049740023473163a6f72f4b6",
-        "teams": "F/Vasterasirsta - F/Kungalvs HK",
-        "odds": {
-          "1": "1,95",
-          "2": "8,00",
-          "X": "2,25"
-        },
-        "category": "handbal"
-      },
-      "33e31e118b3fcdbcf84272555f2157164858a8c4": {
-        "id": "33e31e118b3fcdbcf84272555f2157164858a8c4",
-        "teams": "F/Gt Soder - F/Onnereds HK",
-        "odds": {
-          "1": "2,80",
-          "2": "8,50",
-          "X": "1,65"
-        },
-        "category": "handbal"
       }
     },
     "superbet": {
-      "22f2d767fdc40c52730c86404f94104c89f4695b": {
-        "id": "22f2d767fdc40c52730c86404f94104c89f4695b",
-        "teams": "Hap.Katamon J. - Bnei Sakhnin",
-        "odds": {
-          "1": "2.40",
-          "2": "2.95",
-          "X": "3.20"
-        },
-        "category": "fotbal"
-      },
-      "231954e16451c0e2bc838ca7b8943090e7e4a3f4": {
-        "id": "231954e16451c0e2bc838ca7b8943090e7e4a3f4",
-        "teams": "Mac.Petah Tikva - Hap.Rishon Lezion",
-        "odds": {
-          "1": "1.90",
-          "2": "4.00",
-          "X": "3.45"
-        },
-        "category": "fotbal"
-      },
-      "096748abcf0f57cde47cf3e576ebc8a35be84b0a": {
-        "id": "096748abcf0f57cde47cf3e576ebc8a35be84b0a",
-        "teams": "Hap.Haifa - Beitar J.",
-        "odds": {
-          "1": "5.30",
-          "2": "1.62",
-          "X": "3.65"
-        },
-        "category": "fotbal"
-      },
       "00e4608dc2553781ce96d069396df87432fb6ae6": {
         "id": "00e4608dc2553781ce96d069396df87432fb6ae6",
         "teams": "TNS - Cefn Druids",
         "odds": {
-          "1": "1.10",
-          "2": "17.00",
-          "X": "8.45"
-        },
-        "category": "fotbal"
-      },
-      "a340246a55285ff0ed62263b8235ad6c15886598": {
-        "id": "a340246a55285ff0ed62263b8235ad6c15886598",
-        "teams": "Bala T. - Caernarfon T.",
-        "odds": {
-          "1": "1.45",
-          "2": "5.45",
-          "X": "4.70"
-        },
-        "category": "fotbal"
-      },
-      "776365e6d3f7faf92c5d555967e7f1616625178c": {
-        "id": "776365e6d3f7faf92c5d555967e7f1616625178c",
-        "teams": "Airbus - Connah's Q.",
-        "odds": {
-          "1": "7.30",
-          "2": "1.32",
-          "X": "5.20"
-        },
-        "category": "fotbal"
-      },
-      "77727c01612a48aff84045e8dc81c94b9a35b911": {
-        "id": "77727c01612a48aff84045e8dc81c94b9a35b911",
-        "teams": "Derby - Charlton",
-        "odds": {
-          "1": "1.90",
-          "2": "4.10",
-          "X": "3.55"
-        },
-        "category": "fotbal"
-      },
-      "b84c5e93f242461e2029943da665cd62951bf714": {
-        "id": "b84c5e93f242461e2029943da665cd62951bf714",
-        "teams": "Brighton - Chelsea",
-        "odds": {
-          "1": "3.75",
-          "2": "1.97",
-          "X": "3.60"
-        },
-        "category": "fotbal - israel - liga leumit"
-      },
-      "a46f9c1af794f1a349780219a8603072dab657d9": {
-        "id": "a46f9c1af794f1a349780219a8603072dab657d9",
-        "teams": "Southampton - Tottenham",
-        "odds": {
-          "1": "3.25",
-          "2": "2.15",
-          "X": "3.60"
-        },
-        "category": "fotbal - israel - liga leumit"
-      },
-      "65e92757b271a41323ac8cb47a5d17f5a4db4834": {
-        "id": "65e92757b271a41323ac8cb47a5d17f5a4db4834",
-        "teams": "Newcastle - Leicester",
-        "odds": {
-          "1": "5.35",
-          "2": "1.62",
-          "X": "4.05"
-        },
-        "category": "fotbal - israel - liga leumit"
-      },
-      "d754310f5df19bdb74857d014d98f2440b8cc5c9": {
-        "id": "d754310f5df19bdb74857d014d98f2440b8cc5c9",
-        "teams": "Central Coast - Perth Glory",
-        "odds": {
-          "1": "4.05",
-          "2": "1.83",
-          "X": "3.70"
-        },
-        "category": "fotbal"
-      },
-      "a30453fe2866b2d8955181ed7dcbf37054388f9e": {
-        "id": "a30453fe2866b2d8955181ed7dcbf37054388f9e",
-        "teams": "AD San Carlos - Univ.Costa Rica",
-        "odds": {
-          "1": "1.60",
-          "2": "4.40",
-          "X": "4.00"
-        },
-        "category": "fotbal"
-      },
-      "83d9e95b36ba9e1b27032ee336e9238e08e6b4f4": {
-        "id": "83d9e95b36ba9e1b27032ee336e9238e08e6b4f4",
-        "teams": "Hap.Um El Fahem - Hap.Ramat Gan",
-        "odds": {
-          "1": "2.20",
-          "2": "3.20",
-          "X": "3.10"
-        },
-        "category": "fotbal"
-      },
-      "7ad37716c89fc90e761a2a4d7b6f86a1b4760d50": {
-        "id": "7ad37716c89fc90e761a2a4d7b6f86a1b4760d50",
-        "teams": "Hap.Mahane Yehuda - Hap.Kiryat O.",
-        "odds": {
-          "1": "2.80",
-          "2": "2.10",
-          "X": "3.60"
-        },
-        "category": "fotbal"
-      },
-      "46a96c2dd950ae5ab83748e58769152f7b53f47b": {
-        "id": "46a96c2dd950ae5ab83748e58769152f7b53f47b",
-        "teams": "Hap. Bney Arara - Hap. Herzelia",
-        "odds": {
-          "1": "2.25",
-          "2": "2.95",
-          "X": "3.10"
-        },
-        "category": "fotbal"
-      },
-      "d53b59c4f0ff5bc56327a9fdaed5875ec2e5d5eb": {
-        "id": "d53b59c4f0ff5bc56327a9fdaed5875ec2e5d5eb",
-        "teams": "Mac.Emek Hefer (F) - Tel Aviv Univ. (F)",
-        "odds": {
-          "1": "2.60",
-          "2": "2.15",
-          "X": "3.85"
-        },
-        "category": "fotbal"
-      },
-      "d66eebd3345d5730f4e9e0f7f8995867c6b11877": {
-        "id": "d66eebd3345d5730f4e9e0f7f8995867c6b11877",
-        "teams": "UWI - Mount Pleasant",
-        "odds": {
-          "1": "5.80",
-          "2": "1.55",
-          "X": "3.55"
-        },
-        "category": "fotbal"
-      },
-      "387a2d0ea77bb14e619d64a5bcb0c4aea05a8743": {
-        "id": "387a2d0ea77bb14e619d64a5bcb0c4aea05a8743",
-        "teams": "Mouloudia O. - Khemis Zemamra",
-        "odds": {
-          "1": "2.00",
-          "2": "3.95",
-          "X": "2.90"
+          "1": 1.07,
+          "2": 20,
+          "X": 10
         },
         "category": "fotbal"
       },
@@ -1571,9 +361,29 @@
         "id": "a870870e82428fcb1f76229c9c33669fcad1ec19",
         "teams": "Cardiff MU - Barry T.",
         "odds": {
-          "1": "2.30",
-          "2": "2.90",
-          "X": "3.25"
+          "1": 2.3,
+          "2": 2.9,
+          "X": 3.25
+        },
+        "category": "fotbal"
+      },
+      "a340246a55285ff0ed62263b8235ad6c15886598": {
+        "id": "a340246a55285ff0ed62263b8235ad6c15886598",
+        "teams": "Bala T. - Caernarfon T.",
+        "odds": {
+          "1": 1.45,
+          "2": 5.45,
+          "X": 4.7
+        },
+        "category": "fotbal"
+      },
+      "776365e6d3f7faf92c5d555967e7f1616625178c": {
+        "id": "776365e6d3f7faf92c5d555967e7f1616625178c",
+        "teams": "Airbus - Connah's Q.",
+        "odds": {
+          "1": 7.55,
+          "2": 1.3,
+          "X": 5.4
         },
         "category": "fotbal"
       },
@@ -1581,51 +391,81 @@
         "id": "974b2c39c038b914a8be9825e3583355e3c21096",
         "teams": "Aberystwyth T. - Newtown",
         "odds": {
-          "1": "3.00",
-          "2": "2.10",
-          "X": "3.60"
+          "1": 3,
+          "2": 2.1,
+          "X": 3.6
         },
         "category": "fotbal"
       },
-      "5fe7d0f51d1df8625b15f5b8c7620d2c26fba7f3": {
-        "id": "5fe7d0f51d1df8625b15f5b8c7620d2c26fba7f3",
-        "teams": "Tunisia - Maroc",
+      "77727c01612a48aff84045e8dc81c94b9a35b911": {
+        "id": "77727c01612a48aff84045e8dc81c94b9a35b911",
+        "teams": "Derby - Charlton",
         "odds": {
-          "1": "1.12",
-          "2": "8.50",
-          "X": "14.00"
+          "1": 1.9,
+          "2": 4.1,
+          "X": 3.55
         },
-        "category": "handbal"
+        "category": "fotbal"
       },
-      "0b96b6f8588aaebc13e33ab197b3f712ae345024": {
-        "id": "0b96b6f8588aaebc13e33ab197b3f712ae345024",
-        "teams": "ASV Hamm - Gummersbach",
+      "b84c5e93f242461e2029943da665cd62951bf714": {
+        "id": "b84c5e93f242461e2029943da665cd62951bf714",
+        "teams": "Brighton - Chelsea",
         "odds": {
-          "1": "1.47",
-          "2": "3.20",
-          "X": "8.50"
+          "1": 3.75,
+          "2": 1.97,
+          "X": 3.6
         },
-        "category": "handbal"
+        "category": "fotbal - ţara galilor - cymru premier"
       },
-      "d372b8f55f478814a6d987683c39fb124187f921": {
-        "id": "d372b8f55f478814a6d987683c39fb124187f921",
-        "teams": "Vasterasirsta (F) - Kungalvs (F)",
+      "a46f9c1af794f1a349780219a8603072dab657d9": {
+        "id": "a46f9c1af794f1a349780219a8603072dab657d9",
+        "teams": "Southampton - Tottenham",
         "odds": {
-          "1": "1.90",
-          "2": "2.15",
-          "X": "8.00"
+          "1": 3.25,
+          "2": 2.15,
+          "X": 3.6
         },
-        "category": "handbal"
+        "category": "fotbal - ţara galilor - cymru premier"
       },
-      "3c5fda08b6786bc437b19eea6db5ad3ba3635b60": {
-        "id": "3c5fda08b6786bc437b19eea6db5ad3ba3635b60",
-        "teams": "Gt Soder (F) - Onnereds (F)",
+      "65e92757b271a41323ac8cb47a5d17f5a4db4834": {
+        "id": "65e92757b271a41323ac8cb47a5d17f5a4db4834",
+        "teams": "Newcastle - Leicester",
         "odds": {
-          "1": "2.54",
-          "2": "1.65",
-          "X": "9.00"
+          "1": 5.35,
+          "2": 1.62,
+          "X": 4.05
         },
-        "category": "handbal"
+        "category": "fotbal - ţara galilor - cymru premier"
+      },
+      "684890f14146755ebd0f0c39bb5939df850b869f": {
+        "id": "684890f14146755ebd0f0c39bb5939df850b869f",
+        "teams": "Arsenal - Manchester Utd",
+        "odds": {
+          "1": 2.6,
+          "2": 2.6,
+          "X": 3.6
+        },
+        "category": "fotbal - ţara galilor - cymru premier"
+      },
+      "d754310f5df19bdb74857d014d98f2440b8cc5c9": {
+        "id": "d754310f5df19bdb74857d014d98f2440b8cc5c9",
+        "teams": "Central Coast - Perth Glory",
+        "odds": {
+          "1": 4.05,
+          "2": 1.83,
+          "X": 3.7
+        },
+        "category": "fotbal"
+      },
+      "d66eebd3345d5730f4e9e0f7f8995867c6b11877": {
+        "id": "d66eebd3345d5730f4e9e0f7f8995867c6b11877",
+        "teams": "UWI - Mount Pleasant",
+        "odds": {
+          "1": 5.8,
+          "2": 1.55,
+          "X": 3.55
+        },
+        "category": "fotbal"
       }
     },
     "unibet": {
@@ -1633,29 +473,9 @@
         "id": "4d61e57a49f68bf7d0d78b162cd50f9e39ad564a",
         "teams": "Derby County - Charlton Athletic",
         "odds": {
-          "1": "1.90",
-          "2": "3.55",
-          "X": "4.30"
-        },
-        "category": "fotbal"
-      },
-      "2536ba63cd8a8ad4ccd563d7eed3dcdf8e3af8ec": {
-        "id": "2536ba63cd8a8ad4ccd563d7eed3dcdf8e3af8ec",
-        "teams": "Hapoel Haifa - Beitar Jerusalem",
-        "odds": {
-          "1": "4.90",
-          "2": "3.55",
-          "X": "1.60"
-        },
-        "category": "fotbal"
-      },
-      "4df0da2739a34d38aae33851e314f945bfed2ae8": {
-        "id": "4df0da2739a34d38aae33851e314f945bfed2ae8",
-        "teams": "Mouloudia Oujda - Renaissance Zemamra",
-        "odds": {
-          "1": "1.83",
-          "2": "2.90",
-          "X": "4.25"
+          "1": 1.88,
+          "2": 4.35,
+          "X": 3.6
         },
         "category": "fotbal"
       },
@@ -1663,9 +483,9 @@
         "id": "c36f0ce1648d9b95ab37de944e9c5500d5ba00ed",
         "teams": "Aberystwyth Town - Newtown",
         "odds": {
-          "1": "3.00",
-          "2": "3.60",
-          "X": "2.10"
+          "1": 3,
+          "2": 2.1,
+          "X": 3.6
         },
         "category": "fotbal"
       },
@@ -1673,9 +493,9 @@
         "id": "5338452ac4dd6793b6b0f595ed3843d890414399",
         "teams": "Airbus UK Broughton - Connah's Quay FC",
         "odds": {
-          "1": "6.75",
-          "2": "5.20",
-          "X": "1.32"
+          "1": 6.75,
+          "2": 1.32,
+          "X": 5.2
         },
         "category": "fotbal"
       },
@@ -1683,9 +503,9 @@
         "id": "778757c02b31a25ae22860a5d7a0152e60752285",
         "teams": "Bala Town - Caernarfon",
         "odds": {
-          "1": "1.47",
-          "2": "4.25",
-          "X": "5.60"
+          "1": 1.42,
+          "2": 5.8,
+          "X": 4.6
         },
         "category": "fotbal"
       },
@@ -1693,9 +513,9 @@
         "id": "0d202f6714c2753bec8c88777c1bfddca7c0857d",
         "teams": "Cardiff Met University - Barry Town",
         "odds": {
-          "1": "2.35",
-          "2": "3.20",
-          "X": "2.85"
+          "1": 2.35,
+          "2": 2.85,
+          "X": 3.2
         },
         "category": "fotbal"
       },
@@ -1703,41 +523,11 @@
         "id": "cf2fdee7ef5d15e470d75810cb0d7c01882c0f64",
         "teams": "The New Saints - Cefn Druids AFC",
         "odds": {
-          "1": "1.08",
-          "2": "9.50",
-          "X": "19.00"
+          "1": 1.08,
+          "2": 19,
+          "X": 9.5
         },
         "category": "fotbal"
-      },
-      "0c21513ed63ca38aa2023447a745136f4142ae2f": {
-        "id": "0c21513ed63ca38aa2023447a745136f4142ae2f",
-        "teams": "ASV Hamm-Westfalen - Gummersbach Vfl",
-        "odds": {
-          "1": "1.52",
-          "2": "8.50",
-          "X": "2.95"
-        },
-        "category": "handbal"
-      },
-      "10bf8c6fcecc07089835fb8d26744bd80293ca89": {
-        "id": "10bf8c6fcecc07089835fb8d26744bd80293ca89",
-        "teams": "GT Soder (F) - Önnereds HK (F)",
-        "odds": {
-          "1": "2.85",
-          "2": "9.00",
-          "X": "1.60"
-        },
-        "category": "handbal"
-      },
-      "e276c1b0486d8daed7d3099913c69e7d9a4b8bc8": {
-        "id": "e276c1b0486d8daed7d3099913c69e7d9a4b8bc8",
-        "teams": "VästeråsIrsta HF (F) - Kungälvs HK (F)",
-        "odds": {
-          "1": "1.86",
-          "2": "8.50",
-          "X": "2.35"
-        },
-        "category": "handbal"
       }
     }
   }

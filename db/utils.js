@@ -12,10 +12,19 @@ const normalizeData = (data) => data
   .filter(({ odds, category }) =>  (
     !CATEGORY_BLACKLIST.some((name) => category.toLowerCase().includes(name)) &&
     CATEGORIES.some((name) => category.toLowerCase().includes(name)) &&
-    _.isEqual(ODD_TYPES.sort(), Object.keys(odds).sort())
+    _.isEqual([...ODD_TYPES].sort(), Object.keys(odds).sort())
   ))
   .reduce((acc, { teams, odds, category, ...rest }) => {
-    const match = { id: getId(teams), teams, odds, category, ...rest }
+    const match = {
+      id: getId(teams),
+      teams,
+      odds: Object.keys(odds).reduce((oddAcc, odd) => {
+        oddAcc[odd] = Number(odds[odd].replace(',', '.'))
+        return oddAcc
+      }, {}),
+      category,
+      ...rest
+    }
     acc[match.id] = match
     return acc
   }, {})

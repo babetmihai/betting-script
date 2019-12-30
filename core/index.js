@@ -28,13 +28,10 @@ const findArbitrage = async () => {
     .map((matches) => {
       const bestOdds = matches.reduce((acc, { odds }) => {
         ODD_TYPES.forEach((odd) => {
-          acc[odd] = Math.max(...[
-            acc[odd],
-            Number(odds[odd].replace(',', '.'))
-          ].filter(Boolean))
+          acc[odd] = Math.max(acc[odd], odds[odd])
         })
         return acc
-      }, {})
+      }, { X: 0, '1': 0, '2': 0 })
       const title = _.first(matches).teams
       return { title, bestOdds, profit: getProfit(...Object.values(bestOdds)) }
     })
