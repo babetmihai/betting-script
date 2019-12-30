@@ -17,16 +17,12 @@ const findArbitrage = async () => {
     }, [])
     .sort()
     .reduce((acc, name) => {
-      const previousName = _.last(acc)
-      if (!previousName || stringSimilarity.compareTwoStrings(previousName, name) < .6) {
-        acc.push(name)
-      }
+      const hasSimilarName = acc.some((accName) => stringSimilarity.compareTwoStrings(accName, name) > .6)
+      if (!hasSimilarName) acc.push(name)
       return acc
     }, [])
 
   console.log(matches)
-  console.log(stringSimilarity.compareTwoStrings('ASV Hamm-Westfalen - Gummersbach Vfl',
-    'ASV Hamm-Westfalen - VfL Gummersbach'))
 }
 
 module.exports = {
