@@ -6,6 +6,8 @@ const unibet = require('./crawlers/unibet')
 const betano = require('./crawlers/betano')
 const fortuna = require('./crawlers/fortuna')
 
+const { findArbitrage } = require('./core')
+
 Promise.resolve()
   .then(async () => {
     await fortuna()
@@ -14,4 +16,5 @@ Promise.resolve()
     await superbet()
     await unibet()
   })
-  .finally(() => nightmare.end())
+  .then(() => nightmare.end())
+  .then(() => findArbitrage())

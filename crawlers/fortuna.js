@@ -1,6 +1,6 @@
 const db = require('../db')
 const nightmare = require('.')
-const { normalizeData } = require('../utils')
+const { normalizeData } = require('../db/utils')
 const { ODD_TYPES } = require('../settings')
 
 
@@ -31,7 +31,7 @@ module.exports  = async () => {
       }
       return matchAcc
     }, ODD_TYPES)
-    db.set('fortuna', normalizeData(data)).write()
+    db.set('data.fortuna', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
   }

@@ -1,6 +1,6 @@
 const db = require('../db')
 const nightmare = require('.')
-const { normalizeData } = require('../utils')
+const { normalizeData } = require('../db/utils')
 const { ODD_TYPES } = require('../settings')
 
 const URL_CODES = {
@@ -38,7 +38,7 @@ module.exports  = async () => {
       data.push(...pageMatches)
     }
 
-    db.set('betano', normalizeData(data)).write()
+    db.set('data.betano', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
   }

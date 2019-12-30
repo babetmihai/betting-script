@@ -4,11 +4,8 @@ const {
   ODD_TYPES,
   CATEGORIES,
   CATEGORY_BLACKLIST
-} = require('./settings')
+} = require('../settings')
 
-const getMaxOdds = (...lists) => lists.map((list) => Math.max(...list))
-const getProfit = (...odds) => 1 - odds.reduce((acc, odd) => acc + 1 / odd, 0)
-const getBets = (...odds) => odds.map((odd) => 1 / odd)
 const getId = (string) => crypto.createHash('sha1').update(string).digest('hex')
 
 const normalizeData = (data) => data
@@ -23,10 +20,8 @@ const normalizeData = (data) => data
     return acc
   }, {})
 
+
 module.exports = {
   normalizeData,
-  getMaxOdds,
-  getProfit,
-  getBets,
   getId
 }

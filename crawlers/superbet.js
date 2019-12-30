@@ -1,6 +1,6 @@
 const db = require('../db')
 const nightmare = require('.')
-const { normalizeData } = require('../utils')
+const { normalizeData } = require('../db/utils')
 const { ODD_TYPES } = require('../settings')
 const _ = require('lodash')
 
@@ -40,7 +40,7 @@ module.exports  = async () => {
       await nightmare.wait(1000)
     }
 
-    db.set('superbet', normalizeData(data)).write()
+    db.set('data.superbet', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
   }

@@ -1,7 +1,7 @@
 const db = require('../db')
 const nightmare = require('.')
 const _ = require('lodash')
-const { normalizeData } = require('../utils')
+const { normalizeData } = require('../db/utils')
 const { ODD_TYPES } = require('../settings')
 const moment = require('moment')
 
@@ -39,7 +39,7 @@ module.exports  = async () => {
       await nightmare.wait(1000)
     }
 
-    db.set('casapariurilor', normalizeData(data)).write()
+    db.set('data.casapariurilor', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
   }
