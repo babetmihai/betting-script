@@ -1,4 +1,5 @@
 const db = require('../db')
+const { ODD_TYPES } = require('../settings')
 const stringSimilarity = require('string-similarity')
 const _ = require('lodash')
 
@@ -11,26 +12,35 @@ const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, 
 const findArbitrage = async () => {
   const data = db.get('data').value()
   const matches = Object.keys(data)
-    // get match list
     .reduce((acc, key) => {
       acc.push(...Object.values(data[key]).map(({ teams }) => teams))
       return acc
     }, [])
-    // filter duplicates
     .reduce((acc, name) => {
       const similarName = acc.find((accName) => isSameName(accName, name))
       if (!similarName) acc.push(name)
       return acc
     }, [])
-    // get match stats for each house
     .map((name) => Object.keys(data).reduce((acc, key) => {
       const similarMatch = Object.values(data[key])
         .find(({ teams }) => isSameName(teams, name))
       if (similarMatch) acc.push({ house: key, ...similarMatch })
       return acc
     }, []))
-    // only use matches with multiple houses
     .filter((matches) => matches.length > 1)
+    .map((matches) => {
+      const bestOdds = matches.reduce((acc, { odds }) => {
+        ODD_TYPES.forEach((odd) => {
+          acc[odd] = Math.max(...[
+            acc[odd],
+            Number(odds[odd].replace(',', '.'))
+          ].filter(Boolean))
+        })
+        return acc
+      }, {})
+      const title = _.first(matches).teams
+      return { title, bestOdds, profit: getProfit(...Object.values(bestOdds)) }
+    })
 
   console.log(matches)
 }
