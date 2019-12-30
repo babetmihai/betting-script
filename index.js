@@ -8,13 +8,13 @@ const fortuna = require('./crawlers/fortuna')
 
 const { findArbitrage } = require('./core')
 
-Promise.resolve()
-  .then(async () => {
-    await fortuna()
-    await betano()
-    await casapariurilor()
-    await superbet()
-    await unibet()
-  })
-  .then(() => nightmare.end())
-  .then(() => findArbitrage())
+Promise.resolve().then(async () => {
+  await fortuna()
+  await betano()
+  await casapariurilor()
+  await superbet()
+  await unibet()
+
+  await nightmare.end()
+  await findArbitrage()
+})
