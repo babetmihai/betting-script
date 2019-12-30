@@ -3,10 +3,7 @@ const { ODD_TYPES } = require('../settings')
 const stringSimilarity = require('string-similarity')
 const _ = require('lodash')
 
-const getMaxOdds = (...lists) => lists.map((list) => Math.max(...list))
 const getProfit = (...odds) => 1 - odds.reduce((acc, odd) => acc + 1 / odd, 0)
-const getBets = (...odds) => odds.map((odd) => 1 / odd)
-
 const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, second) > .5
 
 const findArbitrage = async () => {
