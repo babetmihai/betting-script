@@ -17,7 +17,7 @@ const findArbitrage = async () => {
     }, [])
     .sort()
     .reduce((acc, name) => {
-      const hasSimilarName = acc.some((accName) => stringSimilarity.compareTwoStrings(accName, name) > .6)
+      const hasSimilarName = acc.some((accName) => stringSimilarity.compareTwoStrings(accName, name) > .5)
       if (!hasSimilarName) acc.push(name)
       return acc
     }, [])
