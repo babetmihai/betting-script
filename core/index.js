@@ -26,16 +26,27 @@ const findArbitrage = async () => {
     }, []))
     .filter((matches) => matches.length > 1)
     .map((matches) => {
-      const bestOdds = matches.reduce((acc, { odds }) => {
+      const { values, houses } = matches.reduce((acc, { odds, house }) => {
         ODD_TYPES.forEach((odd) => {
-          acc[odd] = Math.max(acc[odd], odds[odd])
+          const value = Math.max(acc.values[odd], odds[odd])
+          acc.houses[odd] = odds[odd] === value
+            ? house
+            : acc.houses[odd]
+          acc.values[odd] = value
         })
         return acc
-      }, { X: 0, '1': 0, '2': 0 })
+      }, {
+        values: { 'X': 0,  '1': 0, '2': 0 },
+        houses: {}
+      })
       const title = _.first(matches).teams
-      return { title, bestOdds, profit: getProfit(...Object.values(bestOdds)) }
+      return {
+        title,
+        houses,
+        values,
+        profit: getProfit(...Object.values(values))
+      }
     })
-
   console.log(matches)
 }
 
