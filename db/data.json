@@ -1,16 +1,6 @@
 {
   "data": {
     "fortuna": {
-      "80a7ecc21e5e42694770f44e6fb1ea0f65572db6": {
-        "id": "80a7ecc21e5e42694770f44e6fb1ea0f65572db6",
-        "teams": "Derby -Charlton",
-        "odds": {
-          "1": 1.9,
-          "2": 4.25,
-          "X": 3.5
-        },
-        "category": "fotbal"
-      },
       "283e9532ae2e91c030ac5411c7375d09e6b24b4f": {
         "id": "283e9532ae2e91c030ac5411c7375d09e6b24b4f",
         "teams": "Central C.-Perth",
@@ -18,56 +8,6 @@
           "1": 3.9,
           "2": 1.85,
           "X": 3.75
-        },
-        "category": "fotbal"
-      },
-      "8d429c63967ffc7e88690400899d98ee85c7d16f": {
-        "id": "8d429c63967ffc7e88690400899d98ee85c7d16f",
-        "teams": "Cardiff MU-Barry Town",
-        "odds": {
-          "1": 2.35,
-          "2": 2.87,
-          "X": 3.25
-        },
-        "category": "fotbal"
-      },
-      "03839aaddf8630c304b28452c81b5f2e53a3aba0": {
-        "id": "03839aaddf8630c304b28452c81b5f2e53a3aba0",
-        "teams": "Bala T.-Caernarfon",
-        "odds": {
-          "1": 1.43,
-          "2": 6.7,
-          "X": 4.3
-        },
-        "category": "fotbal"
-      },
-      "3b42f68fb75699bf1b293249c435ceb77a5192de": {
-        "id": "3b42f68fb75699bf1b293249c435ceb77a5192de",
-        "teams": "TNS-Cefn Druids",
-        "odds": {
-          "1": 1.07,
-          "2": 19.51,
-          "X": 10.5
-        },
-        "category": "fotbal"
-      },
-      "199c4b798f45c1053aae18350e1d1f07221b3bd8": {
-        "id": "199c4b798f45c1053aae18350e1d1f07221b3bd8",
-        "teams": "Airbus -Connah's",
-        "odds": {
-          "1": 8.52,
-          "2": 1.3,
-          "X": 5.3
-        },
-        "category": "fotbal"
-      },
-      "7f2ed428a2b8f37dfdf3b0599f2b6d6c5ca0159d": {
-        "id": "7f2ed428a2b8f37dfdf3b0599f2b6d6c5ca0159d",
-        "teams": "Aberystwyth -Newtown",
-        "odds": {
-          "1": 3.17,
-          "2": 2.05,
-          "X": 3.6
         },
         "category": "fotbal"
       }
@@ -83,63 +23,43 @@
         },
         "category": "fotbal"
       },
-      "16952ff7ce1785017107274952d765d3893d5992": {
-        "id": "16952ff7ce1785017107274952d765d3893d5992",
-        "teams": "HC Ambri Piotta - HC Ocelari Trinec",
+      "1b259ace4acd9611febc26c625882839ba3e03f7": {
+        "id": "1b259ace4acd9611febc26c625882839ba3e03f7",
+        "teams": "Al Mojzel - Al Kawkab",
         "odds": {
-          "1": 1.93,
-          "2": 3.4,
-          "X": 3.9
+          "1": 3.35,
+          "2": 2.05,
+          "X": 3.3
         },
-        "category": "hockey"
+        "category": "fotbal"
       },
-      "2f498c164f3f63005fa51630ec933060153319d3": {
-        "id": "2f498c164f3f63005fa51630ec933060153319d3",
-        "teams": "HC Amiens Somme - Gap HC",
+      "5e93922c6f39afc1cecb74d7df48643133ca41c5": {
+        "id": "5e93922c6f39afc1cecb74d7df48643133ca41c5",
+        "teams": "MS Tzeirey Taibe - Hapoel Kfar Bara",
         "odds": {
-          "1": 1.47,
-          "2": 5.2,
-          "X": 4.55
+          "1": 1.14,
+          "2": 16.75,
+          "X": 6.55
         },
-        "category": "hockey"
+        "category": "fotbal"
       },
-      "789d7462ddb170fec7c90ea56506da1471054a41": {
-        "id": "789d7462ddb170fec7c90ea56506da1471054a41",
-        "teams": "Chamoix Morzine - Grenoble MH38",
+      "a64844f06f789f24e6ec1fd11409f9988d36fe83": {
+        "id": "a64844f06f789f24e6ec1fd11409f9988d36fe83",
+        "teams": "Al Taqdom - Al Jabalain",
         "odds": {
-          "1": 6.55,
-          "2": 1.33,
-          "X": 5.55
+          "1": 2.85,
+          "2": 2.3,
+          "X": 3.3
         },
-        "category": "hockey"
-      },
-      "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8": {
-        "id": "dcaa3f14eb000ab1142cbbfa5a2283b260b3c2a8",
-        "teams": "HC Asiago - SG Cortina",
-        "odds": {
-          "1": 1.85,
-          "2": 3.25,
-          "X": 4.1
-        },
-        "category": "hockey"
-      },
-      "9c1f6a9dd9492f89aaec12b6cb0875c305841c95": {
-        "id": "9c1f6a9dd9492f89aaec12b6cb0875c305841c95",
-        "teams": "SHC Fassa - HK Olimpija",
-        "odds": {
-          "1": 3.3,
-          "2": 1.8,
-          "X": 4.25
-        },
-        "category": "hockey"
+        "category": "fotbal"
       },
       "70c934c30d7c76fdfdbbdb0036b642fc79395789": {
         "id": "70c934c30d7c76fdfdbbdb0036b642fc79395789",
         "teams": "Pittsburgh Penguins - Ottawa Senators",
         "odds": {
-          "1": 1.5,
-          "2": 5.05,
-          "X": 4.75
+          "1": 1.55,
+          "2": 4.85,
+          "X": 4.65
         },
         "category": "hockey"
       },
@@ -227,9 +147,9 @@
         "id": "bb0c076be3efa32084f3160652b0630a43e82f9c",
         "teams": "Rusia U20 - Germania U20",
         "odds": {
-          "1": 1.12,
-          "2": 14.75,
-          "X": 9
+          "1": 1.14,
+          "2": 14.4,
+          "X": 8.5
         },
         "category": "hockey"
       },
@@ -238,8 +158,8 @@
         "teams": "Suedia U20 - Slovacia U20",
         "odds": {
           "1": 1.05,
-          "2": 27,
-          "X": 13
+          "2": 26,
+          "X": 12.6
         },
         "category": "hockey"
       },
@@ -257,9 +177,9 @@
         "id": "d3166a2658d91c6102d22bdf77b65b84447367c1",
         "teams": "Washington Capitals - New York Islanders",
         "odds": {
-          "1": 2,
-          "2": 3.15,
-          "X": 4
+          "1": 1.87,
+          "2": 3.45,
+          "X": 4.1
         },
         "category": "hockey"
       },
@@ -277,135 +197,34 @@
         "id": "bdbb84ce681d2236c9a15b857eae8d7927743086",
         "teams": "Finlanda U20 - Elveția U20",
         "odds": {
-          "1": 1.33,
-          "2": 7.45,
-          "X": 5.65
+          "1": 1.35,
+          "2": 6.9,
+          "X": 5.45
+        },
+        "category": "hockey"
+      },
+      "1992e77a0c93b0c080a503d5dcb7417087c5b0f8": {
+        "id": "1992e77a0c93b0c080a503d5dcb7417087c5b0f8",
+        "teams": "Vegas Golden Knights - Anaheim Ducks",
+        "odds": {
+          "1": 1.72,
+          "2": 4,
+          "X": 4.2
         },
         "category": "hockey"
       }
     },
-    "casapariurilor": {
-      "77727c01612a48aff84045e8dc81c94b9a35b911": {
-        "id": "77727c01612a48aff84045e8dc81c94b9a35b911",
-        "teams": "Derby - Charlton",
-        "odds": {
-          "1": 1.9,
-          "2": 4.15,
-          "X": 3.6
-        },
-        "category": "fotbal"
-      },
-      "89432a44bbcf720e86dded666a100fa37c61553b": {
-        "id": "89432a44bbcf720e86dded666a100fa37c61553b",
-        "teams": "The New Saints FC - Cefn",
-        "odds": {
-          "1": 1.07,
-          "2": 19,
-          "X": 10
-        },
-        "category": "fotbal"
-      },
-      "87312ea2ec28d8c819f33188bd4e9e75475892fa": {
-        "id": "87312ea2ec28d8c819f33188bd4e9e75475892fa",
-        "teams": "Bala - Caernarfon Town",
-        "odds": {
-          "1": 1.45,
-          "2": 5.5,
-          "X": 4.5
-        },
-        "category": "fotbal"
-      },
-      "fb1f73fa081e2865609fa7a5e2fe0120c25969ea": {
-        "id": "fb1f73fa081e2865609fa7a5e2fe0120c25969ea",
-        "teams": "Cardiff Met Univ. - Barry Town",
-        "odds": {
-          "1": 2.35,
-          "2": 2.8,
-          "X": 3.2
-        },
-        "category": "fotbal"
-      },
-      "4722fd753317c03188a2b968011fba3884d0596b": {
-        "id": "4722fd753317c03188a2b968011fba3884d0596b",
-        "teams": "Aberystwyth - Newtown",
-        "odds": {
-          "1": 3.05,
-          "2": 2.05,
-          "X": 3.55
-        },
-        "category": "fotbal"
-      },
-      "776365e6d3f7faf92c5d555967e7f1616625178c": {
-        "id": "776365e6d3f7faf92c5d555967e7f1616625178c",
-        "teams": "Airbus - Connah's Q.",
-        "odds": {
-          "1": 7.6,
-          "2": 1.3,
-          "X": 5.3
-        },
-        "category": "fotbal"
-      }
-    },
+    "casapariurilor": {},
     "superbet": {
-      "00e4608dc2553781ce96d069396df87432fb6ae6": {
-        "id": "00e4608dc2553781ce96d069396df87432fb6ae6",
-        "teams": "TNS - Cefn Druids",
+      "aaac0a6a8f646484e553c24d2cad774a7b80be84": {
+        "id": "aaac0a6a8f646484e553c24d2cad774a7b80be84",
+        "teams": "Burnley - Aston Villa",
         "odds": {
-          "1": 1.07,
-          "2": 20,
-          "X": 10
+          "1": 1.85,
+          "2": 4.2,
+          "X": 3.7
         },
-        "category": "fotbal"
-      },
-      "a870870e82428fcb1f76229c9c33669fcad1ec19": {
-        "id": "a870870e82428fcb1f76229c9c33669fcad1ec19",
-        "teams": "Cardiff MU - Barry T.",
-        "odds": {
-          "1": 2.3,
-          "2": 2.9,
-          "X": 3.25
-        },
-        "category": "fotbal"
-      },
-      "a340246a55285ff0ed62263b8235ad6c15886598": {
-        "id": "a340246a55285ff0ed62263b8235ad6c15886598",
-        "teams": "Bala T. - Caernarfon T.",
-        "odds": {
-          "1": 1.45,
-          "2": 5.45,
-          "X": 4.7
-        },
-        "category": "fotbal"
-      },
-      "776365e6d3f7faf92c5d555967e7f1616625178c": {
-        "id": "776365e6d3f7faf92c5d555967e7f1616625178c",
-        "teams": "Airbus - Connah's Q.",
-        "odds": {
-          "1": 7.55,
-          "2": 1.3,
-          "X": 5.4
-        },
-        "category": "fotbal"
-      },
-      "974b2c39c038b914a8be9825e3583355e3c21096": {
-        "id": "974b2c39c038b914a8be9825e3583355e3c21096",
-        "teams": "Aberystwyth T. - Newtown",
-        "odds": {
-          "1": 3,
-          "2": 2.1,
-          "X": 3.6
-        },
-        "category": "fotbal"
-      },
-      "77727c01612a48aff84045e8dc81c94b9a35b911": {
-        "id": "77727c01612a48aff84045e8dc81c94b9a35b911",
-        "teams": "Derby - Charlton",
-        "odds": {
-          "1": 1.9,
-          "2": 4.1,
-          "X": 3.55
-        },
-        "category": "fotbal"
+        "category": "fotbal - anglia - premier league"
       },
       "b84c5e93f242461e2029943da665cd62951bf714": {
         "id": "b84c5e93f242461e2029943da665cd62951bf714",
@@ -415,7 +234,17 @@
           "2": 1.97,
           "X": 3.6
         },
-        "category": "fotbal - ţara galilor - cymru premier"
+        "category": "fotbal - anglia - premier league"
+      },
+      "58a9aed4f20419f53294858bc705a7c5f702e142": {
+        "id": "58a9aed4f20419f53294858bc705a7c5f702e142",
+        "teams": "Watford - Wolverhampton",
+        "odds": {
+          "1": 3.1,
+          "2": 2.35,
+          "X": 3.3
+        },
+        "category": "fotbal - anglia - premier league"
       },
       "a46f9c1af794f1a349780219a8603072dab657d9": {
         "id": "a46f9c1af794f1a349780219a8603072dab657d9",
@@ -425,7 +254,7 @@
           "2": 2.15,
           "X": 3.6
         },
-        "category": "fotbal - ţara galilor - cymru premier"
+        "category": "fotbal - anglia - premier league"
       },
       "65e92757b271a41323ac8cb47a5d17f5a4db4834": {
         "id": "65e92757b271a41323ac8cb47a5d17f5a4db4834",
@@ -435,7 +264,37 @@
           "2": 1.62,
           "X": 4.05
         },
-        "category": "fotbal - ţara galilor - cymru premier"
+        "category": "fotbal - anglia - premier league"
+      },
+      "56e2793810cf7d005b9387b045ea9d1c406adcee": {
+        "id": "56e2793810cf7d005b9387b045ea9d1c406adcee",
+        "teams": "West Ham - Bournemouth",
+        "odds": {
+          "1": 1.95,
+          "2": 3.7,
+          "X": 3.75
+        },
+        "category": "fotbal - anglia - premier league"
+      },
+      "c218ae73edeb25f4c45ea5b3ca714b09ef58d569": {
+        "id": "c218ae73edeb25f4c45ea5b3ca714b09ef58d569",
+        "teams": "Norwich - Crystal Palace",
+        "odds": {
+          "1": 2.45,
+          "2": 2.85,
+          "X": 3.4
+        },
+        "category": "fotbal - anglia - premier league"
+      },
+      "1f408b97c57c2e3e350e164e18ed9cdc255a900f": {
+        "id": "1f408b97c57c2e3e350e164e18ed9cdc255a900f",
+        "teams": "Manchester City - Everton",
+        "odds": {
+          "1": 1.28,
+          "2": 9.5,
+          "X": 6.1
+        },
+        "category": "fotbal - anglia - premier league"
       },
       "684890f14146755ebd0f0c39bb5939df850b869f": {
         "id": "684890f14146755ebd0f0c39bb5939df850b869f",
@@ -445,7 +304,17 @@
           "2": 2.6,
           "X": 3.6
         },
-        "category": "fotbal - ţara galilor - cymru premier"
+        "category": "fotbal - anglia - premier league"
+      },
+      "9278a004f92f4a9eaa322612230bfff641bdba36": {
+        "id": "9278a004f92f4a9eaa322612230bfff641bdba36",
+        "teams": "Espanyol - Barcelona",
+        "odds": {
+          "1": 6.75,
+          "2": 1.45,
+          "X": 4.75
+        },
+        "category": "fotbal - anglia - premier league"
       },
       "d754310f5df19bdb74857d014d98f2440b8cc5c9": {
         "id": "d754310f5df19bdb74857d014d98f2440b8cc5c9",
@@ -468,67 +337,6 @@
         "category": "fotbal"
       }
     },
-    "unibet": {
-      "4d61e57a49f68bf7d0d78b162cd50f9e39ad564a": {
-        "id": "4d61e57a49f68bf7d0d78b162cd50f9e39ad564a",
-        "teams": "Derby County - Charlton Athletic",
-        "odds": {
-          "1": 1.88,
-          "2": 4.35,
-          "X": 3.6
-        },
-        "category": "fotbal"
-      },
-      "c36f0ce1648d9b95ab37de944e9c5500d5ba00ed": {
-        "id": "c36f0ce1648d9b95ab37de944e9c5500d5ba00ed",
-        "teams": "Aberystwyth Town - Newtown",
-        "odds": {
-          "1": 3,
-          "2": 2.1,
-          "X": 3.6
-        },
-        "category": "fotbal"
-      },
-      "5338452ac4dd6793b6b0f595ed3843d890414399": {
-        "id": "5338452ac4dd6793b6b0f595ed3843d890414399",
-        "teams": "Airbus UK Broughton - Connah's Quay FC",
-        "odds": {
-          "1": 6.75,
-          "2": 1.32,
-          "X": 5.2
-        },
-        "category": "fotbal"
-      },
-      "778757c02b31a25ae22860a5d7a0152e60752285": {
-        "id": "778757c02b31a25ae22860a5d7a0152e60752285",
-        "teams": "Bala Town - Caernarfon",
-        "odds": {
-          "1": 1.42,
-          "2": 5.8,
-          "X": 4.6
-        },
-        "category": "fotbal"
-      },
-      "0d202f6714c2753bec8c88777c1bfddca7c0857d": {
-        "id": "0d202f6714c2753bec8c88777c1bfddca7c0857d",
-        "teams": "Cardiff Met University - Barry Town",
-        "odds": {
-          "1": 2.35,
-          "2": 2.85,
-          "X": 3.2
-        },
-        "category": "fotbal"
-      },
-      "cf2fdee7ef5d15e470d75810cb0d7c01882c0f64": {
-        "id": "cf2fdee7ef5d15e470d75810cb0d7c01882c0f64",
-        "teams": "The New Saints - Cefn Druids AFC",
-        "odds": {
-          "1": 1.08,
-          "2": 19,
-          "X": 9.5
-        },
-        "category": "fotbal"
-      }
-    }
+    "unibet": {}
   }
 }

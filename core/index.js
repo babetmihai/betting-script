@@ -39,14 +39,15 @@ const findArbitrage = async () => {
         values: { 'X': 0,  '1': 0, '2': 0 },
         houses: {}
       })
-      const title = _.first(matches).teams
+
       return {
-        title,
+        title: _.first(matches).teams,
         houses,
         values,
         profit: getProfit(...Object.values(values))
       }
     })
+
   console.log(matches)
 }
 
