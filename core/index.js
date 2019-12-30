@@ -15,7 +15,6 @@ const findArbitrage = async () => {
       acc.push(...Object.values(data[key]).map(({ teams }) => teams))
       return acc
     }, [])
-    .sort()
     .reduce((acc, name) => {
       const hasSimilarName = acc.some((accName) => stringSimilarity.compareTwoStrings(accName, name) > .5)
       if (!hasSimilarName) acc.push(name)
