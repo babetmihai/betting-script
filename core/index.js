@@ -42,11 +42,13 @@ const findArbitrage = async () => {
 
       return {
         title: _.first(matches).teams,
+        category: _.first(matches).category,
         houses,
         values,
         profit: getProfit(...Object.values(values))
       }
     })
+    .sort((first, second) => first.profit - second.profit)
 
   console.log(matches)
 }
