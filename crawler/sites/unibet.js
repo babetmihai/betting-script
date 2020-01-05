@@ -1,10 +1,8 @@
-const db = require('../db')
-const nightmare = require('.')
-const { normalizeData } = require('../db/utils')
-const { ODD_TYPES } = require('../settings')
+const { normalizeData } = require('../../db/utils')
+const { ODD_TYPES } = require('../../settings')
 
 
-module.exports  = async () => {
+module.exports  = async ({ nightmare, db }) => {
   try {
     await nightmare
       .goto('https://www.unibet.ro/betting/sports/filter/all/all/all/all/starting-soon')

@@ -1,11 +1,9 @@
-const db = require('../db')
-const nightmare = require('.')
 const _ = require('lodash')
-const { normalizeData } = require('../db/utils')
-const { ODD_TYPES } = require('../settings')
+const { normalizeData } = require('../../db/utils')
+const { ODD_TYPES } = require('../../settings')
 const moment = require('moment')
 
-module.exports  = async () => {
+module.exports  = async ({ nightmare, db }) => {
   try {
     await nightmare
       .goto(`https://www.casapariurilor.ro/Sports/offer?date=${moment().format('dd.mm.yyyy')}`)

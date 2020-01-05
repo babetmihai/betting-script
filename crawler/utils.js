@@ -1,12 +1,11 @@
-const db = require('../db')
 const { ODD_TYPES } = require('../settings')
 const stringSimilarity = require('string-similarity')
 const _ = require('lodash')
 
 const getProfit = (...odds) => 1 - odds.reduce((acc, odd) => acc + 1 / odd, 0)
-const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, second) > .33
+const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, second) > .5
 
-const findArbitrage = async () => {
+const findArbitrage = async ({ db }) => {
   const data = db.get('data').value()
   const arbitrage = Object.keys(data)
     .reduce((acc, key) => {

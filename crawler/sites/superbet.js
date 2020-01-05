@@ -1,11 +1,9 @@
-const db = require('../db')
-const nightmare = require('.')
-const { normalizeData } = require('../db/utils')
-const { ODD_TYPES } = require('../settings')
+const { normalizeData } = require('../../db/utils')
+const { ODD_TYPES } = require('../../settings')
 const _ = require('lodash')
 
 
-module.exports  = async () => {
+module.exports  = async ({ nightmare, db }) => {
   try {
     await nightmare
       .goto('https://www.superbet.ro/pariuri-sportive/astazi')

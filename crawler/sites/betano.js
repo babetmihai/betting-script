@@ -1,7 +1,5 @@
-const db = require('../db')
-const nightmare = require('.')
-const { normalizeData } = require('../db/utils')
-const { ODD_TYPES } = require('../settings')
+const { normalizeData } = require('../../db/utils')
+const { ODD_TYPES } = require('../../settings')
 
 const URL_CODES = {
   fotbal: 'Soccer-FOOT',
@@ -10,7 +8,7 @@ const URL_CODES = {
 }
 
 
-module.exports  = async () => {
+module.exports  = async ({ nightmare, db }) => {
   try {
     const data = []
     for (const category in URL_CODES) {
