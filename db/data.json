@@ -245,7 +245,7 @@
         "id": "4922401011e07196e7c579f64143b3c567c08145",
         "teams": "Reims Ste Anne-Montpellier",
         "odds": {
-          "1": 26.36,
+          "1": 26.93,
           "2": 1.05,
           "X": 11.02
         },
@@ -275,7 +275,7 @@
         "id": "a60ede260b029396e4a05257b3ee5c952de6e8de",
         "teams": "Raon L'Etape-Lille",
         "odds": {
-          "1": 14.44,
+          "1": 14.15,
           "2": 1.14,
           "X": 7.57
         },
@@ -295,9 +295,9 @@
         "id": "ca7190313ceb561c4d5107f38a1cb74ef920c976",
         "teams": "Limonest FC-Le Puy",
         "odds": {
-          "1": 3.12,
-          "2": 2.16,
-          "X": 3.37
+          "1": 3.11,
+          "2": 2.14,
+          "X": 3.42
         },
         "category": "fotbal"
       },
@@ -355,9 +355,9 @@
         "id": "e8f0d89df9532b05588b6cb0197dea95cd77f66c",
         "teams": "STE S Educ Phys Hombourg Haut-AS Prix Les M.",
         "odds": {
-          "1": 4.5,
-          "2": 1.63,
-          "X": 4.08
+          "1": 4.72,
+          "2": 1.62,
+          "X": 4.01
         },
         "category": "fotbal"
       },
@@ -415,9 +415,9 @@
         "id": "629a17acf5900a264225aa23a511fdbb76b00ec3",
         "teams": "AS Marsa-US Biskra",
         "odds": {
-          "1": 5.75,
-          "2": 1.43,
-          "X": 4.09
+          "1": 6.04,
+          "2": 1.41,
+          "X": 4.11
         },
         "category": "fotbal"
       },
@@ -425,9 +425,9 @@
         "id": "9ace2c31a926e4f60251ef838fcfa825b18e31ff",
         "teams": "RC Arbaa-NA Hussein D",
         "odds": {
-          "1": 1.92,
-          "2": 3.76,
-          "X": 2.99
+          "1": 1.99,
+          "2": 3.61,
+          "X": 2.95
         },
         "category": "fotbal"
       },
@@ -455,9 +455,9 @@
         "id": "c304626e60f6030726bad9c1885dc61ed5d81745",
         "teams": "Man.City Rezerve-Liverpool Rezerve",
         "odds": {
-          "1": 1.77,
-          "2": 3.37,
-          "X": 4.02
+          "1": 1.81,
+          "2": 3.26,
+          "X": 3.99
         },
         "category": "fotbal"
       },
@@ -466,8 +466,8 @@
         "teams": "Leeds United -Hull City",
         "odds": {
           "1": 1.39,
-          "2": 6.38,
-          "X": 4.32
+          "2": 6.27,
+          "X": 4.29
         },
         "category": "fotbal"
       },
@@ -526,7 +526,7 @@
         "teams": "Caucaia EC CE-Pacajus EC CE",
         "odds": {
           "1": 1.54,
-          "2": 6.07,
+          "2": 6.11,
           "X": 3.75
         },
         "category": "fotbal"
@@ -685,9 +685,9 @@
         "id": "d48c275fef279879fb22ce5fb61751a54fd12296",
         "teams": "Apollon Pontou-Ergotelis C.",
         "odds": {
-          "1": 10.18,
-          "2": 1.21,
-          "X": 5.46
+          "1": 10.23,
+          "2": 1.2,
+          "X": 5.54
         },
         "category": "fotbal"
       },
@@ -695,9 +695,9 @@
         "id": "d194d126ea3b463e6378f34c2c2ab4a7b0a06d00",
         "teams": "Apollon Larisa-Giannina",
         "odds": {
-          "1": 4.12,
-          "2": 1.75,
-          "X": 3.39
+          "1": 4.09,
+          "2": 1.74,
+          "X": 3.46
         },
         "category": "fotbal"
       },
@@ -705,9 +705,9 @@
         "id": "8f896ea84a83f83cce409f251c945129d49e89c5",
         "teams": "A.Smyrnis-Levadiakos",
         "odds": {
-          "1": 1.68,
-          "2": 4.74,
-          "X": 3.3
+          "1": 1.7,
+          "2": 4.63,
+          "X": 3.27
         },
         "category": "fotbal"
       },
@@ -735,9 +735,9 @@
         "id": "0a5c60838f1d1565c949ab882fdab585a7a7d2cf",
         "teams": "Pailan A.-Neroca FC",
         "odds": {
-          "1": 2.89,
-          "2": 2.33,
-          "X": 3.07
+          "1": 2.93,
+          "2": 2.32,
+          "X": 3.05
         },
         "category": "fotbal"
       },
@@ -805,9 +805,9 @@
         "id": "a8c76059429aaf3c733e2b791777135d49b376da",
         "teams": "Wydad C.-Renaissance Ezzmamra",
         "odds": {
-          "1": 1.41,
-          "2": 7.23,
-          "X": 3.96
+          "1": 1.31,
+          "2": 9.22,
+          "X": 4.34
         },
         "category": "fotbal"
       },
@@ -815,9 +815,9 @@
         "id": "f0e45bb29d51754389682e2fb8f83bbf964c1a9a",
         "teams": "Youssoufia B.-H.Agadir",
         "odds": {
-          "1": 2.43,
-          "2": 2.95,
-          "X": 2.86
+          "1": 2.66,
+          "2": 2.68,
+          "X": 2.85
         },
         "category": "fotbal"
       },
@@ -955,9 +955,9 @@
         "id": "a5b57866ad165eae0881f6a87e06e85bab8369ea",
         "teams": "Sp.Gijon(B)-Las Palmas(B)",
         "odds": {
-          "1": 2.01,
-          "2": 3.74,
-          "X": 3.08
+          "1": 2.08,
+          "2": 3.59,
+          "X": 3.03
         },
         "category": "fotbal"
       },
@@ -975,9 +975,9 @@
         "id": "5f1e7f2e10235fff8260efff102b5f991020712a",
         "teams": "I.Eivissa-UP Langreo",
         "odds": {
-          "1": 1.46,
-          "2": 6.76,
-          "X": 3.91
+          "1": 1.45,
+          "2": 6.9,
+          "X": 3.94
         },
         "category": "fotbal"
       },
@@ -985,8 +985,8 @@
         "id": "b5eb138db019a3249f6c04c5cd688d31aa6d628d",
         "teams": "Atletico M(B)-LAS Rozas",
         "odds": {
-          "1": 1.5,
-          "2": 6.07,
+          "1": 1.51,
+          "2": 5.94,
           "X": 3.87
         },
         "category": "fotbal"
@@ -1005,9 +1005,9 @@
         "id": "1635d235255f0a7e1300643c61677669eef76927",
         "teams": "Real Oviedo(B)-M.Luanco",
         "odds": {
-          "1": 2.16,
-          "2": 3.35,
-          "X": 3.04
+          "1": 2.19,
+          "2": 3.31,
+          "X": 3.03
         },
         "category": "fotbal"
       },
@@ -1055,9 +1055,9 @@
         "id": "8294128284fc5f21967ee3edca5a392a152d9978",
         "teams": "FC Andorra-Olot",
         "odds": {
-          "1": 2.22,
-          "2": 3.48,
-          "X": 2.84
+          "1": 2.19,
+          "2": 3.55,
+          "X": 2.85
         },
         "category": "fotbal"
       },
@@ -1095,8 +1095,8 @@
         "id": "af420ad14e7486c2218f321cf1a984d075b0c7c0",
         "teams": "D.Benito-UCAM Murcia",
         "odds": {
-          "1": 2.66,
-          "2": 2.78,
+          "1": 2.75,
+          "2": 2.69,
           "X": 2.82
         },
         "category": "fotbal"
@@ -1105,9 +1105,9 @@
         "id": "7cb22ac3bd4e1c652aaac399a7d56c00f3e35d8e",
         "teams": "Marbella-San Fernando",
         "odds": {
-          "1": 1.97,
-          "2": 4.11,
-          "X": 2.96
+          "1": 1.96,
+          "2": 4.12,
+          "X": 2.97
         },
         "category": "fotbal"
       },
@@ -1125,9 +1125,9 @@
         "id": "eebdf9c4ff5b1ac4499efc03afa44cfc287a9c08",
         "teams": "Yeclano -Badajoz",
         "odds": {
-          "1": 2.56,
-          "2": 2.77,
-          "X": 2.95
+          "1": 2.97,
+          "2": 2.42,
+          "X": 2.94
         },
         "category": "fotbal"
       },
@@ -1221,16 +1221,6 @@
         },
         "category": "fotbal"
       },
-      "cd45d1d8f77e44195da7b86057eccaf7e734d70d": {
-        "id": "cd45d1d8f77e44195da7b86057eccaf7e734d70d",
-        "teams": "G.Torrelavega-CD Laredo",
-        "odds": {
-          "1": 1.96,
-          "2": 3.42,
-          "X": 3.24
-        },
-        "category": "fotbal"
-      },
       "e92ceb5b5ecd30fb96079dbbdb4d01417f088011": {
         "id": "e92ceb5b5ecd30fb96079dbbdb4d01417f088011",
         "teams": "SD Barreda Balompie-C. D. Bezana",
@@ -1315,9 +1305,9 @@
         "id": "60be1560c4efb6159aa7cbf310579178bd38cc74",
         "teams": "UE Sants-Pobla Maf.",
         "odds": {
-          "1": 3.68,
-          "2": 1.89,
-          "X": 3.22
+          "1": 3.57,
+          "2": 1.93,
+          "X": 3.21
         },
         "category": "fotbal"
       },
@@ -1355,9 +1345,9 @@
         "id": "a8809d5fe710c960d1ba5564c68d3348b8af0394",
         "teams": "ED Moratalaz-DAV Santa Ana",
         "odds": {
-          "1": 2.3,
-          "2": 2.89,
-          "X": 3.03
+          "1": 2.26,
+          "2": 2.96,
+          "X": 3.04
         },
         "category": "fotbal"
       },
@@ -1375,9 +1365,9 @@
         "id": "a663c220e82806204e08d7732a1b2bc7e4ef29d4",
         "teams": "Salamanca CF Uds B-Mirandes B",
         "odds": {
-          "1": 1.38,
-          "2": 6,
-          "X": 4.62
+          "1": 1.36,
+          "2": 6.28,
+          "X": 4.6
         },
         "category": "fotbal"
       },
@@ -1395,9 +1385,9 @@
         "id": "bc29c562b48844e4f9bb30ab5f107fbcf3b65eef",
         "teams": "Malaga (B)-Atl Mancha R.",
         "odds": {
-          "1": 1.5,
-          "2": 5.6,
-          "X": 3.75
+          "1": 1.53,
+          "2": 5.46,
+          "X": 3.68
         },
         "category": "fotbal"
       },
@@ -1405,9 +1395,9 @@
         "id": "fbb0860a1ab04b90297853056566a3d12e9dea90",
         "teams": "Velez CF-Atletico De Porcuna",
         "odds": {
-          "1": 1.48,
-          "2": 5.54,
-          "X": 3.91
+          "1": 1.47,
+          "2": 5.68,
+          "X": 3.95
         },
         "category": "fotbal"
       },
@@ -1435,8 +1425,8 @@
         "id": "971fd3a6a56e89d6f1368614dd70e39d153778bb",
         "teams": "CD Huetor Vega-Torredonjimeno",
         "odds": {
-          "1": 2.44,
-          "2": 2.54,
+          "1": 2.38,
+          "2": 2.61,
           "X": 3.26
         },
         "category": "fotbal"
@@ -1465,9 +1455,9 @@
         "id": "aac041a3880c81e3da92d250ea688d1e5766c0bd",
         "teams": "Rota CD-Ciudad De Lucena",
         "odds": {
-          "1": 3.3,
-          "2": 1.97,
-          "X": 3.34
+          "1": 3.17,
+          "2": 2,
+          "X": 3.4
         },
         "category": "fotbal"
       },
@@ -1485,9 +1475,9 @@
         "id": "b5bc8563126b85fcbf0e8085a342a24087686a05",
         "teams": "Constancia-CF Soller",
         "odds": {
-          "1": 2.01,
-          "2": 3.39,
-          "X": 3.15
+          "1": 1.99,
+          "2": 3.37,
+          "X": 3.21
         },
         "category": "fotbal"
       },
@@ -1575,9 +1565,9 @@
         "id": "a95922df4fafd395ba6a3ec508319e5bff9ef247",
         "teams": "Real Murcia B-C. De Murcia",
         "odds": {
-          "1": 1.47,
-          "2": 5.42,
-          "X": 4.06
+          "1": 1.46,
+          "2": 5.57,
+          "X": 4.1
         },
         "category": "fotbal"
       },
@@ -2187,9 +2177,9 @@
         "id": "dbad9674756a6da4279806fc28967ce0f20abcca",
         "teams": "Franța - Danemarca",
         "odds": {
-          "1": 1.47,
-          "2": 3.3,
-          "X": 7.5
+          "1": 1.5,
+          "2": 3.05,
+          "X": 9
         },
         "category": "handbal"
       },
@@ -6641,9 +6631,9 @@
         "id": "885f05f6af3cd8e89ca206647fefe3d5c7731f5d",
         "teams": "Cornella - Val.Mestalla",
         "odds": {
-          "1": 1.83,
-          "2": 4.1,
-          "X": 3.35
+          "1": 1.95,
+          "2": 3.9,
+          "X": 3.15
         },
         "category": "fotbal"
       },
@@ -7143,21 +7133,6 @@
   },
   "arbitrage": [
     {
-      "title": "CA Juventus SP-Gremio RS",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "fortuna",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 6.23,
-        "2": 1.42,
-        "X": 4.07
-      },
-      "profit": -0.11043924147263295
-    },
-    {
       "title": "Mount Pleasant FC-Jamalco",
       "category": "fotbal",
       "houses": {
@@ -7173,19 +7148,19 @@
       "profit": -0.10830676347917723
     },
     {
-      "title": "T.Gardens-Harbour",
+      "title": "Portmore Utd. -Humble L.",
       "category": "fotbal",
       "houses": {
         "1": "superbet",
-        "2": "superbet",
-        "X": "fortuna"
+        "2": "fortuna",
+        "X": "superbet"
       },
       "values": {
-        "1": 2.25,
-        "2": 2.95,
-        "X": 3.08
+        "1": 2.05,
+        "2": 3.36,
+        "X": 3.1
       },
-      "profit": -0.1081028199672267
+      "profit": -0.10800457082911841
     },
     {
       "title": "Dunbeholden FC-Cavaliers",
@@ -7203,21 +7178,6 @@
       "profit": -0.10313067416388444
     },
     {
-      "title": "Leeds United -Hull City",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "casapariurilor",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 1.4,
-        "2": 6.4,
-        "X": 4.32
-      },
-      "profit": -0.10201719576719581
-    },
-    {
       "title": "Hammam S.-US Bousalem",
       "category": "fotbal",
       "houses": {
@@ -7233,7 +7193,7 @@
       "profit": -0.10102491025184301
     },
     {
-      "title": "America RN - Forca E Luz Rn",
+      "title": "Apollon Larisa-Giannina",
       "category": "fotbal",
       "houses": {
         "1": "superbet",
@@ -7241,41 +7201,41 @@
         "X": "superbet"
       },
       "values": {
-        "1": 1.25,
-        "2": 10.1,
-        "X": 5
+        "1": 4.2,
+        "2": 1.75,
+        "X": 3.45
       },
-      "profit": -0.0990099009900991
+      "profit": -0.0993788819875776
     },
     {
       "title": "Molde -Aker Topphandball",
       "category": "handbal",
       "houses": {
-        "1": "superbet",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
+        "1": "fortuna",
+        "2": "betano",
+        "X": "betano"
       },
       "values": {
         "1": 1.35,
-        "2": 4,
+        "2": 3.95,
         "X": 9.5
       },
-      "profit": -0.09600389863547765
+      "profit": -0.09916845559750298
     },
     {
-      "title": "Tertnes -Fana",
-      "category": "handbal",
+      "title": "TS Sporting FC-R.Eagles",
+      "category": "fotbal",
       "houses": {
         "1": "superbet",
         "2": "casapariurilor",
-        "X": "casapariurilor"
+        "X": "superbet"
       },
       "values": {
-        "1": 1.35,
-        "2": 4,
-        "X": 9.5
+        "1": 2.25,
+        "2": 3.1,
+        "X": 3.05
       },
-      "profit": -0.09600389863547765
+      "profit": -0.09489394206475099
     },
     {
       "title": "Apollon Pontou-Ergotelis C.",
@@ -7293,49 +7253,34 @@
       "profit": -0.09439014034346815
     },
     {
-      "title": "F/Arsenal LFC - F/Birmingham City LFC",
+      "title": "A.Smyrnis-Levadiakos",
       "category": "fotbal",
       "houses": {
-        "1": "casapariurilor",
+        "1": "fortuna",
         "2": "superbet",
         "X": "superbet"
       },
       "values": {
-        "1": 1.05,
-        "2": 20.3,
-        "X": 11
+        "1": 1.68,
+        "2": 5,
+        "X": 3.35
       },
-      "profit": -0.09255112703388546
+      "profit": -0.09374555792466244
     },
     {
-      "title": "F/Ath.Bilbao - F/Barcelona",
-      "category": "fotbal",
+      "title": "Nantes -Fleury L.",
+      "category": "handbal",
       "houses": {
-        "1": "superbet",
-        "2": "superbet",
-        "X": "casapariurilor"
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "fortuna"
       },
       "values": {
-        "1": 10.1,
-        "2": 1.2,
-        "X": 6.25
+        "1": 1.52,
+        "2": 3.14,
+        "X": 8.55
       },
-      "profit": -0.09234323432343228
-    },
-    {
-      "title": "Abc Rn - Globo Rn",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "superbet",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.45,
-        "2": 7.2,
-        "X": 3.8
-      },
-      "profit": -0.09170195603952402
+      "profit": -0.09332513874920845
     },
     {
       "title": "USM Alger-USM Khenchela",
@@ -7353,51 +7298,6 @@
       "profit": -0.08939393939393936
     },
     {
-      "title": "S.Elblag-SPR Jks Jaroslaw",
-      "category": "handbal",
-      "houses": {
-        "1": "superbet",
-        "2": "fortuna",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 1.4,
-        "2": 3.72,
-        "X": 9.41
-      },
-      "profit": -0.08937284419784164
-    },
-    {
-      "title": "Potiguar RN - Santa Cruz Rn",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 1.72,
-        "2": 4.5,
-        "X": 3.5
-      },
-      "profit": -0.08933185677371736
-    },
-    {
-      "title": "Oppsal-V.Kristiansand",
-      "category": "handbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "betano",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 17,
-        "2": 1.02,
-        "X": 20
-      },
-      "profit": -0.08921568627450971
-    },
-    {
       "title": "AE Karaiskakis-Kerkyra",
       "category": "fotbal",
       "houses": {
@@ -7413,19 +7313,19 @@
       "profit": -0.08672699849170451
     },
     {
-      "title": "Gjerpen -Follo HK Damer",
-      "category": "handbal",
+      "title": "Man.City Rezerve-Liverpool Rezerve",
+      "category": "fotbal",
       "houses": {
         "1": "casapariurilor",
-        "2": "betano",
+        "2": "fortuna",
         "X": "fortuna"
       },
       "values": {
-        "1": 1.42,
-        "2": 3.65,
-        "X": 9.26
+        "1": 1.85,
+        "2": 3.37,
+        "X": 4.02
       },
-      "profit": -0.08618931554354692
+      "profit": -0.08603266449052338
     },
     {
       "title": "Ebro-CF La Nucia",
@@ -7443,6 +7343,21 @@
       "profit": -0.0841014155683808
     },
     {
+      "title": "Fredrikstad-Byasen",
+      "category": "handbal",
+      "houses": {
+        "1": "betano",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.22,
+        "2": 2,
+        "X": 7.5
+      },
+      "profit": -0.08378378378378382
+    },
+    {
       "title": "Highlands P.-B.Leopards",
       "category": "fotbal",
       "houses": {
@@ -7456,21 +7371,6 @@
         "X": 3.2
       },
       "profit": -0.08333333333333348
-    },
-    {
-      "title": "Nantes -Fleury L.",
-      "category": "handbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "betano",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 1.52,
-        "2": 3.25,
-        "X": 8.55
-      },
-      "profit": -0.08254610886189839
     },
     {
       "title": "Constantine-JS Saoura",
@@ -7491,9 +7391,9 @@
       "title": "Porto(B)-Acad.Coimbra",
       "category": "fotbal",
       "houses": {
-        "1": "superbet",
-        "2": "superbet",
-        "X": "superbet"
+        "1": "casapariurilor",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
       },
       "values": {
         "1": 2.6,
@@ -7563,21 +7463,6 @@
       "profit": -0.08110119047619047
     },
     {
-      "title": "Haslum (W) - Flint Toensberg (F)",
-      "category": "handbal",
-      "houses": {
-        "1": "betano",
-        "2": "superbet",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 6.1,
-        "2": 1.2,
-        "X": 12
-      },
-      "profit": -0.0806010928961749
-    },
-    {
       "title": "Pailan A.-Neroca FC",
       "category": "fotbal",
       "houses": {
@@ -7591,6 +7476,36 @@
         "X": 3.07
       },
       "profit": -0.07991692557459862
+    },
+    {
+      "title": "Unionistas CF-Leioa",
+      "category": "fotbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "superbet",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 2.41,
+        "2": 2.95,
+        "X": 3.07
+      },
+      "profit": -0.0796537092063585
+    },
+    {
+      "title": "Elveţia-Olanda",
+      "category": "handbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "fortuna",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.4,
+        "2": 3.79,
+        "X": 9.87
+      },
+      "profit": -0.07945507962349607
     },
     {
       "title": "MSI Ashdod -H.Raanana",
@@ -7633,6 +7548,21 @@
       "values": {
         "1": 15,
         "2": 1.15,
+        "X": 7
+      },
+      "profit": -0.07908902691511388
+    },
+    {
+      "title": "Nice-Frejus St.R.",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.15,
+        "2": 15,
         "X": 7
       },
       "profit": -0.07908902691511388
@@ -7803,6 +7733,21 @@
       "profit": -0.07498631636562658
     },
     {
+      "title": "Tudelano-Valladolid(B)",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "fortuna",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 2.9,
+        "2": 2.52,
+        "X": 3
+      },
+      "profit": -0.07498631636562658
+    },
+    {
       "title": "Sp.Gijon(B)-Las Palmas(B)",
       "category": "fotbal",
       "houses": {
@@ -7878,6 +7823,21 @@
       "profit": -0.07333842627960285
     },
     {
+      "title": "Siofok -Copenhaga",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.13,
+        "2": 8.23,
+        "X": 15
+      },
+      "profit": -0.0731291017466138
+    },
+    {
       "title": "Dieppe-Angers",
       "category": "fotbal",
       "houses": {
@@ -7938,21 +7898,6 @@
       "profit": -0.06964285714285712
     },
     {
-      "title": "Nice-Frejus St.R.",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "superbet",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.15,
-        "2": 15,
-        "X": 7.5
-      },
-      "profit": -0.06956521739130439
-    },
-    {
       "title": "Ferroviario CE-Uniclinic CE",
       "category": "fotbal",
       "houses": {
@@ -7983,21 +7928,6 @@
       "profit": -0.06904761904761902
     },
     {
-      "title": "G.Torrelavega-CD Laredo",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 1.96,
-        "2": 4,
-        "X": 3.24
-      },
-      "profit": -0.06884605694129498
-    },
-    {
       "title": "R.B.Linense-Talavera R.",
       "category": "fotbal",
       "houses": {
@@ -8026,21 +7956,6 @@
         "X": 7.57
       },
       "profit": -0.06833228035915995
-    },
-    {
-      "title": "Koszalin-Zaglebie",
-      "category": "handbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.58,
-        "2": 1.8,
-        "X": 8
-      },
-      "profit": -0.0681524547803618
     },
     {
       "title": "Viseu-Nacional",
@@ -8163,19 +8078,34 @@
       "profit": -0.06463675213675213
     },
     {
-      "title": "Siofok -Copenhaga",
+      "title": "Franţa-Danemarca",
       "category": "handbal",
       "houses": {
-        "1": "casapariurilor",
+        "1": "superbet",
         "2": "betano",
-        "X": "fortuna"
+        "X": "casapariurilor"
       },
       "values": {
-        "1": 1.13,
-        "2": 9,
-        "X": 15
+        "1": 1.6,
+        "2": 3.05,
+        "X": 9
       },
-      "profit": -0.06273352999016724
+      "profit": -0.06397996357012747
+    },
+    {
+      "title": "Villarrubia CF-Cadiz B",
+      "category": "fotbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 3.48,
+        "2": 2.35,
+        "X": 2.85
+      },
+      "profit": -0.06376542971515353
     },
     {
       "title": "Burgos -Barakaldo",
@@ -8268,21 +8198,6 @@
       "profit": -0.06061256005490723
     },
     {
-      "title": "Gyori ETO-Dunaujvarosi",
-      "category": "handbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.02,
-        "2": 25,
-        "X": 25
-      },
-      "profit": -0.06039215686274502
-    },
-    {
       "title": "Linas Monthlery Esa-PSG",
       "category": "fotbal",
       "houses": {
@@ -8328,6 +8243,36 @@
       "profit": -0.05942148062465402
     },
     {
+      "title": "Numancia -La Coruna",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.2,
+        "2": 3.55,
+        "X": 3.1
+      },
+      "profit": -0.058816240551815335
+    },
+    {
+      "title": "Podravka K.-M.Cisnadie",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.27,
+        "2": 5.6,
+        "X": 11
+      },
+      "profit": -0.05688209428366897
+    },
+    {
       "title": "Caucaia EC CE-Pacajus EC CE",
       "category": "fotbal",
       "houses": {
@@ -8358,6 +8303,21 @@
       "profit": -0.055046883618312226
     },
     {
+      "title": "QPR-Swansea",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 2.2,
+        "2": 3,
+        "X": 3.75
+      },
+      "profit": -0.05454545454545445
+    },
+    {
       "title": "P.Ferreira-Moreirense",
       "category": "fotbal",
       "houses": {
@@ -8371,6 +8331,21 @@
         "X": 3.1
       },
       "profit": -0.05436359089772447
+    },
+    {
+      "title": "Logrones-R.Sociedad(B)",
+      "category": "fotbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.08,
+        "2": 3.7,
+        "X": 3.3
+      },
+      "profit": -0.054069804069803995
     },
     {
       "title": "AEK Atena-Panaitolikos",
@@ -8388,19 +8363,94 @@
       "profit": -0.05358255451713401
     },
     {
-      "title": "Palmeira Rn - Assu RN",
+      "title": "Gillingham -West Ham",
       "category": "fotbal",
       "houses": {
-        "1": "casapariurilor",
+        "1": "superbet",
         "2": "superbet",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 5.8,
+        "2": 1.53,
+        "X": 4.4
+      },
+      "profit": -0.053281291618005655
+    },
+    {
+      "title": "Finlanda-Grecia",
+      "category": "handbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 3.16,
+        "2": 1.6,
+        "X": 9
+      },
+      "profit": -0.052566807313642716
+    },
+    {
+      "title": "Olympiakos -Panathinaikos",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
         "X": "superbet"
       },
       "values": {
-        "1": 1.85,
-        "2": 4.35,
-        "X": 3.55
+        "1": 1.3,
+        "2": 12,
+        "X": 5
       },
-      "profit": -0.05211573885687537
+      "profit": -0.0525641025641026
+    },
+    {
+      "title": "Real Oviedo(B)-M.Luanco",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 2.35,
+        "2": 3.35,
+        "X": 3.05
+      },
+      "profit": -0.05190823003920064
+    },
+    {
+      "title": "Charlton -WBA",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 5.15,
+        "2": 1.65,
+        "X": 4
+      },
+      "profit": -0.0502353633421595
+    },
+    {
+      "title": "Sheffield Utd-Fylde",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.13,
+        "2": 20,
+        "X": 8.7
+      },
+      "profit": -0.049898280948021734
     },
     {
       "title": "Norvegia-Serbia",
@@ -8416,6 +8466,21 @@
         "X": 14.25
       },
       "profit": -0.049876293297346
+    },
+    {
+      "title": "Youssoufia B.-H.Agadir",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.65,
+        "2": 2.95,
+        "X": 3
+      },
+      "profit": -0.049674874746828745
     },
     {
       "title": "Oviedo-Malaga",
@@ -8538,19 +8603,49 @@
       "profit": -0.045344682639764544
     },
     {
-      "title": "Youssoufia B.-H.Agadir",
-      "category": "fotbal",
+      "title": "Most-Thuringer",
+      "category": "handbal",
       "houses": {
-        "1": "superbet",
-        "2": "fortuna",
-        "X": "superbet"
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "betano"
       },
       "values": {
-        "1": 2.65,
-        "2": 2.95,
-        "X": 3.05
+        "1": 3.85,
+        "2": 1.47,
+        "X": 9.5
       },
-      "profit": -0.0442103938725118
+      "profit": -0.045275526478533834
+    },
+    {
+      "title": "Bristol R.-Coventry",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "unibet",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 3.35,
+        "2": 2.1,
+        "X": 3.7
+      },
+      "profit": -0.04496820914731359
+    },
+    {
+      "title": "Middlesbrough -Tottenham",
+      "category": "fotbal",
+      "houses": {
+        "1": "unibet",
+        "2": "superbet",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 5.4,
+        "2": 1.62,
+        "X": 4.15
+      },
+      "profit": -0.04343299122415578
     },
     {
       "title": "Tondela-Gil Vicente",
@@ -8568,21 +8663,6 @@
       "profit": -0.043243910467412716
     },
     {
-      "title": "QPR-Swansea",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "unibet",
-        "X": "unibet"
-      },
-      "values": {
-        "1": 2.2,
-        "2": 3.05,
-        "X": 3.85
-      },
-      "profit": -0.042154566744730726
-    },
-    {
       "title": "MKS Lublin-CS Gloria Bistrita",
       "category": "handbal",
       "houses": {
@@ -8596,21 +8676,6 @@
         "X": 9.75
       },
       "profit": -0.041102308544169075
-    },
-    {
-      "title": "Borlange HF - IF Vallentuna",
-      "category": "hockey",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "betano",
-        "X": "betano"
-      },
-      "values": {
-        "1": 1.7,
-        "2": 4.55,
-        "X": 4.3
-      },
-      "profit": -0.040573653432750545
     },
     {
       "title": "Liverpool -Everton",
@@ -8658,6 +8723,21 @@
       "profit": -0.03861701849976029
     },
     {
+      "title": "Chelsea -Nottingham",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "unibet",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 1.27,
+        "2": 11,
+        "X": 6.25
+      },
+      "profit": -0.03831066571224051
+    },
+    {
       "title": "Spal 2013-Verona",
       "category": "fotbal",
       "houses": {
@@ -8673,10 +8753,40 @@
       "profit": -0.03799019607843146
     },
     {
+      "title": "Granada -Mallorca",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "fortuna",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.87,
+        "2": 4.73,
+        "X": 3.45
+      },
+      "profit": -0.03603092123879592
+    },
+    {
+      "title": "Roma-Torino",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.5,
+        "2": 6.6,
+        "X": 4.6
+      },
+      "profit": -0.035573122529644285
+    },
+    {
       "title": "C.Palace-Derby",
       "category": "fotbal",
       "houses": {
-        "1": "casapariurilor",
+        "1": "fortuna",
         "2": "unibet",
         "X": "fortuna"
       },
@@ -8686,21 +8796,6 @@
         "X": 3.55
       },
       "profit": -0.03493689409182377
-    },
-    {
-      "title": "Cornella-V.Mestalla",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.92,
-        "2": 4.5,
-        "X": 3.45
-      },
-      "profit": -0.03291062801932365
     },
     {
       "title": "Brescia -Lazio",
@@ -8718,7 +8813,7 @@
       "profit": -0.03283508943886315
     },
     {
-      "title": "R.Sociedad-Villarreal",
+      "title": "Celta -Osasuna",
       "category": "fotbal",
       "houses": {
         "1": "superbet",
@@ -8726,11 +8821,11 @@
         "X": "fortuna"
       },
       "values": {
-        "1": 1.87,
-        "2": 4,
-        "X": 4.05
+        "1": 2.1,
+        "2": 3.8,
+        "X": 3.45
       },
-      "profit": -0.03167293853568354
+      "profit": -0.02920344339108638
     },
     {
       "title": "Alaves-Betis",
@@ -8748,19 +8843,19 @@
       "profit": -0.02847152847152845
     },
     {
-      "title": "Charlton -WBA",
+      "title": "Cornella-V.Mestalla",
       "category": "fotbal",
       "houses": {
-        "1": "unibet",
+        "1": "superbet",
         "2": "casapariurilor",
-        "X": "unibet"
+        "X": "casapariurilor"
       },
       "values": {
-        "1": 5.45,
-        "2": 1.65,
-        "X": 4.2
+        "1": 1.95,
+        "2": 4.5,
+        "X": 3.45
       },
-      "profit": -0.027642082687954206
+      "profit": -0.024897807506503167
     },
     {
       "title": "Herning-Ikast-Storhamar",
@@ -8778,22 +8873,592 @@
       "profit": -0.022397891963109373
     },
     {
-      "title": "Herning-Ikast (F) - Storhamar Haandball (F)",
-      "category": "handbal",
+      "title": "Sporting L.-Porto",
+      "category": "fotbal",
       "houses": {
-        "1": "betano",
+        "1": "casapariurilor",
         "2": "casapariurilor",
         "X": "casapariurilor"
       },
       "values": {
-        "1": 1.22,
-        "2": 8,
-        "X": 13
+        "1": 3.35,
+        "2": 2.35,
+        "X": 3.5
       },
-      "profit": -0.021595208070617877
+      "profit": -0.009753663294469916
     },
     {
-      "title": "Podravka K.-M.Cisnadie",
+      "title": "Lazio - Granada",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.3,
+        "2": 3.51,
+        "X": 4.2
+      },
+      "profit": 0.042221868308824684
+    },
+    {
+      "title": "Brest B.-Merignac",
+      "category": "handbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": null,
+        "2": 15,
+        "X": 20
+      },
+      "profit": null
+    },
+    {
+      "title": "F/Tottenham - F/Manchester City",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 8.05,
+        "2": 1.23,
+        "X": 6
+      },
+      "profit": -0.1038983992324396
+    },
+    {
+      "title": "F/Man.Utd. - F/Bristol City",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.05,
+        "2": 21,
+        "X": 10
+      },
+      "profit": -0.10000000000000009
+    },
+    {
+      "title": "Molde HK (F) - Aker Topphandball (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "betano"
+      },
+      "values": {
+        "1": 1.35,
+        "2": 3.95,
+        "X": 9.5
+      },
+      "profit": -0.09916845559750298
+    },
+    {
+      "title": "America RN - Forca E Luz Rn",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.25,
+        "2": 10.1,
+        "X": 5
+      },
+      "profit": -0.0990099009900991
+    },
+    {
+      "title": "F/R.Sociedad - F/Madrid Ccf",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.33,
+        "2": 7.35,
+        "X": 4.75
+      },
+      "profit": -0.09846043680630157
+    },
+    {
+      "title": "Tertnes -Fana",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.35,
+        "2": 4,
+        "X": 9.5
+      },
+      "profit": -0.09600389863547765
+    },
+    {
+      "title": "Start Elblag (F) - Jaroslav (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.4,
+        "2": 3.7,
+        "X": 9
+      },
+      "profit": -0.09566709566709575
+    },
+    {
+      "title": "Iuventa Michalovce (F) - HK Slovan Duslo Sala (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "betano"
+      },
+      "values": {
+        "1": 1.18,
+        "2": 6.1,
+        "X": 12
+      },
+      "profit": -0.09472538668148567
+    },
+    {
+      "title": "Wydad C. - Cr Khemis Zemamra",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.43,
+        "2": 6,
+        "X": 4.4
+      },
+      "profit": -0.09324009324009319
+    },
+    {
+      "title": "F/Arsenal LFC - F/Birmingham City LFC",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.05,
+        "2": 20.3,
+        "X": 11
+      },
+      "profit": -0.09255112703388546
+    },
+    {
+      "title": "F/Ath.Bilbao - F/Barcelona",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 10.1,
+        "2": 1.2,
+        "X": 6.25
+      },
+      "profit": -0.09234323432343228
+    },
+    {
+      "title": "Fjellhammer (F) - Volda (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.7,
+        "2": 2.55,
+        "X": 9
+      },
+      "profit": -0.09150326797385633
+    },
+    {
+      "title": "TMS Ringsted (F) - DHG Odense (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "betano",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.02,
+        "2": 2.1,
+        "X": 8.5
+      },
+      "profit": -0.08888703996450054
+    },
+    {
+      "title": "Gjerpen -Follo HK Damer",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "betano",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.42,
+        "2": 3.65,
+        "X": 9.26
+      },
+      "profit": -0.08618931554354692
+    },
+    {
+      "title": "Oppsal-V.Kristiansand",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "betano",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 17,
+        "2": null,
+        "X": 20
+      },
+      "profit": null
+    },
+    {
+      "title": "S.Elblag-SPR Jks Jaroslaw",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "fortuna",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.4,
+        "2": 3.72,
+        "X": 9.41
+      },
+      "profit": -0.08937284419784164
+    },
+    {
+      "title": "Potiguar RN - Santa Cruz Rn",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.72,
+        "2": 4.5,
+        "X": 3.5
+      },
+      "profit": -0.08933185677371736
+    },
+    {
+      "title": "Indian Arrows - Neroca Fc",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 2.85,
+        "2": 2.45,
+        "X": 3.05
+      },
+      "profit": -0.08690931074759511
+    },
+    {
+      "title": "Nantes Loire Atlantique (F) - Fleury Loiret (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "betano",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.52,
+        "2": 3.25,
+        "X": 8.5
+      },
+      "profit": -0.08323410335794246
+    },
+    {
+      "title": "Brighton-Liverpool LFC",
+      "category": "fotbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 2.64,
+        "2": 2.5,
+        "X": 3.3
+      },
+      "profit": -0.08181818181818179
+    },
+    {
+      "title": "Porto B - Academica De Coimbra",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 2.6,
+        "2": 2.6,
+        "X": 3.2
+      },
+      "profit": -0.08173076923076916
+    },
+    {
+      "title": "Haslum (W) - Flint Toensberg (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "betano",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 6.1,
+        "2": 1.2,
+        "X": 12
+      },
+      "profit": -0.0806010928961749
+    },
+    {
+      "title": "Chelsea -Reading",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "fortuna",
+        "X": "fortuna"
+      },
+      "values": {
+        "1": 1.25,
+        "2": 9.86,
+        "X": 5.77
+      },
+      "profit": -0.07473010359943899
+    },
+    {
+      "title": "Atl.Madrid (B) - Las Rozas",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.48,
+        "2": 6.45,
+        "X": 4.1
+      },
+      "profit": -0.07461687438998843
+    },
+    {
+      "title": "Siofok (F) - Kobenhavn (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "betano"
+      },
+      "values": {
+        "1": 1.12,
+        "2": 9,
+        "X": 14.75
+      },
+      "profit": -0.07176486413774552
+    },
+    {
+      "title": "Larvik HK (F) - Aalgaard (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "betano",
+        "X": "betano"
+      },
+      "values": {
+        "1": 1.22,
+        "2": 5.95,
+        "X": 12.25
+      },
+      "profit": -0.06937201109952174
+    },
+    {
+      "title": "Koszalin-Zaglebie",
+      "category": "handbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 2.58,
+        "2": 1.8,
+        "X": 8
+      },
+      "profit": -0.0681524547803618
+    },
+    {
+      "title": "Gyori ETO-Dunaujvarosi",
+      "category": "handbal",
+      "houses": {
+        "1": "fortuna",
+        "2": "casapariurilor",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": null,
+        "2": 25,
+        "X": 25
+      },
+      "profit": null
+    },
+    {
+      "title": "Grane Arendal (F) - Raelingen (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "betano",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 3.3,
+        "2": 1.5,
+        "X": 9.5
+      },
+      "profit": -0.07496012759170645
+    },
+    {
+      "title": "Nice - Etoile Frejus Saint-Raphael",
+      "category": "fotbal",
+      "houses": {
+        "1": "superbet",
+        "2": "superbet",
+        "X": "casapariurilor"
+      },
+      "values": {
+        "1": 1.15,
+        "2": 15,
+        "X": 7.5
+      },
+      "profit": -0.06956521739130439
+    },
+    {
+      "title": "Vendsyssel (F) - Roskilde Handball (F)",
+      "category": "handbal",
+      "houses": {
+        "1": "superbet",
+        "2": "casapariurilor",
+        "X": "betano"
+      },
+      "values": {
+        "1": 1.15,
+        "2": 8,
+        "X": 13.5
+      },
+      "profit": -0.06863929146537862
+    },
+    {
+      "title": "Ucraina - Tunisia",
+      "category": "handbal",
+      "houses": {
+        "1": "unibet",
+        "2": "betano",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 4.3,
+        "2": 1.36,
+        "X": 10
+      },
+      "profit": -0.06785225718194243
+    },
+    {
+      "title": "Queens Park Rangers - Swansea",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "unibet",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 2.15,
+        "2": 3.05,
+        "X": 3.85
+      },
+      "profit": -0.05272539126904352
+    },
+    {
+      "title": "Palmeira Rn - Assu RN",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "superbet",
+        "X": "superbet"
+      },
+      "values": {
+        "1": 1.85,
+        "2": 4.35,
+        "X": 3.55
+      },
+      "profit": -0.05211573885687537
+    },
+    {
+      "title": "Crystal P. - Derby",
+      "category": "fotbal",
+      "houses": {
+        "1": "casapariurilor",
+        "2": "unibet",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 1.75,
+        "2": 5.5,
+        "X": 3.5
+      },
+      "profit": -0.03896103896103886
+    },
+    {
+      "title": "Charlton - West Bromwich",
+      "category": "fotbal",
+      "houses": {
+        "1": "unibet",
+        "2": "casapariurilor",
+        "X": "unibet"
+      },
+      "values": {
+        "1": 5.45,
+        "2": 1.65,
+        "X": 4.2
+      },
+      "profit": -0.027642082687954206
+    },
+    {
+      "title": "Podravka Vegeta (F) - CS Măgura Cisnădie (F)",
       "category": "handbal",
       "houses": {
         "1": "casapariurilor",
@@ -8806,36 +9471,6 @@
         "X": 14
       },
       "profit": 0.014587575287266397
-    },
-    {
-      "title": "Tudelano-Valladolid(B)",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.9,
-        "2": 3.25,
-        "X": 3.2
-      },
-      "profit": 0.034980106100795716
-    },
-    {
-      "title": "Porto - Celta",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 2.4,
-        "2": 3.75,
-        "X": 3.6
-      },
-      "profit": 0.03888888888888886
     },
     {
       "title": "R.Sociedad - C.Palace",
@@ -8853,469 +9488,19 @@
       "profit": 0.06205283434232256
     },
     {
-      "title": "Tolzer Lowen - Bietingheim/Bissingen",
-      "category": "hockey",
-      "houses": {
-        "1": "betano",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.91,
-        "2": 3.3,
-        "X": 9
-      },
-      "profit": 0.06229837643450198
-    },
-    {
-      "title": "Atletico De Pinto-TV Alcorcon",
+      "title": "F/Burnley - F/Nottingham Forest",
       "category": "fotbal",
       "houses": {
         "1": "casapariurilor",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 2.9,
-        "2": 3.45,
-        "X": 3.4
-      },
-      "profit": 0.07119969427051176
-    },
-    {
-      "title": "TS Sporting FC-R.Eagles",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 3.35,
-        "2": 3.07,
-        "X": 3.5
-      },
-      "profit": 0.09004535257634583
-    },
-    {
-      "title": "Queens Park Rangers - Swansea",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "unibet"
-      },
-      "values": {
-        "1": 2.15,
-        "2": 6.15,
-        "X": 3.85
-      },
-      "profit": 0.11254183517371275
-    },
-    {
-      "title": "Portmore Utd. -Humble L.",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 3.35,
-        "2": 3.36,
-        "X": 3.5
-      },
-      "profit": 0.11815920398009949
-    },
-    {
-      "title": "Granada -Mallorca",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "fortuna",
-        "X": "betano"
-      },
-      "values": {
-        "1": 1.87,
-        "2": 4.73,
-        "X": 7.5
-      },
-      "profit": 0.12049081789163885
-    },
-    {
-      "title": "Lorient -Brest",
-      "category": "fotbal",
-      "houses": {
-        "1": "betano",
-        "2": "casapariurilor",
-        "X": "betano"
-      },
-      "values": {
-        "1": 2.22,
-        "2": 3.6,
-        "X": 7
-      },
-      "profit": 0.12891462891462901
-    },
-    {
-      "title": "Velez CF-Atletico De Porcuna",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 2.5,
-        "2": 5.55,
-        "X": 3.91
-      },
-      "profit": 0.16406534411649498
-    },
-    {
-      "title": "Tottenham - WBA",
-      "category": "fotbal",
-      "houses": {
-        "1": "unibet",
-        "2": "fortuna",
-        "X": "unibet"
-      },
-      "values": {
-        "1": 5.4,
-        "2": 2.46,
-        "X": 4.15
-      },
-      "profit": 0.16734689435247774
-    },
-    {
-      "title": "A.Smyrnis-Levadiakos",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "betano",
-        "X": "betano"
-      },
-      "values": {
-        "1": 1.68,
-        "2": 14.4,
-        "X": 6.5
-      },
-      "profit": 0.1814713064713065
-    },
-    {
-      "title": "Fjellhammer (F) - Volda (F)",
-      "category": "handbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 1.7,
-        "2": 8.55,
-        "X": 9
-      },
-      "profit": 0.1836945304437565
-    },
-    {
-      "title": "FC Vilafranca-CE Banyoles",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 1.96,
-        "2": 10.6,
-        "X": 4.9
-      },
-      "profit": 0.19137466307277629
-    },
-    {
-      "title": "Bristol R.-Coventry",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "betano",
-        "X": "betano"
-      },
-      "values": {
-        "1": 3.35,
-        "2": 3.65,
-        "X": 4.25
-      },
-      "profit": 0.19222581692664797
-    },
-    {
-      "title": "CSD Arzua-Polvorin FC",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.36,
-        "2": 6.6,
-        "X": 4.5
-      },
-      "profit": 0.20253381270330417
-    },
-    {
-      "title": "Most-Thuringer",
-      "category": "handbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "superbet",
-        "X": "betano"
-      },
-      "values": {
-        "1": 3.85,
-        "2": 2.35,
-        "X": 9.5
-      },
-      "profit": 0.20946466747138637
-    },
-    {
-      "title": "Grane Arendal (F) - Raelingen (F)",
-      "category": "handbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 500,
-        "2": 1.5,
-        "X": 9.5
-      },
-      "profit": 0.22607017543859653
-    },
-    {
-      "title": "Atletico M(B)-LAS Rozas",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 2.9,
-        "2": 6.07,
-        "X": 3.87
-      },
-      "profit": 0.2320298351775545
-    },
-    {
-      "title": "Modo Hockey (F) - Djurgardens IF (F)",
-      "category": "hockey",
-      "houses": {
-        "1": "betano",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 7.5,
-        "2": 2.1,
-        "X": 7.5
-      },
-      "profit": 0.25714285714285723
-    },
-    {
-      "title": "TMS Ringsted (F) - DHG Odense (F)",
-      "category": "handbal",
-      "houses": {
-        "1": "betano",
-        "2": "superbet",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.02,
-        "2": 8.55,
-        "X": 8.5
-      },
-      "profit": 0.27034437189849014
-    },
-    {
-      "title": "Roma - Olympiakos",
-      "category": "fotbal",
-      "houses": {
-        "1": "fortuna",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.3,
-        "2": 12,
-        "X": 5
-      },
-      "profit": 0.28188405797101446
-    },
-    {
-      "title": "Roma - West Ham United",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 2.3,
-        "2": 14,
-        "X": 5.55
-      },
-      "profit": 0.31360863969559616
-    },
-    {
-      "title": "SD Barreda Balompie-C. D. Bezana",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 999,
-        "2": 2.81,
-        "X": 3.04
-      },
-      "profit": 0.31417974445694985
-    },
-    {
-      "title": "Apollon Larisa-Giannina",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "unibet"
-      },
-      "values": {
-        "1": 500,
-        "2": 1.75,
-        "X": 10
-      },
-      "profit": 0.3265714285714286
-    },
-    {
-      "title": "Lazio - Granada",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "superbet",
-        "X": "fortuna"
-      },
-      "values": {
-        "1": 5.15,
-        "2": 4.65,
-        "X": 4.2
-      },
-      "profit": 0.3526762411823483
-    },
-    {
-      "title": "Chelsea -Nottingham",
-      "category": "fotbal",
-      "houses": {
-        "1": "betano",
         "2": "unibet",
         "X": "unibet"
       },
       "values": {
-        "1": 2.85,
+        "1": 2.3,
         "2": 11,
         "X": 6.25
       },
-      "profit": 0.3982137161084529
-    },
-    {
-      "title": "Olympiakos -Panathinaikos",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 3.65,
-        "2": 12,
-        "X": 5
-      },
-      "profit": 0.44269406392694066
-    },
-    {
-      "title": "Manchester United-Bristol Ac.",
-      "category": "fotbal",
-      "houses": {
-        "1": "betano",
-        "2": "fortuna",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 2.85,
-        "2": 27.62,
-        "X": 10
-      },
-      "profit": 0.5129171589364432
-    },
-    {
-      "title": "Sheffield Utd-Fylde",
-      "category": "fotbal",
-      "houses": {
-        "1": "betano",
-        "2": "casapariurilor",
-        "X": "casapariurilor"
-      },
-      "values": {
-        "1": 3.45,
-        "2": 20,
-        "X": 8.7
-      },
-      "profit": 0.5452023988005996
-    },
-    {
-      "title": "Gillingham -West Ham",
-      "category": "fotbal",
-      "houses": {
-        "1": "superbet",
-        "2": "unibet",
-        "X": "unibet"
-      },
-      "values": {
-        "1": 5.8,
-        "2": 11,
-        "X": 6.25
-      },
-      "profit": 0.5766771159874607
-    },
-    {
-      "title": "Larvik HK (F) - Aalgaard (F)",
-      "category": "handbal",
-      "houses": {
-        "1": "superbet",
-        "2": "betano",
-        "X": "betano"
-      },
-      "values": {
-        "1": 10.1,
-        "2": 5.95,
-        "X": 12.25
-      },
-      "profit": 0.6512902190579202
-    },
-    {
-      "title": "Arandina -La Granja",
-      "category": "fotbal",
-      "houses": {
-        "1": "casapariurilor",
-        "2": "fortuna",
-        "X": "superbet"
-      },
-      "values": {
-        "1": 999,
-        "2": 10.5,
-        "X": 8.5
-      },
-      "profit": 0.7861138449373744
+      "profit": 0.3143083003952568
     }
   ]
 }
