@@ -10,10 +10,7 @@ const fortuna = require('./sites/fortuna')
 const { findArbitrage } = require('./utils')
 
 module.exports = async () => {
-  const nightmare = Nightmare({
-    show: true,
-    waitTimeout: 30000
-  })
+  const nightmare = Nightmare()
   await fortuna({ nightmare, db })
   await betano({ nightmare, db })
   await casapariurilor({ nightmare, db })

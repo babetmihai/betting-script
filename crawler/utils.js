@@ -2,9 +2,16 @@ const { ODD_TYPES } = require('../settings')
 const stringSimilarity = require('string-similarity')
 const _ = require('lodash')
 
+const getTeams = (name) => name.split('-').map((team) => team.trim())
 const getProfit = (...odds) => 1 - odds.reduce((acc, odd) => acc + 1 / odd, 0)
-const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, second) > .55
-
+const isSameName = (first, second) => {
+  const firstTeams = getTeams(first)
+  const secondTeams = getTeams(second)
+  return (
+    stringSimilarity.compareTwoStrings(firstTeams[0], secondTeams[0]) > .50 &&
+    stringSimilarity.compareTwoStrings(firstTeams[1], secondTeams[1]) > .50
+  )
+}
 const findArbitrage = async ({ db }) => {
   const data = db.get('data').value()
   const arbitrage = Object.keys(data)
