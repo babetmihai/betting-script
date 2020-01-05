@@ -8,7 +8,7 @@ const isSameName = (first, second) => stringSimilarity.compareTwoStrings(first, 
 
 const findArbitrage = async () => {
   const data = db.get('data').value()
-  const matches = Object.keys(data)
+  const arbitrage = Object.keys(data)
     .reduce((acc, key) => {
       acc.push(...Object.values(data[key]).map(({ teams }) => teams))
       return acc
@@ -49,8 +49,8 @@ const findArbitrage = async () => {
       }
     })
     .sort((first, second) => first.profit - second.profit)
-
-  console.log(matches)
+  db.set('arbitrage', arbitrage).write()
+  console.log(arbitrage)
 }
 
 module.exports = {
