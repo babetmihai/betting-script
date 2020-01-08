@@ -1,7 +1,6 @@
 const { normalizeData } = require('../../db/utils')
 const { ODD_TYPES } = require('../../settings')
 
-
 module.exports  = async ({ nightmare, db }) => {
   try {
     await nightmare

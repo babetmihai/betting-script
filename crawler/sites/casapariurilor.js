@@ -31,7 +31,6 @@ module.exports  = async ({ nightmare, db }) => {
         lastMatch.scrollIntoView()
         return matchAcc
       }, ODD_TYPES)
-
       if (_.isEqual(_.last(data), _.last(pageMatches))) break
       data.push(...pageMatches)
       await nightmare.wait(1000)

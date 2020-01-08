@@ -7,7 +7,6 @@ const URL_CODES = {
   hockey: 'Ice-Hockey-ICEH'
 }
 
-
 module.exports  = async ({ nightmare, db }) => {
   try {
     const data = []

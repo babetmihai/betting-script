@@ -2,7 +2,6 @@ const { normalizeData } = require('../../db/utils')
 const { ODD_TYPES } = require('../../settings')
 const _ = require('lodash')
 
-
 module.exports  = async ({ nightmare, db }) => {
   try {
     await nightmare
@@ -36,7 +35,6 @@ module.exports  = async ({ nightmare, db }) => {
       data.push(...pageMatches)
       await nightmare.wait(1000)
     }
-
     db.set('data.superbet', normalizeData(data)).write()
   } catch (error) {
     console.log(error)

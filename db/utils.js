@@ -7,7 +7,6 @@ const {
 } = require('../settings')
 
 const getId = (string) => crypto.createHash('sha1').update(string).digest('hex')
-
 const normalizeData = (data) => data
   .filter(({ odds, category }) =>  (
     !CATEGORY_BLACKLIST.some((name) => category.toLowerCase().includes(name)) &&
@@ -28,7 +27,6 @@ const normalizeData = (data) => data
     acc[match.id] = match
     return acc
   }, {})
-
 
 module.exports = {
   normalizeData,
