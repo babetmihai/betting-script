@@ -8,7 +8,6 @@ module.exports  = async ({ nightmare, db }) => {
       .goto('https://www.unibet.ro/betting/sports/filter/all/all/all/all/starting-soon')
       .wait('.KambiBC-collapsible-header')
       .wait(1000)
-
     await nightmare.evaluate(() => {
       const headers = document.querySelectorAll('.KambiBC-mod-event-group-header__event-count')
       for (const header of headers) {
@@ -22,11 +21,9 @@ module.exports  = async ({ nightmare, db }) => {
         subHeader.click()
       }
     })
-
     await nightmare.wait(1000)
     const data = await nightmare.evaluate((ODD_TYPES) => {
       const matchAcc = []
-
       const matches = document.querySelectorAll('.KambiBC-event-item.KambiBC-event-item--type-match')
       for (const match of matches) {
         const category = match.parentNode.parentNode.parentNode.querySelector('.KambiBC-mod-event-group-header__main-title').innerText.trim().toLowerCase()

@@ -16,7 +16,6 @@ module.exports  = async ({ nightmare, db }) => {
         .goto(`https://ro.betano.com/Upcoming24H/${URL_CODES[category]}`)
         .wait('.tab-content')
         .wait(1000)
-
       const pageMatches = await nightmare.evaluate(({ category, ODD_TYPES }) => {
         const matchAcc = []
         const matches = document.querySelectorAll('.tab-content>table>tbody>tr.table-row')
@@ -35,7 +34,6 @@ module.exports  = async ({ nightmare, db }) => {
       }, { category, ODD_TYPES })
       data.push(...pageMatches)
     }
-
     db.set('data.betano', normalizeData(data)).write()
   } catch (error) {
     console.log(error)

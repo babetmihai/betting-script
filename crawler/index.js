@@ -10,7 +10,7 @@ const fortuna = require('./sites/fortuna')
 const { findArbitrage } = require('./utils')
 
 module.exports = async () => {
-  const nightmare = Nightmare()
+  const nightmare = Nightmare({ show: true })
   await fortuna({ nightmare, db })
   await betano({ nightmare, db })
   await casapariurilor({ nightmare, db })

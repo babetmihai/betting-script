@@ -45,7 +45,6 @@ const findArbitrage = async ({ db }) => {
         values: { 'X': 0,  '1': 0, '2': 0 },
         houses: {}
       })
-
       return {
         title: _.first(matches).teams,
         category: _.first(matches).category,

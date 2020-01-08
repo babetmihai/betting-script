@@ -8,7 +8,6 @@ module.exports  = async ({ nightmare, db }) => {
       .goto('https://agentii.efortuna.ro/ocurrent;current=0')
       .wait('.offrz')
       .wait(1000)
-
     const data = await nightmare.evaluate((ODD_TYPES) => {
       const matchAcc = []
       const matches = document.querySelectorAll('.offrzin>tbody>tr>td.ofmatch')

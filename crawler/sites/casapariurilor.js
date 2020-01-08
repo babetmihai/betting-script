@@ -36,7 +36,6 @@ module.exports  = async ({ nightmare, db }) => {
       data.push(...pageMatches)
       await nightmare.wait(1000)
     }
-
     db.set('data.casapariurilor', normalizeData(data)).write()
   } catch (error) {
     console.log(error)
